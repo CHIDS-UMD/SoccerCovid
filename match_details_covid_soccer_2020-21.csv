@@ -1,0 +1,381 @@
+,Unnamed: 0,url,schedule,venue,teamA,teamB,teamA_score,teamB_score,winner_Team,winner_score
+0,0,https://www.skysports.com/football/arsenal-vs-brighton-and-hove-albion/429207,"4:00pm, Sunday 23rd May 2021.",Emirates Stadium,Arsenal,Brighton,2,0,Arsenal,2
+1,1,https://www.skysports.com/football/aston-villa-vs-chelsea/429208,"4:00pm, Sunday 23rd May 2021.",Villa Park,A Villa,Chelsea,2,1,A Villa,2
+2,2,https://www.skysports.com/football/fulham-vs-newcastle-united/429209,"4:00pm, Sunday 23rd May 2021.",Craven Cottage,Fulham,Newcastle,0,2,Newcastle,2
+3,3,https://www.skysports.com/football/leeds-united-vs-west-bromwich-albion/429210,"4:00pm, Sunday 23rd May 2021.",Elland Road,Leeds,W Brom,3,1,Leeds,3
+4,4,https://www.skysports.com/football/leicester-city-vs-tottenham-hotspur/429211,"4:00pm, Sunday 23rd May 2021.",The King Power Stadium,Leicester,Tottenham,2,4,Tottenham,4
+5,5,https://www.skysports.com/football/liverpool-vs-crystal-palace/429212,"4:00pm, Sunday 23rd May 2021.",Anfield,Liverpool,C Palace,2,0,Liverpool,2
+6,6,https://www.skysports.com/football/manchester-city-vs-everton/429213,"4:00pm, Sunday 23rd May 2021.",Etihad Stadium,Man City,Everton,5,0,Man City,5
+7,7,https://www.skysports.com/football/sheffield-united-vs-burnley/429214,"4:00pm, Sunday 23rd May 2021.",Bramall Lane,Sheff Utd,Burnley,1,0,Sheff Utd,1
+8,8,https://www.skysports.com/football/west-ham-united-vs-southampton/429215,"4:00pm, Sunday 23rd May 2021.",London Stadium,West Ham,So'ton,3,0,West Ham,3
+9,9,https://www.skysports.com/football/wolverhampton-wanderers-vs-manchester-united/429216,"4:00pm, Sunday 23rd May 2021.",Molineux,Wolves,Man Utd,1,2,Man Utd,2
+10,10,https://www.skysports.com/football/everton-vs-wolverhampton-wanderers/429201,"6:00pm, Wednesday 19th May 2021.",Goodison Park,Everton,Wolves,1,0,Everton,1
+11,11,https://www.skysports.com/football/newcastle-united-vs-sheffield-united/429203,"6:00pm, Wednesday 19th May 2021.","St James' Park, Newcastle",Newcastle,Sheff Utd,1,0,Newcastle,1
+12,12,https://www.skysports.com/football/tottenham-hotspur-vs-aston-villa/429205,"6:00pm, Wednesday 19th May 2021.",Tottenham Hotspur Stadium,Tottenham,A Villa,1,2,A Villa,2
+13,13,https://www.skysports.com/football/crystal-palace-vs-arsenal/429200,"7:00pm, Wednesday 19th May 2021.",Selhurst Park,C Palace,Arsenal,1,3,Arsenal,3
+14,14,https://www.skysports.com/football/burnley-vs-liverpool/429198,"8:15pm, Wednesday 19th May 2021.",Turf Moor,Burnley,Liverpool,0,3,Liverpool,3
+15,15,https://www.skysports.com/football/west-bromwich-albion-vs-west-ham-united/429206,"8:15pm, Wednesday 19th May 2021.",The Hawthorns,W Brom,West Ham,1,3,West Ham,3
+16,16,https://www.skysports.com/football/manchester-united-vs-fulham/429202,"6:00pm, Tuesday 18th May 2021.",Old Trafford,Man Utd,Fulham,1,1,Fulham,1
+17,17,https://www.skysports.com/football/southampton-vs-leeds-united/429204,"6:00pm, Tuesday 18th May 2021.",St. Mary's Stadium,So'ton,Leeds,0,2,Leeds,2
+18,18,https://www.skysports.com/football/brighton-and-hove-albion-vs-manchester-city/429197,"7:00pm, Tuesday 18th May 2021.",Amex Stadium,Brighton,Man City,3,2,Brighton,3
+19,19,https://www.skysports.com/football/chelsea-vs-leicester-city/429199,"8:15pm, Tuesday 18th May 2021.",Stamford Bridge,Chelsea,Leicester,2,1,Chelsea,2
+20,20,https://www.skysports.com/football/crystal-palace-vs-aston-villa/429193,"12:00pm, Sunday 16th May 2021.",Selhurst Park.,C Palace,A Villa,3,2,C Palace,3
+21,21,https://www.skysports.com/football/tottenham-hotspur-vs-wolverhampton-wanderers/429196,"2:05pm, Sunday 16th May 2021.",Tottenham Hotspur Stadium.,Tottenham,Wolves,2,0,Tottenham,2
+22,22,https://www.skysports.com/football/west-bromwich-albion-vs-liverpool/429191,"4:30pm, Sunday 16th May 2021.",The Hawthorns.,W Brom,Liverpool,1,2,Liverpool,2
+23,23,https://www.skysports.com/football/everton-vs-sheffield-united/429189,"7:00pm, Sunday 16th May 2021.",Goodison Park.,Everton,Sheff Utd,0,1,Sheff Utd,1
+24,24,https://www.skysports.com/football/burnley-vs-leeds-united/429188,"12:30pm, Saturday 15th May 2021.",Turf Moor.,Burnley,Leeds,0,4,Leeds,4
+25,25,https://www.skysports.com/football/southampton-vs-fulham/429195,"3:00pm, Saturday 15th May 2021.",St. Mary's Stadium.,So'ton,Fulham,3,1,So'ton,3
+26,26,https://www.skysports.com/football/brighton-and-hove-albion-vs-west-ham-united/429187,"8:00pm, Saturday 15th May 2021.",Amex Stadium.,Brighton,West Ham,1,1,West Ham,1
+27,27,https://www.skysports.com/football/newcastle-united-vs-manchester-city/429194,"8:00pm, Friday 14th May 2021.","St James' Park, Newcastle.",Newcastle,Man City,3,4,Man City,4
+28,28,https://www.skysports.com/football/aston-villa-vs-everton/429018,"6:00pm, Thursday 13th May 2021.",Villa Park.,A Villa,Everton,0,0,Everton,0
+29,29,https://www.skysports.com/football/manchester-united-vs-liverpool/429172,"8:15pm, Thursday 13th May 2021.",Old Trafford.,Man Utd,Liverpool,2,4,Liverpool,4
+30,30,https://www.skysports.com/football/chelsea-vs-arsenal/429192,"8:15pm, Wednesday 12th May 2021.",Stamford Bridge.,Chelsea,Arsenal,0,1,Arsenal,1
+31,31,https://www.skysports.com/football/manchester-united-vs-leicester-city/429190,"6:00pm, Tuesday 11th May 2021.",Old Trafford.,Man Utd,Leicester,1,2,Leicester,2
+32,32,https://www.skysports.com/football/southampton-vs-crystal-palace/429155,"8:15pm, Tuesday 11th May 2021.",St. Mary's Stadium.,So'ton,C Palace,3,1,So'ton,3
+33,33,https://www.skysports.com/football/fulham-vs-burnley/429179,"8:00pm, Monday 10th May 2021.",Craven Cottage.,Fulham,Burnley,0,2,Burnley,2
+34,34,https://www.skysports.com/football/wolverhampton-wanderers-vs-brighton-and-hove-albion/429186,"12:00pm, Sunday 9th May 2021.",Molineux.,Wolves,Brighton,2,1,Wolves,2
+35,35,https://www.skysports.com/football/aston-villa-vs-manchester-united/429178,"2:05pm, Sunday 9th May 2021.",Villa Park.,A Villa,Man Utd,1,3,Man Utd,3
+36,36,https://www.skysports.com/football/west-ham-united-vs-everton/429185,"4:30pm, Sunday 9th May 2021.",London Stadium.,West Ham,Everton,0,1,Everton,1
+37,37,https://www.skysports.com/football/arsenal-vs-west-bromwich-albion/429177,"7:00pm, Sunday 9th May 2021.",Emirates Stadium.,Arsenal,W Brom,3,1,Arsenal,3
+38,38,https://www.skysports.com/football/leeds-united-vs-tottenham-hotspur/429180,"12:30pm, Saturday 8th May 2021.",Elland Road.,Leeds,Tottenham,3,1,Leeds,3
+39,39,https://www.skysports.com/football/sheffield-united-vs-crystal-palace/429184,"3:00pm, Saturday 8th May 2021.",Bramall Lane.,Sheff Utd,C Palace,0,2,C Palace,2
+40,40,https://www.skysports.com/football/manchester-city-vs-chelsea/429183,"5:30pm, Saturday 8th May 2021.",Etihad Stadium.,Man City,Chelsea,1,2,Chelsea,2
+41,41,https://www.skysports.com/football/liverpool-vs-southampton/429182,"8:15pm, Saturday 8th May 2021.",Anfield.,Liverpool,So'ton,2,0,Liverpool,2
+42,42,https://www.skysports.com/football/leicester-city-vs-newcastle-united/429181,"8:00pm, Friday 7th May 2021.",The King Power Stadium.,Leicester,Newcastle,2,4,Newcastle,4
+43,43,https://www.skysports.com/football/west-bromwich-albion-vs-wolverhampton-wanderers/429176,"6:00pm, Monday 3rd May 2021.",The Hawthorns.,W Brom,Wolves,1,1,Wolves,1
+44,44,https://www.skysports.com/football/burnley-vs-west-ham-united/429168,"8:15pm, Monday 3rd May 2021.",Turf Moor.,Burnley,West Ham,1,2,West Ham,2
+45,45,https://www.skysports.com/football/newcastle-united-vs-arsenal/429173,"2:00pm, Sunday 2nd May 2021.","St James' Park, Newcastle.",Newcastle,Arsenal,0,2,Arsenal,2
+46,46,https://www.skysports.com/football/tottenham-hotspur-vs-sheffield-united/429175,"7:15pm, Sunday 2nd May 2021.",Tottenham Hotspur Stadium.,Tottenham,Sheff Utd,4,0,Tottenham,4
+47,47,https://www.skysports.com/football/crystal-palace-vs-manchester-city/429170,"12:30pm, Saturday 1st May 2021.",Selhurst Park.,C Palace,Man City,0,2,Man City,2
+48,48,https://www.skysports.com/football/brighton-and-hove-albion-vs-leeds-united/429167,"3:00pm, Saturday 1st May 2021.",Amex Stadium.,Brighton,Leeds,2,0,Brighton,2
+49,49,https://www.skysports.com/football/chelsea-vs-fulham/429169,"5:30pm, Saturday 1st May 2021.",Stamford Bridge.,Chelsea,Fulham,2,0,Chelsea,2
+50,50,https://www.skysports.com/football/everton-vs-aston-villa/429171,"8:00pm, Saturday 1st May 2021.",Goodison Park.,Everton,A Villa,1,2,A Villa,2
+51,51,https://www.skysports.com/football/southampton-vs-leicester-city/429174,"8:00pm, Friday 30th April 2021.",St. Mary's Stadium.,So'ton,Leicester,1,1,Leicester,1
+52,52,https://www.skysports.com/football/leicester-city-vs-crystal-palace/429161,"8:00pm, Monday 26th April 2021.",The King Power Stadium.,Leicester,C Palace,2,1,Leicester,2
+53,53,https://www.skysports.com/football/wolverhampton-wanderers-vs-burnley/429166,"12:00pm, Sunday 25th April 2021.",Molineux.,Wolves,Burnley,0,4,Burnley,4
+54,54,https://www.skysports.com/football/leeds-united-vs-manchester-united/429160,"2:00pm, Sunday 25th April 2021.",Elland Road.,Leeds,Man Utd,0,0,Man Utd,0
+55,55,https://www.skysports.com/football/aston-villa-vs-west-bromwich-albion/429158,"7:00pm, Sunday 25th April 2021.",Villa Park.,A Villa,W Brom,2,2,W Brom,2
+56,56,https://www.skysports.com/football/liverpool-vs-newcastle-united/429162,"12:30pm, Saturday 24th April 2021.",Anfield.,Liverpool,Newcastle,1,1,Newcastle,1
+57,57,https://www.skysports.com/football/west-ham-united-vs-chelsea/429165,"5:30pm, Saturday 24th April 2021.",London Stadium.,West Ham,Chelsea,0,1,Chelsea,1
+58,58,https://www.skysports.com/football/sheffield-united-vs-brighton-and-hove-albion/429164,"8:00pm, Saturday 24th April 2021.",Bramall Lane.,Sheff Utd,Brighton,1,0,Sheff Utd,1
+59,59,https://www.skysports.com/football/arsenal-vs-everton/429157,"8:00pm, Friday 23rd April 2021.",Emirates Stadium.,Arsenal,Everton,0,1,Everton,1
+60,60,https://www.skysports.com/football/leicester-city-vs-west-bromwich-albion/429152,"8:00pm, Thursday 22nd April 2021.",The King Power Stadium.,Leicester,W Brom,3,0,Leicester,3
+61,61,https://www.skysports.com/football/tottenham-hotspur-vs-southampton/429124,"6:00pm, Wednesday 21st April 2021.",Tottenham Hotspur Stadium.,Tottenham,So'ton,2,1,Tottenham,2
+62,62,https://www.skysports.com/football/aston-villa-vs-manchester-city/429148,"8:15pm, Wednesday 21st April 2021.",Villa Park.,A Villa,Man City,1,2,Man City,2
+63,63,https://www.skysports.com/football/chelsea-vs-brighton-and-hove-albion/429149,"8:00pm, Tuesday 20th April 2021.",Stamford Bridge.,Chelsea,Brighton,0,0,Brighton,0
+64,64,https://www.skysports.com/football/leeds-united-vs-liverpool/429151,"8:00pm, Monday 19th April 2021.",Elland Road.,Leeds,Liverpool,1,1,Liverpool,1
+65,65,https://www.skysports.com/football/arsenal-vs-fulham/429147,"1:30pm, Sunday 18th April 2021.",Emirates Stadium.,Arsenal,Fulham,1,1,Fulham,1
+66,66,https://www.skysports.com/football/manchester-united-vs-burnley/429153,"4:00pm, Sunday 18th April 2021.",Old Trafford.,Man Utd,Burnley,3,1,Man Utd,3
+67,67,https://www.skysports.com/football/newcastle-united-vs-west-ham-united/429154,"12:30pm, Saturday 17th April 2021.","St James' Park, Newcastle.",Newcastle,West Ham,3,2,Newcastle,3
+68,68,https://www.skysports.com/football/wolverhampton-wanderers-vs-sheffield-united/429156,"8:15pm, Saturday 17th April 2021.",Molineux.,Wolves,Sheff Utd,1,0,Wolves,1
+69,69,https://www.skysports.com/football/everton-vs-tottenham-hotspur/429150,"8:00pm, Friday 16th April 2021.",Goodison Park.,Everton,Tottenham,2,2,Tottenham,2
+70,70,https://www.skysports.com/football/west-bromwich-albion-vs-southampton/429145,"6:00pm, Monday 12th April 2021.",The Hawthorns.,W Brom,So'ton,3,0,W Brom,3
+71,71,https://www.skysports.com/football/brighton-and-hove-albion-vs-everton/429137,"8:15pm, Monday 12th April 2021.",Amex Stadium.,Brighton,Everton,0,0,Everton,0
+72,72,https://www.skysports.com/football/burnley-vs-newcastle-united/429138,"12:00pm, Sunday 11th April 2021.",Turf Moor.,Burnley,Newcastle,1,2,Newcastle,2
+73,73,https://www.skysports.com/football/west-ham-united-vs-leicester-city/429146,"2:05pm, Sunday 11th April 2021.",London Stadium.,West Ham,Leicester,3,2,West Ham,3
+74,74,https://www.skysports.com/football/tottenham-hotspur-vs-manchester-united/429144,"4:30pm, Sunday 11th April 2021.",Tottenham Hotspur Stadium.,Tottenham,Man Utd,1,3,Man Utd,3
+75,75,https://www.skysports.com/football/sheffield-united-vs-arsenal/429143,"7:00pm, Sunday 11th April 2021.",Bramall Lane.,Sheff Utd,Arsenal,0,3,Arsenal,3
+76,76,https://www.skysports.com/football/manchester-city-vs-leeds-united/429142,"12:30pm, Saturday 10th April 2021.",Etihad Stadium.,Man City,Leeds,1,2,Leeds,2
+77,77,https://www.skysports.com/football/liverpool-vs-aston-villa/429141,"3:00pm, Saturday 10th April 2021.",Anfield.,Liverpool,A Villa,2,1,Liverpool,2
+78,78,https://www.skysports.com/football/crystal-palace-vs-chelsea/429139,"5:30pm, Saturday 10th April 2021.",Selhurst Park.,C Palace,Chelsea,1,4,Chelsea,4
+79,79,https://www.skysports.com/football/fulham-vs-wolverhampton-wanderers/429140,"8:00pm, Friday 9th April 2021.",Craven Cottage.,Fulham,Wolves,0,1,Wolves,1
+80,80,https://www.skysports.com/football/everton-vs-crystal-palace/429130,"6:00pm, Monday 5th April 2021.",Goodison Park.,Everton,C Palace,1,1,C Palace,1
+81,81,https://www.skysports.com/football/wolverhampton-wanderers-vs-west-ham-united/429136,"8:15pm, Monday 5th April 2021.",Molineux.,Wolves,West Ham,2,3,West Ham,3
+82,82,https://www.skysports.com/football/southampton-vs-burnley/429135,,,,,,,,
+83,83,https://www.skysports.com/football/newcastle-united-vs-tottenham-hotspur/429134,"2:05pm, Sunday 4th April 2021.","St James' Park, Newcastle.",Newcastle,Tottenham,2,2,Tottenham,2
+84,84,https://www.skysports.com/football/aston-villa-vs-fulham/429128,"4:30pm, Sunday 4th April 2021.",Villa Park.,A Villa,Fulham,3,1,A Villa,3
+85,85,https://www.skysports.com/football/manchester-united-vs-brighton-and-hove-albion/429133,"7:30pm, Sunday 4th April 2021.",Old Trafford.,Man Utd,Brighton,2,1,Man Utd,2
+86,86,https://www.skysports.com/football/chelsea-vs-west-bromwich-albion/429129,"12:30pm, Saturday 3rd April 2021.",Stamford Bridge.,Chelsea,W Brom,2,5,W Brom,5
+87,87,https://www.skysports.com/football/leeds-united-vs-sheffield-united/429131,"3:00pm, Saturday 3rd April 2021.",Elland Road.,Leeds,Sheff Utd,2,1,Leeds,2
+88,88,https://www.skysports.com/football/leicester-city-vs-manchester-city/429132,"5:30pm, Saturday 3rd April 2021.",The King Power Stadium.,Leicester,Man City,0,2,Man City,2
+89,89,https://www.skysports.com/football/arsenal-vs-liverpool/429127,"8:00pm, Saturday 3rd April 2021.",Emirates Stadium.,Arsenal,Liverpool,0,3,Liverpool,3
+90,90,https://www.skysports.com/football/west-ham-united-vs-arsenal/429126,"3:00pm, Sunday 21st March 2021.",London Stadium.,West Ham,Arsenal,3,3,Arsenal,3
+91,91,https://www.skysports.com/football/aston-villa-vs-tottenham-hotspur/429008,"7:30pm, Sunday 21st March 2021.",Villa Park.,A Villa,Tottenham,0,2,Tottenham,2
+92,92,https://www.skysports.com/football/brighton-and-hove-albion-vs-newcastle-united/429117,"8:00pm, Saturday 20th March 2021.",Amex Stadium.,Brighton,Newcastle,3,0,Brighton,3
+93,93,https://www.skysports.com/football/fulham-vs-leeds-united/429120,"8:00pm, Friday 19th March 2021.",Craven Cottage.,Fulham,Leeds,1,2,Leeds,2
+94,94,https://www.skysports.com/football/wolverhampton-wanderers-vs-liverpool/429116,"8:00pm, Monday 15th March 2021.",Molineux.,Wolves,Liverpool,0,1,Liverpool,1
+95,95,https://www.skysports.com/football/southampton-vs-brighton-and-hove-albion/429115,"12:00pm, Sunday 14th March 2021.",St. Mary's Stadium.,So'ton,Brighton,1,2,Brighton,2
+96,96,https://www.skysports.com/football/leicester-city-vs-sheffield-united/429112,"2:00pm, Sunday 14th March 2021.",The King Power Stadium.,Leicester,Sheff Utd,5,0,Leicester,5
+97,97,https://www.skysports.com/football/arsenal-vs-tottenham-hotspur/429107,"4:30pm, Sunday 14th March 2021.",Emirates Stadium.,Arsenal,Tottenham,2,1,Arsenal,2
+98,98,https://www.skysports.com/football/manchester-united-vs-west-ham-united/429113,"7:15pm, Sunday 14th March 2021.",Old Trafford.,Man Utd,West Ham,1,0,Man Utd,1
+99,99,https://www.skysports.com/football/leeds-united-vs-chelsea/429111,"12:30pm, Saturday 13th March 2021.",Elland Road.,Leeds,Chelsea,0,0,Chelsea,0
+100,100,https://www.skysports.com/football/crystal-palace-vs-west-bromwich-albion/429108,"3:00pm, Saturday 13th March 2021.",Selhurst Park.,C Palace,W Brom,1,0,C Palace,1
+101,101,https://www.skysports.com/football/everton-vs-burnley/429109,"5:30pm, Saturday 13th March 2021.",Goodison Park.,Everton,Burnley,1,2,Burnley,2
+102,102,https://www.skysports.com/football/fulham-vs-manchester-city/429110,"8:00pm, Saturday 13th March 2021.",Craven Cottage.,Fulham,Man City,0,3,Man City,3
+103,103,https://www.skysports.com/football/newcastle-united-vs-aston-villa/429114,"8:00pm, Friday 12th March 2021.","St James' Park, Newcastle.",Newcastle,A Villa,1,1,A Villa,1
+104,104,https://www.skysports.com/football/manchester-city-vs-southampton/429163,"6:00pm, Wednesday 10th March 2021.",Etihad Stadium.,Man City,So'ton,5,2,Man City,5
+105,105,https://www.skysports.com/football/chelsea-vs-everton/429100,"6:00pm, Monday 8th March 2021.",Stamford Bridge.,Chelsea,Everton,2,0,Chelsea,2
+106,106,https://www.skysports.com/football/west-ham-united-vs-leeds-united/429106,"8:00pm, Monday 8th March 2021.",London Stadium.,West Ham,Leeds,2,0,West Ham,2
+107,107,https://www.skysports.com/football/west-bromwich-albion-vs-newcastle-united/429105,"12:00pm, Sunday 7th March 2021.",The Hawthorns.,W Brom,Newcastle,0,0,Newcastle,0
+108,108,https://www.skysports.com/football/liverpool-vs-fulham/429101,"2:00pm, Sunday 7th March 2021.",Anfield.,Liverpool,Fulham,0,1,Fulham,1
+109,109,https://www.skysports.com/football/manchester-city-vs-manchester-united/429102,"4:30pm, Sunday 7th March 2021.",Etihad Stadium.,Man City,Man Utd,0,2,Man Utd,2
+110,110,https://www.skysports.com/football/tottenham-hotspur-vs-crystal-palace/429104,"7:15pm, Sunday 7th March 2021.",Tottenham Hotspur Stadium.,Tottenham,C Palace,4,1,Tottenham,4
+111,111,https://www.skysports.com/football/burnley-vs-arsenal/429099,"12:30pm, Saturday 6th March 2021.",Turf Moor.,Burnley,Arsenal,1,1,Arsenal,1
+112,112,https://www.skysports.com/football/sheffield-united-vs-southampton/429103,"3:00pm, Saturday 6th March 2021.",Bramall Lane.,Sheff Utd,So'ton,0,2,So'ton,2
+113,113,https://www.skysports.com/football/aston-villa-vs-wolverhampton-wanderers/429097,"5:30pm, Saturday 6th March 2021.",Villa Park.,A Villa,Wolves,0,0,Wolves,0
+114,114,https://www.skysports.com/football/brighton-and-hove-albion-vs-leicester-city/429098,"8:00pm, Saturday 6th March 2021.",Amex Stadium.,Brighton,Leicester,1,2,Leicester,2
+115,115,https://www.skysports.com/football/fulham-vs-tottenham-hotspur/429159,"6:00pm, Thursday 4th March 2021.",Craven Cottage.,Fulham,Tottenham,0,1,Tottenham,1
+116,116,https://www.skysports.com/football/west-bromwich-albion-vs-everton/429125,"6:00pm, Thursday 4th March 2021.",The Hawthorns.,W Brom,Everton,0,1,Everton,1
+117,117,https://www.skysports.com/football/liverpool-vs-chelsea/429121,"8:15pm, Thursday 4th March 2021.",Anfield.,Liverpool,Chelsea,0,1,Chelsea,1
+118,118,https://www.skysports.com/football/burnley-vs-leicester-city/429118,"6:00pm, Wednesday 3rd March 2021.",Turf Moor.,Burnley,Leicester,1,1,Leicester,1
+119,119,https://www.skysports.com/football/sheffield-united-vs-aston-villa/429123,"6:00pm, Wednesday 3rd March 2021.",Bramall Lane.,Sheff Utd,A Villa,1,0,Sheff Utd,1
+120,120,https://www.skysports.com/football/crystal-palace-vs-manchester-united/429119,"8:15pm, Wednesday 3rd March 2021.",Selhurst Park.,C Palace,Man Utd,0,0,Man Utd,0
+121,121,https://www.skysports.com/football/manchester-city-vs-wolverhampton-wanderers/429122,"8:00pm, Tuesday 2nd March 2021.",Etihad Stadium.,Man City,Wolves,4,1,Man City,4
+122,122,https://www.skysports.com/football/everton-vs-southampton/429089,"8:00pm, Monday 1st March 2021.",Goodison Park.,Everton,So'ton,1,0,Everton,1
+123,123,https://www.skysports.com/football/crystal-palace-vs-fulham/429088,"12:00pm, Sunday 28th February 2021.",Selhurst Park.,C Palace,Fulham,0,0,Fulham,0
+124,124,https://www.skysports.com/football/leicester-city-vs-arsenal/429091,"12:00pm, Sunday 28th February 2021.",The King Power Stadium.,Leicester,Arsenal,1,3,Arsenal,3
+125,125,https://www.skysports.com/football/tottenham-hotspur-vs-burnley/429095,"2:00pm, Sunday 28th February 2021.",Tottenham Hotspur Stadium.,Tottenham,Burnley,4,0,Tottenham,4
+126,126,https://www.skysports.com/football/chelsea-vs-manchester-united/429087,"4:30pm, Sunday 28th February 2021.",Stamford Bridge.,Chelsea,Man Utd,0,0,Man Utd,0
+127,127,https://www.skysports.com/football/sheffield-united-vs-liverpool/429094,"7:15pm, Sunday 28th February 2021.",Bramall Lane.,Sheff Utd,Liverpool,0,2,Liverpool,2
+128,128,https://www.skysports.com/football/manchester-city-vs-west-ham-united/429092,"12:30pm, Saturday 27th February 2021.",Etihad Stadium.,Man City,West Ham,2,1,Man City,2
+129,129,https://www.skysports.com/football/west-bromwich-albion-vs-brighton-and-hove-albion/429096,"3:00pm, Saturday 27th February 2021.",The Hawthorns.,W Brom,Brighton,1,0,W Brom,1
+130,130,https://www.skysports.com/football/leeds-united-vs-aston-villa/429090,"5:30pm, Saturday 27th February 2021.",Elland Road.,Leeds,A Villa,0,1,A Villa,1
+131,131,https://www.skysports.com/football/newcastle-united-vs-wolverhampton-wanderers/429093,"8:00pm, Saturday 27th February 2021.","St James' Park, Newcastle.",Newcastle,Wolves,1,1,Wolves,1
+132,132,https://www.skysports.com/football/leeds-united-vs-southampton/429010,"6:00pm, Tuesday 23rd February 2021.",Elland Road.,Leeds,So'ton,3,0,Leeds,3
+133,133,https://www.skysports.com/football/brighton-and-hove-albion-vs-crystal-palace/429079,"8:00pm, Monday 22nd February 2021.",Amex Stadium.,Brighton,C Palace,1,2,C Palace,2
+134,134,https://www.skysports.com/football/west-ham-united-vs-tottenham-hotspur/429085,"12:00pm, Sunday 21st February 2021.",London Stadium.,West Ham,Tottenham,2,1,West Ham,2
+135,135,https://www.skysports.com/football/aston-villa-vs-leicester-city/429078,"2:05pm, Sunday 21st February 2021.",Villa Park.,A Villa,Leicester,1,2,Leicester,2
+136,136,https://www.skysports.com/football/arsenal-vs-manchester-city/429077,"4:30pm, Sunday 21st February 2021.",Emirates Stadium.,Arsenal,Man City,0,1,Man City,1
+137,137,https://www.skysports.com/football/manchester-united-vs-newcastle-united/429083,"7:00pm, Sunday 21st February 2021.",Old Trafford.,Man Utd,Newcastle,3,1,Man Utd,3
+138,138,https://www.skysports.com/football/southampton-vs-chelsea/429084,"12:30pm, Saturday 20th February 2021.",St. Mary's Stadium.,So'ton,Chelsea,1,1,Chelsea,1
+139,139,https://www.skysports.com/football/burnley-vs-west-bromwich-albion/429080,"3:00pm, Saturday 20th February 2021.",Turf Moor.,Burnley,W Brom,0,0,W Brom,0
+140,140,https://www.skysports.com/football/liverpool-vs-everton/429082,"5:30pm, Saturday 20th February 2021.",Anfield.,Liverpool,Everton,0,2,Everton,2
+141,141,https://www.skysports.com/football/fulham-vs-sheffield-united/429081,"8:00pm, Saturday 20th February 2021.",Craven Cottage.,Fulham,Sheff Utd,1,0,Fulham,1
+142,142,https://www.skysports.com/football/wolverhampton-wanderers-vs-leeds-united/429086,"8:00pm, Friday 19th February 2021.",Molineux.,Wolves,Leeds,1,0,Wolves,1
+143,143,https://www.skysports.com/football/burnley-vs-fulham/428998,"6:00pm, Wednesday 17th February 2021.",Turf Moor.,Burnley,Fulham,1,1,Fulham,1
+144,144,https://www.skysports.com/football/everton-vs-manchester-city/428991,"8:15pm, Wednesday 17th February 2021.",Goodison Park.,Everton,Man City,1,3,Man City,3
+145,145,https://www.skysports.com/football/west-ham-united-vs-sheffield-united/429076,"6:00pm, Monday 15th February 2021.",London Stadium.,West Ham,Sheff Utd,3,0,West Ham,3
+146,146,https://www.skysports.com/football/chelsea-vs-newcastle-united/429069,"8:00pm, Monday 15th February 2021.",Stamford Bridge.,Chelsea,Newcastle,2,0,Chelsea,2
+147,147,https://www.skysports.com/football/southampton-vs-wolverhampton-wanderers/429074,"12:00pm, Sunday 14th February 2021.",St. Mary's Stadium.,So'ton,Wolves,1,2,Wolves,2
+148,148,https://www.skysports.com/football/west-bromwich-albion-vs-manchester-united/429075,"2:00pm, Sunday 14th February 2021.",The Hawthorns.,W Brom,Man Utd,1,1,Man Utd,1
+149,149,https://www.skysports.com/football/arsenal-vs-leeds-united/429067,"4:30pm, Sunday 14th February 2021.",Emirates Stadium.,Arsenal,Leeds,4,2,Arsenal,4
+150,150,https://www.skysports.com/football/everton-vs-fulham/429071,"7:00pm, Sunday 14th February 2021.",Goodison Park.,Everton,Fulham,0,2,Fulham,2
+151,151,https://www.skysports.com/football/leicester-city-vs-liverpool/429072,"12:30pm, Saturday 13th February 2021.",The King Power Stadium.,Leicester,Liverpool,3,1,Leicester,3
+152,152,https://www.skysports.com/football/crystal-palace-vs-burnley/429070,"3:00pm, Saturday 13th February 2021.",Selhurst Park.,C Palace,Burnley,0,3,Burnley,3
+153,153,https://www.skysports.com/football/manchester-city-vs-tottenham-hotspur/429073,"5:30pm, Saturday 13th February 2021.",Etihad Stadium.,Man City,Tottenham,3,0,Man City,3
+154,154,https://www.skysports.com/football/brighton-and-hove-albion-vs-aston-villa/429068,"8:00pm, Saturday 13th February 2021.",Amex Stadium.,Brighton,A Villa,0,0,A Villa,0
+155,155,https://www.skysports.com/football/leeds-united-vs-crystal-palace/429060,"8:00pm, Monday 8th February 2021.",Elland Road.,Leeds,C Palace,2,0,Leeds,2
+156,156,https://www.skysports.com/football/tottenham-hotspur-vs-west-bromwich-albion/429065,"12:00pm, Sunday 7th February 2021.",Tottenham Hotspur Stadium.,Tottenham,W Brom,2,0,Tottenham,2
+157,157,https://www.skysports.com/football/wolverhampton-wanderers-vs-leicester-city/429066,"2:00pm, Sunday 7th February 2021.",Molineux.,Wolves,Leicester,0,0,Leicester,0
+158,158,https://www.skysports.com/football/liverpool-vs-manchester-city/429061,"4:30pm, Sunday 7th February 2021.",Anfield.,Liverpool,Man City,1,4,Man City,4
+159,159,https://www.skysports.com/football/sheffield-united-vs-chelsea/429064,"7:15pm, Sunday 7th February 2021.",Bramall Lane.,Sheff Utd,Chelsea,1,2,Chelsea,2
+160,160,https://www.skysports.com/football/aston-villa-vs-arsenal/429057,"12:30pm, Saturday 6th February 2021.",Villa Park.,A Villa,Arsenal,1,0,A Villa,1
+161,161,https://www.skysports.com/football/burnley-vs-brighton-and-hove-albion/429058,"3:00pm, Saturday 6th February 2021.",Turf Moor.,Burnley,Brighton,1,1,Brighton,1
+162,162,https://www.skysports.com/football/newcastle-united-vs-southampton/429063,"3:00pm, Saturday 6th February 2021.","St James' Park, Newcastle.",Newcastle,So'ton,3,2,Newcastle,3
+163,163,https://www.skysports.com/football/fulham-vs-west-ham-united/429059,"5:30pm, Saturday 6th February 2021.",Craven Cottage.,Fulham,West Ham,0,0,West Ham,0
+164,164,https://www.skysports.com/football/manchester-united-vs-everton/429062,"8:00pm, Saturday 6th February 2021.",Old Trafford.,Man Utd,Everton,3,3,Everton,3
+165,165,https://www.skysports.com/football/tottenham-hotspur-vs-chelsea/429056,"8:00pm, Thursday 4th February 2021.",Tottenham Hotspur Stadium.,Tottenham,Chelsea,0,1,Chelsea,1
+166,166,https://www.skysports.com/football/burnley-vs-manchester-city/429048,"6:00pm, Wednesday 3rd February 2021.",Turf Moor.,Burnley,Man City,0,2,Man City,2
+167,167,https://www.skysports.com/football/fulham-vs-leicester-city/429049,"6:00pm, Wednesday 3rd February 2021.",Craven Cottage.,Fulham,Leicester,0,2,Leicester,2
+168,168,https://www.skysports.com/football/leeds-united-vs-everton/429050,"7:30pm, Wednesday 3rd February 2021.",Elland Road.,Leeds,Everton,1,2,Everton,2
+169,169,https://www.skysports.com/football/aston-villa-vs-west-ham-united/429047,"8:15pm, Wednesday 3rd February 2021.",Villa Park.,A Villa,West Ham,1,3,West Ham,3
+170,170,https://www.skysports.com/football/liverpool-vs-brighton-and-hove-albion/429054,"8:15pm, Wednesday 3rd February 2021.",Anfield.,Liverpool,Brighton,0,1,Brighton,1
+171,171,https://www.skysports.com/football/sheffield-united-vs-west-bromwich-albion/429052,"6:00pm, Tuesday 2nd February 2021.",Bramall Lane.,Sheff Utd,W Brom,2,1,Sheff Utd,2
+172,172,https://www.skysports.com/football/wolverhampton-wanderers-vs-arsenal/429053,"6:00pm, Tuesday 2nd February 2021.",Molineux.,Wolves,Arsenal,2,1,Wolves,2
+173,173,https://www.skysports.com/football/manchester-united-vs-southampton/429051,"8:15pm, Tuesday 2nd February 2021.",Old Trafford.,Man Utd,So'ton,9,0,Man Utd,9
+174,174,https://www.skysports.com/football/newcastle-united-vs-crystal-palace/429055,"8:15pm, Tuesday 2nd February 2021.","St James' Park, Newcastle.",Newcastle,C Palace,1,2,C Palace,2
+175,175,https://www.skysports.com/football/chelsea-vs-burnley/429039,"12:00pm, Sunday 31st January 2021.",Stamford Bridge.,Chelsea,Burnley,2,0,Chelsea,2
+176,176,https://www.skysports.com/football/leicester-city-vs-leeds-united/429042,"2:00pm, Sunday 31st January 2021.",The King Power Stadium.,Leicester,Leeds,1,3,Leeds,3
+177,177,https://www.skysports.com/football/west-ham-united-vs-liverpool/429046,"4:30pm, Sunday 31st January 2021.",London Stadium.,West Ham,Liverpool,1,3,Liverpool,3
+178,178,https://www.skysports.com/football/brighton-and-hove-albion-vs-tottenham-hotspur/429038,"7:15pm, Sunday 31st January 2021.",Amex Stadium.,Brighton,Tottenham,1,0,Brighton,1
+179,179,https://www.skysports.com/football/everton-vs-newcastle-united/429041,"12:30pm, Saturday 30th January 2021.",Goodison Park.,Everton,Newcastle,0,2,Newcastle,2
+180,180,https://www.skysports.com/football/crystal-palace-vs-wolverhampton-wanderers/429040,"3:00pm, Saturday 30th January 2021.",Selhurst Park.,C Palace,Wolves,1,0,C Palace,1
+181,181,https://www.skysports.com/football/manchester-city-vs-sheffield-united/429043,"3:00pm, Saturday 30th January 2021.",Etihad Stadium.,Man City,Sheff Utd,1,0,Man City,1
+182,182,https://www.skysports.com/football/west-bromwich-albion-vs-fulham/429045,"3:00pm, Saturday 30th January 2021.",The Hawthorns.,W Brom,Fulham,2,2,Fulham,2
+183,183,https://www.skysports.com/football/arsenal-vs-manchester-united/429037,"5:30pm, Saturday 30th January 2021.",Emirates Stadium.,Arsenal,Man Utd,0,0,Man Utd,0
+184,184,https://www.skysports.com/football/southampton-vs-aston-villa/429044,"8:00pm, Saturday 30th January 2021.",St. Mary's Stadium.,So'ton,A Villa,0,1,A Villa,1
+185,185,https://www.skysports.com/football/tottenham-hotspur-vs-liverpool/429036,"8:00pm, Thursday 28th January 2021.",Tottenham Hotspur Stadium.,Tottenham,Liverpool,1,3,Liverpool,3
+186,186,https://www.skysports.com/football/burnley-vs-aston-villa/429028,"6:00pm, Wednesday 27th January 2021.",Turf Moor.,Burnley,A Villa,3,2,Burnley,3
+187,187,https://www.skysports.com/football/chelsea-vs-wolverhampton-wanderers/429032,"6:00pm, Wednesday 27th January 2021.",Stamford Bridge.,Chelsea,Wolves,0,0,Wolves,0
+188,188,https://www.skysports.com/football/brighton-and-hove-albion-vs-fulham/429027,"7:30pm, Wednesday 27th January 2021.",Amex Stadium.,Brighton,Fulham,0,0,Fulham,0
+189,189,https://www.skysports.com/football/everton-vs-leicester-city/429029,"8:15pm, Wednesday 27th January 2021.",Goodison Park.,Everton,Leicester,1,1,Leicester,1
+190,190,https://www.skysports.com/football/manchester-united-vs-sheffield-united/429030,"8:15pm, Wednesday 27th January 2021.",Old Trafford.,Man Utd,Sheff Utd,1,2,Sheff Utd,2
+191,191,https://www.skysports.com/football/crystal-palace-vs-west-ham-united/429033,"6:00pm, Tuesday 26th January 2021.",Selhurst Park.,C Palace,West Ham,2,3,West Ham,3
+192,192,https://www.skysports.com/football/newcastle-united-vs-leeds-united/429034,"6:00pm, Tuesday 26th January 2021.","St James' Park, Newcastle.",Newcastle,Leeds,1,2,Leeds,2
+193,193,https://www.skysports.com/football/southampton-vs-arsenal/429035,"8:15pm, Tuesday 26th January 2021.",St. Mary's Stadium.,So'ton,Arsenal,1,3,Arsenal,3
+194,194,https://www.skysports.com/football/west-bromwich-albion-vs-manchester-city/429031,"8:15pm, Tuesday 26th January 2021.",The Hawthorns.,W Brom,Man City,0,5,Man City,5
+195,195,https://www.skysports.com/football/aston-villa-vs-newcastle-united/428937,"8:00pm, Saturday 23rd January 2021.",Villa Park.,A Villa,Newcastle,2,0,A Villa,2
+196,196,https://www.skysports.com/football/liverpool-vs-burnley/429015,"8:00pm, Thursday 21st January 2021.",Anfield.,Liverpool,Burnley,0,1,Burnley,1
+197,197,https://www.skysports.com/football/manchester-city-vs-aston-villa/428841,"6:00pm, Wednesday 20th January 2021.",Etihad Stadium.,Man City,A Villa,2,0,Man City,2
+198,198,https://www.skysports.com/football/fulham-vs-manchester-united/429009,"8:15pm, Wednesday 20th January 2021.",Craven Cottage.,Fulham,Man Utd,1,2,Man Utd,2
+199,199,https://www.skysports.com/football/west-ham-united-vs-west-bromwich-albion/429013,"6:00pm, Tuesday 19th January 2021.",London Stadium.,West Ham,W Brom,2,1,West Ham,2
+200,200,https://www.skysports.com/football/leicester-city-vs-chelsea/429011,"8:15pm, Tuesday 19th January 2021.",The King Power Stadium.,Leicester,Chelsea,2,0,Leicester,2
+201,201,https://www.skysports.com/football/arsenal-vs-newcastle-united/429017,"8:00pm, Monday 18th January 2021.",Emirates Stadium.,Arsenal,Newcastle,3,0,Arsenal,3
+202,202,https://www.skysports.com/football/sheffield-united-vs-tottenham-hotspur/429024,"2:00pm, Sunday 17th January 2021.",Bramall Lane.,Sheff Utd,Tottenham,1,3,Tottenham,3
+203,203,https://www.skysports.com/football/liverpool-vs-manchester-united/429022,"4:30pm, Sunday 17th January 2021.",Anfield.,Liverpool,Man Utd,0,0,Man Utd,0
+204,204,https://www.skysports.com/football/manchester-city-vs-crystal-palace/429023,"7:15pm, Sunday 17th January 2021.",Etihad Stadium.,Man City,C Palace,4,0,Man City,4
+205,205,https://www.skysports.com/football/wolverhampton-wanderers-vs-west-bromwich-albion/429026,"12:30pm, Saturday 16th January 2021.",Molineux.,Wolves,W Brom,2,3,W Brom,3
+206,206,https://www.skysports.com/football/leeds-united-vs-brighton-and-hove-albion/429020,"3:00pm, Saturday 16th January 2021.",Elland Road.,Leeds,Brighton,0,1,Brighton,1
+207,207,https://www.skysports.com/football/west-ham-united-vs-burnley/429025,"3:00pm, Saturday 16th January 2021.",London Stadium.,West Ham,Burnley,1,0,West Ham,1
+208,208,https://www.skysports.com/football/fulham-vs-chelsea/429019,"5:30pm, Saturday 16th January 2021.",Craven Cottage.,Fulham,Chelsea,0,1,Chelsea,1
+209,209,https://www.skysports.com/football/leicester-city-vs-southampton/429021,"8:00pm, Saturday 16th January 2021.",The King Power Stadium.,Leicester,So'ton,2,0,Leicester,2
+210,210,https://www.skysports.com/football/arsenal-vs-crystal-palace/429007,"8:00pm, Thursday 14th January 2021.",Emirates Stadium.,Arsenal,C Palace,0,0,C Palace,0
+211,211,https://www.skysports.com/football/manchester-city-vs-brighton-and-hove-albion/429016,"6:00pm, Wednesday 13th January 2021.",Etihad Stadium.,Man City,Brighton,1,0,Man City,1
+212,212,https://www.skysports.com/football/tottenham-hotspur-vs-fulham/428995,"8:15pm, Wednesday 13th January 2021.",Tottenham Hotspur Stadium.,Tottenham,Fulham,1,1,Fulham,1
+213,213,https://www.skysports.com/football/sheffield-united-vs-newcastle-united/429012,"6:00pm, Tuesday 12th January 2021.",Bramall Lane.,Sheff Utd,Newcastle,1,0,Sheff Utd,1
+214,214,https://www.skysports.com/football/burnley-vs-manchester-united/428837,"8:15pm, Tuesday 12th January 2021.",Turf Moor.,Burnley,Man Utd,0,1,Man Utd,1
+215,215,https://www.skysports.com/football/wolverhampton-wanderers-vs-everton/429014,"8:15pm, Tuesday 12th January 2021.",Molineux.,Wolves,Everton,1,2,Everton,2
+216,216,https://www.skysports.com/football/southampton-vs-liverpool/429004,"8:00pm, Monday 4th January 2021.",St. Mary's Stadium.,So'ton,Liverpool,1,0,So'ton,1
+217,217,https://www.skysports.com/football/newcastle-united-vs-leicester-city/429003,"2:15pm, Sunday 3rd January 2021.","St James' Park, Newcastle.",Newcastle,Leicester,1,2,Leicester,2
+218,218,https://www.skysports.com/football/chelsea-vs-manchester-city/428999,"4:30pm, Sunday 3rd January 2021.",Stamford Bridge.,Chelsea,Man City,1,3,Man City,3
+219,219,https://www.skysports.com/football/tottenham-hotspur-vs-leeds-united/429005,"12:30pm, Saturday 2nd January 2021.",Tottenham Hotspur Stadium.,Tottenham,Leeds,3,0,Tottenham,3
+220,220,https://www.skysports.com/football/crystal-palace-vs-sheffield-united/429000,"3:00pm, Saturday 2nd January 2021.",Selhurst Park.,C Palace,Sheff Utd,2,0,C Palace,2
+221,221,https://www.skysports.com/football/brighton-and-hove-albion-vs-wolverhampton-wanderers/428997,"5:30pm, Saturday 2nd January 2021.",Amex Stadium.,Brighton,Wolves,3,3,Wolves,3
+222,222,https://www.skysports.com/football/west-bromwich-albion-vs-arsenal/429006,"8:00pm, Saturday 2nd January 2021.",The Hawthorns.,W Brom,Arsenal,0,4,Arsenal,4
+223,223,https://www.skysports.com/football/everton-vs-west-ham-united/429001,"5:30pm, Friday 1st January 2021.",Goodison Park.,Everton,West Ham,0,1,West Ham,1
+224,224,https://www.skysports.com/football/manchester-united-vs-aston-villa/429002,"8:00pm, Friday 1st January 2021.",Old Trafford.,Man Utd,A Villa,2,1,Man Utd,2
+225,225,https://www.skysports.com/football/newcastle-united-vs-liverpool/428993,"8:00pm, Wednesday 30th December 2020.","St James' Park, Newcastle.",Newcastle,Liverpool,0,0,Liverpool,0
+226,226,https://www.skysports.com/football/brighton-and-hove-albion-vs-arsenal/428987,"6:00pm, Tuesday 29th December 2020.",Amex Stadium.,Brighton,Arsenal,0,1,Arsenal,1
+227,227,https://www.skysports.com/football/burnley-vs-sheffield-united/428988,"6:00pm, Tuesday 29th December 2020.",Turf Moor.,Burnley,Sheff Utd,1,0,Burnley,1
+228,228,https://www.skysports.com/football/southampton-vs-west-ham-united/428994,"6:00pm, Tuesday 29th December 2020.",St. Mary's Stadium.,So'ton,West Ham,0,0,West Ham,0
+229,229,https://www.skysports.com/football/west-bromwich-albion-vs-leeds-united/428996,"6:00pm, Tuesday 29th December 2020.",The Hawthorns.,W Brom,Leeds,0,5,Leeds,5
+230,230,https://www.skysports.com/football/manchester-united-vs-wolverhampton-wanderers/428992,"8:00pm, Tuesday 29th December 2020.",Old Trafford.,Man Utd,Wolves,1,0,Man Utd,1
+231,231,https://www.skysports.com/football/crystal-palace-vs-leicester-city/428990,"3:00pm, Monday 28th December 2020.",Selhurst Park.,,,,,,
+232,232,https://www.skysports.com/football/chelsea-vs-aston-villa/428989,"5:30pm, Monday 28th December 2020.",Stamford Bridge.,Chelsea,A Villa,1,1,A Villa,1
+233,233,https://www.skysports.com/football/leeds-united-vs-burnley/428980,"12:00pm, Sunday 27th December 2020.",Elland Road.,Leeds,Burnley,1,0,Leeds,1
+234,234,https://www.skysports.com/football/west-ham-united-vs-brighton-and-hove-albion/428985,"2:15pm, Sunday 27th December 2020.",London Stadium.,West Ham,Brighton,2,2,Brighton,2
+235,235,https://www.skysports.com/football/liverpool-vs-west-bromwich-albion/428982,"4:30pm, Sunday 27th December 2020.",Anfield,Liverpool,W Brom,1,1,W Brom,1
+236,236,https://www.skysports.com/football/wolverhampton-wanderers-vs-tottenham-hotspur/428986,"7:15pm, Sunday 27th December 2020.",Molineux.,Wolves,Tottenham,1,1,Tottenham,1
+237,237,https://www.skysports.com/football/leicester-city-vs-manchester-united/428981,"12:30pm, Saturday 26th December 2020.",The King Power Stadium.,Leicester,Man Utd,2,2,Man Utd,2
+238,238,https://www.skysports.com/football/aston-villa-vs-crystal-palace/428978,"3:00pm, Saturday 26th December 2020.",Villa Park.,A Villa,C Palace,3,0,A Villa,3
+239,239,https://www.skysports.com/football/fulham-vs-southampton/428979,"3:00pm, Saturday 26th December 2020.",Craven Cottage.,Fulham,So'ton,0,0,So'ton,0
+240,240,https://www.skysports.com/football/arsenal-vs-chelsea/428977,"5:30pm, Saturday 26th December 2020.",Emirates Stadium.,Arsenal,Chelsea,3,1,Arsenal,3
+241,241,https://www.skysports.com/football/manchester-city-vs-newcastle-united/428983,"8:00pm, Saturday 26th December 2020.",Etihad Stadium.,Man City,Newcastle,2,0,Man City,2
+242,242,https://www.skysports.com/football/sheffield-united-vs-everton/428984,"8:00pm, Saturday 26th December 2020.",Bramall Lane.,Sheff Utd,Everton,0,1,Everton,1
+243,243,https://www.skysports.com/football/burnley-vs-wolverhampton-wanderers/428968,"5:30pm, Monday 21st December 2020.",Turf Moor.,Burnley,Wolves,2,1,Burnley,2
+244,244,https://www.skysports.com/football/chelsea-vs-west-ham-united/428969,"8:00pm, Monday 21st December 2020.",Stamford Bridge.,Chelsea,West Ham,3,0,Chelsea,3
+245,245,https://www.skysports.com/football/brighton-and-hove-albion-vs-sheffield-united/428967,"12:00pm, Sunday 20th December 2020.",Amex Stadium.,Brighton,Sheff Utd,1,1,Sheff Utd,1
+246,246,https://www.skysports.com/football/tottenham-hotspur-vs-leicester-city/428975,"2:15pm, Sunday 20th December 2020.",Tottenham Hotspur Stadium.,Tottenham,Leicester,0,2,Leicester,2
+247,247,https://www.skysports.com/football/manchester-united-vs-leeds-united/428972,"4:30pm, Sunday 20th December 2020.",Old Trafford.,Man Utd,Leeds,6,2,Man Utd,6
+248,248,https://www.skysports.com/football/west-bromwich-albion-vs-aston-villa/428976,"7:15pm, Sunday 20th December 2020.",The Hawthorns.,W Brom,A Villa,0,3,A Villa,3
+249,249,https://www.skysports.com/football/crystal-palace-vs-liverpool/428970,"12:30pm, Saturday 19th December 2020.",Selhurst Park.,C Palace,Liverpool,0,7,Liverpool,7
+250,250,https://www.skysports.com/football/southampton-vs-manchester-city/428974,"3:00pm, Saturday 19th December 2020.",St. Mary's Stadium,So'ton,Man City,0,1,Man City,1
+251,251,https://www.skysports.com/football/everton-vs-arsenal/428971,"5:30pm, Saturday 19th December 2020.",Goodison Park,Everton,Arsenal,2,1,Everton,2
+252,252,https://www.skysports.com/football/newcastle-united-vs-fulham/428973,"8:00pm, Saturday 19th December 2020.","St James' Park, Newcastle.",Newcastle,Fulham,1,1,Fulham,1
+253,253,https://www.skysports.com/football/aston-villa-vs-burnley/428958,"6:00pm, Thursday 17th December 2020.",Villa Park.,A Villa,Burnley,0,0,Burnley,0
+254,254,https://www.skysports.com/football/sheffield-united-vs-manchester-united/428962,"8:00pm, Thursday 17th December 2020.",Bramall Lane.,Sheff Utd,Man Utd,2,3,Man Utd,3
+255,255,https://www.skysports.com/football/arsenal-vs-southampton/428957,"6:00pm, Wednesday 16th December 2020.",Emirates Stadium.,Arsenal,So'ton,1,1,So'ton,1
+256,256,https://www.skysports.com/football/leeds-united-vs-newcastle-united/428960,"6:00pm, Wednesday 16th December 2020.",Elland Road.,Leeds,Newcastle,5,2,Leeds,5
+257,257,https://www.skysports.com/football/leicester-city-vs-everton/428961,"6:00pm, Wednesday 16th December 2020.",The King Power Stadium.,Leicester,Everton,0,2,Everton,2
+258,258,https://www.skysports.com/football/fulham-vs-brighton-and-hove-albion/428959,"8:00pm, Wednesday 16th December 2020.",Craven Cottage.,Fulham,Brighton,0,0,Brighton,0
+259,259,https://www.skysports.com/football/liverpool-vs-tottenham-hotspur/428965,"8:00pm, Wednesday 16th December 2020.",Anfield,Liverpool,Tottenham,2,1,Liverpool,2
+260,260,https://www.skysports.com/football/west-ham-united-vs-crystal-palace/428963,"8:00pm, Wednesday 16th December 2020.",London Stadium.,West Ham,C Palace,1,1,C Palace,1
+261,261,https://www.skysports.com/football/wolverhampton-wanderers-vs-chelsea/428964,"6:00pm, Tuesday 15th December 2020.",Molineux.,Wolves,Chelsea,2,1,Wolves,2
+262,262,https://www.skysports.com/football/manchester-city-vs-west-bromwich-albion/428966,"8:00pm, Tuesday 15th December 2020.",Etihad Stadium.,Man City,W Brom,1,1,W Brom,1
+263,263,https://www.skysports.com/football/southampton-vs-sheffield-united/428955,"12:00pm, Sunday 13th December 2020.",St. Mary's Stadium,So'ton,Sheff Utd,3,0,So'ton,3
+264,264,https://www.skysports.com/football/crystal-palace-vs-tottenham-hotspur/428948,"2:15pm, Sunday 13th December 2020.",Selhurst Park,C Palace,Tottenham,1,1,Tottenham,1
+265,265,https://www.skysports.com/football/fulham-vs-liverpool/428950,"4:30pm, Sunday 13th December 2020.",Craven Cottage.,Fulham,Liverpool,1,1,Liverpool,1
+266,266,https://www.skysports.com/football/arsenal-vs-burnley/428947,"7:15pm, Sunday 13th December 2020.",Emirates Stadium.,Arsenal,Burnley,0,1,Burnley,1
+267,267,https://www.skysports.com/football/leicester-city-vs-brighton-and-hove-albion/428952,"7:15pm, Sunday 13th December 2020.",The King Power Stadium.,Leicester,Brighton,3,0,Leicester,3
+268,268,https://www.skysports.com/football/wolverhampton-wanderers-vs-aston-villa/428956,"12:30pm, Saturday 12th December 2020.",Molineux.,Wolves,A Villa,0,1,A Villa,1
+269,269,https://www.skysports.com/football/newcastle-united-vs-west-bromwich-albion/428954,"3:00pm, Saturday 12th December 2020.","St James' Park, Newcastle.",Newcastle,W Brom,2,1,Newcastle,2
+270,270,https://www.skysports.com/football/manchester-united-vs-manchester-city/428953,"5:30pm, Saturday 12th December 2020.",Old Trafford.,Man Utd,Man City,0,0,Man City,0
+271,271,https://www.skysports.com/football/everton-vs-chelsea/428949,"8:00pm, Saturday 12th December 2020.",Goodison Park,Everton,Chelsea,1,0,Everton,1
+272,272,https://www.skysports.com/football/leeds-united-vs-west-ham-united/428951,"8:00pm, Friday 11th December 2020.",Elland Road.,Leeds,West Ham,1,2,West Ham,2
+273,273,https://www.skysports.com/football/brighton-and-hove-albion-vs-southampton/428938,"8:00pm, Monday 7th December 2020.",Amex Stadium,Brighton,So'ton,1,2,So'ton,2
+274,274,https://www.skysports.com/football/west-bromwich-albion-vs-crystal-palace/428945,"12:00pm, Sunday 6th December 2020.",The Hawthorns.,W Brom,C Palace,1,5,C Palace,5
+275,275,https://www.skysports.com/football/sheffield-united-vs-leicester-city/428943,"2:15pm, Sunday 6th December 2020.",Bramall Lane.,Sheff Utd,Leicester,1,2,Leicester,2
+276,276,https://www.skysports.com/football/tottenham-hotspur-vs-arsenal/428944,"4:30pm, Sunday 6th December 2020.",Tottenham Hotspur Stadium,Tottenham,Arsenal,2,0,Tottenham,2
+277,277,https://www.skysports.com/football/liverpool-vs-wolverhampton-wanderers/428941,"7:15pm, Sunday 6th December 2020.",Anfield,Liverpool,Wolves,4,0,Liverpool,4
+278,278,https://www.skysports.com/football/burnley-vs-everton/428939,"12:30pm, Saturday 5th December 2020.",Turf Moor.,Burnley,Everton,1,1,Everton,1
+279,279,https://www.skysports.com/football/manchester-city-vs-fulham/428942,"3:00pm, Saturday 5th December 2020.",Etihad Stadium.,Man City,Fulham,2,0,Man City,2
+280,280,https://www.skysports.com/football/west-ham-united-vs-manchester-united/428946,"5:30pm, Saturday 5th December 2020.",London Stadium,West Ham,Man Utd,1,3,Man Utd,3
+281,281,https://www.skysports.com/football/chelsea-vs-leeds-united/428940,"8:00pm, Saturday 5th December 2020.",Stamford Bridge.,Chelsea,Leeds,3,1,Chelsea,3
+282,282,https://www.skysports.com/football/leicester-city-vs-fulham/428932,"5:30pm, Monday 30th November 2020.",The King Power Stadium.,Leicester,Fulham,1,2,Fulham,2
+283,283,https://www.skysports.com/football/west-ham-united-vs-aston-villa/428936,"8:00pm, Monday 30th November 2020.",London Stadium.,West Ham,A Villa,2,1,West Ham,2
+284,284,https://www.skysports.com/football/southampton-vs-manchester-united/428934,"2:00pm, Sunday 29th November 2020.",St. Mary's Stadium.,So'ton,Man Utd,2,3,Man Utd,3
+285,285,https://www.skysports.com/football/chelsea-vs-tottenham-hotspur/428929,"4:30pm, Sunday 29th November 2020.",Stamford Bridge.,Chelsea,Tottenham,0,0,Tottenham,0
+286,286,https://www.skysports.com/football/arsenal-vs-wolverhampton-wanderers/428927,"7:15pm, Sunday 29th November 2020.",Emirates Stadium.,Arsenal,Wolves,1,2,Wolves,2
+287,287,https://www.skysports.com/football/brighton-and-hove-albion-vs-liverpool/428928,"12:30pm, Saturday 28th November 2020.",Amex Stadium.,Brighton,Liverpool,1,1,Liverpool,1
+288,288,https://www.skysports.com/football/manchester-city-vs-burnley/428933,"3:00pm, Saturday 28th November 2020.",Etihad Stadium.,Man City,Burnley,5,0,Man City,5
+289,289,https://www.skysports.com/football/everton-vs-leeds-united/428931,"5:30pm, Saturday 28th November 2020.",Goodison Park.,Everton,Leeds,0,1,Leeds,1
+290,290,https://www.skysports.com/football/west-bromwich-albion-vs-sheffield-united/428935,"8:00pm, Saturday 28th November 2020.",The Hawthorns.,W Brom,Sheff Utd,1,0,W Brom,1
+291,291,https://www.skysports.com/football/crystal-palace-vs-newcastle-united/428930,"8:00pm, Friday 27th November 2020.",Selhurst Park.,C Palace,Newcastle,0,2,Newcastle,2
+292,292,https://www.skysports.com/football/burnley-vs-crystal-palace/428918,"5:30pm, Monday 23rd November 2020.",Turf Moor.,Burnley,C Palace,1,0,Burnley,1
+293,293,https://www.skysports.com/football/wolverhampton-wanderers-vs-southampton/428926,"8:00pm, Monday 23rd November 2020.",Molineux.,Wolves,So'ton,1,1,So'ton,1
+294,294,https://www.skysports.com/football/fulham-vs-everton/428919,"12:00pm, Sunday 22nd November 2020.",Craven Cottage.,Fulham,Everton,2,3,Everton,3
+295,295,https://www.skysports.com/football/sheffield-united-vs-west-ham-united/428924,"2:00pm, Sunday 22nd November 2020.",Bramall Lane.,Sheff Utd,West Ham,0,1,West Ham,1
+296,296,https://www.skysports.com/football/leeds-united-vs-arsenal/428920,"4:30pm, Sunday 22nd November 2020.",Elland Road.,Leeds,Arsenal,0,0,Arsenal,0
+297,297,https://www.skysports.com/football/liverpool-vs-leicester-city/428921,"7:15pm, Sunday 22nd November 2020.",Anfield.,Liverpool,Leicester,3,0,Liverpool,3
+298,298,https://www.skysports.com/football/newcastle-united-vs-chelsea/428923,"12:30pm, Saturday 21st November 2020.","St James' Park, Newcastle.",Newcastle,Chelsea,0,2,Chelsea,2
+299,299,https://www.skysports.com/football/aston-villa-vs-brighton-and-hove-albion/428917,,,,,,,,
+300,300,https://www.skysports.com/football/tottenham-hotspur-vs-manchester-city/428925,"5:30pm, Saturday 21st November 2020.",Tottenham Hotspur Stadium.,Tottenham,Man City,2,0,Tottenham,2
+301,301,https://www.skysports.com/football/manchester-united-vs-west-bromwich-albion/428922,"8:00pm, Saturday 21st November 2020.",Old Trafford.,Man Utd,W Brom,1,0,Man Utd,1
+302,302,https://www.skysports.com/football/west-bromwich-albion-vs-tottenham-hotspur/428915,"12:00pm, Sunday 8th November 2020.",The Hawthorns.,W Brom,Tottenham,0,1,Tottenham,1
+303,303,https://www.skysports.com/football/leicester-city-vs-wolverhampton-wanderers/428912,"2:00pm, Sunday 8th November 2020.",The King Power Stadium.,Leicester,Wolves,1,0,Leicester,1
+304,304,https://www.skysports.com/football/manchester-city-vs-liverpool/428913,"4:30pm, Sunday 8th November 2020.",Etihad Stadium.,Man City,Liverpool,1,1,Liverpool,1
+305,305,https://www.skysports.com/football/arsenal-vs-aston-villa/428907,"7:15pm, Sunday 8th November 2020.",Emirates Stadium.,Arsenal,A Villa,0,3,A Villa,3
+306,306,https://www.skysports.com/football/everton-vs-manchester-united/428911,"12:30pm, Saturday 7th November 2020.",Goodison Park.,Everton,Man Utd,1,3,Man Utd,3
+307,307,https://www.skysports.com/football/crystal-palace-vs-leeds-united/428910,"3:00pm, Saturday 7th November 2020.",Selhurst Park.,C Palace,Leeds,4,1,C Palace,4
+308,308,https://www.skysports.com/football/chelsea-vs-sheffield-united/428909,"5:30pm, Saturday 7th November 2020.",Stamford Bridge.,Chelsea,Sheff Utd,4,1,Chelsea,4
+309,309,https://www.skysports.com/football/west-ham-united-vs-fulham/428916,"8:00pm, Saturday 7th November 2020.",London Stadium.,West Ham,Fulham,1,0,West Ham,1
+310,310,https://www.skysports.com/football/brighton-and-hove-albion-vs-burnley/428908,"5:30pm, Friday 6th November 2020.",Amex Stadium.,Brighton,Burnley,0,0,Burnley,0
+311,311,https://www.skysports.com/football/southampton-vs-newcastle-united/428914,"8:00pm, Friday 6th November 2020.",St. Mary's Stadium.,So'ton,Newcastle,2,0,So'ton,2
+312,312,https://www.skysports.com/football/fulham-vs-west-bromwich-albion/428899,"5:30pm, Monday 2nd November 2020.",Craven Cottage.,Fulham,W Brom,2,0,Fulham,2
+313,313,https://www.skysports.com/football/leeds-united-vs-leicester-city/428900,"8:00pm, Monday 2nd November 2020.",Elland Road.,Leeds,Leicester,1,4,Leicester,4
+314,314,https://www.skysports.com/football/aston-villa-vs-southampton/428897,"12:00pm, Sunday 1st November 2020.",Villa Park.,A Villa,So'ton,3,4,So'ton,4
+315,315,https://www.skysports.com/football/newcastle-united-vs-everton/428903,"2:00pm, Sunday 1st November 2020.","St James' Park, Newcastle.",Newcastle,Everton,2,1,Newcastle,2
+316,316,https://www.skysports.com/football/manchester-united-vs-arsenal/428902,"4:30pm, Sunday 1st November 2020.",Old Trafford.,Man Utd,Arsenal,0,1,Arsenal,1
+317,317,https://www.skysports.com/football/tottenham-hotspur-vs-brighton-and-hove-albion/428905,"7:15pm, Sunday 1st November 2020.",Tottenham Hotspur Stadium.,Tottenham,Brighton,2,1,Tottenham,2
+318,318,https://www.skysports.com/football/sheffield-united-vs-manchester-city/428904,"12:30pm, Saturday 31st October 2020.",Bramall Lane.,Sheff Utd,Man City,0,1,Man City,1
+319,319,https://www.skysports.com/football/burnley-vs-chelsea/428898,"3:00pm, Saturday 31st October 2020.",Turf Moor.,Burnley,Chelsea,0,3,Chelsea,3
+320,320,https://www.skysports.com/football/liverpool-vs-west-ham-united/428901,"5:30pm, Saturday 31st October 2020.",Anfield.,Liverpool,West Ham,2,1,Liverpool,2
+321,321,https://www.skysports.com/football/wolverhampton-wanderers-vs-crystal-palace/428906,"8:00pm, Friday 30th October 2020.",Molineux.,Wolves,C Palace,2,0,Wolves,2
+322,322,https://www.skysports.com/football/brighton-and-hove-albion-vs-west-bromwich-albion/428889,"5:30pm, Monday 26th October 2020.",Amex Stadium.,Brighton,W Brom,1,1,W Brom,1
+323,323,https://www.skysports.com/football/burnley-vs-tottenham-hotspur/428890,"8:00pm, Monday 26th October 2020.",Turf Moor.,Burnley,Tottenham,0,1,Tottenham,1
+324,324,https://www.skysports.com/football/southampton-vs-everton/428894,"2:00pm, Sunday 25th October 2020.",St. Mary's Stadium.,So'ton,Everton,2,0,So'ton,2
+325,325,https://www.skysports.com/football/wolverhampton-wanderers-vs-newcastle-united/428896,"4:30pm, Sunday 25th October 2020.",Molineux.,Wolves,Newcastle,1,1,Newcastle,1
+326,326,https://www.skysports.com/football/arsenal-vs-leicester-city/428887,"7:15pm, Sunday 25th October 2020.",Emirates Stadium.,Arsenal,Leicester,0,1,Leicester,1
+327,327,https://www.skysports.com/football/west-ham-united-vs-manchester-city/428895,"12:30pm, Saturday 24th October 2020.",London Stadium.,West Ham,Man City,1,1,Man City,1
+328,328,https://www.skysports.com/football/fulham-vs-crystal-palace/428891,"3:00pm, Saturday 24th October 2020.",Craven Cottage.,Fulham,C Palace,1,2,C Palace,2
+329,329,https://www.skysports.com/football/manchester-united-vs-chelsea/428893,"5:30pm, Saturday 24th October 2020.",Old Trafford.,Man Utd,Chelsea,0,0,Chelsea,0
+330,330,https://www.skysports.com/football/liverpool-vs-sheffield-united/428892,"8:00pm, Saturday 24th October 2020.",Anfield.,Liverpool,Sheff Utd,2,1,Liverpool,2
+331,331,https://www.skysports.com/football/aston-villa-vs-leeds-united/428888,"8:00pm, Friday 23rd October 2020.",Villa Park.,A Villa,Leeds,0,3,Leeds,3
+332,332,https://www.skysports.com/football/west-bromwich-albion-vs-burnley/428886,"5:30pm, Monday 19th October 2020.",The Hawthorns.,W Brom,Burnley,0,0,Burnley,0
+333,333,https://www.skysports.com/football/leeds-united-vs-wolverhampton-wanderers/428880,"8:00pm, Monday 19th October 2020.",Elland Road.,Leeds,Wolves,0,1,Wolves,1
+334,334,https://www.skysports.com/football/sheffield-united-vs-fulham/428884,"12:00pm, Sunday 18th October 2020.",Bramall Lane.,Sheff Utd,Fulham,1,1,Fulham,1
+335,335,https://www.skysports.com/football/crystal-palace-vs-brighton-and-hove-albion/428878,"2:00pm, Sunday 18th October 2020.",Selhurst Park.,C Palace,Brighton,1,1,Brighton,1
+336,336,https://www.skysports.com/football/tottenham-hotspur-vs-west-ham-united/428885,"4:30pm, Sunday 18th October 2020.",Tottenham Hotspur Stadium.,Tottenham,West Ham,3,3,West Ham,3
+337,337,https://www.skysports.com/football/leicester-city-vs-aston-villa/428881,"7:15pm, Sunday 18th October 2020.",The King Power Stadium.,Leicester,A Villa,0,1,A Villa,1
+338,338,https://www.skysports.com/football/everton-vs-liverpool/428879,"12:30pm, Saturday 17th October 2020.",Goodison Park.,Everton,Liverpool,2,2,Liverpool,2
+339,339,https://www.skysports.com/football/chelsea-vs-southampton/428877,"3:00pm, Saturday 17th October 2020.",Stamford Bridge.,Chelsea,So'ton,3,3,So'ton,3
+340,340,https://www.skysports.com/football/manchester-city-vs-arsenal/428882,"5:30pm, Saturday 17th October 2020.",Etihad Stadium.,Man City,Arsenal,1,0,Man City,1
+341,341,https://www.skysports.com/football/newcastle-united-vs-manchester-united/428883,"8:00pm, Saturday 17th October 2020.","St James' Park, Newcastle.",Newcastle,Man Utd,1,4,Man Utd,4
+342,342,https://www.skysports.com/football/leicester-city-vs-west-ham-united/428872,"12:00pm, Sunday 4th October 2020.",The King Power Stadium.,Leicester,West Ham,0,3,West Ham,3
+343,343,https://www.skysports.com/football/southampton-vs-west-bromwich-albion/428875,"12:00pm, Sunday 4th October 2020.",St. Mary's Stadium.,So'ton,W Brom,2,0,So'ton,2
+344,344,https://www.skysports.com/football/arsenal-vs-sheffield-united/428867,"2:00pm, Sunday 4th October 2020.",Emirates Stadium.,Arsenal,Sheff Utd,2,1,Arsenal,2
+345,345,https://www.skysports.com/football/wolverhampton-wanderers-vs-fulham/428876,"2:00pm, Sunday 4th October 2020.",Molineux.,Wolves,Fulham,1,0,Wolves,1
+346,346,https://www.skysports.com/football/manchester-united-vs-tottenham-hotspur/428873,"4:30pm, Sunday 4th October 2020.",Old Trafford.,Man Utd,Tottenham,1,6,Tottenham,6
+347,347,https://www.skysports.com/football/aston-villa-vs-liverpool/428868,"7:15pm, Sunday 4th October 2020.",Villa Park.,A Villa,Liverpool,7,2,A Villa,7
+348,348,https://www.skysports.com/football/chelsea-vs-crystal-palace/428869,"12:30pm, Saturday 3rd October 2020.",Stamford Bridge.,Chelsea,C Palace,4,0,Chelsea,4
+349,349,https://www.skysports.com/football/everton-vs-brighton-and-hove-albion/428870,"3:00pm, Saturday 3rd October 2020.",Goodison Park.,Everton,Brighton,4,2,Everton,4
+350,350,https://www.skysports.com/football/leeds-united-vs-manchester-city/428871,"5:30pm, Saturday 3rd October 2020.",Elland Road.,Leeds,Man City,1,1,Man City,1
+351,351,https://www.skysports.com/football/newcastle-united-vs-burnley/428874,"8:00pm, Saturday 3rd October 2020.","St James' Park, Newcastle.",Newcastle,Burnley,3,1,Newcastle,3
+352,352,https://www.skysports.com/football/fulham-vs-aston-villa/428860,"5:45pm, Monday 28th September 2020.",Craven Cottage.,Fulham,A Villa,0,3,A Villa,3
+353,353,https://www.skysports.com/football/liverpool-vs-arsenal/428861,"8:00pm, Monday 28th September 2020.",Anfield.,Liverpool,Arsenal,3,1,Liverpool,3
+354,354,https://www.skysports.com/football/sheffield-united-vs-leeds-united/428863,"12:00pm, Sunday 27th September 2020.",Bramall Lane.,Sheff Utd,Leeds,0,1,Leeds,1
+355,355,https://www.skysports.com/football/tottenham-hotspur-vs-newcastle-united/428864,"2:00pm, Sunday 27th September 2020.",Tottenham Hotspur Stadium.,Tottenham,Newcastle,1,1,Newcastle,1
+356,356,https://www.skysports.com/football/manchester-city-vs-leicester-city/428862,"4:30pm, Sunday 27th September 2020.",Etihad Stadium.,Man City,Leicester,2,5,Leicester,5
+357,357,https://www.skysports.com/football/west-ham-united-vs-wolverhampton-wanderers/428866,"7:00pm, Sunday 27th September 2020.",London Stadium.,West Ham,Wolves,4,0,West Ham,4
+358,358,https://www.skysports.com/football/brighton-and-hove-albion-vs-manchester-united/428857,"12:30pm, Saturday 26th September 2020.",Amex Stadium.,Brighton,Man Utd,2,3,Man Utd,3
+359,359,https://www.skysports.com/football/crystal-palace-vs-everton/428859,"3:00pm, Saturday 26th September 2020.",Selhurst Park.,C Palace,Everton,1,2,Everton,2
+360,360,https://www.skysports.com/football/west-bromwich-albion-vs-chelsea/428865,"5:30pm, Saturday 26th September 2020.",The Hawthorns.,W Brom,Chelsea,3,3,Chelsea,3
+361,361,https://www.skysports.com/football/burnley-vs-southampton/428858,"8:00pm, Saturday 26th September 2020.",Turf Moor.,Burnley,So'ton,0,1,So'ton,1
+362,362,https://www.skysports.com/football/aston-villa-vs-sheffield-united/428848,"6:00pm, Monday 21st September 2020.",Villa Park.,A Villa,Sheff Utd,1,0,A Villa,1
+363,363,https://www.skysports.com/football/wolverhampton-wanderers-vs-manchester-city/428856,"8:15pm, Monday 21st September 2020.",Molineux.,Wolves,Man City,1,3,Man City,3
+364,364,https://www.skysports.com/football/southampton-vs-tottenham-hotspur/428855,"12:00pm, Sunday 20th September 2020.",St. Mary's Stadium.,So'ton,Tottenham,2,5,Tottenham,5
+365,365,https://www.skysports.com/football/newcastle-united-vs-brighton-and-hove-albion/428854,"2:00pm, Sunday 20th September 2020.","St James' Park, Newcastle.",Newcastle,Brighton,0,3,Brighton,3
+366,366,https://www.skysports.com/football/chelsea-vs-liverpool/428849,"4:30pm, Sunday 20th September 2020.",Stamford Bridge.,Chelsea,Liverpool,0,2,Liverpool,2
+367,367,https://www.skysports.com/football/leicester-city-vs-burnley/428852,"7:00pm, Sunday 20th September 2020.",The King Power Stadium.,Leicester,Burnley,4,2,Leicester,4
+368,368,https://www.skysports.com/football/everton-vs-west-bromwich-albion/428850,"12:30pm, Saturday 19th September 2020.",Goodison Park.,Everton,W Brom,5,2,Everton,5
+369,369,https://www.skysports.com/football/leeds-united-vs-fulham/428851,"3:00pm, Saturday 19th September 2020.",Elland Road.,Leeds,Fulham,4,3,Leeds,4
+370,370,https://www.skysports.com/football/manchester-united-vs-crystal-palace/428853,"5:30pm, Saturday 19th September 2020.",Old Trafford.,Man Utd,C Palace,1,3,C Palace,3
+371,371,https://www.skysports.com/football/arsenal-vs-west-ham-united/428847,"8:00pm, Saturday 19th September 2020.",Emirates Stadium.,Arsenal,West Ham,2,1,Arsenal,2
+372,372,https://www.skysports.com/football/sheffield-united-vs-wolverhampton-wanderers/428846,"6:00pm, Monday 14th September 2020.",Bramall Lane.,Sheff Utd,Wolves,0,2,Wolves,2
+373,373,https://www.skysports.com/football/brighton-and-hove-albion-vs-chelsea/428845,"8:15pm, Monday 14th September 2020.",Amex Stadium.,Brighton,Chelsea,1,3,Chelsea,3
+374,374,https://www.skysports.com/football/west-bromwich-albion-vs-leicester-city/428843,"2:00pm, Sunday 13th September 2020.",The Hawthorns.,W Brom,Leicester,0,3,Leicester,3
+375,375,https://www.skysports.com/football/tottenham-hotspur-vs-everton/428842,"4:30pm, Sunday 13th September 2020.",Tottenham Hotspur Stadium.,Tottenham,Everton,0,1,Everton,1
+376,376,https://www.skysports.com/football/fulham-vs-arsenal/428839,"12:30pm, Saturday 12th September 2020.",Craven Cottage.,Fulham,Arsenal,0,3,Arsenal,3
+377,377,https://www.skysports.com/football/crystal-palace-vs-southampton/428838,"3:00pm, Saturday 12th September 2020.",Selhurst Park.,C Palace,So'ton,1,0,C Palace,1
+378,378,https://www.skysports.com/football/liverpool-vs-leeds-united/428840,"5:30pm, Saturday 12th September 2020.",Anfield.,Liverpool,Leeds,4,3,Liverpool,4
+379,379,https://www.skysports.com/football/west-ham-united-vs-newcastle-united/428844,"8:00pm, Saturday 12th September 2020.",London Stadium.,West Ham,Newcastle,0,2,Newcastle,2
