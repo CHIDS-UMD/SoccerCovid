@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="test" id="test">
+	<SimpleField name="address" type="string"></SimpleField>
+	<SimpleField name="Latitude" type="float"></SimpleField>
+	<SimpleField name="Longitude" type="float"></SimpleField>
+</Schema>
+<Folder><name>test</name>
+  <Placemark>
+	<name>Amex Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">American Express Community Stadium, Village Way, Falmer, Stanmer, Brighton and Hove, South East England, England, BN1 9BL, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">50.86154985</SimpleData>
+		<SimpleData name="Longitude">-0.0848680467926449</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.084868046792645,50.86154985</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Anfield Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Anfield Stadium, Anfield Road, Anfield, Liverpool, North West England, England, L4 0TH, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">53.4308358</SimpleData>
+		<SimpleData name="Longitude">-2.96090954141653</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.96090954141653,53.4308358</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Bramall Lane Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Bramall Lane Stadium, Bramall Lane, Highfield, Sheffield, Yorkshire and the Humber, England, S2 4SU, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">53.3703213</SimpleData>
+		<SimpleData name="Longitude">-1.47074061407583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.47074061407583,53.3703213</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Brentford Community Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Brentford Community Stadium, Lionel Road South, Grove Park, Brentford, London, Greater London, England, TW8 0NT, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">51.49071295</SimpleData>
+		<SimpleData name="Longitude">-0.288980213618312</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.288980213618312,51.49071295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Carrow Road Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Carrow Road Stadium, Koblenz Avenue, Lakenham, Norwich, Norfolk, East of England, England, NR1 1JE, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">52.6219835</SimpleData>
+		<SimpleData name="Longitude">1.30920419982985</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>1.30920419982985,52.6219835</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Craven Cottage Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Craven Cottage, Stevenage Road, London Borough of Hammersmith and Fulham, London, Greater London, England, SW6 6HH, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">51.4749491</SimpleData>
+		<SimpleData name="Longitude">-0.221794484819124</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.221794484819124,51.4749491</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Elland Road Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Elland Road Stadium, Elland Road, Beeston, Leeds, West Yorkshire, Yorkshire and the Humber, England, LS11 0ES, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">53.7778981</SimpleData>
+		<SimpleData name="Longitude">-1.57212669105855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.57212669105855,53.7778981</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Emirates Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Emirates Stadium, 75, Drayton Park, Finsbury Park, London Borough of Islington, London, Greater London, England, N5 1BU, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">51.55504035</SimpleData>
+		<SimpleData name="Longitude">-0.108399670867237</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.108399670867237,51.55504035</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Etihad Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Etihad Stadium, Joe Mercer Way, Beswick, Manchester, Greater Manchester, North West England, England, M11 3FF, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">53.48309105</SimpleData>
+		<SimpleData name="Longitude">-2.20025200234333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.20025200234333,53.48309105</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Goodison Park</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Goodison Park, Goodison Road, Walton, Liverpool, North West England, England, L4 4EL, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">53.4387191</SimpleData>
+		<SimpleData name="Longitude">-2.96645399390874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.96645399390874,53.4387191</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Hawthorns Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Alton Football Club, Anstey Lane, Anstey, Alton, Holybourne, East Hampshire, Hampshire, South East England, England, GU34 2NB, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">51.15815265</SimpleData>
+		<SimpleData name="Longitude">-0.965020745263474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.965020745263474,51.15815265</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>King Power Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">King Power Stadium, Filbert Way, Bede Island, Leicester, City of Leicester, East Midlands, England, LE2 7FL, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">52.62039695</SimpleData>
+		<SimpleData name="Longitude">-1.14233520511527</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.14233520511527,52.62039695</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>London Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">London Stadium, Bridge 3, Fish Island, Bow, London Borough of Tower Hamlets, London, Greater London, England, E20 2ST, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">51.53862065</SimpleData>
+		<SimpleData name="Longitude">-0.0166237590024706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.016623759002471,51.53862065</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Molineux Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Molineux Stadium, Waterloo Road, Wolverhampton, West Midlands Combined Authority, West Midlands, England, WV1 4QR, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">52.5902723</SimpleData>
+		<SimpleData name="Longitude">-2.13040790377741</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.13040790377741,52.5902723</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Old Trafford Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Old Trafford, Sir Matt Busby Way, Wharfside, Gorse Hill, Trafford, Greater Manchester, North West England, England, M16 0RA, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">53.46310955</SimpleData>
+		<SimpleData name="Longitude">-2.29138648505454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.29138648505454,53.46310955</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Selhurst Park</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Selhurst Park, Whitehorse Lane, Thornton Heath, London Borough of Croydon, London, Greater London, England, SE25 6PU, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">51.39824295</SimpleData>
+		<SimpleData name="Longitude">-0.085255058181276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.085255058181276,51.39824295</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St James' Park</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">St. James' Park, Barrack Road, Grainger Town, Newcastle upon Tyne, Tyne and Wear, North East England, England, NE1 4ST, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">54.9754693</SimpleData>
+		<SimpleData name="Longitude">-1.62187366621428</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.62187366621428,54.9754693</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>St Mary's Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">St. Mary's Stadium, Britannia Road, Mount Pleasant, Northam, Southampton, South East England, England, SO14 5FP, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">50.90582665</SimpleData>
+		<SimpleData name="Longitude">-1.39088166600707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.39088166600707,50.90582665</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Stamford Bridge Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Stamford Bridge, West Road, The Boltons, Earl's Court, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW10 9UN, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">51.4816865</SimpleData>
+		<SimpleData name="Longitude">-0.191035176663461</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.191035176663461,51.4816865</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Tottenham Hotspur Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Tottenham Hotspur Stadium, Paxton Terrace, Tottenham, London Borough of Haringey, London, Greater London, England, N17 0AP, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">51.6041916</SimpleData>
+		<SimpleData name="Longitude">-0.0662349052591809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.066234905259181,51.6041916</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Turf Moor Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Turf Moor, Harry Potts Way, Pike Hill, Fulledge, Burnley, Lancashire, North West England, England, BB10 4BZ, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">53.78934975</SimpleData>
+		<SimpleData name="Longitude">-2.22990578461487</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-2.22990578461487,53.78934975</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vicarage Road Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Vicarage Road Stadium, Vicarage Road, Watford Heath, Holywell, Watford, Hertfordshire, East of England, England, WD18 0HA, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">51.64975895</SimpleData>
+		<SimpleData name="Longitude">-0.401348885680868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-0.401348885680868,51.64975895</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Villa Park</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Villa Park, Trinity Road, Aston, Birmingham, West Midlands Combined Authority, West Midlands, England, B6 6HE, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">52.5091264</SimpleData>
+		<SimpleData name="Longitude">-1.8850354312213</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.8850354312213,52.5091264</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Vitality Stadium</name>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="address">Vitality Stadium, Kings Park Drive, Boscombe, Bournemouth, Bournemouth, Christchurch and Poole, South West England, England, BH7 7AF, United Kingdom</SimpleData>
+		<SimpleData name="Latitude">50.73518145</SimpleData>
+		<SimpleData name="Longitude">-1.83832794650031</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>-1.83832794650031,50.73518145</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
