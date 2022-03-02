@@ -1,745 +1,737 @@
-,Date,CityName,AreaName,DailyCases,CummulativeCases
-0,2022-02-12,Hertfordshire,United Kingdom,46025,18266015
-1,2022-02-11,Hertfordshire,United Kingdom,58899,18220515
-2,2022-02-10,Hertfordshire,United Kingdom,66638,18162199
-3,2022-02-09,Hertfordshire,United Kingdom,68214,18000119
-4,2022-02-08,Hertfordshire,United Kingdom,66183,17932803
-5,2022-02-07,Hertfordshire,United Kingdom,57623,17866632
-6,2022-02-06,Hertfordshire,United Kingdom,57337,17809459
-7,2022-02-05,Hertfordshire,United Kingdom,63493,17752892
-8,2022-02-04,Hertfordshire,United Kingdom,84053,17689885
-9,2022-02-03,Hertfordshire,United Kingdom,88171,17607832
-10,2022-02-02,Hertfordshire,United Kingdom,92594,17519708
-11,2022-02-01,Hertfordshire,United Kingdom,112458,17428345
-12,2022-01-31,Hertfordshire,United Kingdom,92368,17315893
-13,2022-01-30,Hertfordshire,United Kingdom,69007,16478467
-14,2022-01-29,Hertfordshire,United Kingdom,76069,16409459
-15,2022-01-28,Hertfordshire,United Kingdom,89176,16333980
-16,2022-01-27,Hertfordshire,United Kingdom,96871,16245474
-17,2022-01-26,Hertfordshire,United Kingdom,102292,16149319
-18,2022-01-25,Hertfordshire,United Kingdom,94326,16047716
-19,2022-01-24,Hertfordshire,United Kingdom,88447,15953685
-20,2022-01-23,Hertfordshire,United Kingdom,78317,15866316
-21,2022-01-22,Hertfordshire,United Kingdom,80263,15787937
-22,2022-01-21,Hertfordshire,United Kingdom,95787,15709059
-23,2022-01-20,Hertfordshire,United Kingdom,107364,15613283
-24,2022-01-19,Hertfordshire,United Kingdom,108069,15506750
-25,2022-01-18,Hertfordshire,United Kingdom,94432,15399300
-26,2022-01-17,Hertfordshire,United Kingdom,84429,15305410
-27,2022-01-16,Hertfordshire,United Kingdom,75041,15221366
-28,2022-01-15,Hertfordshire,United Kingdom,81713,15147099
-29,2022-01-14,Hertfordshire,United Kingdom,99652,15066395
-30,2022-01-13,Hertfordshire,United Kingdom,109133,14967817
-31,2022-01-12,Hertfordshire,United Kingdom,129587,14862138
-32,2022-01-11,Hertfordshire,United Kingdom,120821,14732594
-33,2022-01-10,Hertfordshire,United Kingdom,142224,14617314
-34,2022-01-09,Hertfordshire,United Kingdom,141472,14475192
-35,2022-01-08,Hertfordshire,United Kingdom,146390,14333794
-36,2022-01-07,Hertfordshire,United Kingdom,178250,14193228
-37,2022-01-06,Hertfordshire,United Kingdom,179756,14015065
-38,2022-01-05,Hertfordshire,United Kingdom,194747,13835334
-39,2022-01-04,Hertfordshire,United Kingdom,218724,13641520
-40,2022-01-03,Hertfordshire,United Kingdom,157758,13422815
-41,2022-01-02,Hertfordshire,United Kingdom,151663,13266431
-42,2022-01-01,Hertfordshire,United Kingdom,179637,13117469
-43,2021-12-31,Hertfordshire,United Kingdom,189846,12937886
-44,2021-12-30,Hertfordshire,United Kingdom,189213,12748050
-45,2021-12-29,Hertfordshire,United Kingdom,183037,12559926
-46,2021-12-28,Hertfordshire,United Kingdom,138831,12377822
-47,2021-12-27,Hertfordshire,United Kingdom,109077,12239797
-48,2021-12-26,Hertfordshire,United Kingdom,119923,12132098
-49,2021-12-25,Hertfordshire,United Kingdom,121880,12013153
-50,2021-12-24,Hertfordshire,United Kingdom,122186,11891292
-51,2021-12-23,Hertfordshire,United Kingdom,119789,11769921
-52,2021-12-22,Hertfordshire,United Kingdom,109655,11647473
-53,2021-12-21,Hertfordshire,United Kingdom,90629,11542143
-54,2021-12-20,Hertfordshire,United Kingdom,91743,11453121
-55,2021-12-19,Hertfordshire,United Kingdom,82886,11361387
-56,2021-12-18,Hertfordshire,United Kingdom,90418,11279428
-57,2021-12-17,Hertfordshire,United Kingdom,93045,11190354
-58,2021-12-16,Hertfordshire,United Kingdom,88376,11097851
-59,2021-12-15,Hertfordshire,United Kingdom,78610,11010286
-60,2021-12-14,Hertfordshire,United Kingdom,59610,10932545
-61,2021-12-13,Hertfordshire,United Kingdom,54661,10873468
-62,2021-12-12,Hertfordshire,United Kingdom,48854,10819515
-63,2021-12-11,Hertfordshire,United Kingdom,54073,10771444
-64,2021-12-10,Hertfordshire,United Kingdom,58194,10719165
-65,2021-12-09,Hertfordshire,United Kingdom,50867,10660981
-66,2021-12-08,Hertfordshire,United Kingdom,51342,10610958
-67,2021-12-07,Hertfordshire,United Kingdom,45691,10560341
-68,2021-12-06,Hertfordshire,United Kingdom,51459,10515239
-69,2021-12-05,Hertfordshire,United Kingdom,43992,10464389
-70,2021-12-04,Hertfordshire,United Kingdom,42848,10421104
-71,2021-12-03,Hertfordshire,United Kingdom,50584,10379647
-72,2021-12-02,Hertfordshire,United Kingdom,53945,10329074
-73,2021-12-01,Hertfordshire,United Kingdom,48374,10276007
-74,2021-11-30,Hertfordshire,United Kingdom,39716,10228772
-75,2021-11-29,Hertfordshire,United Kingdom,42583,10189059
-76,2021-11-28,Hertfordshire,United Kingdom,37681,10146915
-77,2021-11-27,Hertfordshire,United Kingdom,39567,10110408
-78,2021-11-26,Hertfordshire,United Kingdom,50091,10070841
-79,2021-11-25,Hertfordshire,United Kingdom,47240,10021497
-80,2021-11-24,Hertfordshire,United Kingdom,43676,9974843
-81,2021-11-23,Hertfordshire,United Kingdom,42484,9932408
-82,2021-11-22,Hertfordshire,United Kingdom,44917,9889926
-83,2021-11-21,Hertfordshire,United Kingdom,40004,9845492
-84,2021-11-20,Hertfordshire,United Kingdom,40941,9806034
-85,2021-11-19,Hertfordshire,United Kingdom,44242,9766153
-86,2021-11-18,Hertfordshire,United Kingdom,46807,9721916
-87,2021-11-17,Hertfordshire,United Kingdom,38263,9675058
-88,2021-11-16,Hertfordshire,United Kingdom,37243,9637190
-89,2021-11-15,Hertfordshire,United Kingdom,39705,9600369
-90,2021-11-14,Hertfordshire,United Kingdom,36517,9561099
-91,2021-11-13,Hertfordshire,United Kingdom,38351,9524971
-92,2021-11-12,Hertfordshire,United Kingdom,40375,9487302
-93,2021-11-11,Hertfordshire,United Kingdom,42408,9448402
-94,2021-11-10,Hertfordshire,United Kingdom,39329,9406001
-95,2021-11-09,Hertfordshire,United Kingdom,33117,9366676
-96,2021-11-08,Hertfordshire,United Kingdom,32322,9333891
-97,2021-11-07,Hertfordshire,United Kingdom,30305,9301909
-98,2021-11-06,Hertfordshire,United Kingdom,30693,9272066
-99,2021-11-05,Hertfordshire,United Kingdom,34029,9241916
-100,2021-11-04,Hertfordshire,United Kingdom,37269,9208219
-101,2021-11-03,Hertfordshire,United Kingdom,41299,9171660
-102,2021-11-02,Hertfordshire,United Kingdom,33865,9130857
-103,2021-11-01,Hertfordshire,United Kingdom,40077,9097311
-104,2021-10-31,Hertfordshire,United Kingdom,38009,9057629
-105,2021-10-30,Hertfordshire,United Kingdom,41278,9019962
-106,2021-10-29,Hertfordshire,United Kingdom,43467,8979236
-107,2021-10-28,Hertfordshire,United Kingdom,39842,8936155
-108,2021-10-27,Hertfordshire,United Kingdom,43941,8897149
-109,2021-10-26,Hertfordshire,United Kingdom,40954,8853227
-110,2021-10-25,Hertfordshire,United Kingdom,36567,8809774
-111,2021-10-24,Hertfordshire,United Kingdom,39962,8773674
-112,2021-10-23,Hertfordshire,United Kingdom,44985,8734934
-113,2021-10-22,Hertfordshire,United Kingdom,49298,8689949
-114,2021-10-21,Hertfordshire,United Kingdom,52009,8641221
-115,2021-10-20,Hertfordshire,United Kingdom,49139,8589737
-116,2021-10-19,Hertfordshire,United Kingdom,43738,8541192
-117,2021-10-18,Hertfordshire,United Kingdom,49156,8497868
-118,2021-10-17,Hertfordshire,United Kingdom,45140,8449165
-119,2021-10-16,Hertfordshire,United Kingdom,43423,8404469
-120,2021-10-15,Hertfordshire,United Kingdom,44932,8361651
-121,2021-10-14,Hertfordshire,United Kingdom,45066,8317439
-122,2021-10-13,Hertfordshire,United Kingdom,42776,8272883
-123,2021-10-12,Hertfordshire,United Kingdom,38520,8231437
-124,2021-10-11,Hertfordshire,United Kingdom,40224,8193769
-125,2021-10-10,Hertfordshire,United Kingdom,34574,8154306
-126,2021-10-09,Hertfordshire,United Kingdom,34950,8120713
-127,2021-10-08,Hertfordshire,United Kingdom,41765,8087005
-128,2021-10-07,Hertfordshire,United Kingdom,40701,8046390
-129,2021-10-06,Hertfordshire,United Kingdom,39851,8006660
-130,2021-10-05,Hertfordshire,United Kingdom,33869,7967985
-131,2021-10-04,Hertfordshire,United Kingdom,35077,7934936
-132,2021-10-03,Hertfordshire,United Kingdom,30439,7900680
-133,2021-10-02,Hertfordshire,United Kingdom,30301,7871014
-134,2021-10-01,Hertfordshire,United Kingdom,35577,7841625
-135,2021-09-30,Hertfordshire,United Kingdom,36480,7807036
-136,2021-09-29,Hertfordshire,United Kingdom,36722,7771294
-137,2021-09-28,Hertfordshire,United Kingdom,34526,7736235
-138,2021-09-27,Hertfordshire,United Kingdom,37960,7701715
-139,2021-09-26,Hertfordshire,United Kingdom,32417,7664230
-140,2021-09-25,Hertfordshire,United Kingdom,32468,7632353
-141,2021-09-24,Hertfordshire,United Kingdom,35623,7601487
-142,2021-09-23,Hertfordshire,United Kingdom,36710,7565867
-143,2021-09-22,Hertfordshire,United Kingdom,34460,7530103
-144,2021-09-21,Hertfordshire,United Kingdom,31564,7496543
-145,2021-09-20,Hertfordshire,United Kingdom,36100,7465448
-146,2021-09-19,Hertfordshire,United Kingdom,29612,7429746
-147,2021-09-18,Hertfordshire,United Kingdom,30144,7400739
-148,2021-09-17,Hertfordshire,United Kingdom,32651,7371301
-149,2021-09-16,Hertfordshire,United Kingdom,26911,7339009
-150,2021-09-15,Hertfordshire,United Kingdom,30597,7312683
-151,2021-09-14,Hertfordshire,United Kingdom,26628,7282810
-152,2021-09-13,Hertfordshire,United Kingdom,30825,7256559
-153,2021-09-12,Hertfordshire,United Kingdom,29173,7226276
-154,2021-09-11,Hertfordshire,United Kingdom,29547,7197662
-155,2021-09-10,Hertfordshire,United Kingdom,37622,7168806
-156,2021-09-09,Hertfordshire,United Kingdom,38013,7132072
-157,2021-09-08,Hertfordshire,United Kingdom,38975,7094592
-158,2021-09-07,Hertfordshire,United Kingdom,37489,7056106
-159,2021-09-06,Hertfordshire,United Kingdom,41192,7018927
-160,2021-09-05,Hertfordshire,United Kingdom,37011,6978126
-161,2021-09-04,Hertfordshire,United Kingdom,37578,6941611
-162,2021-09-03,Hertfordshire,United Kingdom,42076,6904969
-163,2021-09-02,Hertfordshire,United Kingdom,38154,6862904
-164,2021-09-01,Hertfordshire,United Kingdom,35693,6825074
-165,2021-08-31,Hertfordshire,United Kingdom,32181,6789581
-166,2021-08-30,Hertfordshire,United Kingdom,26476,6757650
-167,2021-08-29,Hertfordshire,United Kingdom,33196,6731423
-168,2021-08-28,Hertfordshire,United Kingdom,32406,6698486
-169,2021-08-27,Hertfordshire,United Kingdom,38046,6666399
-170,2021-08-26,Hertfordshire,United Kingdom,38281,6628709
-171,2021-08-25,Hertfordshire,United Kingdom,35847,6590747
-172,2021-08-24,Hertfordshire,United Kingdom,30838,6555200
-173,2021-08-23,Hertfordshire,United Kingdom,31914,6524581
-174,2021-08-22,Hertfordshire,United Kingdom,32253,6492906
-175,2021-08-21,Hertfordshire,United Kingdom,32058,6460930
-176,2021-08-20,Hertfordshire,United Kingdom,37314,6429147
-177,2021-08-19,Hertfordshire,United Kingdom,36572,6392160
-178,2021-08-18,Hertfordshire,United Kingdom,33904,6355887
-179,2021-08-17,Hertfordshire,United Kingdom,26852,6322241
-180,2021-08-16,Hertfordshire,United Kingdom,28438,6295613
-181,2021-08-15,Hertfordshire,United Kingdom,26750,6267437
-182,2021-08-14,Hertfordshire,United Kingdom,29520,6241011
-183,2021-08-13,Hertfordshire,United Kingdom,32700,6211868
-184,2021-08-12,Hertfordshire,United Kingdom,33074,6179506
-185,2021-08-11,Hertfordshire,United Kingdom,29612,6146800
-186,2021-08-10,Hertfordshire,United Kingdom,23510,6117540
-187,2021-08-09,Hertfordshire,United Kingdom,25161,6094243
-188,2021-08-08,Hertfordshire,United Kingdom,27429,6069362
-189,2021-08-07,Hertfordshire,United Kingdom,28612,6042252
-190,2021-08-06,Hertfordshire,United Kingdom,31808,6014023
-191,2021-08-05,Hertfordshire,United Kingdom,30215,5982581
-192,2021-08-04,Hertfordshire,United Kingdom,29312,5952756
-193,2021-08-03,Hertfordshire,United Kingdom,21691,5923820
-194,2021-08-02,Hertfordshire,United Kingdom,21952,5902354
-195,2021-08-01,Hertfordshire,United Kingdom,24470,5880667
-196,2021-07-31,Hertfordshire,United Kingdom,26144,5856528
-197,2021-07-30,Hertfordshire,United Kingdom,29622,5830774
-198,2021-07-29,Hertfordshire,United Kingdom,31117,5801561
-199,2021-07-28,Hertfordshire,United Kingdom,27734,5770928
-200,2021-07-27,Hertfordshire,United Kingdom,23511,5745526
-201,2021-07-26,Hertfordshire,United Kingdom,24950,5722298
-202,2021-07-25,Hertfordshire,United Kingdom,29173,5697912
-203,2021-07-24,Hertfordshire,United Kingdom,31795,5669260
-204,2021-07-23,Hertfordshire,United Kingdom,36389,5637975
-205,2021-07-22,Hertfordshire,United Kingdom,39906,5602321
-206,2021-07-21,Hertfordshire,United Kingdom,44104,5563006
-207,2021-07-20,Hertfordshire,United Kingdom,46558,5519602
-208,2021-07-19,Hertfordshire,United Kingdom,39950,5473477
-209,2021-07-18,Hertfordshire,United Kingdom,48161,5433939
-210,2021-07-17,Hertfordshire,United Kingdom,54674,5386340
-211,2021-07-16,Hertfordshire,United Kingdom,51870,5332371
-212,2021-07-15,Hertfordshire,United Kingdom,48553,5281098
-213,2021-07-14,Hertfordshire,United Kingdom,42302,5233207
-214,2021-07-13,Hertfordshire,United Kingdom,36660,5191459
-215,2021-07-12,Hertfordshire,United Kingdom,34471,5155243
-216,2021-07-11,Hertfordshire,United Kingdom,31772,5121245
-217,2021-07-10,Hertfordshire,United Kingdom,32367,5089893
-218,2021-07-09,Hertfordshire,United Kingdom,35707,5058093
-219,2021-07-08,Hertfordshire,United Kingdom,32551,5022893
-220,2021-07-07,Hertfordshire,United Kingdom,32548,4990916
-221,2021-07-06,Hertfordshire,United Kingdom,28773,4958868
-222,2021-07-05,Hertfordshire,United Kingdom,27334,4930534
-223,2021-07-04,Hertfordshire,United Kingdom,24248,4903434
-224,2021-07-03,Hertfordshire,United Kingdom,24885,4879616
-225,2021-07-02,Hertfordshire,United Kingdom,27125,4855169
-226,2021-07-01,Hertfordshire,United Kingdom,27989,4828463
-227,2021-06-30,Hertfordshire,United Kingdom,26068,4800907
-228,2021-06-29,Hertfordshire,United Kingdom,20479,4775301
-229,2021-06-28,Hertfordshire,United Kingdom,22868,4755078
-230,2021-06-27,Hertfordshire,United Kingdom,14876,4732434
-231,2021-06-26,Hertfordshire,United Kingdom,18270,4717811
-232,2021-06-25,Hertfordshire,United Kingdom,15810,4699868
-233,2021-06-24,Hertfordshire,United Kingdom,16703,4684572
-234,2021-06-23,Hertfordshire,United Kingdom,16135,4667870
-235,2021-06-22,Hertfordshire,United Kingdom,11625,4651988
-236,2021-06-21,Hertfordshire,United Kingdom,10633,4640507
-237,2021-06-20,Hertfordshire,United Kingdom,9284,4630040
-238,2021-06-19,Hertfordshire,United Kingdom,10321,4620968
-239,2021-06-18,Hertfordshire,United Kingdom,10476,4610893
-240,2021-06-17,Hertfordshire,United Kingdom,11007,4600623
-241,2021-06-16,Hertfordshire,United Kingdom,9055,4589814
-242,2021-06-15,Hertfordshire,United Kingdom,7673,4581006
-243,2021-06-14,Hertfordshire,United Kingdom,7742,4573419
-244,2021-06-13,Hertfordshire,United Kingdom,7490,4565813
-245,2021-06-12,Hertfordshire,United Kingdom,7738,4558494
-246,2021-06-11,Hertfordshire,United Kingdom,8125,4550944
-247,2021-06-10,Hertfordshire,United Kingdom,7393,4542986
-248,2021-06-09,Hertfordshire,United Kingdom,7540,4535754
-249,2021-06-08,Hertfordshire,United Kingdom,6048,4528442
-250,2021-06-07,Hertfordshire,United Kingdom,5683,4522476
-251,2021-06-06,Hertfordshire,United Kingdom,5341,4516892
-252,2021-06-05,Hertfordshire,United Kingdom,5765,4511669
-253,2021-06-04,Hertfordshire,United Kingdom,6238,4506018
-254,2021-06-03,Hertfordshire,United Kingdom,5274,4499878
-255,2021-06-02,Hertfordshire,United Kingdom,4330,4494699
-256,2021-06-01,Hertfordshire,United Kingdom,3165,4490438
-257,2021-05-31,Hertfordshire,United Kingdom,3383,4487339
-258,2021-05-30,Hertfordshire,United Kingdom,3240,4484056
-259,2021-05-29,Hertfordshire,United Kingdom,3398,4480945
-260,2021-05-28,Hertfordshire,United Kingdom,4182,4477705
-261,2021-05-27,Hertfordshire,United Kingdom,3542,4473677
-262,2021-05-26,Hertfordshire,United Kingdom,3180,4470297
-263,2021-05-25,Hertfordshire,United Kingdom,2493,4467310
-264,2021-05-24,Hertfordshire,United Kingdom,2439,4464900
-265,2021-05-23,Hertfordshire,United Kingdom,2235,4462538
-266,2021-05-22,Hertfordshire,United Kingdom,2694,4460446
-267,2021-05-21,Hertfordshire,United Kingdom,2829,4457923
-268,2021-05-20,Hertfordshire,United Kingdom,2874,4455221
-269,2021-05-19,Hertfordshire,United Kingdom,2696,4452527
-270,2021-05-18,Hertfordshire,United Kingdom,2412,4450392
-271,2021-05-17,Hertfordshire,United Kingdom,1979,4452756
-272,2021-05-16,Hertfordshire,United Kingdom,1926,4450777
-273,2021-05-15,Hertfordshire,United Kingdom,2027,4448851
-274,2021-05-14,Hertfordshire,United Kingdom,2193,4446824
-275,2021-05-13,Hertfordshire,United Kingdom,2657,4444631
-276,2021-05-12,Hertfordshire,United Kingdom,2284,4441975
-277,2021-05-11,Hertfordshire,United Kingdom,2474,4439691
-278,2021-05-10,Hertfordshire,United Kingdom,2357,4437217
-279,2021-05-09,Hertfordshire,United Kingdom,1770,4434860
-280,2021-05-08,Hertfordshire,United Kingdom,2047,4433090
-281,2021-05-07,Hertfordshire,United Kingdom,2490,4431043
-282,2021-05-06,Hertfordshire,United Kingdom,2613,4428553
-283,2021-05-05,Hertfordshire,United Kingdom,2144,4425940
-284,2021-05-04,Hertfordshire,United Kingdom,1946,4423796
-285,2021-05-03,Hertfordshire,United Kingdom,1649,4421850
-286,2021-05-02,Hertfordshire,United Kingdom,1671,4420201
-287,2021-05-01,Hertfordshire,United Kingdom,1907,4418530
-288,2021-04-30,Hertfordshire,United Kingdom,2381,4416623
-289,2021-04-29,Hertfordshire,United Kingdom,2445,4414242
-290,2021-04-28,Hertfordshire,United Kingdom,2166,4411797
-291,2021-04-27,Hertfordshire,United Kingdom,2685,4409631
-292,2021-04-26,Hertfordshire,United Kingdom,2064,4406946
-293,2021-04-25,Hertfordshire,United Kingdom,1712,4404882
-294,2021-04-24,Hertfordshire,United Kingdom,2061,4403170
-295,2021-04-23,Hertfordshire,United Kingdom,2678,4401109
-296,2021-04-22,Hertfordshire,United Kingdom,2729,4398431
-297,2021-04-21,Hertfordshire,United Kingdom,2396,4395703
-298,2021-04-20,Hertfordshire,United Kingdom,2524,4393307
-299,2021-04-19,Hertfordshire,United Kingdom,2963,4390783
-300,2021-04-18,Hertfordshire,United Kingdom,1882,4387820
-301,2021-04-17,Hertfordshire,United Kingdom,2206,4385938
-302,2021-04-16,Hertfordshire,United Kingdom,2596,4383732
-303,2021-04-15,Hertfordshire,United Kingdom,2672,4380976
-304,2021-04-14,Hertfordshire,United Kingdom,2491,4378305
-305,2021-04-13,Hertfordshire,United Kingdom,2472,4375814
-306,2021-04-12,Hertfordshire,United Kingdom,3568,4373343
-307,2021-04-11,Hertfordshire,United Kingdom,1730,4369775
-308,2021-04-10,Hertfordshire,United Kingdom,2589,4368045
-309,2021-04-09,Hertfordshire,United Kingdom,3150,4365461
-310,2021-04-08,Hertfordshire,United Kingdom,3030,4370321
-311,2021-04-07,Hertfordshire,United Kingdom,2763,4367291
-312,2021-04-06,Hertfordshire,United Kingdom,2379,4364529
-313,2021-04-05,Hertfordshire,United Kingdom,2762,4362150
-314,2021-04-04,Hertfordshire,United Kingdom,2297,4359388
-315,2021-04-03,Hertfordshire,United Kingdom,3423,4357091
-316,2021-04-02,Hertfordshire,United Kingdom,3402,4353668
-317,2021-04-01,Hertfordshire,United Kingdom,4479,4350266
-318,2021-03-31,Hertfordshire,United Kingdom,4052,4345788
-319,2021-03-30,Hertfordshire,United Kingdom,4040,4341736
-320,2021-03-29,Hertfordshire,United Kingdom,4654,4337696
-321,2021-03-28,Hertfordshire,United Kingdom,3862,4333042
-322,2021-03-27,Hertfordshire,United Kingdom,4715,4329180
-323,2021-03-26,Hertfordshire,United Kingdom,6187,4325315
-324,2021-03-25,Hertfordshire,United Kingdom,6397,4319128
-325,2021-03-24,Hertfordshire,United Kingdom,5605,4312908
-326,2021-03-23,Hertfordshire,United Kingdom,5379,4307304
-327,2021-03-22,Hertfordshire,United Kingdom,5342,4301925
-328,2021-03-21,Hertfordshire,United Kingdom,5312,4296583
-329,2021-03-20,Hertfordshire,United Kingdom,5587,4291271
-330,2021-03-19,Hertfordshire,United Kingdom,4802,4285684
-331,2021-03-18,Hertfordshire,United Kingdom,6303,4280882
-332,2021-03-17,Hertfordshire,United Kingdom,5758,4274579
-333,2021-03-16,Hertfordshire,United Kingdom,5294,4268821
-334,2021-03-15,Hertfordshire,United Kingdom,5089,4263527
-335,2021-03-14,Hertfordshire,United Kingdom,4618,4258438
-336,2021-03-13,Hertfordshire,United Kingdom,5534,4253820
-337,2021-03-12,Hertfordshire,United Kingdom,6609,4248286
-338,2021-03-11,Hertfordshire,United Kingdom,6753,4241677
-339,2021-03-10,Hertfordshire,United Kingdom,5926,4234924
-340,2021-03-09,Hertfordshire,United Kingdom,5766,4228998
-341,2021-03-08,Hertfordshire,United Kingdom,4712,4223232
-342,2021-03-07,Hertfordshire,United Kingdom,5177,4218520
-343,2021-03-06,Hertfordshire,United Kingdom,6040,4213343
-344,2021-03-05,Hertfordshire,United Kingdom,5947,4207304
-345,2021-03-04,Hertfordshire,United Kingdom,6573,4201358
-346,2021-03-03,Hertfordshire,United Kingdom,6385,4194785
-347,2021-03-02,Hertfordshire,United Kingdom,6391,4188400
-348,2021-03-01,Hertfordshire,United Kingdom,5455,4182009
-349,2021-02-28,Hertfordshire,United Kingdom,6035,4176554
-350,2021-02-27,Hertfordshire,United Kingdom,7434,4170519
-351,2021-02-26,Hertfordshire,United Kingdom,8523,4163085
-352,2021-02-25,Hertfordshire,United Kingdom,9985,4154562
-353,2021-02-24,Hertfordshire,United Kingdom,9938,4144577
-354,2021-02-23,Hertfordshire,United Kingdom,8489,4134639
-355,2021-02-22,Hertfordshire,United Kingdom,10641,4126150
-356,2021-02-21,Hertfordshire,United Kingdom,9834,4115509
-357,2021-02-20,Hertfordshire,United Kingdom,10406,4105675
-358,2021-02-19,Hertfordshire,United Kingdom,12027,4095269
-359,2021-02-18,Hertfordshire,United Kingdom,12057,4083242
-360,2021-02-17,Hertfordshire,United Kingdom,12718,4071185
-361,2021-02-16,Hertfordshire,United Kingdom,10625,4058468
-362,2021-02-15,Hertfordshire,United Kingdom,9765,4047843
-363,2021-02-14,Hertfordshire,United Kingdom,10972,4038078
-364,2021-02-13,Hertfordshire,United Kingdom,13308,4027106
-365,2021-02-12,Hertfordshire,United Kingdom,15144,4013799
-366,2021-02-11,Hertfordshire,United Kingdom,13494,3998655
-367,2021-02-10,Hertfordshire,United Kingdom,13013,3985161
-368,2021-02-09,Hertfordshire,United Kingdom,12364,3972148
-369,2021-02-08,Hertfordshire,United Kingdom,14104,3959784
-370,2021-02-07,Hertfordshire,United Kingdom,15845,3945680
-371,2021-02-06,Hertfordshire,United Kingdom,18262,3929835
-372,2021-02-05,Hertfordshire,United Kingdom,19114,3911573
-373,2021-02-04,Hertfordshire,United Kingdom,20634,3892459
-374,2021-02-03,Hertfordshire,United Kingdom,19202,3871825
-375,2021-02-02,Hertfordshire,United Kingdom,16840,3852623
-376,2021-02-01,Hertfordshire,United Kingdom,18607,3835783
-377,2021-01-31,Hertfordshire,United Kingdom,21088,3817176
-378,2021-01-30,Hertfordshire,United Kingdom,23275,3796088
-379,2021-01-29,Hertfordshire,United Kingdom,29079,3772813
-380,2021-01-28,Hertfordshire,United Kingdom,28680,3743734
-381,2021-01-27,Hertfordshire,United Kingdom,25308,3715054
-382,2021-01-26,Hertfordshire,United Kingdom,20089,3689746
-383,2021-01-25,Hertfordshire,United Kingdom,22195,3669658
-384,2021-01-24,Hertfordshire,United Kingdom,30004,3647463
-385,2021-01-23,Hertfordshire,United Kingdom,33552,3617459
-386,2021-01-22,Hertfordshire,United Kingdom,40261,3583907
-387,2021-01-21,Hertfordshire,United Kingdom,37892,3543646
-388,2021-01-20,Hertfordshire,United Kingdom,38905,3505754
-389,2021-01-19,Hertfordshire,United Kingdom,33355,3466849
-390,2021-01-18,Hertfordshire,United Kingdom,37535,3433494
-391,2021-01-17,Hertfordshire,United Kingdom,38598,3395959
-392,2021-01-16,Hertfordshire,United Kingdom,41346,3357361
-393,2021-01-15,Hertfordshire,United Kingdom,55761,3316019
-394,2021-01-14,Hertfordshire,United Kingdom,48682,3260258
-395,2021-01-13,Hertfordshire,United Kingdom,47525,3211576
-396,2021-01-12,Hertfordshire,United Kingdom,45533,3164051
-397,2021-01-11,Hertfordshire,United Kingdom,46169,3118518
-398,2021-01-10,Hertfordshire,United Kingdom,54940,3072349
-399,2021-01-09,Hertfordshire,United Kingdom,59937,3017409
-400,2021-01-08,Hertfordshire,United Kingdom,68053,2957472
-401,2021-01-07,Hertfordshire,United Kingdom,52618,2889419
-402,2021-01-06,Hertfordshire,United Kingdom,62322,2836801
-403,2021-01-05,Hertfordshire,United Kingdom,60916,2774479
-404,2021-01-04,Hertfordshire,United Kingdom,58784,2713563
-405,2021-01-03,Hertfordshire,United Kingdom,54990,2654779
-406,2021-01-02,Hertfordshire,United Kingdom,57725,2599789
-407,2021-01-01,Hertfordshire,United Kingdom,53285,2542065
-408,2020-12-31,Hertfordshire,United Kingdom,55892,2488780
-409,2020-12-30,Hertfordshire,United Kingdom,50023,2432888
-410,2020-12-29,Hertfordshire,United Kingdom,53135,2382865
-411,2020-12-28,Hertfordshire,United Kingdom,41385,2329730
-412,2020-12-27,Hertfordshire,United Kingdom,30501,2288345
-413,2020-12-26,Hertfordshire,United Kingdom,35691,2257844
-414,2020-12-25,Hertfordshire,United Kingdom,32725,2222153
-415,2020-12-24,Hertfordshire,United Kingdom,39877,2189428
-416,2020-12-23,Hertfordshire,United Kingdom,39237,2149551
-417,2020-12-22,Hertfordshire,United Kingdom,36804,2110314
-418,2020-12-21,Hertfordshire,United Kingdom,33364,2073511
-419,2020-12-20,Hertfordshire,United Kingdom,35928,2040147
-420,2020-12-19,Hertfordshire,United Kingdom,27052,2004219
-421,2020-12-18,Hertfordshire,United Kingdom,28507,1977167
-422,2020-12-17,Hertfordshire,United Kingdom,35383,1948660
-423,2020-12-16,Hertfordshire,United Kingdom,25161,1913277
-424,2020-12-15,Hertfordshire,United Kingdom,18450,1888116
-425,2020-12-14,Hertfordshire,United Kingdom,20263,1869666
-426,2020-12-13,Hertfordshire,United Kingdom,18447,1849403
-427,2020-12-12,Hertfordshire,United Kingdom,21502,1830956
-428,2020-12-11,Hertfordshire,United Kingdom,21672,1809455
-429,2020-12-10,Hertfordshire,United Kingdom,20964,1787783
-430,2020-12-09,Hertfordshire,United Kingdom,16578,1766819
-431,2020-12-08,Hertfordshire,United Kingdom,12282,1750241
-432,2020-12-07,Hertfordshire,United Kingdom,14718,1737960
-433,2020-12-06,Hertfordshire,United Kingdom,17272,1723242
-434,2020-12-05,Hertfordshire,United Kingdom,15539,1705971
-435,2020-12-04,Hertfordshire,United Kingdom,16298,1690432
-436,2020-12-03,Hertfordshire,United Kingdom,14879,1674134
-437,2020-12-02,Hertfordshire,United Kingdom,16170,1659256
-438,2020-12-01,Hertfordshire,United Kingdom,13430,1643086
-439,2020-11-30,Hertfordshire,United Kingdom,12330,1629657
-440,2020-11-29,Hertfordshire,United Kingdom,12155,1617327
-441,2020-11-28,Hertfordshire,United Kingdom,15871,1605172
-442,2020-11-27,Hertfordshire,United Kingdom,16022,1589301
-443,2020-11-26,Hertfordshire,United Kingdom,17555,1574562
-444,2020-11-25,Hertfordshire,United Kingdom,18213,1557007
-445,2020-11-24,Hertfordshire,United Kingdom,11299,1538794
-446,2020-11-23,Hertfordshire,United Kingdom,15450,1527495
-447,2020-11-22,Hertfordshire,United Kingdom,18662,1512045
-448,2020-11-21,Hertfordshire,United Kingdom,19875,1493383
-449,2020-11-20,Hertfordshire,United Kingdom,20252,1473508
-450,2020-11-19,Hertfordshire,United Kingdom,22915,1453256
-451,2020-11-18,Hertfordshire,United Kingdom,19609,1430341
-452,2020-11-17,Hertfordshire,United Kingdom,20051,1410732
-453,2020-11-16,Hertfordshire,United Kingdom,21363,1390681
-454,2020-11-15,Hertfordshire,United Kingdom,24962,1369318
-455,2020-11-14,Hertfordshire,United Kingdom,26860,1344356
-456,2020-11-13,Hertfordshire,United Kingdom,27301,1317496
-457,2020-11-12,Hertfordshire,United Kingdom,33470,1290195
-458,2020-11-11,Hertfordshire,United Kingdom,22950,1256725
-459,2020-11-10,Hertfordshire,United Kingdom,20412,1233775
-460,2020-11-09,Hertfordshire,United Kingdom,21350,1213363
-461,2020-11-08,Hertfordshire,United Kingdom,20572,1192013
-462,2020-11-07,Hertfordshire,United Kingdom,24957,1171441
-463,2020-11-06,Hertfordshire,United Kingdom,23287,1146484
-464,2020-11-05,Hertfordshire,United Kingdom,24141,1123197
-465,2020-11-04,Hertfordshire,United Kingdom,25177,1099059
-466,2020-11-03,Hertfordshire,United Kingdom,20018,1073882
-467,2020-11-02,Hertfordshire,United Kingdom,18950,1053864
-468,2020-11-01,Hertfordshire,United Kingdom,23254,1034914
-469,2020-10-31,Hertfordshire,United Kingdom,21915,1011660
-470,2020-10-30,Hertfordshire,United Kingdom,24405,989745
-471,2020-10-29,Hertfordshire,United Kingdom,23065,965340
-472,2020-10-28,Hertfordshire,United Kingdom,24701,942275
-473,2020-10-27,Hertfordshire,United Kingdom,22885,917575
-474,2020-10-26,Hertfordshire,United Kingdom,20890,894690
-475,2020-10-25,Hertfordshire,United Kingdom,19790,873800
-476,2020-10-24,Hertfordshire,United Kingdom,23012,854010
-477,2020-10-23,Hertfordshire,United Kingdom,20530,830998
-478,2020-10-22,Hertfordshire,United Kingdom,21242,810467
-479,2020-10-21,Hertfordshire,United Kingdom,26688,789229
-480,2020-10-20,Hertfordshire,United Kingdom,21331,762542
-481,2020-10-19,Hertfordshire,United Kingdom,18804,741212
-482,2020-10-18,Hertfordshire,United Kingdom,16982,722409
-483,2020-10-17,Hertfordshire,United Kingdom,16171,705428
-484,2020-10-16,Hertfordshire,United Kingdom,15650,689257
-485,2020-10-15,Hertfordshire,United Kingdom,18980,673622
-486,2020-10-14,Hertfordshire,United Kingdom,19724,654644
-487,2020-10-13,Hertfordshire,United Kingdom,17234,634920
-488,2020-10-12,Hertfordshire,United Kingdom,13972,617688
-489,2020-10-11,Hertfordshire,United Kingdom,12872,603716
-490,2020-10-10,Hertfordshire,United Kingdom,15166,590844
-491,2020-10-09,Hertfordshire,United Kingdom,13864,575679
-492,2020-10-08,Hertfordshire,United Kingdom,17540,561815
-493,2020-10-07,Hertfordshire,United Kingdom,14162,544275
-494,2020-10-06,Hertfordshire,United Kingdom,14542,530113
-495,2020-10-05,Hertfordshire,United Kingdom,12594,515571
-496,2020-10-04,Hertfordshire,United Kingdom,22961,502978
-497,2020-10-03,Hertfordshire,United Kingdom,12872,480017
-498,2020-10-02,Hertfordshire,United Kingdom,6968,467146
-499,2020-10-01,Hertfordshire,United Kingdom,6914,460178
-500,2020-09-30,Hertfordshire,United Kingdom,7108,453264
-501,2020-09-29,Hertfordshire,United Kingdom,7143,446156
-502,2020-09-28,Hertfordshire,United Kingdom,4044,439013
-503,2020-09-27,Hertfordshire,United Kingdom,5693,434969
-504,2020-09-26,Hertfordshire,United Kingdom,6042,429277
-505,2020-09-25,Hertfordshire,United Kingdom,6874,423236
-506,2020-09-24,Hertfordshire,United Kingdom,6634,416363
-507,2020-09-23,Hertfordshire,United Kingdom,6178,409729
-508,2020-09-22,Hertfordshire,United Kingdom,4926,403551
-509,2020-09-21,Hertfordshire,United Kingdom,4368,398625
-510,2020-09-20,Hertfordshire,United Kingdom,3899,394257
-511,2020-09-19,Hertfordshire,United Kingdom,4422,390358
-512,2020-09-18,Hertfordshire,United Kingdom,4322,385936
-513,2020-09-17,Hertfordshire,United Kingdom,3395,381614
-514,2020-09-16,Hertfordshire,United Kingdom,3991,378219
-515,2020-09-15,Hertfordshire,United Kingdom,3105,374228
-516,2020-09-14,Hertfordshire,United Kingdom,2621,371125
-517,2020-09-13,Hertfordshire,United Kingdom,3330,368504
-518,2020-09-12,Hertfordshire,United Kingdom,3497,365174
-519,2020-09-11,Hertfordshire,United Kingdom,3539,361677
-520,2020-09-10,Hertfordshire,United Kingdom,2919,358138
-521,2020-09-09,Hertfordshire,United Kingdom,2659,355219
-522,2020-09-08,Hertfordshire,United Kingdom,2460,352560
-523,2020-09-07,Hertfordshire,United Kingdom,2948,350100
-524,2020-09-06,Hertfordshire,United Kingdom,2988,347152
-525,2020-09-05,Hertfordshire,United Kingdom,1813,344164
-526,2020-09-04,Hertfordshire,United Kingdom,1940,342351
-527,2020-09-03,Hertfordshire,United Kingdom,1735,340411
-528,2020-09-02,Hertfordshire,United Kingdom,1508,338676
-529,2020-09-01,Hertfordshire,United Kingdom,1295,337168
-530,2020-08-31,Hertfordshire,United Kingdom,1406,335873
-531,2020-08-30,Hertfordshire,United Kingdom,1715,334467
-532,2020-08-29,Hertfordshire,United Kingdom,1108,332752
-533,2020-08-28,Hertfordshire,United Kingdom,1276,331644
-534,2020-08-27,Hertfordshire,United Kingdom,1522,330368
-535,2020-08-26,Hertfordshire,United Kingdom,1048,328846
-536,2020-08-25,Hertfordshire,United Kingdom,1184,327798
-537,2020-08-24,Hertfordshire,United Kingdom,853,326614
-538,2020-08-23,Hertfordshire,United Kingdom,1160,325761
-539,2020-08-22,Hertfordshire,United Kingdom,1288,324601
-540,2020-08-21,Hertfordshire,United Kingdom,1033,323313
-541,2020-08-20,Hertfordshire,United Kingdom,1182,322280
-542,2020-08-19,Hertfordshire,United Kingdom,812,321098
-543,2020-08-18,Hertfordshire,United Kingdom,1089,320286
-544,2020-08-17,Hertfordshire,United Kingdom,713,319197
-545,2020-08-16,Hertfordshire,United Kingdom,1040,318484
-546,2020-08-15,Hertfordshire,United Kingdom,1077,317444
-547,2020-08-14,Hertfordshire,United Kingdom,1441,316367
-548,2020-08-13,Hertfordshire,United Kingdom,1129,314927
-549,2020-08-12,Hertfordshire,United Kingdom,1009,313798
-550,2020-08-11,Hertfordshire,United Kingdom,1148,312789
-551,2020-08-10,Hertfordshire,United Kingdom,740,311641
-552,2020-08-09,Hertfordshire,United Kingdom,1062,310825
-553,2020-08-08,Hertfordshire,United Kingdom,758,309763
-554,2020-08-07,Hertfordshire,United Kingdom,871,309005
-555,2020-08-06,Hertfordshire,United Kingdom,950,308134
-556,2020-08-05,Hertfordshire,United Kingdom,892,307184
-557,2020-08-04,Hertfordshire,United Kingdom,670,306293
-558,2020-08-03,Hertfordshire,United Kingdom,898,305623
-559,2020-08-02,Hertfordshire,United Kingdom,744,304685
-560,2020-08-01,Hertfordshire,United Kingdom,761,303942
-561,2020-07-31,Hertfordshire,United Kingdom,880,303181
-562,2020-07-30,Hertfordshire,United Kingdom,846,302301
-563,2020-07-29,Hertfordshire,United Kingdom,763,301455
-564,2020-07-28,Hertfordshire,United Kingdom,581,300692
-565,2020-07-27,Hertfordshire,United Kingdom,685,300111
-566,2020-07-26,Hertfordshire,United Kingdom,745,299426
-567,2020-07-25,Hertfordshire,United Kingdom,767,298681
-568,2020-07-24,Hertfordshire,United Kingdom,768,297914
-569,2020-07-23,Hertfordshire,United Kingdom,769,297146
-570,2020-07-22,Hertfordshire,United Kingdom,560,296377
-571,2020-07-21,Hertfordshire,United Kingdom,445,295817
-572,2020-07-20,Hertfordshire,United Kingdom,557,295372
-573,2020-07-19,Hertfordshire,United Kingdom,726,294792
-574,2020-07-18,Hertfordshire,United Kingdom,827,294066
-575,2020-07-17,Hertfordshire,United Kingdom,687,293239
-576,2020-07-16,Hertfordshire,United Kingdom,642,292552
-577,2020-07-15,Hertfordshire,United Kingdom,538,291911
-578,2020-07-14,Hertfordshire,United Kingdom,398,291373
-579,2020-07-13,Hertfordshire,United Kingdom,530,290133
-580,2020-07-12,Hertfordshire,United Kingdom,650,289603
-581,2020-07-11,Hertfordshire,United Kingdom,820,288953
-582,2020-07-10,Hertfordshire,United Kingdom,512,288133
-583,2020-07-09,Hertfordshire,United Kingdom,642,287621
-584,2020-07-08,Hertfordshire,United Kingdom,630,286979
-585,2020-07-07,Hertfordshire,United Kingdom,581,286349
-586,2020-07-06,Hertfordshire,United Kingdom,343,285768
-587,2020-07-05,Hertfordshire,United Kingdom,516,285416
-588,2020-07-04,Hertfordshire,United Kingdom,624,284900
-589,2020-07-03,Hertfordshire,United Kingdom,544,284276
-590,2020-07-02,Hertfordshire,United Kingdom,576,283757
-591,2020-07-01,Hertfordshire,United Kingdom,829,313483
-592,2020-06-30,Hertfordshire,United Kingdom,689,312654
-593,2020-06-29,Hertfordshire,United Kingdom,815,311965
-594,2020-06-28,Hertfordshire,United Kingdom,901,311151
-595,2020-06-27,Hertfordshire,United Kingdom,890,310250
-596,2020-06-26,Hertfordshire,United Kingdom,1006,309360
-597,2020-06-25,Hertfordshire,United Kingdom,1118,307980
-598,2020-06-24,Hertfordshire,United Kingdom,653,306862
-599,2020-06-23,Hertfordshire,United Kingdom,874,306210
-600,2020-06-22,Hertfordshire,United Kingdom,958,305289
-601,2020-06-21,Hertfordshire,United Kingdom,1221,304331
-602,2020-06-20,Hertfordshire,United Kingdom,1295,303110
-603,2020-06-19,Hertfordshire,United Kingdom,1346,301815
-604,2020-06-18,Hertfordshire,United Kingdom,1218,300469
-605,2020-06-17,Hertfordshire,United Kingdom,1115,299251
-606,2020-06-16,Hertfordshire,United Kingdom,1279,298136
-607,2020-06-15,Hertfordshire,United Kingdom,1056,296857
-608,2020-06-14,Hertfordshire,United Kingdom,1514,295889
-609,2020-06-13,Hertfordshire,United Kingdom,1425,294375
-610,2020-06-12,Hertfordshire,United Kingdom,1541,292950
-611,2020-06-11,Hertfordshire,United Kingdom,1266,291409
-612,2020-06-10,Hertfordshire,United Kingdom,1003,290143
-613,2020-06-09,Hertfordshire,United Kingdom,1387,289140
-614,2020-06-08,Hertfordshire,United Kingdom,1205,287399
-615,2020-06-07,Hertfordshire,United Kingdom,1326,286194
-616,2020-06-06,Hertfordshire,United Kingdom,1557,284868
-617,2020-06-05,Hertfordshire,United Kingdom,1650,283311
-618,2020-06-04,Hertfordshire,United Kingdom,1805,281661
-619,2020-06-03,Hertfordshire,United Kingdom,1871,279856
-620,2020-06-02,Hertfordshire,United Kingdom,1613,277985
-621,2020-06-01,Hertfordshire,United Kingdom,1570,276332
-622,2020-05-31,Hertfordshire,United Kingdom,1936,274762
-623,2020-05-30,Hertfordshire,United Kingdom,2445,272826
-624,2020-05-29,Hertfordshire,United Kingdom,2095,271222
-625,2020-05-28,Hertfordshire,United Kingdom,1887,269127
-626,2020-05-27,Hertfordshire,United Kingdom,2013,267240
-627,2020-05-26,Hertfordshire,United Kingdom,2004,265227
-628,2020-05-25,Hertfordshire,United Kingdom,1625,261184
-629,2020-05-24,Hertfordshire,United Kingdom,2409,259559
-630,2020-05-23,Hertfordshire,United Kingdom,2959,257154
-631,2020-05-22,Hertfordshire,United Kingdom,3287,254195
-632,2020-05-21,Hertfordshire,United Kingdom,2615,250908
-633,2020-05-20,Hertfordshire,United Kingdom,2472,248293
-634,2020-05-19,Hertfordshire,United Kingdom,2412,248818
-635,2020-05-18,Hertfordshire,United Kingdom,2684,246406
-636,2020-05-17,Hertfordshire,United Kingdom,3562,243723
-637,2020-05-16,Hertfordshire,United Kingdom,3451,240161
-638,2020-05-15,Hertfordshire,United Kingdom,3560,236711
-639,2020-05-14,Hertfordshire,United Kingdom,3446,233151
-640,2020-05-13,Hertfordshire,United Kingdom,3242,229705
-641,2020-05-12,Hertfordshire,United Kingdom,3403,226463
-642,2020-05-11,Hertfordshire,United Kingdom,3877,223060
-643,2020-05-10,Hertfordshire,United Kingdom,3923,219183
-644,2020-05-09,Hertfordshire,United Kingdom,3896,215260
-645,2020-05-08,Hertfordshire,United Kingdom,4649,211364
-646,2020-05-07,Hertfordshire,United Kingdom,5614,206715
-647,2020-05-06,Hertfordshire,United Kingdom,6111,201101
-648,2020-05-05,Hertfordshire,United Kingdom,4406,194990
-649,2020-05-04,Hertfordshire,United Kingdom,3985,190584
-650,2020-05-03,Hertfordshire,United Kingdom,4339,186599
-651,2020-05-02,Hertfordshire,United Kingdom,4806,182260
-652,2020-05-01,Hertfordshire,United Kingdom,6201,177454
-653,2020-04-30,Hertfordshire,United Kingdom,6032,171253
-654,2020-04-29,Hertfordshire,United Kingdom,4076,165221
-655,2020-04-28,Hertfordshire,United Kingdom,3996,161145
-656,2020-04-27,Hertfordshire,United Kingdom,4310,157149
-657,2020-04-26,Hertfordshire,United Kingdom,4463,152840
-658,2020-04-25,Hertfordshire,United Kingdom,4913,148377
-659,2020-04-24,Hertfordshire,United Kingdom,5386,143464
-660,2020-04-23,Hertfordshire,United Kingdom,4583,138078
-661,2020-04-22,Hertfordshire,United Kingdom,4451,133495
-662,2020-04-21,Hertfordshire,United Kingdom,4301,129044
-663,2020-04-20,Hertfordshire,United Kingdom,4676,124743
-664,2020-04-19,Hertfordshire,United Kingdom,5850,120067
-665,2020-04-18,Hertfordshire,United Kingdom,5526,114217
-666,2020-04-17,Hertfordshire,United Kingdom,5599,108692
-667,2020-04-16,Hertfordshire,United Kingdom,4618,103093
-668,2020-04-15,Hertfordshire,United Kingdom,4605,98476
-669,2020-04-14,Hertfordshire,United Kingdom,5252,93873
-670,2020-04-13,Hertfordshire,United Kingdom,4342,88621
-671,2020-04-12,Hertfordshire,United Kingdom,5288,84279
-672,2020-04-11,Hertfordshire,United Kingdom,5234,78991
-673,2020-04-10,Hertfordshire,United Kingdom,5706,73758
-674,2020-04-09,Hertfordshire,United Kingdom,4675,68052
-675,2020-04-08,Hertfordshire,United Kingdom,5865,63377
-676,2020-04-07,Hertfordshire,United Kingdom,3888,57512
-677,2020-04-06,Hertfordshire,United Kingdom,4143,53624
-678,2020-04-05,Hertfordshire,United Kingdom,6199,49481
-679,2020-04-04,Hertfordshire,United Kingdom,4000,43282
-680,2020-04-03,Hertfordshire,United Kingdom,4672,39282
-681,2020-04-02,Hertfordshire,United Kingdom,4522,34610
-682,2020-04-01,Hertfordshire,United Kingdom,4567,30088
-683,2020-03-31,Hertfordshire,United Kingdom,3250,25521
-684,2020-03-30,Hertfordshire,United Kingdom,2665,22271
-685,2020-03-29,Hertfordshire,United Kingdom,2502,19606
-686,2020-03-28,Hertfordshire,United Kingdom,2556,17104
-687,2020-03-27,Hertfordshire,United Kingdom,2890,14548
-688,2020-03-26,Hertfordshire,United Kingdom,2129,11658
-689,2020-03-25,Hertfordshire,United Kingdom,1452,9529
-690,2020-03-24,Hertfordshire,United Kingdom,1427,8077
-691,2020-03-23,Hertfordshire,United Kingdom,967,6650
-692,2020-03-22,Hertfordshire,United Kingdom,665,5683
-693,2020-03-21,Hertfordshire,United Kingdom,1035,5018
-694,2020-03-20,Hertfordshire,United Kingdom,714,3983
-695,2020-03-19,Hertfordshire,United Kingdom,643,3269
-696,2020-03-18,Hertfordshire,United Kingdom,676,2626
-697,2020-03-17,Hertfordshire,United Kingdom,407,1950
-698,2020-03-16,Hertfordshire,United Kingdom,152,1543
-699,2020-03-15,Hertfordshire,United Kingdom,330,1391
-700,2020-03-14,Hertfordshire,United Kingdom,264,1061
-701,2020-03-13,Hertfordshire,United Kingdom,207,797
-702,2020-03-12,Hertfordshire,United Kingdom,134,590
-703,2020-03-11,Hertfordshire,United Kingdom,83,456
-704,2020-03-10,Hertfordshire,United Kingdom,52,373
-705,2020-03-09,Hertfordshire,United Kingdom,50,321
-706,2020-03-08,Hertfordshire,United Kingdom,65,271
-707,2020-03-07,Hertfordshire,United Kingdom,46,206
-708,2020-03-06,Hertfordshire,United Kingdom,46,160
-709,2020-03-05,Hertfordshire,United Kingdom,29,114
-710,2020-03-04,Hertfordshire,United Kingdom,34,85
-711,2020-03-03,Hertfordshire,United Kingdom,11,51
-712,2020-03-02,Hertfordshire,United Kingdom,5,40
-713,2020-03-01,Hertfordshire,United Kingdom,12,35
-714,2020-02-29,Hertfordshire,United Kingdom,4,23
-715,2020-02-28,Hertfordshire,United Kingdom,6,19
-716,2020-02-27,Hertfordshire,United Kingdom,0,13
-717,2020-02-26,Hertfordshire,United Kingdom,0,13
-718,2020-02-25,Hertfordshire,United Kingdom,0,13
-719,2020-02-24,Hertfordshire,United Kingdom,4,13
-720,2020-02-23,Hertfordshire,United Kingdom,0,9
-721,2020-02-22,Hertfordshire,United Kingdom,0,9
-722,2020-02-21,Hertfordshire,United Kingdom,0,9
-723,2020-02-20,Hertfordshire,United Kingdom,0,9
-724,2020-02-19,Hertfordshire,United Kingdom,0,9
-725,2020-02-18,Hertfordshire,United Kingdom,0,9
-726,2020-02-17,Hertfordshire,United Kingdom,0,9
-727,2020-02-16,Hertfordshire,United Kingdom,0,9
-728,2020-02-15,Hertfordshire,United Kingdom,0,9
-729,2020-02-14,Hertfordshire,United Kingdom,0,9
-730,2020-02-13,Hertfordshire,United Kingdom,1,9
-731,2020-02-12,Hertfordshire,United Kingdom,0,8
-732,2020-02-11,Hertfordshire,United Kingdom,0,8
-733,2020-02-10,Hertfordshire,United Kingdom,4,8
-734,2020-02-09,Hertfordshire,United Kingdom,1,4
-735,2020-02-08,Hertfordshire,United Kingdom,0,3
-736,2020-02-07,Hertfordshire,United Kingdom,0,3
-737,2020-02-06,Hertfordshire,United Kingdom,1,3
-738,2020-02-05,Hertfordshire,United Kingdom,0,2
-739,2020-02-04,Hertfordshire,United Kingdom,0,2
-740,2020-02-03,Hertfordshire,United Kingdom,0,2
-741,2020-02-02,Hertfordshire,United Kingdom,0,2
-742,2020-02-01,Hertfordshire,United Kingdom,0,2
-743,2020-01-31,Hertfordshire,United Kingdom,2,2
+,Date,CityName,DailyCasesBySpecimenDate,DailyCasesChangeBySpecimenDate,CummulativeCasesBySpecimenDate,DailyCasesByPublishDate
+0,2022-03-02,Hertfordshire,,,,753.0
+1,2022-03-01,Hertfordshire,458.0,458.0,346608.0,623.0
+2,2022-02-28,Hertfordshire,699.0,278.0,346150.0,1435.0
+3,2022-02-27,Hertfordshire,509.0,7.0,345451.0,0.0
+4,2022-02-26,Hertfordshire,429.0,6.0,344942.0,0.0
+5,2022-02-25,Hertfordshire,433.0,3.0,344513.0,535.0
+6,2022-02-24,Hertfordshire,515.0,1.0,344080.0,635.0
+7,2022-02-23,Hertfordshire,600.0,,343565.0,680.0
+8,2022-02-22,Hertfordshire,674.0,,342965.0,769.0
+9,2022-02-21,Hertfordshire,793.0,,342291.0,767.0
+10,2022-02-20,Hertfordshire,763.0,,341498.0,612.0
+11,2022-02-19,Hertfordshire,685.0,,340735.0,732.0
+12,2022-02-18,Hertfordshire,618.0,,340050.0,869.0
+13,2022-02-17,Hertfordshire,771.0,,339432.0,935.0
+14,2022-02-16,Hertfordshire,960.0,,338661.0,948.0
+15,2022-02-15,Hertfordshire,909.0,,337701.0,807.0
+16,2022-02-14,Hertfordshire,939.0,,336792.0,721.0
+17,2022-02-13,Hertfordshire,751.0,,335853.0,712.0
+18,2022-02-12,Hertfordshire,635.0,,335102.0,948.0
+19,2022-02-11,Hertfordshire,801.0,,334467.0,1123.0
+20,2022-02-10,Hertfordshire,1074.0,,333666.0,1289.0
+21,2022-02-09,Hertfordshire,1251.0,,332592.0,1402.0
+22,2022-02-08,Hertfordshire,1332.0,,331341.0,1285.0
+23,2022-02-07,Hertfordshire,1426.0,,330009.0,1280.0
+24,2022-02-06,Hertfordshire,1275.0,,328583.0,1161.0
+25,2022-02-05,Hertfordshire,1060.0,,327308.0,1363.0
+26,2022-02-04,Hertfordshire,1302.0,,326248.0,1691.0
+27,2022-02-03,Hertfordshire,1504.0,,324946.0,1815.0
+28,2022-02-02,Hertfordshire,1738.0,,323442.0,1854.0
+29,2022-02-01,Hertfordshire,1847.0,,321704.0,2448.0
+30,2022-01-31,Hertfordshire,2110.0,,319857.0,15089.0
+31,2022-01-30,Hertfordshire,1774.0,,317747.0,1437.0
+32,2022-01-29,Hertfordshire,1580.0,,315973.0,1556.0
+33,2022-01-28,Hertfordshire,1610.0,,314393.0,1740.0
+34,2022-01-27,Hertfordshire,1827.0,,312783.0,1896.0
+35,2022-01-26,Hertfordshire,2091.0,,310956.0,2093.0
+36,2022-01-25,Hertfordshire,2253.0,,308865.0,1852.0
+37,2022-01-24,Hertfordshire,2285.0,,306612.0,1863.0
+38,2022-01-23,Hertfordshire,1946.0,,304327.0,1485.0
+39,2022-01-22,Hertfordshire,1673.0,,302381.0,1464.0
+40,2022-01-21,Hertfordshire,1650.0,,300708.0,1862.0
+41,2022-01-20,Hertfordshire,1789.0,,299058.0,1895.0
+42,2022-01-19,Hertfordshire,2011.0,,297269.0,2055.0
+43,2022-01-18,Hertfordshire,2060.0,,295258.0,1612.0
+44,2022-01-17,Hertfordshire,2282.0,,293198.0,1531.0
+45,2022-01-16,Hertfordshire,1640.0,,290916.0,1212.0
+46,2022-01-15,Hertfordshire,1300.0,,289276.0,1342.0
+47,2022-01-14,Hertfordshire,1414.0,,287976.0,1591.0
+48,2022-01-13,Hertfordshire,1432.0,,286562.0,1711.0
+49,2022-01-12,Hertfordshire,1638.0,,285130.0,1894.0
+50,2022-01-11,Hertfordshire,1737.0,,283492.0,1489.0
+51,2022-01-10,Hertfordshire,2012.0,,281755.0,1882.0
+52,2022-01-09,Hertfordshire,1545.0,,279743.0,2269.0
+53,2022-01-08,Hertfordshire,1472.0,,278198.0,2466.0
+54,2022-01-07,Hertfordshire,1903.0,,276726.0,2887.0
+55,2022-01-06,Hertfordshire,2754.0,,274823.0,2946.0
+56,2022-01-05,Hertfordshire,3333.0,,272069.0,3016.0
+57,2022-01-04,Hertfordshire,4277.0,,268736.0,2908.0
+58,2022-01-03,Hertfordshire,3597.0,,264459.0,2721.0
+59,2022-01-02,Hertfordshire,2826.0,,260862.0,2072.0
+60,2022-01-01,Hertfordshire,1823.0,,258036.0,3249.0
+61,2021-12-31,Hertfordshire,2952.0,,256213.0,3931.0
+62,2021-12-30,Hertfordshire,3955.0,,253261.0,3589.0
+63,2021-12-29,Hertfordshire,4894.0,,249306.0,3549.0
+64,2021-12-28,Hertfordshire,3821.0,,244412.0,2946.0
+65,2021-12-27,Hertfordshire,3872.0,,240591.0,2853.0
+66,2021-12-26,Hertfordshire,2273.0,,236719.0,2356.0
+67,2021-12-25,Hertfordshire,1532.0,,234446.0,3222.0
+68,2021-12-24,Hertfordshire,2958.0,,232914.0,2458.0
+69,2021-12-23,Hertfordshire,3806.0,,229956.0,2952.0
+70,2021-12-22,Hertfordshire,3612.0,,226150.0,3133.0
+71,2021-12-21,Hertfordshire,3665.0,,222538.0,2568.0
+72,2021-12-20,Hertfordshire,3552.0,,218873.0,2178.0
+73,2021-12-19,Hertfordshire,2496.0,,215321.0,2061.0
+74,2021-12-18,Hertfordshire,2454.0,,212825.0,2525.0
+75,2021-12-17,Hertfordshire,2365.0,,210371.0,2585.0
+76,2021-12-16,Hertfordshire,2785.0,,208006.0,2244.0
+77,2021-12-15,Hertfordshire,2941.0,,205221.0,1894.0
+78,2021-12-14,Hertfordshire,2676.0,,202280.0,1591.0
+79,2021-12-13,Hertfordshire,2042.0,,199604.0,1053.0
+80,2021-12-12,Hertfordshire,1236.0,,197562.0,1095.0
+81,2021-12-11,Hertfordshire,1166.0,,196326.0,1128.0
+82,2021-12-10,Hertfordshire,1115.0,,195160.0,1192.0
+83,2021-12-09,Hertfordshire,1240.0,,194045.0,971.0
+84,2021-12-08,Hertfordshire,1158.0,,192805.0,1044.0
+85,2021-12-07,Hertfordshire,1184.0,,191647.0,862.0
+86,2021-12-06,Hertfordshire,1154.0,,190463.0,914.0
+87,2021-12-05,Hertfordshire,777.0,,189309.0,698.0
+88,2021-12-04,Hertfordshire,768.0,,188532.0,931.0
+89,2021-12-03,Hertfordshire,875.0,,187764.0,989.0
+90,2021-12-02,Hertfordshire,934.0,,186889.0,1134.0
+91,2021-12-01,Hertfordshire,1083.0,,185955.0,936.0
+92,2021-11-30,Hertfordshire,1159.0,,184872.0,783.0
+93,2021-11-29,Hertfordshire,1026.0,,183713.0,829.0
+94,2021-11-28,Hertfordshire,795.0,,182687.0,765.0
+95,2021-11-27,Hertfordshire,709.0,,181892.0,857.0
+96,2021-11-26,Hertfordshire,845.0,,181183.0,1045.0
+97,2021-11-25,Hertfordshire,910.0,,180338.0,914.0
+98,2021-11-24,Hertfordshire,987.0,,179428.0,963.0
+99,2021-11-23,Hertfordshire,986.0,,178441.0,889.0
+100,2021-11-22,Hertfordshire,1062.0,,177455.0,784.0
+101,2021-11-21,Hertfordshire,742.0,,176393.0,865.0
+102,2021-11-20,Hertfordshire,815.0,,175651.0,952.0
+103,2021-11-19,Hertfordshire,804.0,,174836.0,1008.0
+104,2021-11-18,Hertfordshire,917.0,,174032.0,941.0
+105,2021-11-17,Hertfordshire,981.0,,173115.0,669.0
+106,2021-11-16,Hertfordshire,972.0,,172134.0,798.0
+107,2021-11-15,Hertfordshire,1041.0,,171162.0,806.0
+108,2021-11-14,Hertfordshire,736.0,,170121.0,706.0
+109,2021-11-13,Hertfordshire,717.0,,169385.0,842.0
+110,2021-11-12,Hertfordshire,753.0,,168668.0,888.0
+111,2021-11-11,Hertfordshire,880.0,,167915.0,906.0
+112,2021-11-10,Hertfordshire,939.0,,167035.0,739.0
+113,2021-11-09,Hertfordshire,883.0,,166096.0,621.0
+114,2021-11-08,Hertfordshire,841.0,,165213.0,617.0
+115,2021-11-07,Hertfordshire,534.0,,164372.0,499.0
+116,2021-11-06,Hertfordshire,542.0,,163838.0,580.0
+117,2021-11-05,Hertfordshire,514.0,,163296.0,652.0
+118,2021-11-04,Hertfordshire,650.0,,162782.0,649.0
+119,2021-11-03,Hertfordshire,663.0,,162132.0,736.0
+120,2021-11-02,Hertfordshire,722.0,,161469.0,709.0
+121,2021-11-01,Hertfordshire,798.0,,160747.0,745.0
+122,2021-10-31,Hertfordshire,715.0,,159949.0,787.0
+123,2021-10-30,Hertfordshire,697.0,,159234.0,759.0
+124,2021-10-29,Hertfordshire,795.0,,158537.0,810.0
+125,2021-10-28,Hertfordshire,744.0,,157742.0,824.0
+126,2021-10-27,Hertfordshire,886.0,,156998.0,901.0
+127,2021-10-26,Hertfordshire,873.0,,156112.0,902.0
+128,2021-10-25,Hertfordshire,939.0,,155239.0,711.0
+129,2021-10-24,Hertfordshire,744.0,,154300.0,770.0
+130,2021-10-23,Hertfordshire,778.0,,153556.0,995.0
+131,2021-10-22,Hertfordshire,772.0,,152778.0,773.0
+132,2021-10-21,Hertfordshire,877.0,,152006.0,1075.0
+133,2021-10-20,Hertfordshire,1007.0,,151129.0,1012.0
+134,2021-10-19,Hertfordshire,1057.0,,150122.0,834.0
+135,2021-10-18,Hertfordshire,1034.0,,149065.0,935.0
+136,2021-10-17,Hertfordshire,880.0,,148031.0,759.0
+137,2021-10-16,Hertfordshire,732.0,,147151.0,935.0
+138,2021-10-15,Hertfordshire,730.0,,146419.0,688.0
+139,2021-10-14,Hertfordshire,826.0,,145689.0,711.0
+140,2021-10-13,Hertfordshire,869.0,,144863.0,700.0
+141,2021-10-12,Hertfordshire,808.0,,143994.0,781.0
+142,2021-10-11,Hertfordshire,907.0,,143186.0,707.0
+143,2021-10-10,Hertfordshire,761.0,,142279.0,701.0
+144,2021-10-09,Hertfordshire,608.0,,141518.0,668.0
+145,2021-10-08,Hertfordshire,690.0,,140910.0,780.0
+146,2021-10-07,Hertfordshire,747.0,,140220.0,700.0
+147,2021-10-06,Hertfordshire,709.0,,139473.0,798.0
+148,2021-10-05,Hertfordshire,753.0,,138764.0,761.0
+149,2021-10-04,Hertfordshire,859.0,,138011.0,634.0
+150,2021-10-03,Hertfordshire,672.0,,137152.0,568.0
+151,2021-10-02,Hertfordshire,514.0,,136480.0,515.0
+152,2021-10-01,Hertfordshire,546.0,,135966.0,518.0
+153,2021-09-30,Hertfordshire,554.0,,135420.0,699.0
+154,2021-09-29,Hertfordshire,667.0,,134866.0,697.0
+155,2021-09-28,Hertfordshire,704.0,,134199.0,601.0
+156,2021-09-27,Hertfordshire,813.0,,133495.0,758.0
+157,2021-09-26,Hertfordshire,609.0,,132682.0,469.0
+158,2021-09-25,Hertfordshire,550.0,,132073.0,542.0
+159,2021-09-24,Hertfordshire,466.0,,131523.0,464.0
+160,2021-09-23,Hertfordshire,547.0,,131057.0,632.0
+161,2021-09-22,Hertfordshire,581.0,,130510.0,560.0
+162,2021-09-21,Hertfordshire,645.0,,129929.0,524.0
+163,2021-09-20,Hertfordshire,712.0,,129284.0,651.0
+164,2021-09-19,Hertfordshire,541.0,,128572.0,443.0
+165,2021-09-18,Hertfordshire,458.0,,128031.0,482.0
+166,2021-09-17,Hertfordshire,460.0,,127573.0,499.0
+167,2021-09-16,Hertfordshire,463.0,,127113.0,521.0
+168,2021-09-15,Hertfordshire,526.0,,126650.0,396.0
+169,2021-09-14,Hertfordshire,520.0,,126124.0,413.0
+170,2021-09-13,Hertfordshire,521.0,,125604.0,410.0
+171,2021-09-12,Hertfordshire,356.0,,125083.0,401.0
+172,2021-09-11,Hertfordshire,340.0,,124727.0,446.0
+173,2021-09-10,Hertfordshire,385.0,,124387.0,442.0
+174,2021-09-09,Hertfordshire,498.0,,124002.0,509.0
+175,2021-09-08,Hertfordshire,454.0,,123504.0,628.0
+176,2021-09-07,Hertfordshire,548.0,,123050.0,469.0
+177,2021-09-06,Hertfordshire,684.0,,122502.0,520.0
+178,2021-09-05,Hertfordshire,474.0,,121818.0,651.0
+179,2021-09-04,Hertfordshire,491.0,,121344.0,621.0
+180,2021-09-03,Hertfordshire,577.0,,120853.0,775.0
+181,2021-09-02,Hertfordshire,636.0,,120276.0,483.0
+182,2021-09-01,Hertfordshire,689.0,,119640.0,562.0
+183,2021-08-31,Hertfordshire,718.0,,118951.0,415.0
+184,2021-08-30,Hertfordshire,494.0,,118233.0,393.0
+185,2021-08-29,Hertfordshire,382.0,,117739.0,464.0
+186,2021-08-28,Hertfordshire,396.0,,117357.0,477.0
+187,2021-08-27,Hertfordshire,462.0,,116961.0,485.0
+188,2021-08-26,Hertfordshire,499.0,,116499.0,575.0
+189,2021-08-25,Hertfordshire,481.0,,116000.0,508.0
+190,2021-08-24,Hertfordshire,559.0,,115519.0,426.0
+191,2021-08-23,Hertfordshire,532.0,,114960.0,411.0
+192,2021-08-22,Hertfordshire,441.0,,114428.0,558.0
+193,2021-08-21,Hertfordshire,423.0,,113987.0,573.0
+194,2021-08-20,Hertfordshire,540.0,,113564.0,579.0
+195,2021-08-19,Hertfordshire,589.0,,113024.0,557.0
+196,2021-08-18,Hertfordshire,585.0,,112435.0,505.0
+197,2021-08-17,Hertfordshire,587.0,,111850.0,483.0
+198,2021-08-16,Hertfordshire,584.0,,111263.0,403.0
+199,2021-08-15,Hertfordshire,430.0,,110679.0,426.0
+200,2021-08-14,Hertfordshire,409.0,,110249.0,543.0
+201,2021-08-13,Hertfordshire,527.0,,109840.0,615.0
+202,2021-08-12,Hertfordshire,590.0,,109313.0,636.0
+203,2021-08-11,Hertfordshire,605.0,,108723.0,532.0
+204,2021-08-10,Hertfordshire,573.0,,108118.0,362.0
+205,2021-08-09,Hertfordshire,544.0,,107545.0,427.0
+206,2021-08-08,Hertfordshire,411.0,,107001.0,458.0
+207,2021-08-07,Hertfordshire,414.0,,106590.0,543.0
+208,2021-08-06,Hertfordshire,520.0,,106176.0,526.0
+209,2021-08-05,Hertfordshire,559.0,,105656.0,619.0
+210,2021-08-04,Hertfordshire,590.0,,105097.0,573.0
+211,2021-08-03,Hertfordshire,613.0,,104507.0,384.0
+212,2021-08-02,Hertfordshire,539.0,,103894.0,431.0
+213,2021-08-01,Hertfordshire,343.0,,103355.0,441.0
+214,2021-07-31,Hertfordshire,420.0,,103012.0,438.0
+215,2021-07-30,Hertfordshire,474.0,,102592.0,449.0
+216,2021-07-29,Hertfordshire,506.0,,102118.0,557.0
+217,2021-07-28,Hertfordshire,495.0,,101612.0,501.0
+218,2021-07-27,Hertfordshire,478.0,,101117.0,458.0
+219,2021-07-26,Hertfordshire,534.0,,100639.0,402.0
+220,2021-07-25,Hertfordshire,382.0,,100105.0,524.0
+221,2021-07-24,Hertfordshire,413.0,,99723.0,650.0
+222,2021-07-23,Hertfordshire,495.0,,99310.0,738.0
+223,2021-07-22,Hertfordshire,665.0,,98815.0,742.0
+224,2021-07-21,Hertfordshire,685.0,,98150.0,702.0
+225,2021-07-20,Hertfordshire,776.0,,97465.0,1440.0
+226,2021-07-19,Hertfordshire,937.0,,96689.0,476.0
+227,2021-07-18,Hertfordshire,662.0,,95752.0,893.0
+228,2021-07-17,Hertfordshire,782.0,,95090.0,1040.0
+229,2021-07-16,Hertfordshire,1142.0,,94308.0,876.0
+230,2021-07-15,Hertfordshire,1264.0,,93166.0,955.0
+231,2021-07-14,Hertfordshire,1077.0,,91902.0,703.0
+232,2021-07-13,Hertfordshire,841.0,,90825.0,716.0
+233,2021-07-12,Hertfordshire,764.0,,89984.0,558.0
+234,2021-07-11,Hertfordshire,584.0,,89220.0,568.0
+235,2021-07-10,Hertfordshire,485.0,,88636.0,566.0
+236,2021-07-09,Hertfordshire,522.0,,88151.0,572.0
+237,2021-07-08,Hertfordshire,545.0,,87629.0,483.0
+238,2021-07-07,Hertfordshire,617.0,,87084.0,484.0
+239,2021-07-06,Hertfordshire,640.0,,86467.0,597.0
+240,2021-07-05,Hertfordshire,538.0,,85827.0,368.0
+241,2021-07-04,Hertfordshire,406.0,,85289.0,390.0
+242,2021-07-03,Hertfordshire,395.0,,84883.0,330.0
+243,2021-07-02,Hertfordshire,418.0,,84488.0,336.0
+244,2021-07-01,Hertfordshire,400.0,,84070.0,388.0
+245,2021-06-30,Hertfordshire,381.0,,83670.0,262.0
+246,2021-06-29,Hertfordshire,349.0,,83289.0,282.0
+247,2021-06-28,Hertfordshire,371.0,,82940.0,306.0
+248,2021-06-27,Hertfordshire,264.0,,82569.0,206.0
+249,2021-06-26,Hertfordshire,225.0,,82305.0,224.0
+250,2021-06-25,Hertfordshire,228.0,,82080.0,217.0
+251,2021-06-24,Hertfordshire,244.0,,81852.0,207.0
+252,2021-06-23,Hertfordshire,248.0,,81608.0,202.0
+253,2021-06-22,Hertfordshire,211.0,,81360.0,140.0
+254,2021-06-21,Hertfordshire,211.0,,81149.0,117.0
+255,2021-06-20,Hertfordshire,125.0,,80938.0,126.0
+256,2021-06-19,Hertfordshire,99.0,,80813.0,154.0
+257,2021-06-18,Hertfordshire,133.0,,80714.0,120.0
+258,2021-06-17,Hertfordshire,139.0,,80581.0,158.0
+259,2021-06-16,Hertfordshire,161.0,,80442.0,87.0
+260,2021-06-15,Hertfordshire,131.0,,80281.0,93.0
+261,2021-06-14,Hertfordshire,117.0,,80150.0,90.0
+262,2021-06-13,Hertfordshire,74.0,,80033.0,54.0
+263,2021-06-12,Hertfordshire,67.0,,79959.0,73.0
+264,2021-06-11,Hertfordshire,85.0,,79892.0,89.0
+265,2021-06-10,Hertfordshire,67.0,,79807.0,78.0
+266,2021-06-09,Hertfordshire,82.0,,79740.0,51.0
+267,2021-06-08,Hertfordshire,77.0,,79658.0,71.0
+268,2021-06-07,Hertfordshire,67.0,,79581.0,79.0
+269,2021-06-06,Hertfordshire,70.0,,79514.0,41.0
+270,2021-06-05,Hertfordshire,44.0,,79444.0,44.0
+271,2021-06-04,Hertfordshire,67.0,,79400.0,77.0
+272,2021-06-03,Hertfordshire,61.0,,79333.0,41.0
+273,2021-06-02,Hertfordshire,69.0,,79272.0,48.0
+274,2021-06-01,Hertfordshire,53.0,,79203.0,41.0
+275,2021-05-31,Hertfordshire,49.0,,79150.0,45.0
+276,2021-05-30,Hertfordshire,33.0,,79101.0,27.0
+277,2021-05-29,Hertfordshire,35.0,,79068.0,43.0
+278,2021-05-28,Hertfordshire,53.0,,79033.0,56.0
+279,2021-05-27,Hertfordshire,47.0,,78980.0,45.0
+280,2021-05-26,Hertfordshire,43.0,,78933.0,46.0
+281,2021-05-25,Hertfordshire,50.0,,78890.0,29.0
+282,2021-05-24,Hertfordshire,43.0,,78840.0,42.0
+283,2021-05-23,Hertfordshire,33.0,,78797.0,19.0
+284,2021-05-22,Hertfordshire,38.0,,78764.0,23.0
+285,2021-05-21,Hertfordshire,16.0,,78726.0,32.0
+286,2021-05-20,Hertfordshire,24.0,,78710.0,35.0
+287,2021-05-19,Hertfordshire,41.0,,78686.0,25.0
+288,2021-05-18,Hertfordshire,34.0,,78645.0,0.0
+289,2021-05-17,Hertfordshire,36.0,,78611.0,17.0
+290,2021-05-16,Hertfordshire,28.0,,78575.0,21.0
+291,2021-05-15,Hertfordshire,13.0,,78547.0,24.0
+292,2021-05-14,Hertfordshire,15.0,,78534.0,30.0
+293,2021-05-13,Hertfordshire,29.0,,78519.0,34.0
+294,2021-05-12,Hertfordshire,29.0,,78490.0,8.0
+295,2021-05-11,Hertfordshire,14.0,,78461.0,41.0
+296,2021-05-10,Hertfordshire,33.0,,78447.0,32.0
+297,2021-05-09,Hertfordshire,34.0,,78414.0,20.0
+298,2021-05-08,Hertfordshire,20.0,,78380.0,23.0
+299,2021-05-07,Hertfordshire,22.0,,78360.0,36.0
+300,2021-05-06,Hertfordshire,29.0,,78338.0,38.0
+301,2021-05-05,Hertfordshire,24.0,,78309.0,25.0
+302,2021-05-04,Hertfordshire,39.0,,78285.0,29.0
+303,2021-05-03,Hertfordshire,29.0,,78246.0,24.0
+304,2021-05-02,Hertfordshire,20.0,,78217.0,17.0
+305,2021-05-01,Hertfordshire,16.0,,78197.0,19.0
+306,2021-04-30,Hertfordshire,18.0,,78181.0,35.0
+307,2021-04-29,Hertfordshire,29.0,,78163.0,38.0
+308,2021-04-28,Hertfordshire,30.0,,78134.0,27.0
+309,2021-04-27,Hertfordshire,27.0,,78104.0,37.0
+310,2021-04-26,Hertfordshire,34.0,,78077.0,33.0
+311,2021-04-25,Hertfordshire,40.0,,78043.0,13.0
+312,2021-04-24,Hertfordshire,25.0,,78003.0,28.0
+313,2021-04-23,Hertfordshire,29.0,,77978.0,44.0
+314,2021-04-22,Hertfordshire,40.0,,77949.0,23.0
+315,2021-04-21,Hertfordshire,24.0,,77909.0,35.0
+316,2021-04-20,Hertfordshire,30.0,,77885.0,36.0
+317,2021-04-19,Hertfordshire,45.0,,77855.0,39.0
+318,2021-04-18,Hertfordshire,31.0,,77810.0,28.0
+319,2021-04-17,Hertfordshire,16.0,,77779.0,23.0
+320,2021-04-16,Hertfordshire,39.0,,77763.0,39.0
+321,2021-04-15,Hertfordshire,28.0,,77724.0,35.0
+322,2021-04-14,Hertfordshire,34.0,,77696.0,26.0
+323,2021-04-13,Hertfordshire,27.0,,77662.0,36.0
+324,2021-04-12,Hertfordshire,41.0,,77635.0,72.0
+325,2021-04-11,Hertfordshire,42.0,,77594.0,17.0
+326,2021-04-10,Hertfordshire,33.0,,77552.0,25.0
+327,2021-04-09,Hertfordshire,29.0,,77519.0,0.0
+328,2021-04-08,Hertfordshire,41.0,,77490.0,31.0
+329,2021-04-07,Hertfordshire,27.0,,77449.0,31.0
+330,2021-04-06,Hertfordshire,34.0,,77422.0,37.0
+331,2021-04-05,Hertfordshire,28.0,,77388.0,24.0
+332,2021-04-04,Hertfordshire,22.0,,77360.0,35.0
+333,2021-04-03,Hertfordshire,42.0,,77338.0,54.0
+334,2021-04-02,Hertfordshire,42.0,,77296.0,37.0
+335,2021-04-01,Hertfordshire,55.0,,77254.0,66.0
+336,2021-03-31,Hertfordshire,59.0,,77199.0,42.0
+337,2021-03-30,Hertfordshire,32.0,,77140.0,42.0
+338,2021-03-29,Hertfordshire,39.0,,77108.0,50.0
+339,2021-03-28,Hertfordshire,56.0,,77069.0,55.0
+340,2021-03-27,Hertfordshire,39.0,,77013.0,36.0
+341,2021-03-26,Hertfordshire,49.0,,76974.0,59.0
+342,2021-03-25,Hertfordshire,64.0,,76925.0,79.0
+343,2021-03-24,Hertfordshire,76.0,,76861.0,51.0
+344,2021-03-23,Hertfordshire,46.0,,76785.0,66.0
+345,2021-03-22,Hertfordshire,66.0,,76739.0,64.0
+346,2021-03-21,Hertfordshire,91.0,,76673.0,62.0
+347,2021-03-20,Hertfordshire,34.0,,76582.0,59.0
+348,2021-03-19,Hertfordshire,56.0,,76548.0,68.0
+349,2021-03-18,Hertfordshire,65.0,,76492.0,55.0
+350,2021-03-17,Hertfordshire,64.0,,76427.0,63.0
+351,2021-03-16,Hertfordshire,50.0,,76363.0,32.0
+352,2021-03-15,Hertfordshire,55.0,,76313.0,67.0
+353,2021-03-14,Hertfordshire,48.0,,76258.0,44.0
+354,2021-03-13,Hertfordshire,49.0,,76210.0,60.0
+355,2021-03-12,Hertfordshire,51.0,,76161.0,49.0
+356,2021-03-11,Hertfordshire,64.0,,76110.0,81.0
+357,2021-03-10,Hertfordshire,52.0,,76046.0,50.0
+358,2021-03-09,Hertfordshire,61.0,,75994.0,72.0
+359,2021-03-08,Hertfordshire,81.0,,75933.0,64.0
+360,2021-03-07,Hertfordshire,61.0,,75852.0,74.0
+361,2021-03-06,Hertfordshire,54.0,,75791.0,79.0
+362,2021-03-05,Hertfordshire,59.0,,75737.0,75.0
+363,2021-03-04,Hertfordshire,69.0,,75678.0,86.0
+364,2021-03-03,Hertfordshire,72.0,,75609.0,64.0
+365,2021-03-02,Hertfordshire,99.0,,75537.0,91.0
+366,2021-03-01,Hertfordshire,85.0,,75438.0,72.0
+367,2021-02-28,Hertfordshire,78.0,,75353.0,80.0
+368,2021-02-27,Hertfordshire,73.0,,75275.0,114.0
+369,2021-02-26,Hertfordshire,96.0,,75202.0,80.0
+370,2021-02-25,Hertfordshire,106.0,,75106.0,141.0
+371,2021-02-24,Hertfordshire,102.0,,75000.0,115.0
+372,2021-02-23,Hertfordshire,124.0,,74898.0,115.0
+373,2021-02-22,Hertfordshire,133.0,,74774.0,106.0
+374,2021-02-21,Hertfordshire,89.0,,74641.0,158.0
+375,2021-02-20,Hertfordshire,93.0,,74552.0,83.0
+376,2021-02-19,Hertfordshire,133.0,,74459.0,147.0
+377,2021-02-18,Hertfordshire,119.0,,74326.0,125.0
+378,2021-02-17,Hertfordshire,147.0,,74207.0,211.0
+379,2021-02-16,Hertfordshire,150.0,,74060.0,136.0
+380,2021-02-15,Hertfordshire,218.0,,73910.0,168.0
+381,2021-02-14,Hertfordshire,123.0,,73692.0,132.0
+382,2021-02-13,Hertfordshire,118.0,,73569.0,188.0
+383,2021-02-12,Hertfordshire,193.0,,73451.0,290.0
+384,2021-02-11,Hertfordshire,202.0,,73258.0,197.0
+385,2021-02-10,Hertfordshire,224.0,,73056.0,198.0
+386,2021-02-09,Hertfordshire,212.0,,72832.0,197.0
+387,2021-02-08,Hertfordshire,254.0,,72620.0,291.0
+388,2021-02-07,Hertfordshire,185.0,,72366.0,335.0
+389,2021-02-06,Hertfordshire,223.0,,72181.0,312.0
+390,2021-02-05,Hertfordshire,315.0,,71958.0,311.0
+391,2021-02-04,Hertfordshire,302.0,,71643.0,297.0
+392,2021-02-03,Hertfordshire,351.0,,71341.0,374.0
+393,2021-02-02,Hertfordshire,361.0,,70990.0,298.0
+394,2021-02-01,Hertfordshire,433.0,,70629.0,392.0
+395,2021-01-31,Hertfordshire,293.0,,70196.0,419.0
+396,2021-01-30,Hertfordshire,325.0,,69903.0,472.0
+397,2021-01-29,Hertfordshire,466.0,,69578.0,570.0
+398,2021-01-28,Hertfordshire,489.0,,69112.0,690.0
+399,2021-01-27,Hertfordshire,555.0,,68623.0,506.0
+400,2021-01-26,Hertfordshire,575.0,,68068.0,320.0
+401,2021-01-25,Hertfordshire,598.0,,67493.0,474.0
+402,2021-01-24,Hertfordshire,327.0,,66895.0,718.0
+403,2021-01-23,Hertfordshire,449.0,,66568.0,678.0
+404,2021-01-22,Hertfordshire,656.0,,66119.0,943.0
+405,2021-01-21,Hertfordshire,671.0,,65463.0,510.0
+406,2021-01-20,Hertfordshire,743.0,,64792.0,828.0
+407,2021-01-19,Hertfordshire,837.0,,64049.0,724.0
+408,2021-01-18,Hertfordshire,915.0,,63212.0,910.0
+409,2021-01-17,Hertfordshire,621.0,,62297.0,639.0
+410,2021-01-16,Hertfordshire,630.0,,61676.0,955.0
+411,2021-01-15,Hertfordshire,871.0,,61046.0,1319.0
+412,2021-01-14,Hertfordshire,1000.0,,60175.0,851.0
+413,2021-01-13,Hertfordshire,968.0,,59175.0,891.0
+414,2021-01-12,Hertfordshire,1058.0,,58207.0,1225.0
+415,2021-01-11,Hertfordshire,1155.0,,57149.0,863.0
+416,2021-01-10,Hertfordshire,852.0,,55994.0,1315.0
+417,2021-01-09,Hertfordshire,888.0,,55142.0,1467.0
+418,2021-01-08,Hertfordshire,1024.0,,54254.0,1556.0
+419,2021-01-07,Hertfordshire,1165.0,,53230.0,1158.0
+420,2021-01-06,Hertfordshire,1279.0,,52065.0,1365.0
+421,2021-01-05,Hertfordshire,1469.0,,50786.0,1636.0
+422,2021-01-04,Hertfordshire,1913.0,,49317.0,1679.0
+423,2021-01-03,Hertfordshire,1358.0,,47404.0,1365.0
+424,2021-01-02,Hertfordshire,1385.0,,46046.0,1075.0
+425,2021-01-01,Hertfordshire,782.0,,44661.0,1792.0
+426,2020-12-31,Hertfordshire,1291.0,,43879.0,1204.0
+427,2020-12-30,Hertfordshire,1875.0,,42588.0,1513.0
+428,2020-12-29,Hertfordshire,2399.0,,40713.0,1862.0
+429,2020-12-28,Hertfordshire,1147.0,,38314.0,1124.0
+430,2020-12-27,Hertfordshire,1413.0,,37167.0,672.0
+431,2020-12-26,Hertfordshire,1303.0,,35754.0,932.0
+432,2020-12-25,Hertfordshire,479.0,,34451.0,1265.0
+433,2020-12-24,Hertfordshire,1055.0,,33972.0,1264.0
+434,2020-12-23,Hertfordshire,1395.0,,32917.0,1092.0
+435,2020-12-22,Hertfordshire,1385.0,,31522.0,1072.0
+436,2020-12-21,Hertfordshire,1429.0,,30137.0,795.0
+437,2020-12-20,Hertfordshire,1010.0,,28708.0,961.0
+438,2020-12-19,Hertfordshire,779.0,,27698.0,518.0
+439,2020-12-18,Hertfordshire,918.0,,26919.0,703.0
+440,2020-12-17,Hertfordshire,888.0,,26001.0,650.0
+441,2020-12-16,Hertfordshire,880.0,,25113.0,513.0
+442,2020-12-15,Hertfordshire,674.0,,24233.0,449.0
+443,2020-12-14,Hertfordshire,776.0,,23559.0,509.0
+444,2020-12-13,Hertfordshire,500.0,,22783.0,453.0
+445,2020-12-12,Hertfordshire,429.0,,22283.0,424.0
+446,2020-12-11,Hertfordshire,485.0,,21854.0,387.0
+447,2020-12-10,Hertfordshire,463.0,,21369.0,382.0
+448,2020-12-09,Hertfordshire,397.0,,20906.0,270.0
+449,2020-12-08,Hertfordshire,369.0,,20509.0,261.0
+450,2020-12-07,Hertfordshire,412.0,,20140.0,266.0
+451,2020-12-06,Hertfordshire,244.0,,19728.0,290.0
+452,2020-12-05,Hertfordshire,226.0,,19484.0,249.0
+453,2020-12-04,Hertfordshire,247.0,,19258.0,237.0
+454,2020-12-03,Hertfordshire,253.0,,19011.0,212.0
+455,2020-12-02,Hertfordshire,281.0,,18758.0,244.0
+456,2020-12-01,Hertfordshire,265.0,,18477.0,215.0
+457,2020-11-30,Hertfordshire,296.0,,18212.0,268.0
+458,2020-11-29,Hertfordshire,169.0,,17916.0,201.0
+459,2020-11-28,Hertfordshire,156.0,,17747.0,176.0
+460,2020-11-27,Hertfordshire,241.0,,17591.0,169.0
+461,2020-11-26,Hertfordshire,188.0,,17350.0,219.0
+462,2020-11-25,Hertfordshire,223.0,,17162.0,226.0
+463,2020-11-24,Hertfordshire,200.0,,16939.0,156.0
+464,2020-11-23,Hertfordshire,248.0,,16739.0,251.0
+465,2020-11-22,Hertfordshire,166.0,,16491.0,299.0
+466,2020-11-21,Hertfordshire,152.0,,16325.0,259.0
+467,2020-11-20,Hertfordshire,198.0,,16173.0,166.0
+468,2020-11-19,Hertfordshire,223.0,,15975.0,259.0
+469,2020-11-18,Hertfordshire,242.0,,15752.0,197.0
+470,2020-11-17,Hertfordshire,259.0,,15510.0,265.0
+471,2020-11-16,Hertfordshire,311.0,,15251.0,0.0
+472,2020-11-15,Hertfordshire,208.0,,14940.0,329.0
+473,2020-11-14,Hertfordshire,229.0,,14732.0,232.0
+474,2020-11-13,Hertfordshire,287.0,,14503.0,352.0
+475,2020-11-12,Hertfordshire,322.0,,14216.0,436.0
+476,2020-11-11,Hertfordshire,364.0,,13894.0,298.0
+477,2020-11-10,Hertfordshire,278.0,,13530.0,199.0
+478,2020-11-09,Hertfordshire,369.0,,13252.0,273.0
+479,2020-11-08,Hertfordshire,213.0,,12883.0,210.0
+480,2020-11-07,Hertfordshire,233.0,,12670.0,240.0
+481,2020-11-06,Hertfordshire,255.0,,12437.0,190.0
+482,2020-11-05,Hertfordshire,212.0,,12182.0,221.0
+483,2020-11-04,Hertfordshire,242.0,,11970.0,262.0
+484,2020-11-03,Hertfordshire,245.0,,11728.0,166.0
+485,2020-11-02,Hertfordshire,332.0,,11483.0,187.0
+486,2020-11-01,Hertfordshire,134.0,,11151.0,207.0
+487,2020-10-31,Hertfordshire,185.0,,11017.0,167.0
+488,2020-10-30,Hertfordshire,175.0,,10832.0,265.0
+489,2020-10-29,Hertfordshire,222.0,,10657.0,205.0
+490,2020-10-28,Hertfordshire,231.0,,10435.0,274.0
+491,2020-10-27,Hertfordshire,203.0,,10204.0,174.0
+492,2020-10-26,Hertfordshire,243.0,,10001.0,211.0
+493,2020-10-25,Hertfordshire,139.0,,9758.0,167.0
+494,2020-10-24,Hertfordshire,135.0,,9619.0,227.0
+495,2020-10-23,Hertfordshire,193.0,,9484.0,181.0
+496,2020-10-22,Hertfordshire,211.0,,9291.0,201.0
+497,2020-10-21,Hertfordshire,234.0,,9080.0,269.0
+498,2020-10-20,Hertfordshire,248.0,,8846.0,144.0
+499,2020-10-19,Hertfordshire,211.0,,8598.0,165.0
+500,2020-10-18,Hertfordshire,119.0,,8387.0,185.0
+501,2020-10-17,Hertfordshire,118.0,,8268.0,122.0
+502,2020-10-16,Hertfordshire,118.0,,8150.0,136.0
+503,2020-10-15,Hertfordshire,186.0,,8032.0,178.0
+504,2020-10-14,Hertfordshire,135.0,,7846.0,227.0
+505,2020-10-13,Hertfordshire,178.0,,7711.0,149.0
+506,2020-10-12,Hertfordshire,142.0,,7533.0,73.0
+507,2020-10-11,Hertfordshire,86.0,,7391.0,70.0
+508,2020-10-10,Hertfordshire,72.0,,7305.0,173.0
+509,2020-10-09,Hertfordshire,132.0,,7233.0,175.0
+510,2020-10-08,Hertfordshire,134.0,,7101.0,198.0
+511,2020-10-07,Hertfordshire,144.0,,6967.0,154.0
+512,2020-10-06,Hertfordshire,122.0,,6823.0,133.0
+513,2020-10-05,Hertfordshire,142.0,,6701.0,107.0
+514,2020-10-04,Hertfordshire,91.0,,6559.0,207.0
+515,2020-10-03,Hertfordshire,80.0,,6468.0,84.0
+516,2020-10-02,Hertfordshire,101.0,,6388.0,56.0
+517,2020-10-01,Hertfordshire,86.0,,6287.0,75.0
+518,2020-09-30,Hertfordshire,97.0,,6201.0,41.0
+519,2020-09-29,Hertfordshire,66.0,,6104.0,51.0
+520,2020-09-28,Hertfordshire,67.0,,6038.0,35.0
+521,2020-09-27,Hertfordshire,49.0,,5971.0,40.0
+522,2020-09-26,Hertfordshire,44.0,,5922.0,45.0
+523,2020-09-25,Hertfordshire,50.0,,5878.0,44.0
+524,2020-09-24,Hertfordshire,43.0,,5828.0,65.0
+525,2020-09-23,Hertfordshire,49.0,,5785.0,53.0
+526,2020-09-22,Hertfordshire,66.0,,5736.0,38.0
+527,2020-09-21,Hertfordshire,36.0,,5670.0,49.0
+528,2020-09-20,Hertfordshire,27.0,,5634.0,38.0
+529,2020-09-19,Hertfordshire,32.0,,5607.0,37.0
+530,2020-09-18,Hertfordshire,44.0,,5575.0,36.0
+531,2020-09-17,Hertfordshire,40.0,,5531.0,50.0
+532,2020-09-16,Hertfordshire,47.0,,5491.0,34.0
+533,2020-09-15,Hertfordshire,52.0,,5444.0,25.0
+534,2020-09-14,Hertfordshire,57.0,,5392.0,31.0
+535,2020-09-13,Hertfordshire,15.0,,5335.0,42.0
+536,2020-09-12,Hertfordshire,23.0,,5320.0,44.0
+537,2020-09-11,Hertfordshire,49.0,,5297.0,44.0
+538,2020-09-10,Hertfordshire,54.0,,5248.0,43.0
+539,2020-09-09,Hertfordshire,37.0,,5194.0,34.0
+540,2020-09-08,Hertfordshire,41.0,,5157.0,32.0
+541,2020-09-07,Hertfordshire,39.0,,5116.0,29.0
+542,2020-09-06,Hertfordshire,23.0,,5077.0,38.0
+543,2020-09-05,Hertfordshire,29.0,,5054.0,39.0
+544,2020-09-04,Hertfordshire,46.0,,5025.0,40.0
+545,2020-09-03,Hertfordshire,41.0,,4979.0,22.0
+546,2020-09-02,Hertfordshire,57.0,,4938.0,19.0
+547,2020-09-01,Hertfordshire,33.0,,4881.0,30.0
+548,2020-08-31,Hertfordshire,20.0,,4848.0,24.0
+549,2020-08-30,Hertfordshire,34.0,,4828.0,25.0
+550,2020-08-29,Hertfordshire,20.0,,4794.0,23.0
+551,2020-08-28,Hertfordshire,20.0,,4774.0,47.0
+552,2020-08-27,Hertfordshire,38.0,,4754.0,27.0
+553,2020-08-26,Hertfordshire,36.0,,4716.0,14.0
+554,2020-08-25,Hertfordshire,22.0,,4680.0,24.0
+555,2020-08-24,Hertfordshire,26.0,,4658.0,13.0
+556,2020-08-23,Hertfordshire,10.0,,4632.0,14.0
+557,2020-08-22,Hertfordshire,15.0,,4622.0,22.0
+558,2020-08-21,Hertfordshire,23.0,,4607.0,18.0
+559,2020-08-20,Hertfordshire,25.0,,4584.0,13.0
+560,2020-08-19,Hertfordshire,15.0,,4559.0,14.0
+561,2020-08-18,Hertfordshire,21.0,,4544.0,16.0
+562,2020-08-17,Hertfordshire,16.0,,4523.0,6.0
+563,2020-08-16,Hertfordshire,9.0,,4507.0,22.0
+564,2020-08-15,Hertfordshire,5.0,,4498.0,12.0
+565,2020-08-14,Hertfordshire,13.0,,4493.0,23.0
+566,2020-08-13,Hertfordshire,22.0,,4480.0,0.0
+567,2020-08-12,Hertfordshire,23.0,,4458.0,11.0
+568,2020-08-11,Hertfordshire,8.0,,4435.0,9.0
+569,2020-08-10,Hertfordshire,13.0,,4427.0,11.0
+570,2020-08-09,Hertfordshire,2.0,,4414.0,9.0
+571,2020-08-08,Hertfordshire,12.0,,4412.0,11.0
+572,2020-08-07,Hertfordshire,9.0,,4400.0,15.0
+573,2020-08-06,Hertfordshire,12.0,,4391.0,5.0
+574,2020-08-05,Hertfordshire,12.0,,4379.0,16.0
+575,2020-08-04,Hertfordshire,13.0,,4367.0,5.0
+576,2020-08-03,Hertfordshire,19.0,,4354.0,5.0
+577,2020-08-02,Hertfordshire,6.0,,4335.0,8.0
+578,2020-08-01,Hertfordshire,6.0,,4329.0,7.0
+579,2020-07-31,Hertfordshire,9.0,,4323.0,14.0
+580,2020-07-30,Hertfordshire,9.0,,4314.0,18.0
+581,2020-07-29,Hertfordshire,8.0,,4305.0,7.0
+582,2020-07-28,Hertfordshire,16.0,,4297.0,5.0
+583,2020-07-27,Hertfordshire,14.0,,4281.0,9.0
+584,2020-07-26,Hertfordshire,6.0,,4267.0,7.0
+585,2020-07-25,Hertfordshire,4.0,,4261.0,11.0
+586,2020-07-24,Hertfordshire,15.0,,4257.0,8.0
+587,2020-07-23,Hertfordshire,11.0,,4242.0,7.0
+588,2020-07-22,Hertfordshire,7.0,,4231.0,4.0
+589,2020-07-21,Hertfordshire,7.0,,4224.0,3.0
+590,2020-07-20,Hertfordshire,9.0,,4217.0,5.0
+591,2020-07-19,Hertfordshire,1.0,,4208.0,2.0
+592,2020-07-18,Hertfordshire,6.0,,4207.0,17.0
+593,2020-07-17,Hertfordshire,5.0,,4201.0,8.0
+594,2020-07-16,Hertfordshire,8.0,,4196.0,6.0
+595,2020-07-15,Hertfordshire,10.0,,4188.0,1.0
+596,2020-07-14,Hertfordshire,9.0,,4178.0,8.0
+597,2020-07-13,Hertfordshire,5.0,,4169.0,6.0
+598,2020-07-12,Hertfordshire,0.0,,4164.0,5.0
+599,2020-07-11,Hertfordshire,2.0,,4164.0,6.0
+600,2020-07-10,Hertfordshire,6.0,,4162.0,7.0
+601,2020-07-09,Hertfordshire,7.0,,4156.0,12.0
+602,2020-07-08,Hertfordshire,12.0,,4149.0,21.0
+603,2020-07-07,Hertfordshire,8.0,,4137.0,8.0
+604,2020-07-06,Hertfordshire,21.0,,4129.0,4.0
+605,2020-07-05,Hertfordshire,3.0,,4108.0,13.0
+606,2020-07-04,Hertfordshire,7.0,,4105.0,3.0
+607,2020-07-03,Hertfordshire,17.0,,4098.0,5.0
+608,2020-07-02,Hertfordshire,10.0,,4081.0,6.0
+609,2020-07-01,Hertfordshire,2.0,,4071.0,1055.0
+610,2020-06-30,Hertfordshire,6.0,,4069.0,2.0
+611,2020-06-29,Hertfordshire,13.0,,4063.0,1.0
+612,2020-06-28,Hertfordshire,2.0,,4050.0,2.0
+613,2020-06-27,Hertfordshire,6.0,,4048.0,1.0
+614,2020-06-26,Hertfordshire,6.0,,4042.0,2.0
+615,2020-06-25,Hertfordshire,3.0,,4036.0,2.0
+616,2020-06-24,Hertfordshire,3.0,,4033.0,0.0
+617,2020-06-23,Hertfordshire,5.0,,4030.0,4.0
+618,2020-06-22,Hertfordshire,5.0,,4025.0,8.0
+619,2020-06-21,Hertfordshire,5.0,,4020.0,1.0
+620,2020-06-20,Hertfordshire,1.0,,4015.0,13.0
+621,2020-06-19,Hertfordshire,14.0,,4014.0,3.0
+622,2020-06-18,Hertfordshire,16.0,,4000.0,2.0
+623,2020-06-17,Hertfordshire,9.0,,3984.0,3.0
+624,2020-06-16,Hertfordshire,4.0,,3975.0,5.0
+625,2020-06-15,Hertfordshire,9.0,,3971.0,4.0
+626,2020-06-14,Hertfordshire,5.0,,3962.0,5.0
+627,2020-06-13,Hertfordshire,8.0,,3957.0,5.0
+628,2020-06-12,Hertfordshire,9.0,,3949.0,1.0
+629,2020-06-11,Hertfordshire,12.0,,3940.0,5.0
+630,2020-06-10,Hertfordshire,11.0,,3928.0,2.0
+631,2020-06-09,Hertfordshire,20.0,,3917.0,11.0
+632,2020-06-08,Hertfordshire,14.0,,3897.0,0.0
+633,2020-06-07,Hertfordshire,5.0,,3883.0,3.0
+634,2020-06-06,Hertfordshire,12.0,,3878.0,2.0
+635,2020-06-05,Hertfordshire,16.0,,3866.0,12.0
+636,2020-06-04,Hertfordshire,8.0,,3850.0,2.0
+637,2020-06-03,Hertfordshire,8.0,,3842.0,5.0
+638,2020-06-02,Hertfordshire,9.0,,3834.0,9.0
+639,2020-06-01,Hertfordshire,16.0,,3825.0,4.0
+640,2020-05-31,Hertfordshire,4.0,,3809.0,4.0
+641,2020-05-30,Hertfordshire,9.0,,3805.0,5.0
+642,2020-05-29,Hertfordshire,19.0,,3796.0,9.0
+643,2020-05-28,Hertfordshire,20.0,,3777.0,10.0
+644,2020-05-27,Hertfordshire,16.0,,3757.0,4.0
+645,2020-05-26,Hertfordshire,20.0,,3741.0,8.0
+646,2020-05-25,Hertfordshire,19.0,,3721.0,10.0
+647,2020-05-24,Hertfordshire,9.0,,3702.0,6.0
+648,2020-05-23,Hertfordshire,25.0,,3693.0,13.0
+649,2020-05-22,Hertfordshire,22.0,,3668.0,26.0
+650,2020-05-21,Hertfordshire,17.0,,3646.0,8.0
+651,2020-05-20,Hertfordshire,32.0,,3629.0,14.0
+652,2020-05-19,Hertfordshire,31.0,,3597.0,7.0
+653,2020-05-18,Hertfordshire,43.0,,3566.0,33.0
+654,2020-05-17,Hertfordshire,17.0,,3523.0,17.0
+655,2020-05-16,Hertfordshire,19.0,,3506.0,18.0
+656,2020-05-15,Hertfordshire,23.0,,3487.0,13.0
+657,2020-05-14,Hertfordshire,20.0,,3464.0,20.0
+658,2020-05-13,Hertfordshire,60.0,,3444.0,19.0
+659,2020-05-12,Hertfordshire,51.0,,3384.0,38.0
+660,2020-05-11,Hertfordshire,50.0,,3333.0,14.0
+661,2020-05-10,Hertfordshire,15.0,,3283.0,20.0
+662,2020-05-09,Hertfordshire,48.0,,3268.0,81.0
+663,2020-05-08,Hertfordshire,38.0,,3220.0,21.0
+664,2020-05-07,Hertfordshire,42.0,,3182.0,33.0
+665,2020-05-06,Hertfordshire,65.0,,3140.0,23.0
+666,2020-05-05,Hertfordshire,44.0,,3075.0,32.0
+667,2020-05-04,Hertfordshire,64.0,,3031.0,38.0
+668,2020-05-03,Hertfordshire,31.0,,2967.0,22.0
+669,2020-05-02,Hertfordshire,36.0,,2936.0,48.0
+670,2020-05-01,Hertfordshire,80.0,,2900.0,28.0
+671,2020-04-30,Hertfordshire,56.0,,2820.0,41.0
+672,2020-04-29,Hertfordshire,93.0,,2764.0,19.0
+673,2020-04-28,Hertfordshire,74.0,,2671.0,42.0
+674,2020-04-27,Hertfordshire,68.0,,2597.0,40.0
+675,2020-04-26,Hertfordshire,53.0,,2529.0,9.0
+676,2020-04-25,Hertfordshire,52.0,,2476.0,58.0
+677,2020-04-24,Hertfordshire,62.0,,2424.0,38.0
+678,2020-04-23,Hertfordshire,73.0,,2362.0,42.0
+679,2020-04-22,Hertfordshire,84.0,,2289.0,50.0
+680,2020-04-21,Hertfordshire,66.0,,2205.0,40.0
+681,2020-04-20,Hertfordshire,57.0,,2139.0,56.0
+682,2020-04-19,Hertfordshire,83.0,,2082.0,56.0
+683,2020-04-18,Hertfordshire,55.0,,1999.0,57.0
+684,2020-04-17,Hertfordshire,88.0,,1944.0,86.0
+685,2020-04-16,Hertfordshire,69.0,,1856.0,
+686,2020-04-15,Hertfordshire,66.0,,1787.0,
+687,2020-04-14,Hertfordshire,62.0,,1721.0,
+688,2020-04-13,Hertfordshire,57.0,,1659.0,
+689,2020-04-12,Hertfordshire,52.0,,1602.0,
+690,2020-04-11,Hertfordshire,55.0,,1550.0,
+691,2020-04-10,Hertfordshire,76.0,,1495.0,
+692,2020-04-09,Hertfordshire,77.0,,1419.0,
+693,2020-04-08,Hertfordshire,86.0,,1342.0,
+694,2020-04-07,Hertfordshire,78.0,,1256.0,
+695,2020-04-06,Hertfordshire,91.0,,1178.0,
+696,2020-04-05,Hertfordshire,62.0,,1087.0,
+697,2020-04-04,Hertfordshire,54.0,,1025.0,
+698,2020-04-03,Hertfordshire,79.0,,971.0,
+699,2020-04-02,Hertfordshire,103.0,,892.0,
+700,2020-04-01,Hertfordshire,85.0,,789.0,
+701,2020-03-31,Hertfordshire,77.0,,704.0,
+702,2020-03-30,Hertfordshire,88.0,,627.0,
+703,2020-03-29,Hertfordshire,63.0,,539.0,
+704,2020-03-28,Hertfordshire,45.0,,476.0,
+705,2020-03-27,Hertfordshire,53.0,,431.0,
+706,2020-03-26,Hertfordshire,48.0,,378.0,
+707,2020-03-25,Hertfordshire,54.0,,330.0,
+708,2020-03-24,Hertfordshire,43.0,,276.0,
+709,2020-03-23,Hertfordshire,57.0,,233.0,
+710,2020-03-22,Hertfordshire,13.0,,176.0,
+711,2020-03-21,Hertfordshire,20.0,,163.0,
+712,2020-03-20,Hertfordshire,22.0,,143.0,
+713,2020-03-19,Hertfordshire,23.0,,121.0,
+714,2020-03-18,Hertfordshire,23.0,,98.0,
+715,2020-03-17,Hertfordshire,5.0,,75.0,
+716,2020-03-16,Hertfordshire,6.0,,70.0,
+717,2020-03-15,Hertfordshire,15.0,,64.0,
+718,2020-03-14,Hertfordshire,4.0,,49.0,
+719,2020-03-13,Hertfordshire,9.0,,45.0,
+720,2020-03-12,Hertfordshire,2.0,,36.0,
+721,2020-03-11,Hertfordshire,7.0,,34.0,
+722,2020-03-10,Hertfordshire,5.0,,27.0,
+723,2020-03-09,Hertfordshire,2.0,,22.0,
+724,2020-03-08,Hertfordshire,2.0,,20.0,
+725,2020-03-07,Hertfordshire,2.0,,18.0,
+726,2020-03-06,Hertfordshire,4.0,,16.0,
+727,2020-03-05,Hertfordshire,0.0,,12.0,
+728,2020-03-04,Hertfordshire,2.0,,12.0,
+729,2020-03-03,Hertfordshire,5.0,,10.0,
+730,2020-03-02,Hertfordshire,1.0,,5.0,
+731,2020-03-01,Hertfordshire,1.0,,4.0,
+732,2020-02-29,Hertfordshire,0.0,,3.0,
+733,2020-02-28,Hertfordshire,1.0,,3.0,
+734,2020-02-27,Hertfordshire,1.0,,2.0,
+735,2020-02-26,Hertfordshire,1.0,,1.0,

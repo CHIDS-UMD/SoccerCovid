@@ -1,745 +1,753 @@
-,Date,CityName,AreaName,DailyCases,CummulativeCases
-0,2/12/2022,London,United Kingdom,46025,18266015
-1,2/11/2022,London,United Kingdom,58899,18220515
-2,2/10/2022,London,United Kingdom,66638,18162199
-3,2/9/2022,London,United Kingdom,68214,18000119
-4,2/8/2022,London,United Kingdom,66183,17932803
-5,2/7/2022,London,United Kingdom,57623,17866632
-6,2/6/2022,London,United Kingdom,57337,17809459
-7,2/5/2022,London,United Kingdom,63493,17752892
-8,2/4/2022,London,United Kingdom,84053,17689885
-9,2/3/2022,London,United Kingdom,88171,17607832
-10,2/2/2022,London,United Kingdom,92594,17519708
-11,2/1/2022,London,United Kingdom,112458,17428345
-12,1/31/2022,London,United Kingdom,92368,17315893
-13,1/30/2022,London,United Kingdom,69007,16478467
-14,1/29/2022,London,United Kingdom,76069,16409459
-15,1/28/2022,London,United Kingdom,89176,16333980
-16,1/27/2022,London,United Kingdom,96871,16245474
-17,1/26/2022,London,United Kingdom,102292,16149319
-18,1/25/2022,London,United Kingdom,94326,16047716
-19,1/24/2022,London,United Kingdom,88447,15953685
-20,1/23/2022,London,United Kingdom,78317,15866316
-21,1/22/2022,London,United Kingdom,80263,15787937
-22,1/21/2022,London,United Kingdom,95787,15709059
-23,1/20/2022,London,United Kingdom,107364,15613283
-24,1/19/2022,London,United Kingdom,108069,15506750
-25,1/18/2022,London,United Kingdom,94432,15399300
-26,1/17/2022,London,United Kingdom,84429,15305410
-27,1/16/2022,London,United Kingdom,75041,15221366
-28,1/15/2022,London,United Kingdom,81713,15147099
-29,1/14/2022,London,United Kingdom,99652,15066395
-30,1/13/2022,London,United Kingdom,109133,14967817
-31,1/12/2022,London,United Kingdom,129587,14862138
-32,1/11/2022,London,United Kingdom,120821,14732594
-33,1/10/2022,London,United Kingdom,142224,14617314
-34,1/9/2022,London,United Kingdom,141472,14475192
-35,1/8/2022,London,United Kingdom,146390,14333794
-36,1/7/2022,London,United Kingdom,178250,14193228
-37,1/6/2022,London,United Kingdom,179756,14015065
-38,1/5/2022,London,United Kingdom,194747,13835334
-39,1/4/2022,London,United Kingdom,218724,13641520
-40,1/3/2022,London,United Kingdom,157758,13422815
-41,1/2/2022,London,United Kingdom,151663,13266431
-42,1/1/2022,London,United Kingdom,179637,13117469
-43,12/31/2021,London,United Kingdom,189846,12937886
-44,12/30/2021,London,United Kingdom,189213,12748050
-45,12/29/2021,London,United Kingdom,183037,12559926
-46,12/28/2021,London,United Kingdom,138831,12377822
-47,12/27/2021,London,United Kingdom,109077,12239797
-48,12/26/2021,London,United Kingdom,119923,12132098
-49,12/25/2021,London,United Kingdom,121880,12013153
-50,12/24/2021,London,United Kingdom,122186,11891292
-51,12/23/2021,London,United Kingdom,119789,11769921
-52,12/22/2021,London,United Kingdom,109655,11647473
-53,12/21/2021,London,United Kingdom,90629,11542143
-54,12/20/2021,London,United Kingdom,91743,11453121
-55,12/19/2021,London,United Kingdom,82886,11361387
-56,12/18/2021,London,United Kingdom,90418,11279428
-57,12/17/2021,London,United Kingdom,93045,11190354
-58,12/16/2021,London,United Kingdom,88376,11097851
-59,12/15/2021,London,United Kingdom,78610,11010286
-60,12/14/2021,London,United Kingdom,59610,10932545
-61,12/13/2021,London,United Kingdom,54661,10873468
-62,12/12/2021,London,United Kingdom,48854,10819515
-63,12/11/2021,London,United Kingdom,54073,10771444
-64,12/10/2021,London,United Kingdom,58194,10719165
-65,12/9/2021,London,United Kingdom,50867,10660981
-66,12/8/2021,London,United Kingdom,51342,10610958
-67,12/7/2021,London,United Kingdom,45691,10560341
-68,12/6/2021,London,United Kingdom,51459,10515239
-69,12/5/2021,London,United Kingdom,43992,10464389
-70,12/4/2021,London,United Kingdom,42848,10421104
-71,12/3/2021,London,United Kingdom,50584,10379647
-72,12/2/2021,London,United Kingdom,53945,10329074
-73,12/1/2021,London,United Kingdom,48374,10276007
-74,11/30/2021,London,United Kingdom,39716,10228772
-75,11/29/2021,London,United Kingdom,42583,10189059
-76,11/28/2021,London,United Kingdom,37681,10146915
-77,11/27/2021,London,United Kingdom,39567,10110408
-78,11/26/2021,London,United Kingdom,50091,10070841
-79,11/25/2021,London,United Kingdom,47240,10021497
-80,11/24/2021,London,United Kingdom,43676,9974843
-81,11/23/2021,London,United Kingdom,42484,9932408
-82,11/22/2021,London,United Kingdom,44917,9889926
-83,11/21/2021,London,United Kingdom,40004,9845492
-84,11/20/2021,London,United Kingdom,40941,9806034
-85,11/19/2021,London,United Kingdom,44242,9766153
-86,11/18/2021,London,United Kingdom,46807,9721916
-87,11/17/2021,London,United Kingdom,38263,9675058
-88,11/16/2021,London,United Kingdom,37243,9637190
-89,11/15/2021,London,United Kingdom,39705,9600369
-90,11/14/2021,London,United Kingdom,36517,9561099
-91,11/13/2021,London,United Kingdom,38351,9524971
-92,11/12/2021,London,United Kingdom,40375,9487302
-93,11/11/2021,London,United Kingdom,42408,9448402
-94,11/10/2021,London,United Kingdom,39329,9406001
-95,11/9/2021,London,United Kingdom,33117,9366676
-96,11/8/2021,London,United Kingdom,32322,9333891
-97,11/7/2021,London,United Kingdom,30305,9301909
-98,11/6/2021,London,United Kingdom,30693,9272066
-99,11/5/2021,London,United Kingdom,34029,9241916
-100,11/4/2021,London,United Kingdom,37269,9208219
-101,11/3/2021,London,United Kingdom,41299,9171660
-102,11/2/2021,London,United Kingdom,33865,9130857
-103,11/1/2021,London,United Kingdom,40077,9097311
-104,10/31/2021,London,United Kingdom,38009,9057629
-105,10/30/2021,London,United Kingdom,41278,9019962
-106,10/29/2021,London,United Kingdom,43467,8979236
-107,10/28/2021,London,United Kingdom,39842,8936155
-108,10/27/2021,London,United Kingdom,43941,8897149
-109,10/26/2021,London,United Kingdom,40954,8853227
-110,10/25/2021,London,United Kingdom,36567,8809774
-111,10/24/2021,London,United Kingdom,39962,8773674
-112,10/23/2021,London,United Kingdom,44985,8734934
-113,10/22/2021,London,United Kingdom,49298,8689949
-114,10/21/2021,London,United Kingdom,52009,8641221
-115,10/20/2021,London,United Kingdom,49139,8589737
-116,10/19/2021,London,United Kingdom,43738,8541192
-117,10/18/2021,London,United Kingdom,49156,8497868
-118,10/17/2021,London,United Kingdom,45140,8449165
-119,10/16/2021,London,United Kingdom,43423,8404469
-120,10/15/2021,London,United Kingdom,44932,8361651
-121,10/14/2021,London,United Kingdom,45066,8317439
-122,10/13/2021,London,United Kingdom,42776,8272883
-123,10/12/2021,London,United Kingdom,38520,8231437
-124,10/11/2021,London,United Kingdom,40224,8193769
-125,10/10/2021,London,United Kingdom,34574,8154306
-126,10/9/2021,London,United Kingdom,34950,8120713
-127,10/8/2021,London,United Kingdom,41765,8087005
-128,10/7/2021,London,United Kingdom,40701,8046390
-129,10/6/2021,London,United Kingdom,39851,8006660
-130,10/5/2021,London,United Kingdom,33869,7967985
-131,10/4/2021,London,United Kingdom,35077,7934936
-132,10/3/2021,London,United Kingdom,30439,7900680
-133,10/2/2021,London,United Kingdom,30301,7871014
-134,10/1/2021,London,United Kingdom,35577,7841625
-135,9/30/2021,London,United Kingdom,36480,7807036
-136,9/29/2021,London,United Kingdom,36722,7771294
-137,9/28/2021,London,United Kingdom,34526,7736235
-138,9/27/2021,London,United Kingdom,37960,7701715
-139,9/26/2021,London,United Kingdom,32417,7664230
-140,9/25/2021,London,United Kingdom,32468,7632353
-141,9/24/2021,London,United Kingdom,35623,7601487
-142,9/23/2021,London,United Kingdom,36710,7565867
-143,9/22/2021,London,United Kingdom,34460,7530103
-144,9/21/2021,London,United Kingdom,31564,7496543
-145,9/20/2021,London,United Kingdom,36100,7465448
-146,9/19/2021,London,United Kingdom,29612,7429746
-147,9/18/2021,London,United Kingdom,30144,7400739
-148,9/17/2021,London,United Kingdom,32651,7371301
-149,9/16/2021,London,United Kingdom,26911,7339009
-150,9/15/2021,London,United Kingdom,30597,7312683
-151,9/14/2021,London,United Kingdom,26628,7282810
-152,9/13/2021,London,United Kingdom,30825,7256559
-153,9/12/2021,London,United Kingdom,29173,7226276
-154,9/11/2021,London,United Kingdom,29547,7197662
-155,9/10/2021,London,United Kingdom,37622,7168806
-156,9/9/2021,London,United Kingdom,38013,7132072
-157,9/8/2021,London,United Kingdom,38975,7094592
-158,9/7/2021,London,United Kingdom,37489,7056106
-159,9/6/2021,London,United Kingdom,41192,7018927
-160,9/5/2021,London,United Kingdom,37011,6978126
-161,9/4/2021,London,United Kingdom,37578,6941611
-162,9/3/2021,London,United Kingdom,42076,6904969
-163,9/2/2021,London,United Kingdom,38154,6862904
-164,9/1/2021,London,United Kingdom,35693,6825074
-165,8/31/2021,London,United Kingdom,32181,6789581
-166,8/30/2021,London,United Kingdom,26476,6757650
-167,8/29/2021,London,United Kingdom,33196,6731423
-168,8/28/2021,London,United Kingdom,32406,6698486
-169,8/27/2021,London,United Kingdom,38046,6666399
-170,8/26/2021,London,United Kingdom,38281,6628709
-171,8/25/2021,London,United Kingdom,35847,6590747
-172,8/24/2021,London,United Kingdom,30838,6555200
-173,8/23/2021,London,United Kingdom,31914,6524581
-174,8/22/2021,London,United Kingdom,32253,6492906
-175,8/21/2021,London,United Kingdom,32058,6460930
-176,8/20/2021,London,United Kingdom,37314,6429147
-177,8/19/2021,London,United Kingdom,36572,6392160
-178,8/18/2021,London,United Kingdom,33904,6355887
-179,8/17/2021,London,United Kingdom,26852,6322241
-180,8/16/2021,London,United Kingdom,28438,6295613
-181,8/15/2021,London,United Kingdom,26750,6267437
-182,8/14/2021,London,United Kingdom,29520,6241011
-183,8/13/2021,London,United Kingdom,32700,6211868
-184,8/12/2021,London,United Kingdom,33074,6179506
-185,8/11/2021,London,United Kingdom,29612,6146800
-186,8/10/2021,London,United Kingdom,23510,6117540
-187,8/9/2021,London,United Kingdom,25161,6094243
-188,8/8/2021,London,United Kingdom,27429,6069362
-189,8/7/2021,London,United Kingdom,28612,6042252
-190,8/6/2021,London,United Kingdom,31808,6014023
-191,8/5/2021,London,United Kingdom,30215,5982581
-192,8/4/2021,London,United Kingdom,29312,5952756
-193,8/3/2021,London,United Kingdom,21691,5923820
-194,8/2/2021,London,United Kingdom,21952,5902354
-195,8/1/2021,London,United Kingdom,24470,5880667
-196,7/31/2021,London,United Kingdom,26144,5856528
-197,7/30/2021,London,United Kingdom,29622,5830774
-198,7/29/2021,London,United Kingdom,31117,5801561
-199,7/28/2021,London,United Kingdom,27734,5770928
-200,7/27/2021,London,United Kingdom,23511,5745526
-201,7/26/2021,London,United Kingdom,24950,5722298
-202,7/25/2021,London,United Kingdom,29173,5697912
-203,7/24/2021,London,United Kingdom,31795,5669260
-204,7/23/2021,London,United Kingdom,36389,5637975
-205,7/22/2021,London,United Kingdom,39906,5602321
-206,7/21/2021,London,United Kingdom,44104,5563006
-207,7/20/2021,London,United Kingdom,46558,5519602
-208,7/19/2021,London,United Kingdom,39950,5473477
-209,7/18/2021,London,United Kingdom,48161,5433939
-210,7/17/2021,London,United Kingdom,54674,5386340
-211,7/16/2021,London,United Kingdom,51870,5332371
-212,7/15/2021,London,United Kingdom,48553,5281098
-213,7/14/2021,London,United Kingdom,42302,5233207
-214,7/13/2021,London,United Kingdom,36660,5191459
-215,7/12/2021,London,United Kingdom,34471,5155243
-216,7/11/2021,London,United Kingdom,31772,5121245
-217,7/10/2021,London,United Kingdom,32367,5089893
-218,7/9/2021,London,United Kingdom,35707,5058093
-219,7/8/2021,London,United Kingdom,32551,5022893
-220,7/7/2021,London,United Kingdom,32548,4990916
-221,7/6/2021,London,United Kingdom,28773,4958868
-222,7/5/2021,London,United Kingdom,27334,4930534
-223,7/4/2021,London,United Kingdom,24248,4903434
-224,7/3/2021,London,United Kingdom,24885,4879616
-225,7/2/2021,London,United Kingdom,27125,4855169
-226,7/1/2021,London,United Kingdom,27989,4828463
-227,6/30/2021,London,United Kingdom,26068,4800907
-228,6/29/2021,London,United Kingdom,20479,4775301
-229,6/28/2021,London,United Kingdom,22868,4755078
-230,6/27/2021,London,United Kingdom,14876,4732434
-231,6/26/2021,London,United Kingdom,18270,4717811
-232,6/25/2021,London,United Kingdom,15810,4699868
-233,6/24/2021,London,United Kingdom,16703,4684572
-234,6/23/2021,London,United Kingdom,16135,4667870
-235,6/22/2021,London,United Kingdom,11625,4651988
-236,6/21/2021,London,United Kingdom,10633,4640507
-237,6/20/2021,London,United Kingdom,9284,4630040
-238,6/19/2021,London,United Kingdom,10321,4620968
-239,6/18/2021,London,United Kingdom,10476,4610893
-240,6/17/2021,London,United Kingdom,11007,4600623
-241,6/16/2021,London,United Kingdom,9055,4589814
-242,6/15/2021,London,United Kingdom,7673,4581006
-243,6/14/2021,London,United Kingdom,7742,4573419
-244,6/13/2021,London,United Kingdom,7490,4565813
-245,6/12/2021,London,United Kingdom,7738,4558494
-246,6/11/2021,London,United Kingdom,8125,4550944
-247,6/10/2021,London,United Kingdom,7393,4542986
-248,6/9/2021,London,United Kingdom,7540,4535754
-249,6/8/2021,London,United Kingdom,6048,4528442
-250,6/7/2021,London,United Kingdom,5683,4522476
-251,6/6/2021,London,United Kingdom,5341,4516892
-252,6/5/2021,London,United Kingdom,5765,4511669
-253,6/4/2021,London,United Kingdom,6238,4506018
-254,6/3/2021,London,United Kingdom,5274,4499878
-255,6/2/2021,London,United Kingdom,4330,4494699
-256,6/1/2021,London,United Kingdom,3165,4490438
-257,5/31/2021,London,United Kingdom,3383,4487339
-258,5/30/2021,London,United Kingdom,3240,4484056
-259,5/29/2021,London,United Kingdom,3398,4480945
-260,5/28/2021,London,United Kingdom,4182,4477705
-261,5/27/2021,London,United Kingdom,3542,4473677
-262,5/26/2021,London,United Kingdom,3180,4470297
-263,5/25/2021,London,United Kingdom,2493,4467310
-264,5/24/2021,London,United Kingdom,2439,4464900
-265,5/23/2021,London,United Kingdom,2235,4462538
-266,5/22/2021,London,United Kingdom,2694,4460446
-267,5/21/2021,London,United Kingdom,2829,4457923
-268,5/20/2021,London,United Kingdom,2874,4455221
-269,5/19/2021,London,United Kingdom,2696,4452527
-270,5/18/2021,London,United Kingdom,2412,4450392
-271,5/17/2021,London,United Kingdom,1979,4452756
-272,5/16/2021,London,United Kingdom,1926,4450777
-273,5/15/2021,London,United Kingdom,2027,4448851
-274,5/14/2021,London,United Kingdom,2193,4446824
-275,5/13/2021,London,United Kingdom,2657,4444631
-276,5/12/2021,London,United Kingdom,2284,4441975
-277,5/11/2021,London,United Kingdom,2474,4439691
-278,5/10/2021,London,United Kingdom,2357,4437217
-279,5/9/2021,London,United Kingdom,1770,4434860
-280,5/8/2021,London,United Kingdom,2047,4433090
-281,5/7/2021,London,United Kingdom,2490,4431043
-282,5/6/2021,London,United Kingdom,2613,4428553
-283,5/5/2021,London,United Kingdom,2144,4425940
-284,5/4/2021,London,United Kingdom,1946,4423796
-285,5/3/2021,London,United Kingdom,1649,4421850
-286,5/2/2021,London,United Kingdom,1671,4420201
-287,5/1/2021,London,United Kingdom,1907,4418530
-288,4/30/2021,London,United Kingdom,2381,4416623
-289,4/29/2021,London,United Kingdom,2445,4414242
-290,4/28/2021,London,United Kingdom,2166,4411797
-291,4/27/2021,London,United Kingdom,2685,4409631
-292,4/26/2021,London,United Kingdom,2064,4406946
-293,4/25/2021,London,United Kingdom,1712,4404882
-294,4/24/2021,London,United Kingdom,2061,4403170
-295,4/23/2021,London,United Kingdom,2678,4401109
-296,4/22/2021,London,United Kingdom,2729,4398431
-297,4/21/2021,London,United Kingdom,2396,4395703
-298,4/20/2021,London,United Kingdom,2524,4393307
-299,4/19/2021,London,United Kingdom,2963,4390783
-300,4/18/2021,London,United Kingdom,1882,4387820
-301,4/17/2021,London,United Kingdom,2206,4385938
-302,4/16/2021,London,United Kingdom,2596,4383732
-303,4/15/2021,London,United Kingdom,2672,4380976
-304,4/14/2021,London,United Kingdom,2491,4378305
-305,4/13/2021,London,United Kingdom,2472,4375814
-306,4/12/2021,London,United Kingdom,3568,4373343
-307,4/11/2021,London,United Kingdom,1730,4369775
-308,4/10/2021,London,United Kingdom,2589,4368045
-309,4/9/2021,London,United Kingdom,3150,4365461
-310,4/8/2021,London,United Kingdom,3030,4370321
-311,4/7/2021,London,United Kingdom,2763,4367291
-312,4/6/2021,London,United Kingdom,2379,4364529
-313,4/5/2021,London,United Kingdom,2762,4362150
-314,4/4/2021,London,United Kingdom,2297,4359388
-315,4/3/2021,London,United Kingdom,3423,4357091
-316,4/2/2021,London,United Kingdom,3402,4353668
-317,4/1/2021,London,United Kingdom,4479,4350266
-318,3/31/2021,London,United Kingdom,4052,4345788
-319,3/30/2021,London,United Kingdom,4040,4341736
-320,3/29/2021,London,United Kingdom,4654,4337696
-321,3/28/2021,London,United Kingdom,3862,4333042
-322,3/27/2021,London,United Kingdom,4715,4329180
-323,3/26/2021,London,United Kingdom,6187,4325315
-324,3/25/2021,London,United Kingdom,6397,4319128
-325,3/24/2021,London,United Kingdom,5605,4312908
-326,3/23/2021,London,United Kingdom,5379,4307304
-327,3/22/2021,London,United Kingdom,5342,4301925
-328,3/21/2021,London,United Kingdom,5312,4296583
-329,3/20/2021,London,United Kingdom,5587,4291271
-330,3/19/2021,London,United Kingdom,4802,4285684
-331,3/18/2021,London,United Kingdom,6303,4280882
-332,3/17/2021,London,United Kingdom,5758,4274579
-333,3/16/2021,London,United Kingdom,5294,4268821
-334,3/15/2021,London,United Kingdom,5089,4263527
-335,3/14/2021,London,United Kingdom,4618,4258438
-336,3/13/2021,London,United Kingdom,5534,4253820
-337,3/12/2021,London,United Kingdom,6609,4248286
-338,3/11/2021,London,United Kingdom,6753,4241677
-339,3/10/2021,London,United Kingdom,5926,4234924
-340,3/9/2021,London,United Kingdom,5766,4228998
-341,3/8/2021,London,United Kingdom,4712,4223232
-342,3/7/2021,London,United Kingdom,5177,4218520
-343,3/6/2021,London,United Kingdom,6040,4213343
-344,3/5/2021,London,United Kingdom,5947,4207304
-345,3/4/2021,London,United Kingdom,6573,4201358
-346,3/3/2021,London,United Kingdom,6385,4194785
-347,3/2/2021,London,United Kingdom,6391,4188400
-348,3/1/2021,London,United Kingdom,5455,4182009
-349,2/28/2021,London,United Kingdom,6035,4176554
-350,2/27/2021,London,United Kingdom,7434,4170519
-351,2/26/2021,London,United Kingdom,8523,4163085
-352,2/25/2021,London,United Kingdom,9985,4154562
-353,2/24/2021,London,United Kingdom,9938,4144577
-354,2/23/2021,London,United Kingdom,8489,4134639
-355,2/22/2021,London,United Kingdom,10641,4126150
-356,2/21/2021,London,United Kingdom,9834,4115509
-357,2/20/2021,London,United Kingdom,10406,4105675
-358,2/19/2021,London,United Kingdom,12027,4095269
-359,2/18/2021,London,United Kingdom,12057,4083242
-360,2/17/2021,London,United Kingdom,12718,4071185
-361,2/16/2021,London,United Kingdom,10625,4058468
-362,2/15/2021,London,United Kingdom,9765,4047843
-363,2/14/2021,London,United Kingdom,10972,4038078
-364,2/13/2021,London,United Kingdom,13308,4027106
-365,2/12/2021,London,United Kingdom,15144,4013799
-366,2/11/2021,London,United Kingdom,13494,3998655
-367,2/10/2021,London,United Kingdom,13013,3985161
-368,2/9/2021,London,United Kingdom,12364,3972148
-369,2/8/2021,London,United Kingdom,14104,3959784
-370,2/7/2021,London,United Kingdom,15845,3945680
-371,2/6/2021,London,United Kingdom,18262,3929835
-372,2/5/2021,London,United Kingdom,19114,3911573
-373,2/4/2021,London,United Kingdom,20634,3892459
-374,2/3/2021,London,United Kingdom,19202,3871825
-375,2/2/2021,London,United Kingdom,16840,3852623
-376,2/1/2021,London,United Kingdom,18607,3835783
-377,1/31/2021,London,United Kingdom,21088,3817176
-378,1/30/2021,London,United Kingdom,23275,3796088
-379,1/29/2021,London,United Kingdom,29079,3772813
-380,1/28/2021,London,United Kingdom,28680,3743734
-381,1/27/2021,London,United Kingdom,25308,3715054
-382,1/26/2021,London,United Kingdom,20089,3689746
-383,1/25/2021,London,United Kingdom,22195,3669658
-384,1/24/2021,London,United Kingdom,30004,3647463
-385,1/23/2021,London,United Kingdom,33552,3617459
-386,1/22/2021,London,United Kingdom,40261,3583907
-387,1/21/2021,London,United Kingdom,37892,3543646
-388,1/20/2021,London,United Kingdom,38905,3505754
-389,1/19/2021,London,United Kingdom,33355,3466849
-390,1/18/2021,London,United Kingdom,37535,3433494
-391,1/17/2021,London,United Kingdom,38598,3395959
-392,1/16/2021,London,United Kingdom,41346,3357361
-393,1/15/2021,London,United Kingdom,55761,3316019
-394,1/14/2021,London,United Kingdom,48682,3260258
-395,1/13/2021,London,United Kingdom,47525,3211576
-396,1/12/2021,London,United Kingdom,45533,3164051
-397,1/11/2021,London,United Kingdom,46169,3118518
-398,1/10/2021,London,United Kingdom,54940,3072349
-399,1/9/2021,London,United Kingdom,59937,3017409
-400,1/8/2021,London,United Kingdom,68053,2957472
-401,1/7/2021,London,United Kingdom,52618,2889419
-402,1/6/2021,London,United Kingdom,62322,2836801
-403,1/5/2021,London,United Kingdom,60916,2774479
-404,1/4/2021,London,United Kingdom,58784,2713563
-405,1/3/2021,London,United Kingdom,54990,2654779
-406,1/2/2021,London,United Kingdom,57725,2599789
-407,1/1/2021,London,United Kingdom,53285,2542065
-408,12/31/2020,London,United Kingdom,55892,2488780
-409,12/30/2020,London,United Kingdom,50023,2432888
-410,12/29/2020,London,United Kingdom,53135,2382865
-411,12/28/2020,London,United Kingdom,41385,2329730
-412,12/27/2020,London,United Kingdom,30501,2288345
-413,12/26/2020,London,United Kingdom,35691,2257844
-414,12/25/2020,London,United Kingdom,32725,2222153
-415,12/24/2020,London,United Kingdom,39877,2189428
-416,12/23/2020,London,United Kingdom,39237,2149551
-417,12/22/2020,London,United Kingdom,36804,2110314
-418,12/21/2020,London,United Kingdom,33364,2073511
-419,12/20/2020,London,United Kingdom,35928,2040147
-420,12/19/2020,London,United Kingdom,27052,2004219
-421,12/18/2020,London,United Kingdom,28507,1977167
-422,12/17/2020,London,United Kingdom,35383,1948660
-423,12/16/2020,London,United Kingdom,25161,1913277
-424,12/15/2020,London,United Kingdom,18450,1888116
-425,12/14/2020,London,United Kingdom,20263,1869666
-426,12/13/2020,London,United Kingdom,18447,1849403
-427,12/12/2020,London,United Kingdom,21502,1830956
-428,12/11/2020,London,United Kingdom,21672,1809455
-429,12/10/2020,London,United Kingdom,20964,1787783
-430,12/9/2020,London,United Kingdom,16578,1766819
-431,12/8/2020,London,United Kingdom,12282,1750241
-432,12/7/2020,London,United Kingdom,14718,1737960
-433,12/6/2020,London,United Kingdom,17272,1723242
-434,12/5/2020,London,United Kingdom,15539,1705971
-435,12/4/2020,London,United Kingdom,16298,1690432
-436,12/3/2020,London,United Kingdom,14879,1674134
-437,12/2/2020,London,United Kingdom,16170,1659256
-438,12/1/2020,London,United Kingdom,13430,1643086
-439,11/30/2020,London,United Kingdom,12330,1629657
-440,11/29/2020,London,United Kingdom,12155,1617327
-441,11/28/2020,London,United Kingdom,15871,1605172
-442,11/27/2020,London,United Kingdom,16022,1589301
-443,11/26/2020,London,United Kingdom,17555,1574562
-444,11/25/2020,London,United Kingdom,18213,1557007
-445,11/24/2020,London,United Kingdom,11299,1538794
-446,11/23/2020,London,United Kingdom,15450,1527495
-447,11/22/2020,London,United Kingdom,18662,1512045
-448,11/21/2020,London,United Kingdom,19875,1493383
-449,11/20/2020,London,United Kingdom,20252,1473508
-450,11/19/2020,London,United Kingdom,22915,1453256
-451,11/18/2020,London,United Kingdom,19609,1430341
-452,11/17/2020,London,United Kingdom,20051,1410732
-453,11/16/2020,London,United Kingdom,21363,1390681
-454,11/15/2020,London,United Kingdom,24962,1369318
-455,11/14/2020,London,United Kingdom,26860,1344356
-456,11/13/2020,London,United Kingdom,27301,1317496
-457,11/12/2020,London,United Kingdom,33470,1290195
-458,11/11/2020,London,United Kingdom,22950,1256725
-459,11/10/2020,London,United Kingdom,20412,1233775
-460,11/9/2020,London,United Kingdom,21350,1213363
-461,11/8/2020,London,United Kingdom,20572,1192013
-462,11/7/2020,London,United Kingdom,24957,1171441
-463,11/6/2020,London,United Kingdom,23287,1146484
-464,11/5/2020,London,United Kingdom,24141,1123197
-465,11/4/2020,London,United Kingdom,25177,1099059
-466,11/3/2020,London,United Kingdom,20018,1073882
-467,11/2/2020,London,United Kingdom,18950,1053864
-468,11/1/2020,London,United Kingdom,23254,1034914
-469,10/31/2020,London,United Kingdom,21915,1011660
-470,10/30/2020,London,United Kingdom,24405,989745
-471,10/29/2020,London,United Kingdom,23065,965340
-472,10/28/2020,London,United Kingdom,24701,942275
-473,10/27/2020,London,United Kingdom,22885,917575
-474,10/26/2020,London,United Kingdom,20890,894690
-475,10/25/2020,London,United Kingdom,19790,873800
-476,10/24/2020,London,United Kingdom,23012,854010
-477,10/23/2020,London,United Kingdom,20530,830998
-478,10/22/2020,London,United Kingdom,21242,810467
-479,10/21/2020,London,United Kingdom,26688,789229
-480,10/20/2020,London,United Kingdom,21331,762542
-481,10/19/2020,London,United Kingdom,18804,741212
-482,10/18/2020,London,United Kingdom,16982,722409
-483,10/17/2020,London,United Kingdom,16171,705428
-484,10/16/2020,London,United Kingdom,15650,689257
-485,10/15/2020,London,United Kingdom,18980,673622
-486,10/14/2020,London,United Kingdom,19724,654644
-487,10/13/2020,London,United Kingdom,17234,634920
-488,10/12/2020,London,United Kingdom,13972,617688
-489,10/11/2020,London,United Kingdom,12872,603716
-490,10/10/2020,London,United Kingdom,15166,590844
-491,10/9/2020,London,United Kingdom,13864,575679
-492,10/8/2020,London,United Kingdom,17540,561815
-493,10/7/2020,London,United Kingdom,14162,544275
-494,10/6/2020,London,United Kingdom,14542,530113
-495,10/5/2020,London,United Kingdom,12594,515571
-496,10/4/2020,London,United Kingdom,22961,502978
-497,10/3/2020,London,United Kingdom,12872,480017
-498,10/2/2020,London,United Kingdom,6968,467146
-499,10/1/2020,London,United Kingdom,6914,460178
-500,9/30/2020,London,United Kingdom,7108,453264
-501,9/29/2020,London,United Kingdom,7143,446156
-502,9/28/2020,London,United Kingdom,4044,439013
-503,9/27/2020,London,United Kingdom,5693,434969
-504,9/26/2020,London,United Kingdom,6042,429277
-505,9/25/2020,London,United Kingdom,6874,423236
-506,9/24/2020,London,United Kingdom,6634,416363
-507,9/23/2020,London,United Kingdom,6178,409729
-508,9/22/2020,London,United Kingdom,4926,403551
-509,9/21/2020,London,United Kingdom,4368,398625
-510,9/20/2020,London,United Kingdom,3899,394257
-511,9/19/2020,London,United Kingdom,4422,390358
-512,9/18/2020,London,United Kingdom,4322,385936
-513,9/17/2020,London,United Kingdom,3395,381614
-514,9/16/2020,London,United Kingdom,3991,378219
-515,9/15/2020,London,United Kingdom,3105,374228
-516,9/14/2020,London,United Kingdom,2621,371125
-517,9/13/2020,London,United Kingdom,3330,368504
-518,9/12/2020,London,United Kingdom,3497,365174
-519,9/11/2020,London,United Kingdom,3539,361677
-520,9/10/2020,London,United Kingdom,2919,358138
-521,9/9/2020,London,United Kingdom,2659,355219
-522,9/8/2020,London,United Kingdom,2460,352560
-523,9/7/2020,London,United Kingdom,2948,350100
-524,9/6/2020,London,United Kingdom,2988,347152
-525,9/5/2020,London,United Kingdom,1813,344164
-526,9/4/2020,London,United Kingdom,1940,342351
-527,9/3/2020,London,United Kingdom,1735,340411
-528,9/2/2020,London,United Kingdom,1508,338676
-529,9/1/2020,London,United Kingdom,1295,337168
-530,8/31/2020,London,United Kingdom,1406,335873
-531,8/30/2020,London,United Kingdom,1715,334467
-532,8/29/2020,London,United Kingdom,1108,332752
-533,8/28/2020,London,United Kingdom,1276,331644
-534,8/27/2020,London,United Kingdom,1522,330368
-535,8/26/2020,London,United Kingdom,1048,328846
-536,8/25/2020,London,United Kingdom,1184,327798
-537,8/24/2020,London,United Kingdom,853,326614
-538,8/23/2020,London,United Kingdom,1160,325761
-539,8/22/2020,London,United Kingdom,1288,324601
-540,8/21/2020,London,United Kingdom,1033,323313
-541,8/20/2020,London,United Kingdom,1182,322280
-542,8/19/2020,London,United Kingdom,812,321098
-543,8/18/2020,London,United Kingdom,1089,320286
-544,8/17/2020,London,United Kingdom,713,319197
-545,8/16/2020,London,United Kingdom,1040,318484
-546,8/15/2020,London,United Kingdom,1077,317444
-547,8/14/2020,London,United Kingdom,1441,316367
-548,8/13/2020,London,United Kingdom,1129,314927
-549,8/12/2020,London,United Kingdom,1009,313798
-550,8/11/2020,London,United Kingdom,1148,312789
-551,8/10/2020,London,United Kingdom,740,311641
-552,8/9/2020,London,United Kingdom,1062,310825
-553,8/8/2020,London,United Kingdom,758,309763
-554,8/7/2020,London,United Kingdom,871,309005
-555,8/6/2020,London,United Kingdom,950,308134
-556,8/5/2020,London,United Kingdom,892,307184
-557,8/4/2020,London,United Kingdom,670,306293
-558,8/3/2020,London,United Kingdom,898,305623
-559,8/2/2020,London,United Kingdom,744,304685
-560,8/1/2020,London,United Kingdom,761,303942
-561,7/31/2020,London,United Kingdom,880,303181
-562,7/30/2020,London,United Kingdom,846,302301
-563,7/29/2020,London,United Kingdom,763,301455
-564,7/28/2020,London,United Kingdom,581,300692
-565,7/27/2020,London,United Kingdom,685,300111
-566,7/26/2020,London,United Kingdom,745,299426
-567,7/25/2020,London,United Kingdom,767,298681
-568,7/24/2020,London,United Kingdom,768,297914
-569,7/23/2020,London,United Kingdom,769,297146
-570,7/22/2020,London,United Kingdom,560,296377
-571,7/21/2020,London,United Kingdom,445,295817
-572,7/20/2020,London,United Kingdom,557,295372
-573,7/19/2020,London,United Kingdom,726,294792
-574,7/18/2020,London,United Kingdom,827,294066
-575,7/17/2020,London,United Kingdom,687,293239
-576,7/16/2020,London,United Kingdom,642,292552
-577,7/15/2020,London,United Kingdom,538,291911
-578,7/14/2020,London,United Kingdom,398,291373
-579,7/13/2020,London,United Kingdom,530,290133
-580,7/12/2020,London,United Kingdom,650,289603
-581,7/11/2020,London,United Kingdom,820,288953
-582,7/10/2020,London,United Kingdom,512,288133
-583,7/9/2020,London,United Kingdom,642,287621
-584,7/8/2020,London,United Kingdom,630,286979
-585,7/7/2020,London,United Kingdom,581,286349
-586,7/6/2020,London,United Kingdom,343,285768
-587,7/5/2020,London,United Kingdom,516,285416
-588,7/4/2020,London,United Kingdom,624,284900
-589,7/3/2020,London,United Kingdom,544,284276
-590,7/2/2020,London,United Kingdom,576,283757
-591,7/1/2020,London,United Kingdom,829,313483
-592,6/30/2020,London,United Kingdom,689,312654
-593,6/29/2020,London,United Kingdom,815,311965
-594,6/28/2020,London,United Kingdom,901,311151
-595,6/27/2020,London,United Kingdom,890,310250
-596,6/26/2020,London,United Kingdom,1006,309360
-597,6/25/2020,London,United Kingdom,1118,307980
-598,6/24/2020,London,United Kingdom,653,306862
-599,6/23/2020,London,United Kingdom,874,306210
-600,6/22/2020,London,United Kingdom,958,305289
-601,6/21/2020,London,United Kingdom,1221,304331
-602,6/20/2020,London,United Kingdom,1295,303110
-603,6/19/2020,London,United Kingdom,1346,301815
-604,6/18/2020,London,United Kingdom,1218,300469
-605,6/17/2020,London,United Kingdom,1115,299251
-606,6/16/2020,London,United Kingdom,1279,298136
-607,6/15/2020,London,United Kingdom,1056,296857
-608,6/14/2020,London,United Kingdom,1514,295889
-609,6/13/2020,London,United Kingdom,1425,294375
-610,6/12/2020,London,United Kingdom,1541,292950
-611,6/11/2020,London,United Kingdom,1266,291409
-612,6/10/2020,London,United Kingdom,1003,290143
-613,6/9/2020,London,United Kingdom,1387,289140
-614,6/8/2020,London,United Kingdom,1205,287399
-615,6/7/2020,London,United Kingdom,1326,286194
-616,6/6/2020,London,United Kingdom,1557,284868
-617,6/5/2020,London,United Kingdom,1650,283311
-618,6/4/2020,London,United Kingdom,1805,281661
-619,6/3/2020,London,United Kingdom,1871,279856
-620,6/2/2020,London,United Kingdom,1613,277985
-621,6/1/2020,London,United Kingdom,1570,276332
-622,5/31/2020,London,United Kingdom,1936,274762
-623,5/30/2020,London,United Kingdom,2445,272826
-624,5/29/2020,London,United Kingdom,2095,271222
-625,5/28/2020,London,United Kingdom,1887,269127
-626,5/27/2020,London,United Kingdom,2013,267240
-627,5/26/2020,London,United Kingdom,2004,265227
-628,5/25/2020,London,United Kingdom,1625,261184
-629,5/24/2020,London,United Kingdom,2409,259559
-630,5/23/2020,London,United Kingdom,2959,257154
-631,5/22/2020,London,United Kingdom,3287,254195
-632,5/21/2020,London,United Kingdom,2615,250908
-633,5/20/2020,London,United Kingdom,2472,248293
-634,5/19/2020,London,United Kingdom,2412,248818
-635,5/18/2020,London,United Kingdom,2684,246406
-636,5/17/2020,London,United Kingdom,3562,243723
-637,5/16/2020,London,United Kingdom,3451,240161
-638,5/15/2020,London,United Kingdom,3560,236711
-639,5/14/2020,London,United Kingdom,3446,233151
-640,5/13/2020,London,United Kingdom,3242,229705
-641,5/12/2020,London,United Kingdom,3403,226463
-642,5/11/2020,London,United Kingdom,3877,223060
-643,5/10/2020,London,United Kingdom,3923,219183
-644,5/9/2020,London,United Kingdom,3896,215260
-645,5/8/2020,London,United Kingdom,4649,211364
-646,5/7/2020,London,United Kingdom,5614,206715
-647,5/6/2020,London,United Kingdom,6111,201101
-648,5/5/2020,London,United Kingdom,4406,194990
-649,5/4/2020,London,United Kingdom,3985,190584
-650,5/3/2020,London,United Kingdom,4339,186599
-651,5/2/2020,London,United Kingdom,4806,182260
-652,5/1/2020,London,United Kingdom,6201,177454
-653,4/30/2020,London,United Kingdom,6032,171253
-654,4/29/2020,London,United Kingdom,4076,165221
-655,4/28/2020,London,United Kingdom,3996,161145
-656,4/27/2020,London,United Kingdom,4310,157149
-657,4/26/2020,London,United Kingdom,4463,152840
-658,4/25/2020,London,United Kingdom,4913,148377
-659,4/24/2020,London,United Kingdom,5386,143464
-660,4/23/2020,London,United Kingdom,4583,138078
-661,4/22/2020,London,United Kingdom,4451,133495
-662,4/21/2020,London,United Kingdom,4301,129044
-663,4/20/2020,London,United Kingdom,4676,124743
-664,4/19/2020,London,United Kingdom,5850,120067
-665,4/18/2020,London,United Kingdom,5526,114217
-666,4/17/2020,London,United Kingdom,5599,108692
-667,4/16/2020,London,United Kingdom,4618,103093
-668,4/15/2020,London,United Kingdom,4605,98476
-669,4/14/2020,London,United Kingdom,5252,93873
-670,4/13/2020,London,United Kingdom,4342,88621
-671,4/12/2020,London,United Kingdom,5288,84279
-672,4/11/2020,London,United Kingdom,5234,78991
-673,4/10/2020,London,United Kingdom,5706,73758
-674,4/9/2020,London,United Kingdom,4675,68052
-675,4/8/2020,London,United Kingdom,5865,63377
-676,4/7/2020,London,United Kingdom,3888,57512
-677,4/6/2020,London,United Kingdom,4143,53624
-678,4/5/2020,London,United Kingdom,6199,49481
-679,4/4/2020,London,United Kingdom,4000,43282
-680,4/3/2020,London,United Kingdom,4672,39282
-681,4/2/2020,London,United Kingdom,4522,34610
-682,4/1/2020,London,United Kingdom,4567,30088
-683,3/31/2020,London,United Kingdom,3250,25521
-684,3/30/2020,London,United Kingdom,2665,22271
-685,3/29/2020,London,United Kingdom,2502,19606
-686,3/28/2020,London,United Kingdom,2556,17104
-687,3/27/2020,London,United Kingdom,2890,14548
-688,3/26/2020,London,United Kingdom,2129,11658
-689,3/25/2020,London,United Kingdom,1452,9529
-690,3/24/2020,London,United Kingdom,1427,8077
-691,3/23/2020,London,United Kingdom,967,6650
-692,3/22/2020,London,United Kingdom,665,5683
-693,3/21/2020,London,United Kingdom,1035,5018
-694,3/20/2020,London,United Kingdom,714,3983
-695,3/19/2020,London,United Kingdom,643,3269
-696,3/18/2020,London,United Kingdom,676,2626
-697,3/17/2020,London,United Kingdom,407,1950
-698,3/16/2020,London,United Kingdom,152,1543
-699,3/15/2020,London,United Kingdom,330,1391
-700,3/14/2020,London,United Kingdom,264,1061
-701,3/13/2020,London,United Kingdom,207,797
-702,3/12/2020,London,United Kingdom,134,590
-703,3/11/2020,London,United Kingdom,83,456
-704,3/10/2020,London,United Kingdom,52,373
-705,3/9/2020,London,United Kingdom,50,321
-706,3/8/2020,London,United Kingdom,65,271
-707,3/7/2020,London,United Kingdom,46,206
-708,3/6/2020,London,United Kingdom,46,160
-709,3/5/2020,London,United Kingdom,29,114
-710,3/4/2020,London,United Kingdom,34,85
-711,3/3/2020,London,United Kingdom,11,51
-712,3/2/2020,London,United Kingdom,5,40
-713,3/1/2020,London,United Kingdom,12,35
-714,2/29/2020,London,United Kingdom,4,23
-715,2/28/2020,London,United Kingdom,6,19
-716,2/27/2020,London,United Kingdom,0,13
-717,2/26/2020,London,United Kingdom,0,13
-718,2/25/2020,London,United Kingdom,0,13
-719,2/24/2020,London,United Kingdom,4,13
-720,2/23/2020,London,United Kingdom,0,9
-721,2/22/2020,London,United Kingdom,0,9
-722,2/21/2020,London,United Kingdom,0,9
-723,2/20/2020,London,United Kingdom,0,9
-724,2/19/2020,London,United Kingdom,0,9
-725,2/18/2020,London,United Kingdom,0,9
-726,2/17/2020,London,United Kingdom,0,9
-727,2/16/2020,London,United Kingdom,0,9
-728,2/15/2020,London,United Kingdom,0,9
-729,2/14/2020,London,United Kingdom,0,9
-730,2/13/2020,London,United Kingdom,1,9
-731,2/12/2020,London,United Kingdom,0,8
-732,2/11/2020,London,United Kingdom,0,8
-733,2/10/2020,London,United Kingdom,4,8
-734,2/9/2020,London,United Kingdom,1,4
-735,2/8/2020,London,United Kingdom,0,3
-736,2/7/2020,London,United Kingdom,0,3
-737,2/6/2020,London,United Kingdom,1,3
-738,2/5/2020,London,United Kingdom,0,2
-739,2/4/2020,London,United Kingdom,0,2
-740,2/3/2020,London,United Kingdom,0,2
-741,2/2/2020,London,United Kingdom,0,2
-742,2/1/2020,London,United Kingdom,0,2
-743,1/31/2020,London,United Kingdom,2,2
+,Date,CityName,DailyCasesBySpecimenDate,DailyCasesChangeBySpecimenDate,CummulativeCasesBySpecimenDate,DailyCasesByPublishDate
+0,2022-03-02,London,,,,4917.0
+1,2022-03-01,London,2494.0,2494.0,2568054.0,3950.0
+2,2022-02-28,London,4627.0,2231.0,2565560.0,9130.0
+3,2022-02-27,London,3162.0,80.0,2560933.0,0.0
+4,2022-02-26,London,2634.0,67.0,2557771.0,0.0
+5,2022-02-25,London,3026.0,14.0,2555137.0,3929.0
+6,2022-02-24,London,3388.0,7.0,2552111.0,4434.0
+7,2022-02-23,London,4074.0,6.0,2548723.0,4890.0
+8,2022-02-22,London,4591.0,1.0,2544649.0,4856.0
+9,2022-02-21,London,5398.0,0.0,2540058.0,4971.0
+10,2022-02-20,London,4614.0,0.0,2534660.0,3382.0
+11,2022-02-19,London,4403.0,0.0,2530046.0,4821.0
+12,2022-02-18,London,3402.0,0.0,2525643.0,5582.0
+13,2022-02-17,London,5283.0,0.0,2522241.0,5921.0
+14,2022-02-16,London,6020.0,0.0,2516958.0,6153.0
+15,2022-02-15,London,5769.0,0.0,2510938.0,5174.0
+16,2022-02-14,London,6038.0,0.0,2505169.0,4347.0
+17,2022-02-13,London,4390.0,0.0,2499131.0,4864.0
+18,2022-02-12,London,4346.0,0.0,2494741.0,5775.0
+19,2022-02-11,London,5272.0,0.0,2490395.0,7102.0
+20,2022-02-10,London,6408.0,0.0,2485123.0,7933.0
+21,2022-02-09,London,7697.0,0.0,2478715.0,8902.0
+22,2022-02-08,London,8225.0,0.0,2471018.0,8009.0
+23,2022-02-07,London,8917.0,0.0,2462793.0,6826.0
+24,2022-02-06,London,7030.0,0.0,2453876.0,6918.0
+25,2022-02-05,London,6393.0,0.0,2446846.0,8295.0
+26,2022-02-04,London,7520.0,0.0,2440453.0,10851.0
+27,2022-02-03,London,9214.0,0.0,2432933.0,10910.0
+28,2022-02-02,London,10690.0,0.0,2423719.0,11076.0
+29,2022-02-01,London,11040.0,0.0,2413029.0,18514.0
+30,2022-01-31,London,11944.0,1.0,2401989.0,128076.0
+31,2022-01-30,London,9830.0,0.0,2390045.0,8411.0
+32,2022-01-29,London,8716.0,0.0,2380215.0,9581.0
+33,2022-01-28,London,9909.0,1.0,2371499.0,11306.0
+34,2022-01-27,London,11565.0,1.0,2361590.0,11694.0
+35,2022-01-26,London,13073.0,0.0,2350025.0,12727.0
+36,2022-01-25,London,13238.0,0.0,2336952.0,10810.0
+37,2022-01-24,London,14407.0,3.0,2323714.0,9918.0
+38,2022-01-23,London,11343.0,2.0,2309307.0,9326.0
+39,2022-01-22,London,9639.0,2.0,2297964.0,10009.0
+40,2022-01-21,London,10703.0,0.0,2288325.0,11887.0
+41,2022-01-20,London,12016.0,1.0,2277622.0,14774.0
+42,2022-01-19,London,13020.0,1.0,2265606.0,13328.0
+43,2022-01-18,London,13870.0,1.0,2252586.0,11116.0
+44,2022-01-17,London,15110.0,0.0,2238716.0,9775.0
+45,2022-01-16,London,11241.0,2.0,2223606.0,9612.0
+46,2022-01-15,London,9522.0,2.0,2212365.0,10601.0
+47,2022-01-14,London,10503.0,,2202843.0,12491.0
+48,2022-01-13,London,11814.0,,2192340.0,13938.0
+49,2022-01-12,London,12938.0,,2180526.0,15453.0
+50,2022-01-11,London,14408.0,,2167588.0,12309.0
+51,2022-01-10,London,16616.0,,2153180.0,15235.0
+52,2022-01-09,London,12120.0,,2136564.0,16493.0
+53,2022-01-08,London,12168.0,,2124444.0,20853.0
+54,2022-01-07,London,15145.0,,2112276.0,21558.0
+55,2022-01-06,London,22145.0,,2097131.0,21854.0
+56,2022-01-05,London,25184.0,,2074986.0,22558.0
+57,2022-01-04,London,32069.0,,2049802.0,21527.0
+58,2022-01-03,London,26941.0,,2017733.0,20080.0
+59,2022-01-02,London,21901.0,,1990792.0,19951.0
+60,2022-01-01,London,13613.0,,1968891.0,27608.0
+61,2021-12-31,London,22195.0,,1955278.0,24865.0
+62,2021-12-30,London,29437.0,,1933083.0,24320.0
+63,2021-12-29,London,36917.0,,1903646.0,22727.0
+64,2021-12-28,London,28193.0,,1866729.0,22981.0
+65,2021-12-27,London,28054.0,,1838536.0,22224.0
+66,2021-12-26,London,18747.0,,1810482.0,22348.0
+67,2021-12-25,London,11170.0,,1791735.0,25378.0
+68,2021-12-24,London,24088.0,,1780565.0,26342.0
+69,2021-12-23,London,31031.0,,1756477.0,26307.0
+70,2021-12-22,London,32106.0,,1725446.0,27799.0
+71,2021-12-21,London,33951.0,,1693340.0,20491.0
+72,2021-12-20,London,32665.0,,1659389.0,22750.0
+73,2021-12-19,London,22600.0,,1626724.0,21594.0
+74,2021-12-18,London,24953.0,,1604124.0,25551.0
+75,2021-12-17,London,27162.0,,1579171.0,26608.0
+76,2021-12-16,London,30046.0,,1552009.0,23272.0
+77,2021-12-15,London,31004.0,,1521963.0,19294.0
+78,2021-12-14,London,29562.0,,1490959.0,12832.0
+79,2021-12-13,London,22841.0,,1461397.0,11791.0
+80,2021-12-12,London,12249.0,,1438556.0,9959.0
+81,2021-12-11,London,9888.0,,1426307.0,8537.0
+82,2021-12-10,London,10212.0,,1416419.0,9988.0
+83,2021-12-09,London,10326.0,,1406207.0,7761.0
+84,2021-12-08,London,10022.0,,1395881.0,6988.0
+85,2021-12-07,London,9084.0,,1385859.0,5987.0
+86,2021-12-06,London,8552.0,,1376775.0,6333.0
+87,2021-12-05,London,5519.0,,1368223.0,4713.0
+88,2021-12-04,London,5332.0,,1362704.0,6112.0
+89,2021-12-03,London,6093.0,,1357372.0,6741.0
+90,2021-12-02,London,6519.0,,1351279.0,6901.0
+91,2021-12-01,London,7048.0,,1344760.0,5668.0
+92,2021-11-30,London,6831.0,,1337712.0,4653.0
+93,2021-11-29,London,6856.0,,1330881.0,5089.0
+94,2021-11-28,London,4381.0,,1324025.0,3716.0
+95,2021-11-27,London,4335.0,,1319644.0,5079.0
+96,2021-11-26,London,4607.0,,1315309.0,5830.0
+97,2021-11-25,London,5183.0,,1310702.0,5319.0
+98,2021-11-24,London,5400.0,,1305519.0,4457.0
+99,2021-11-23,London,5291.0,,1300119.0,4261.0
+100,2021-11-22,London,5405.0,,1294828.0,4347.0
+101,2021-11-21,London,3830.0,,1289423.0,4536.0
+102,2021-11-20,London,3701.0,,1285593.0,4231.0
+103,2021-11-19,London,3942.0,,1281892.0,4358.0
+104,2021-11-18,London,4499.0,,1277950.0,4924.0
+105,2021-11-17,London,4499.0,,1273451.0,2993.0
+106,2021-11-16,London,4453.0,,1268952.0,3194.0
+107,2021-11-15,London,5146.0,,1264499.0,3343.0
+108,2021-11-14,London,3258.0,,1259353.0,3652.0
+109,2021-11-13,London,3235.0,,1256095.0,4088.0
+110,2021-11-12,London,3684.0,,1252860.0,3590.0
+111,2021-11-11,London,3922.0,,1249176.0,4136.0
+112,2021-11-10,London,4129.0,,1245254.0,3471.0
+113,2021-11-09,London,4008.0,,1241125.0,2845.0
+114,2021-11-08,London,3990.0,,1237117.0,2735.0
+115,2021-11-07,London,2815.0,,1233127.0,2736.0
+116,2021-11-06,London,2537.0,,1230312.0,2950.0
+117,2021-11-05,London,2782.0,,1227775.0,2993.0
+118,2021-11-04,London,3076.0,,1224993.0,3115.0
+119,2021-11-03,London,3285.0,,1221917.0,3720.0
+120,2021-11-02,London,3452.0,,1218632.0,2935.0
+121,2021-11-01,London,3912.0,,1215180.0,3322.0
+122,2021-10-31,London,2999.0,,1211268.0,3014.0
+123,2021-10-30,London,2905.0,,1208269.0,3555.0
+124,2021-10-29,London,3450.0,,1205364.0,3615.0
+125,2021-10-28,London,3616.0,,1201914.0,3473.0
+126,2021-10-27,London,3754.0,,1198298.0,3801.0
+127,2021-10-26,London,3513.0,,1194544.0,3225.0
+128,2021-10-25,London,4022.0,,1191031.0,3118.0
+129,2021-10-24,London,2836.0,,1187009.0,3279.0
+130,2021-10-23,London,2893.0,,1184173.0,4435.0
+131,2021-10-22,London,3523.0,,1181280.0,3928.0
+132,2021-10-21,London,3967.0,,1177757.0,4342.0
+133,2021-10-20,London,4360.0,,1173790.0,3648.0
+134,2021-10-19,London,4455.0,,1169430.0,3317.0
+135,2021-10-18,London,4566.0,,1164975.0,3806.0
+136,2021-10-17,London,3360.0,,1160409.0,3448.0
+137,2021-10-16,London,2806.0,,1157049.0,3485.0
+138,2021-10-15,London,3320.0,,1154243.0,3301.0
+139,2021-10-14,London,3470.0,,1150923.0,2947.0
+140,2021-10-13,London,3571.0,,1147453.0,3271.0
+141,2021-10-12,London,3421.0,,1143882.0,2748.0
+142,2021-10-11,London,3887.0,,1140461.0,3050.0
+143,2021-10-10,London,2781.0,,1136574.0,2855.0
+144,2021-10-09,London,2487.0,,1133793.0,2589.0
+145,2021-10-08,London,2700.0,,1131306.0,2942.0
+146,2021-10-07,London,2972.0,,1128606.0,3077.0
+147,2021-10-06,London,2862.0,,1125634.0,2890.0
+148,2021-10-05,London,3123.0,,1122772.0,3135.0
+149,2021-10-04,London,3363.0,,1119649.0,2665.0
+150,2021-10-03,London,2570.0,,1116286.0,2274.0
+151,2021-10-02,London,2201.0,,1113716.0,2344.0
+152,2021-10-01,London,2231.0,,1111515.0,2195.0
+153,2021-09-30,London,2645.0,,1109284.0,2439.0
+154,2021-09-29,London,2826.0,,1106639.0,3072.0
+155,2021-09-28,London,2840.0,,1103813.0,2831.0
+156,2021-09-27,London,3514.0,,1100973.0,2960.0
+157,2021-09-26,London,2552.0,,1097459.0,2260.0
+158,2021-09-25,London,2333.0,,1094907.0,3074.0
+159,2021-09-24,London,2434.0,,1092574.0,2783.0
+160,2021-09-23,London,2792.0,,1090140.0,2494.0
+161,2021-09-22,London,2867.0,,1087348.0,2593.0
+162,2021-09-21,London,2969.0,,1084481.0,2450.0
+163,2021-09-20,London,3177.0,,1081512.0,2647.0
+164,2021-09-19,London,2378.0,,1078335.0,2402.0
+165,2021-09-18,London,2165.0,,1075957.0,2179.0
+166,2021-09-17,London,2415.0,,1073792.0,2597.0
+167,2021-09-16,London,2394.0,,1071377.0,2620.0
+168,2021-09-15,London,2477.0,,1068983.0,2588.0
+169,2021-09-14,London,2641.0,,1066506.0,2073.0
+170,2021-09-13,London,2860.0,,1063865.0,2673.0
+171,2021-09-12,London,2064.0,,1061005.0,2239.0
+172,2021-09-11,London,2227.0,,1058941.0,2857.0
+173,2021-09-10,London,2567.0,,1056714.0,3025.0
+174,2021-09-09,London,2805.0,,1054147.0,3439.0
+175,2021-09-08,London,3214.0,,1051342.0,3536.0
+176,2021-09-07,London,3462.0,,1048128.0,2972.0
+177,2021-09-06,London,3892.0,,1044666.0,2853.0
+178,2021-09-05,London,2706.0,,1040774.0,3641.0
+179,2021-09-04,London,2756.0,,1038068.0,3593.0
+180,2021-09-03,London,3530.0,,1035312.0,3530.0
+181,2021-09-02,London,3810.0,,1031782.0,3377.0
+182,2021-09-01,London,3677.0,,1027972.0,2834.0
+183,2021-08-31,London,3811.0,,1024295.0,2409.0
+184,2021-08-30,London,2872.0,,1020484.0,2751.0
+185,2021-08-29,London,2286.0,,1017612.0,2517.0
+186,2021-08-28,London,2645.0,,1015326.0,3272.0
+187,2021-08-27,London,3139.0,,1012681.0,3355.0
+188,2021-08-26,London,3246.0,,1009542.0,3472.0
+189,2021-08-25,London,3525.0,,1006296.0,3544.0
+190,2021-08-24,London,3516.0,,1002771.0,2782.0
+191,2021-08-23,London,3656.0,,999255.0,2754.0
+192,2021-08-22,London,2720.0,,995599.0,2977.0
+193,2021-08-21,London,2727.0,,992879.0,3424.0
+194,2021-08-20,London,3167.0,,990152.0,4093.0
+195,2021-08-19,London,3625.0,,986985.0,3272.0
+196,2021-08-18,London,3803.0,,983360.0,3489.0
+197,2021-08-17,London,3823.0,,979557.0,3032.0
+198,2021-08-16,London,3926.0,,975734.0,3166.0
+199,2021-08-15,London,2759.0,,971808.0,3157.0
+200,2021-08-14,London,2948.0,,969049.0,3870.0
+201,2021-08-13,London,3761.0,,966101.0,4249.0
+202,2021-08-12,London,4017.0,,962340.0,4005.0
+203,2021-08-11,London,4369.0,,958323.0,3736.0
+204,2021-08-10,London,3928.0,,953954.0,2844.0
+205,2021-08-09,London,3877.0,,950026.0,2985.0
+206,2021-08-08,London,2913.0,,946149.0,3662.0
+207,2021-08-07,London,3015.0,,943236.0,3898.0
+208,2021-08-06,London,3730.0,,940221.0,4409.0
+209,2021-08-05,London,4295.0,,936491.0,3768.0
+210,2021-08-04,London,4294.0,,932196.0,3876.0
+211,2021-08-03,London,4023.0,,927902.0,2978.0
+212,2021-08-02,London,3984.0,,923879.0,2719.0
+213,2021-08-01,London,2693.0,,919895.0,3121.0
+214,2021-07-31,London,2669.0,,917202.0,3686.0
+215,2021-07-30,London,3356.0,,914533.0,3753.0
+216,2021-07-29,London,3901.0,,911177.0,4333.0
+217,2021-07-28,London,3964.0,,907276.0,3340.0
+218,2021-07-27,London,3906.0,,903312.0,3227.0
+219,2021-07-26,London,4042.0,,899406.0,3056.0
+220,2021-07-25,London,2880.0,,895364.0,3926.0
+221,2021-07-24,London,3117.0,,892484.0,4557.0
+222,2021-07-23,London,3927.0,,889367.0,5187.0
+223,2021-07-22,London,4313.0,,885440.0,4463.0
+224,2021-07-21,London,4783.0,,881127.0,5763.0
+225,2021-07-20,London,5159.0,,876344.0,7086.0
+226,2021-07-19,London,6135.0,,871185.0,3940.0
+227,2021-07-18,London,4523.0,,865050.0,5451.0
+228,2021-07-17,London,5079.0,,860527.0,6592.0
+229,2021-07-16,London,7136.0,,855448.0,6296.0
+230,2021-07-15,London,7817.0,,848312.0,5743.0
+231,2021-07-14,London,6573.0,,840495.0,4751.0
+232,2021-07-13,London,5309.0,,833922.0,4126.0
+233,2021-07-12,London,4968.0,,828613.0,4201.0
+234,2021-07-11,London,3284.0,,823645.0,3669.0
+235,2021-07-10,London,3250.0,,820361.0,4131.0
+236,2021-07-09,London,3654.0,,817111.0,3046.0
+237,2021-07-08,London,3686.0,,813457.0,3234.0
+238,2021-07-07,London,4500.0,,809771.0,3314.0
+239,2021-07-06,London,4021.0,,805271.0,3633.0
+240,2021-07-05,London,3860.0,,801250.0,3343.0
+241,2021-07-04,London,2634.0,,797390.0,2218.0
+242,2021-07-03,London,2691.0,,794756.0,2531.0
+243,2021-07-02,London,2938.0,,792065.0,2651.0
+244,2021-07-01,London,3094.0,,789127.0,2705.0
+245,2021-06-30,London,3084.0,,786033.0,2598.0
+246,2021-06-29,London,2992.0,,782949.0,2069.0
+247,2021-06-28,London,2873.0,,779957.0,2306.0
+248,2021-06-27,London,1890.0,,777084.0,1493.0
+249,2021-06-26,London,1722.0,,775194.0,1993.0
+250,2021-06-25,London,2057.0,,773472.0,1699.0
+251,2021-06-24,London,1959.0,,771415.0,1731.0
+252,2021-06-23,London,1971.0,,769456.0,1609.0
+253,2021-06-22,London,1787.0,,767485.0,1066.0
+254,2021-06-21,London,1654.0,,765698.0,1023.0
+255,2021-06-20,London,971.0,,764044.0,886.0
+256,2021-06-19,London,924.0,,763073.0,1172.0
+257,2021-06-18,London,1038.0,,762149.0,1200.0
+258,2021-06-17,London,1300.0,,761111.0,1225.0
+259,2021-06-16,London,1163.0,,759811.0,1168.0
+260,2021-06-15,London,1299.0,,758648.0,813.0
+261,2021-06-14,London,1208.0,,757349.0,778.0
+262,2021-06-13,London,767.0,,756141.0,932.0
+263,2021-06-12,London,772.0,,755374.0,962.0
+264,2021-06-11,London,938.0,,754602.0,948.0
+265,2021-06-10,London,997.0,,753664.0,1058.0
+266,2021-06-09,London,1077.0,,752667.0,994.0
+267,2021-06-08,London,1095.0,,751590.0,773.0
+268,2021-06-07,London,1017.0,,750495.0,601.0
+269,2021-06-06,London,667.0,,749478.0,635.0
+270,2021-06-05,London,598.0,,748811.0,702.0
+271,2021-06-04,London,701.0,,748213.0,820.0
+272,2021-06-03,London,797.0,,747512.0,669.0
+273,2021-06-02,London,814.0,,746715.0,573.0
+274,2021-06-01,London,713.0,,745901.0,384.0
+275,2021-05-31,London,515.0,,745188.0,381.0
+276,2021-05-30,London,401.0,,744673.0,355.0
+277,2021-05-29,London,385.0,,744272.0,485.0
+278,2021-05-28,London,430.0,,743887.0,495.0
+279,2021-05-27,London,520.0,,743457.0,403.0
+280,2021-05-26,London,485.0,,742937.0,323.0
+281,2021-05-25,London,424.0,,742452.0,295.0
+282,2021-05-24,London,381.0,,742028.0,310.0
+283,2021-05-23,London,281.0,,741647.0,233.0
+284,2021-05-22,London,249.0,,741366.0,309.0
+285,2021-05-21,London,273.0,,741117.0,355.0
+286,2021-05-20,London,329.0,,740844.0,306.0
+287,2021-05-19,London,360.0,,740515.0,262.0
+288,2021-05-18,London,329.0,,740155.0,0.0
+289,2021-05-17,London,340.0,,739826.0,212.0
+290,2021-05-16,London,224.0,,739486.0,217.0
+291,2021-05-15,London,194.0,,739262.0,252.0
+292,2021-05-14,London,251.0,,739068.0,287.0
+293,2021-05-13,London,263.0,,738817.0,299.0
+294,2021-05-12,London,232.0,,738554.0,277.0
+295,2021-05-11,London,298.0,,738322.0,352.0
+296,2021-05-10,London,362.0,,738024.0,273.0
+297,2021-05-09,London,286.0,,737662.0,238.0
+298,2021-05-08,London,191.0,,737376.0,253.0
+299,2021-05-07,London,237.0,,737185.0,333.0
+300,2021-05-06,London,300.0,,736948.0,252.0
+301,2021-05-05,London,283.0,,736648.0,278.0
+302,2021-05-04,London,316.0,,736365.0,216.0
+303,2021-05-03,London,250.0,,736049.0,193.0
+304,2021-05-02,London,183.0,,735799.0,216.0
+305,2021-05-01,London,187.0,,735616.0,201.0
+306,2021-04-30,London,240.0,,735429.0,310.0
+307,2021-04-29,London,216.0,,735189.0,307.0
+308,2021-04-28,London,307.0,,734973.0,257.0
+309,2021-04-27,London,286.0,,734666.0,401.0
+310,2021-04-26,London,325.0,,734380.0,263.0
+311,2021-04-25,London,281.0,,734055.0,187.0
+312,2021-04-24,London,247.0,,733774.0,251.0
+313,2021-04-23,London,250.0,,733527.0,391.0
+314,2021-04-22,London,327.0,,733277.0,376.0
+315,2021-04-21,London,389.0,,732950.0,296.0
+316,2021-04-20,London,377.0,,732561.0,406.0
+317,2021-04-19,London,395.0,,732184.0,378.0
+318,2021-04-18,London,395.0,,731789.0,205.0
+319,2021-04-17,London,231.0,,731394.0,357.0
+320,2021-04-16,London,332.0,,731163.0,380.0
+321,2021-04-15,London,319.0,,730831.0,315.0
+322,2021-04-14,London,295.0,,730512.0,341.0
+323,2021-04-13,London,303.0,,730217.0,274.0
+324,2021-04-12,London,353.0,,729914.0,422.0
+325,2021-04-11,London,312.0,,729561.0,171.0
+326,2021-04-10,London,293.0,,729249.0,247.0
+327,2021-04-09,London,375.0,,728956.0,0.0
+328,2021-04-08,London,330.0,,728581.0,291.0
+329,2021-04-07,London,372.0,,728251.0,317.0
+330,2021-04-06,London,359.0,,727879.0,194.0
+331,2021-04-05,London,262.0,,727520.0,208.0
+332,2021-04-04,London,221.0,,727258.0,237.0
+333,2021-04-03,London,252.0,,727037.0,350.0
+334,2021-04-02,London,271.0,,726785.0,286.0
+335,2021-04-01,London,370.0,,726514.0,393.0
+336,2021-03-31,London,322.0,,726144.0,402.0
+337,2021-03-30,London,382.0,,725822.0,468.0
+338,2021-03-29,London,427.0,,725440.0,386.0
+339,2021-03-28,London,530.0,,725013.0,402.0
+340,2021-03-27,London,322.0,,724483.0,383.0
+341,2021-03-26,London,457.0,,724161.0,501.0
+342,2021-03-25,London,471.0,,723704.0,604.0
+343,2021-03-24,London,636.0,,723233.0,508.0
+344,2021-03-23,London,489.0,,722597.0,495.0
+345,2021-03-22,London,553.0,,722108.0,480.0
+346,2021-03-21,London,479.0,,721555.0,372.0
+347,2021-03-20,London,387.0,,721076.0,470.0
+348,2021-03-19,London,452.0,,720689.0,405.0
+349,2021-03-18,London,485.0,,720237.0,535.0
+350,2021-03-17,London,477.0,,719752.0,542.0
+351,2021-03-16,London,522.0,,719275.0,451.0
+352,2021-03-15,London,617.0,,718753.0,389.0
+353,2021-03-14,London,372.0,,718136.0,384.0
+354,2021-03-13,London,383.0,,717764.0,516.0
+355,2021-03-12,London,528.0,,717381.0,565.0
+356,2021-03-11,London,472.0,,716853.0,689.0
+357,2021-03-10,London,545.0,,716381.0,461.0
+358,2021-03-09,London,616.0,,715836.0,631.0
+359,2021-03-08,London,581.0,,715220.0,400.0
+360,2021-03-07,London,425.0,,714639.0,436.0
+361,2021-03-06,London,416.0,,714214.0,663.0
+362,2021-03-05,London,515.0,,713798.0,542.0
+363,2021-03-04,London,534.0,,713283.0,623.0
+364,2021-03-03,London,596.0,,712749.0,504.0
+365,2021-03-02,London,678.0,,712153.0,629.0
+366,2021-03-01,London,576.0,,711475.0,522.0
+367,2021-02-28,London,499.0,,710899.0,478.0
+368,2021-02-27,London,528.0,,710400.0,678.0
+369,2021-02-26,London,642.0,,709872.0,784.0
+370,2021-02-25,London,665.0,,709230.0,919.0
+371,2021-02-24,London,763.0,,708565.0,952.0
+372,2021-02-23,London,957.0,,707802.0,923.0
+373,2021-02-22,London,1046.0,,706845.0,848.0
+374,2021-02-21,London,763.0,,705799.0,903.0
+375,2021-02-20,London,823.0,,705036.0,1075.0
+376,2021-02-19,London,1060.0,,704213.0,1328.0
+377,2021-02-18,London,1144.0,,703153.0,1391.0
+378,2021-02-17,London,1129.0,,702009.0,1054.0
+379,2021-02-16,London,1231.0,,700880.0,1084.0
+380,2021-02-15,London,1427.0,,699649.0,1064.0
+381,2021-02-14,London,915.0,,698222.0,893.0
+382,2021-02-13,London,897.0,,697307.0,1496.0
+383,2021-02-12,London,1315.0,,696410.0,1807.0
+384,2021-02-11,London,1486.0,,695095.0,1588.0
+385,2021-02-10,London,1575.0,,693609.0,1579.0
+386,2021-02-09,London,1704.0,,692034.0,1567.0
+387,2021-02-08,London,1859.0,,690330.0,1770.0
+388,2021-02-07,London,1383.0,,688471.0,2088.0
+389,2021-02-06,London,1591.0,,687088.0,2351.0
+390,2021-02-05,London,2186.0,,685497.0,2671.0
+391,2021-02-04,London,2538.0,,683311.0,3268.0
+392,2021-02-03,London,2779.0,,680773.0,2973.0
+393,2021-02-02,London,3020.0,,677994.0,2765.0
+394,2021-02-01,London,3376.0,,674974.0,2851.0
+395,2021-01-31,London,2288.0,,671598.0,3002.0
+396,2021-01-30,London,2715.0,,669310.0,3541.0
+397,2021-01-29,London,3499.0,,666595.0,5258.0
+398,2021-01-28,London,3972.0,,663096.0,4367.0
+399,2021-01-27,London,4314.0,,659124.0,4076.0
+400,2021-01-26,London,4293.0,,654810.0,3816.0
+401,2021-01-25,London,5103.0,,650517.0,3836.0
+402,2021-01-24,London,3199.0,,645414.0,5720.0
+403,2021-01-23,London,4259.0,,642215.0,6291.0
+404,2021-01-22,London,5740.0,,637956.0,7933.0
+405,2021-01-21,London,5944.0,,632216.0,7735.0
+406,2021-01-20,London,6377.0,,626272.0,6190.0
+407,2021-01-19,London,7212.0,,619895.0,6237.0
+408,2021-01-18,London,8516.0,,612683.0,7051.0
+409,2021-01-17,London,5523.0,,604167.0,9995.0
+410,2021-01-16,London,6311.0,,598644.0,8838.0
+411,2021-01-15,London,8397.0,,592333.0,10977.0
+412,2021-01-14,London,9157.0,,583936.0,9804.0
+413,2021-01-13,London,9508.0,,574779.0,10020.0
+414,2021-01-12,London,10081.0,,565271.0,8559.0
+415,2021-01-11,London,11845.0,,555190.0,10110.0
+416,2021-01-10,London,7640.0,,543345.0,13674.0
+417,2021-01-09,London,8960.0,,535705.0,15299.0
+418,2021-01-08,London,10770.0,,526745.0,17111.0
+419,2021-01-07,London,12354.0,,515975.0,10150.0
+420,2021-01-06,London,13885.0,,503621.0,14892.0
+421,2021-01-05,London,14895.0,,489736.0,14700.0
+422,2021-01-04,London,17652.0,,474841.0,11370.0
+423,2021-01-03,London,13396.0,,457189.0,14212.0
+424,2021-01-02,London,13941.0,,443793.0,13178.0
+425,2021-01-01,London,6889.0,,429852.0,15089.0
+426,2020-12-31,London,12667.0,,422963.0,12404.0
+427,2020-12-30,London,17658.0,,410296.0,12830.0
+428,2020-12-29,London,20265.0,,392638.0,14875.0
+429,2020-12-28,London,10880.0,,372373.0,12341.0
+430,2020-12-27,London,13365.0,,361493.0,9719.0
+431,2020-12-26,London,12085.0,,348128.0,8516.0
+432,2020-12-25,London,4413.0,,336043.0,9790.0
+433,2020-12-24,London,9594.0,,331630.0,10713.0
+434,2020-12-23,London,12532.0,,322036.0,9873.0
+435,2020-12-22,London,13569.0,,309504.0,10201.0
+436,2020-12-21,London,13495.0,,295935.0,9458.0
+437,2020-12-20,London,9078.0,,282440.0,11577.0
+438,2020-12-19,London,7288.0,,273362.0,6931.0
+439,2020-12-18,London,11002.0,,266074.0,7378.0
+440,2020-12-17,London,10317.0,,255072.0,5762.0
+441,2020-12-16,London,10165.0,,244755.0,6777.0
+442,2020-12-15,London,8974.0,,234590.0,4238.0
+443,2020-12-14,London,8438.0,,225616.0,5322.0
+444,2020-12-13,London,5571.0,,217178.0,4166.0
+445,2020-12-12,London,4749.0,,211607.0,4283.0
+446,2020-12-11,London,5538.0,,206858.0,4755.0
+447,2020-12-10,London,5080.0,,201320.0,4144.0
+448,2020-12-09,London,4462.0,,196240.0,2550.0
+449,2020-12-08,London,3759.0,,191778.0,2203.0
+450,2020-12-07,London,3748.0,,188019.0,2460.0
+451,2020-12-06,London,2445.0,,184271.0,3198.0
+452,2020-12-05,London,2277.0,,181826.0,2376.0
+453,2020-12-04,London,2964.0,,179549.0,2823.0
+454,2020-12-03,London,2487.0,,176585.0,2081.0
+455,2020-12-02,London,2839.0,,174098.0,2614.0
+456,2020-12-01,London,2489.0,,171259.0,1964.0
+457,2020-11-30,London,2720.0,,168770.0,2069.0
+458,2020-11-29,London,1670.0,,166050.0,1639.0
+459,2020-11-28,London,1654.0,,164380.0,2260.0
+460,2020-11-27,London,2234.0,,162726.0,1800.0
+461,2020-11-26,London,2092.0,,160492.0,2085.0
+462,2020-11-25,London,2265.0,,158400.0,2503.0
+463,2020-11-24,London,2179.0,,156135.0,1409.0
+464,2020-11-23,London,2430.0,,153956.0,2075.0
+465,2020-11-22,London,1508.0,,151526.0,2979.0
+466,2020-11-21,London,1514.0,,150018.0,2547.0
+467,2020-11-20,London,2152.0,,148504.0,1908.0
+468,2020-11-19,London,2212.0,,146352.0,2540.0
+469,2020-11-18,London,2488.0,,144140.0,2023.0
+470,2020-11-17,London,2597.0,,141652.0,2102.0
+471,2020-11-16,London,3117.0,,139055.0,674.0
+472,2020-11-15,London,1830.0,,135938.0,2643.0
+473,2020-11-14,London,1960.0,,134108.0,2588.0
+474,2020-11-13,London,2744.0,,132148.0,2917.0
+475,2020-11-12,London,2890.0,,129404.0,3929.0
+476,2020-11-11,London,2961.0,,126514.0,2053.0
+477,2020-11-10,London,2776.0,,123553.0,1501.0
+478,2020-11-09,London,3128.0,,120777.0,2088.0
+479,2020-11-08,London,1792.0,,117649.0,1804.0
+480,2020-11-07,London,1667.0,,115857.0,2352.0
+481,2020-11-06,London,2145.0,,114190.0,1948.0
+482,2020-11-05,London,2115.0,,112045.0,2083.0
+483,2020-11-04,London,2084.0,,109930.0,2307.0
+484,2020-11-03,London,2162.0,,107846.0,1575.0
+485,2020-11-02,London,2966.0,,105684.0,1739.0
+486,2020-11-01,London,1226.0,,102718.0,2056.0
+487,2020-10-31,London,1403.0,,101492.0,1568.0
+488,2020-10-30,London,1895.0,,100089.0,2431.0
+489,2020-10-29,London,2030.0,,98194.0,1933.0
+490,2020-10-28,London,1996.0,,96164.0,2477.0
+491,2020-10-27,London,2111.0,,94168.0,1999.0
+492,2020-10-26,London,2561.0,,92057.0,1807.0
+493,2020-10-25,London,1302.0,,89496.0,1791.0
+494,2020-10-24,London,1458.0,,88194.0,2221.0
+495,2020-10-23,London,2042.0,,86736.0,1718.0
+496,2020-10-22,London,2200.0,,84694.0,1646.0
+497,2020-10-21,London,2377.0,,82494.0,2862.0
+498,2020-10-20,London,2336.0,,80117.0,1480.0
+499,2020-10-19,London,2359.0,,77781.0,1945.0
+500,2020-10-18,London,1308.0,,75422.0,1646.0
+501,2020-10-17,London,1117.0,,74114.0,1166.0
+502,2020-10-16,London,1685.0,,72997.0,1394.0
+503,2020-10-15,London,1740.0,,71312.0,1843.0
+504,2020-10-14,London,1638.0,,69572.0,1722.0
+505,2020-10-13,London,1440.0,,67934.0,1441.0
+506,2020-10-12,London,1590.0,,66494.0,801.0
+507,2020-10-11,London,745.0,,64904.0,637.0
+508,2020-10-10,London,881.0,,64159.0,1174.0
+509,2020-10-09,London,1362.0,,63278.0,1457.0
+510,2020-10-08,London,1481.0,,61916.0,1252.0
+511,2020-10-07,London,1425.0,,60435.0,1310.0
+512,2020-10-06,London,1168.0,,59010.0,916.0
+513,2020-10-05,London,1298.0,,57842.0,989.0
+514,2020-10-04,London,834.0,,56544.0,1965.0
+515,2020-10-03,London,800.0,,55710.0,1070.0
+516,2020-10-02,London,1040.0,,54910.0,497.0
+517,2020-10-01,London,1076.0,,53870.0,551.0
+518,2020-09-30,London,1006.0,,52794.0,388.0
+519,2020-09-29,London,705.0,,51788.0,504.0
+520,2020-09-28,London,744.0,,51083.0,397.0
+521,2020-09-27,London,535.0,,50339.0,587.0
+522,2020-09-26,London,552.0,,49804.0,361.0
+523,2020-09-25,London,607.0,,49252.0,584.0
+524,2020-09-24,London,602.0,,48645.0,620.0
+525,2020-09-23,London,658.0,,48043.0,531.0
+526,2020-09-22,London,525.0,,47385.0,354.0
+527,2020-09-21,London,434.0,,46860.0,282.0
+528,2020-09-20,London,415.0,,46426.0,241.0
+529,2020-09-19,London,342.0,,46011.0,320.0
+530,2020-09-18,London,386.0,,45669.0,377.0
+531,2020-09-17,London,328.0,,45283.0,247.0
+532,2020-09-16,London,294.0,,44955.0,243.0
+533,2020-09-15,London,272.0,,44661.0,278.0
+534,2020-09-14,London,304.0,,44389.0,218.0
+535,2020-09-13,London,112.0,,44085.0,311.0
+536,2020-09-12,London,232.0,,43973.0,393.0
+537,2020-09-11,London,335.0,,43741.0,416.0
+538,2020-09-10,London,397.0,,43406.0,304.0
+539,2020-09-09,London,347.0,,43009.0,315.0
+540,2020-09-08,London,351.0,,42662.0,327.0
+541,2020-09-07,London,464.0,,42311.0,274.0
+542,2020-09-06,London,209.0,,41847.0,308.0
+543,2020-09-05,London,271.0,,41638.0,232.0
+544,2020-09-04,London,359.0,,41367.0,296.0
+545,2020-09-03,London,348.0,,41008.0,216.0
+546,2020-09-02,London,343.0,,40660.0,190.0
+547,2020-09-01,London,316.0,,40317.0,188.0
+548,2020-08-31,London,217.0,,40001.0,160.0
+549,2020-08-30,London,132.0,,39784.0,197.0
+550,2020-08-29,London,139.0,,39652.0,143.0
+551,2020-08-28,London,223.0,,39513.0,166.0
+552,2020-08-27,London,232.0,,39290.0,210.0
+553,2020-08-26,London,165.0,,39058.0,155.0
+554,2020-08-25,London,170.0,,38893.0,206.0
+555,2020-08-24,London,198.0,,38723.0,133.0
+556,2020-08-23,London,141.0,,38525.0,155.0
+557,2020-08-22,London,120.0,,38384.0,183.0
+558,2020-08-21,London,170.0,,38264.0,101.0
+559,2020-08-20,London,208.0,,38094.0,172.0
+560,2020-08-19,London,154.0,,37886.0,105.0
+561,2020-08-18,London,184.0,,37732.0,145.0
+562,2020-08-17,London,190.0,,37548.0,95.0
+563,2020-08-16,London,88.0,,37358.0,136.0
+564,2020-08-15,London,106.0,,37270.0,119.0
+565,2020-08-14,London,131.0,,37164.0,300.0
+566,2020-08-13,London,126.0,,37033.0,0.0
+567,2020-08-12,London,165.0,,36907.0,93.0
+568,2020-08-11,London,150.0,,36742.0,90.0
+569,2020-08-10,London,147.0,,36592.0,65.0
+570,2020-08-09,London,69.0,,36445.0,117.0
+571,2020-08-08,London,56.0,,36376.0,112.0
+572,2020-08-07,London,126.0,,36320.0,90.0
+573,2020-08-06,London,108.0,,36194.0,105.0
+574,2020-08-05,London,119.0,,36086.0,74.0
+575,2020-08-04,London,106.0,,35967.0,86.0
+576,2020-08-03,London,89.0,,35861.0,97.0
+577,2020-08-02,London,76.0,,35772.0,70.0
+578,2020-08-01,London,59.0,,35696.0,103.0
+579,2020-07-31,London,77.0,,35637.0,91.0
+580,2020-07-30,London,104.0,,35560.0,114.0
+581,2020-07-29,London,103.0,,35456.0,66.0
+582,2020-07-28,London,100.0,,35353.0,61.0
+583,2020-07-27,London,101.0,,35253.0,87.0
+584,2020-07-26,London,64.0,,35152.0,87.0
+585,2020-07-25,London,57.0,,35088.0,66.0
+586,2020-07-24,London,84.0,,35031.0,73.0
+587,2020-07-23,London,70.0,,34947.0,96.0
+588,2020-07-22,London,85.0,,34877.0,47.0
+589,2020-07-21,London,81.0,,34792.0,44.0
+590,2020-07-20,London,102.0,,34711.0,47.0
+591,2020-07-19,London,42.0,,34609.0,51.0
+592,2020-07-18,London,48.0,,34567.0,109.0
+593,2020-07-17,London,48.0,,34519.0,56.0
+594,2020-07-16,London,70.0,,34471.0,68.0
+595,2020-07-15,London,76.0,,34401.0,50.0
+596,2020-07-14,London,63.0,,34325.0,42.0
+597,2020-07-13,London,85.0,,34262.0,29.0
+598,2020-07-12,London,38.0,,34177.0,45.0
+599,2020-07-11,London,20.0,,34139.0,91.0
+600,2020-07-10,London,39.0,,34119.0,31.0
+601,2020-07-09,London,54.0,,34080.0,68.0
+602,2020-07-08,London,59.0,,34026.0,44.0
+603,2020-07-07,London,60.0,,33967.0,37.0
+604,2020-07-06,London,55.0,,33907.0,23.0
+605,2020-07-05,London,52.0,,33852.0,37.0
+606,2020-07-04,London,32.0,,33800.0,38.0
+607,2020-07-03,London,38.0,,33768.0,9.0
+608,2020-07-02,London,43.0,,33730.0,34.0
+609,2020-07-01,London,43.0,,33687.0,6025.0
+610,2020-06-30,London,52.0,,33644.0,19.0
+611,2020-06-29,London,59.0,,33592.0,9.0
+612,2020-06-28,London,22.0,,33533.0,14.0
+613,2020-06-27,London,32.0,,33511.0,46.0
+614,2020-06-26,London,48.0,,33479.0,52.0
+615,2020-06-25,London,58.0,,33431.0,47.0
+616,2020-06-24,London,46.0,,33373.0,10.0
+617,2020-06-23,London,50.0,,33327.0,18.0
+618,2020-06-22,London,53.0,,33277.0,21.0
+619,2020-06-21,London,26.0,,33224.0,18.0
+620,2020-06-20,London,29.0,,33198.0,29.0
+621,2020-06-19,London,38.0,,33169.0,16.0
+622,2020-06-18,London,47.0,,33131.0,17.0
+623,2020-06-17,London,42.0,,33084.0,9.0
+624,2020-06-16,London,47.0,,33042.0,15.0
+625,2020-06-15,London,40.0,,32995.0,8.0
+626,2020-06-14,London,30.0,,32955.0,25.0
+627,2020-06-13,London,39.0,,32925.0,36.0
+628,2020-06-12,London,53.0,,32886.0,21.0
+629,2020-06-11,London,46.0,,32833.0,31.0
+630,2020-06-10,London,52.0,,32787.0,15.0
+631,2020-06-09,London,71.0,,32735.0,55.0
+632,2020-06-08,London,55.0,,32664.0,0.0
+633,2020-06-07,London,45.0,,32609.0,15.0
+634,2020-06-06,London,46.0,,32564.0,25.0
+635,2020-06-05,London,46.0,,32518.0,36.0
+636,2020-06-04,London,57.0,,32472.0,21.0
+637,2020-06-03,London,78.0,,32415.0,21.0
+638,2020-06-02,London,50.0,,32337.0,32.0
+639,2020-06-01,London,49.0,,32287.0,21.0
+640,2020-05-31,London,37.0,,32238.0,30.0
+641,2020-05-30,London,38.0,,32201.0,25.0
+642,2020-05-29,London,57.0,,32163.0,30.0
+643,2020-05-28,London,74.0,,32106.0,16.0
+644,2020-05-27,London,83.0,,32032.0,27.0
+645,2020-05-26,London,64.0,,31949.0,22.0
+646,2020-05-25,London,58.0,,31885.0,38.0
+647,2020-05-24,London,51.0,,31827.0,38.0
+648,2020-05-23,London,64.0,,31776.0,59.0
+649,2020-05-22,London,86.0,,31712.0,55.0
+650,2020-05-21,London,157.0,,31626.0,49.0
+651,2020-05-20,London,141.0,,31469.0,50.0
+652,2020-05-19,London,128.0,,31328.0,42.0
+653,2020-05-18,London,113.0,,31200.0,47.0
+654,2020-05-17,London,79.0,,31087.0,81.0
+655,2020-05-16,London,74.0,,31008.0,166.0
+656,2020-05-15,London,132.0,,30934.0,80.0
+657,2020-05-14,London,159.0,,30802.0,89.0
+658,2020-05-13,London,203.0,,30643.0,44.0
+659,2020-05-12,London,191.0,,30440.0,89.0
+660,2020-05-11,London,160.0,,30249.0,62.0
+661,2020-05-10,London,123.0,,30089.0,95.0
+662,2020-05-09,London,128.0,,29966.0,111.0
+663,2020-05-08,London,208.0,,29838.0,124.0
+664,2020-05-07,London,273.0,,29630.0,142.0
+665,2020-05-06,London,267.0,,29357.0,117.0
+666,2020-05-05,London,216.0,,29090.0,252.0
+667,2020-05-04,London,245.0,,28874.0,160.0
+668,2020-05-03,London,170.0,,28629.0,128.0
+669,2020-05-02,London,248.0,,28459.0,223.0
+670,2020-05-01,London,355.0,,28211.0,180.0
+671,2020-04-30,London,426.0,,27856.0,207.0
+672,2020-04-29,London,432.0,,27430.0,111.0
+673,2020-04-28,London,311.0,,26998.0,146.0
+674,2020-04-27,London,418.0,,26687.0,225.0
+675,2020-04-26,London,310.0,,26269.0,267.0
+676,2020-04-25,London,332.0,,25959.0,278.0
+677,2020-04-24,London,375.0,,25627.0,296.0
+678,2020-04-23,London,520.0,,25252.0,415.0
+679,2020-04-22,London,399.0,,24732.0,280.0
+680,2020-04-21,London,463.0,,24333.0,418.0
+681,2020-04-20,London,425.0,,23870.0,297.0
+682,2020-04-19,London,398.0,,23445.0,453.0
+683,2020-04-18,London,401.0,,23047.0,689.0
+684,2020-04-17,London,578.0,,22646.0,704.0
+685,2020-04-16,London,574.0,,22068.0,
+686,2020-04-15,London,657.0,,21494.0,
+687,2020-04-14,London,600.0,,20837.0,
+688,2020-04-13,London,601.0,,20237.0,
+689,2020-04-12,London,502.0,,19636.0,
+690,2020-04-11,London,518.0,,19134.0,
+691,2020-04-10,London,622.0,,18616.0,
+692,2020-04-09,London,791.0,,17994.0,
+693,2020-04-08,London,867.0,,17203.0,
+694,2020-04-07,London,946.0,,16336.0,
+695,2020-04-06,London,858.0,,15390.0,
+696,2020-04-05,London,636.0,,14532.0,
+697,2020-04-04,London,765.0,,13896.0,
+698,2020-04-03,London,984.0,,13131.0,
+699,2020-04-02,London,1063.0,,12147.0,
+700,2020-04-01,London,977.0,,11084.0,
+701,2020-03-31,London,935.0,,10107.0,
+702,2020-03-30,London,848.0,,9172.0,
+703,2020-03-29,London,596.0,,8324.0,
+704,2020-03-28,London,577.0,,7728.0,
+705,2020-03-27,London,818.0,,7151.0,
+706,2020-03-26,London,740.0,,6333.0,
+707,2020-03-25,London,752.0,,5593.0,
+708,2020-03-24,London,636.0,,4841.0,
+709,2020-03-23,London,688.0,,4205.0,
+710,2020-03-22,London,439.0,,3517.0,
+711,2020-03-21,London,349.0,,3078.0,
+712,2020-03-20,London,424.0,,2729.0,
+713,2020-03-19,London,332.0,,2305.0,
+714,2020-03-18,London,357.0,,1973.0,
+715,2020-03-17,London,310.0,,1616.0,
+716,2020-03-16,London,237.0,,1306.0,
+717,2020-03-15,London,165.0,,1069.0,
+718,2020-03-14,London,149.0,,904.0,
+719,2020-03-13,London,138.0,,755.0,
+720,2020-03-12,London,167.0,,617.0,
+721,2020-03-11,London,183.0,,450.0,
+722,2020-03-10,London,95.0,,267.0,
+723,2020-03-09,London,54.0,,172.0,
+724,2020-03-08,London,22.0,,118.0,
+725,2020-03-07,London,14.0,,96.0,
+726,2020-03-06,London,23.0,,82.0,
+727,2020-03-05,London,13.0,,59.0,
+728,2020-03-04,London,15.0,,46.0,
+729,2020-03-03,London,6.0,,31.0,
+730,2020-03-02,London,12.0,,25.0,
+731,2020-03-01,London,3.0,,13.0,
+732,2020-02-29,London,1.0,,10.0,
+733,2020-02-28,London,0.0,,9.0,
+734,2020-02-27,London,1.0,,9.0,
+735,2020-02-26,London,1.0,,8.0,
+736,2020-02-25,London,1.0,,7.0,
+737,2020-02-24,London,1.0,,6.0,
+738,2020-02-23,London,0.0,,5.0,
+739,2020-02-22,London,0.0,,5.0,
+740,2020-02-21,London,1.0,,5.0,
+741,2020-02-20,London,0.0,,4.0,
+742,2020-02-19,London,0.0,,4.0,
+743,2020-02-18,London,0.0,,4.0,
+744,2020-02-17,London,0.0,,4.0,
+745,2020-02-16,London,0.0,,4.0,
+746,2020-02-15,London,0.0,,4.0,
+747,2020-02-14,London,0.0,,4.0,
+748,2020-02-13,London,0.0,,4.0,
+749,2020-02-12,London,0.0,,4.0,
+750,2020-02-11,London,3.0,,4.0,
+751,2020-02-10,London,1.0,,1.0,

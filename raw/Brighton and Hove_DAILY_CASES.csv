@@ -1,745 +1,758 @@
-,Date,CityName,AreaName,DailyCases,CummulativeCases
-0,2022-02-12,Brighton and Hove,United Kingdom,46025,18266015
-1,2022-02-11,Brighton and Hove,United Kingdom,58899,18220515
-2,2022-02-10,Brighton and Hove,United Kingdom,66638,18162199
-3,2022-02-09,Brighton and Hove,United Kingdom,68214,18000119
-4,2022-02-08,Brighton and Hove,United Kingdom,66183,17932803
-5,2022-02-07,Brighton and Hove,United Kingdom,57623,17866632
-6,2022-02-06,Brighton and Hove,United Kingdom,57337,17809459
-7,2022-02-05,Brighton and Hove,United Kingdom,63493,17752892
-8,2022-02-04,Brighton and Hove,United Kingdom,84053,17689885
-9,2022-02-03,Brighton and Hove,United Kingdom,88171,17607832
-10,2022-02-02,Brighton and Hove,United Kingdom,92594,17519708
-11,2022-02-01,Brighton and Hove,United Kingdom,112458,17428345
-12,2022-01-31,Brighton and Hove,United Kingdom,92368,17315893
-13,2022-01-30,Brighton and Hove,United Kingdom,69007,16478467
-14,2022-01-29,Brighton and Hove,United Kingdom,76069,16409459
-15,2022-01-28,Brighton and Hove,United Kingdom,89176,16333980
-16,2022-01-27,Brighton and Hove,United Kingdom,96871,16245474
-17,2022-01-26,Brighton and Hove,United Kingdom,102292,16149319
-18,2022-01-25,Brighton and Hove,United Kingdom,94326,16047716
-19,2022-01-24,Brighton and Hove,United Kingdom,88447,15953685
-20,2022-01-23,Brighton and Hove,United Kingdom,78317,15866316
-21,2022-01-22,Brighton and Hove,United Kingdom,80263,15787937
-22,2022-01-21,Brighton and Hove,United Kingdom,95787,15709059
-23,2022-01-20,Brighton and Hove,United Kingdom,107364,15613283
-24,2022-01-19,Brighton and Hove,United Kingdom,108069,15506750
-25,2022-01-18,Brighton and Hove,United Kingdom,94432,15399300
-26,2022-01-17,Brighton and Hove,United Kingdom,84429,15305410
-27,2022-01-16,Brighton and Hove,United Kingdom,75041,15221366
-28,2022-01-15,Brighton and Hove,United Kingdom,81713,15147099
-29,2022-01-14,Brighton and Hove,United Kingdom,99652,15066395
-30,2022-01-13,Brighton and Hove,United Kingdom,109133,14967817
-31,2022-01-12,Brighton and Hove,United Kingdom,129587,14862138
-32,2022-01-11,Brighton and Hove,United Kingdom,120821,14732594
-33,2022-01-10,Brighton and Hove,United Kingdom,142224,14617314
-34,2022-01-09,Brighton and Hove,United Kingdom,141472,14475192
-35,2022-01-08,Brighton and Hove,United Kingdom,146390,14333794
-36,2022-01-07,Brighton and Hove,United Kingdom,178250,14193228
-37,2022-01-06,Brighton and Hove,United Kingdom,179756,14015065
-38,2022-01-05,Brighton and Hove,United Kingdom,194747,13835334
-39,2022-01-04,Brighton and Hove,United Kingdom,218724,13641520
-40,2022-01-03,Brighton and Hove,United Kingdom,157758,13422815
-41,2022-01-02,Brighton and Hove,United Kingdom,151663,13266431
-42,2022-01-01,Brighton and Hove,United Kingdom,179637,13117469
-43,2021-12-31,Brighton and Hove,United Kingdom,189846,12937886
-44,2021-12-30,Brighton and Hove,United Kingdom,189213,12748050
-45,2021-12-29,Brighton and Hove,United Kingdom,183037,12559926
-46,2021-12-28,Brighton and Hove,United Kingdom,138831,12377822
-47,2021-12-27,Brighton and Hove,United Kingdom,109077,12239797
-48,2021-12-26,Brighton and Hove,United Kingdom,119923,12132098
-49,2021-12-25,Brighton and Hove,United Kingdom,121880,12013153
-50,2021-12-24,Brighton and Hove,United Kingdom,122186,11891292
-51,2021-12-23,Brighton and Hove,United Kingdom,119789,11769921
-52,2021-12-22,Brighton and Hove,United Kingdom,109655,11647473
-53,2021-12-21,Brighton and Hove,United Kingdom,90629,11542143
-54,2021-12-20,Brighton and Hove,United Kingdom,91743,11453121
-55,2021-12-19,Brighton and Hove,United Kingdom,82886,11361387
-56,2021-12-18,Brighton and Hove,United Kingdom,90418,11279428
-57,2021-12-17,Brighton and Hove,United Kingdom,93045,11190354
-58,2021-12-16,Brighton and Hove,United Kingdom,88376,11097851
-59,2021-12-15,Brighton and Hove,United Kingdom,78610,11010286
-60,2021-12-14,Brighton and Hove,United Kingdom,59610,10932545
-61,2021-12-13,Brighton and Hove,United Kingdom,54661,10873468
-62,2021-12-12,Brighton and Hove,United Kingdom,48854,10819515
-63,2021-12-11,Brighton and Hove,United Kingdom,54073,10771444
-64,2021-12-10,Brighton and Hove,United Kingdom,58194,10719165
-65,2021-12-09,Brighton and Hove,United Kingdom,50867,10660981
-66,2021-12-08,Brighton and Hove,United Kingdom,51342,10610958
-67,2021-12-07,Brighton and Hove,United Kingdom,45691,10560341
-68,2021-12-06,Brighton and Hove,United Kingdom,51459,10515239
-69,2021-12-05,Brighton and Hove,United Kingdom,43992,10464389
-70,2021-12-04,Brighton and Hove,United Kingdom,42848,10421104
-71,2021-12-03,Brighton and Hove,United Kingdom,50584,10379647
-72,2021-12-02,Brighton and Hove,United Kingdom,53945,10329074
-73,2021-12-01,Brighton and Hove,United Kingdom,48374,10276007
-74,2021-11-30,Brighton and Hove,United Kingdom,39716,10228772
-75,2021-11-29,Brighton and Hove,United Kingdom,42583,10189059
-76,2021-11-28,Brighton and Hove,United Kingdom,37681,10146915
-77,2021-11-27,Brighton and Hove,United Kingdom,39567,10110408
-78,2021-11-26,Brighton and Hove,United Kingdom,50091,10070841
-79,2021-11-25,Brighton and Hove,United Kingdom,47240,10021497
-80,2021-11-24,Brighton and Hove,United Kingdom,43676,9974843
-81,2021-11-23,Brighton and Hove,United Kingdom,42484,9932408
-82,2021-11-22,Brighton and Hove,United Kingdom,44917,9889926
-83,2021-11-21,Brighton and Hove,United Kingdom,40004,9845492
-84,2021-11-20,Brighton and Hove,United Kingdom,40941,9806034
-85,2021-11-19,Brighton and Hove,United Kingdom,44242,9766153
-86,2021-11-18,Brighton and Hove,United Kingdom,46807,9721916
-87,2021-11-17,Brighton and Hove,United Kingdom,38263,9675058
-88,2021-11-16,Brighton and Hove,United Kingdom,37243,9637190
-89,2021-11-15,Brighton and Hove,United Kingdom,39705,9600369
-90,2021-11-14,Brighton and Hove,United Kingdom,36517,9561099
-91,2021-11-13,Brighton and Hove,United Kingdom,38351,9524971
-92,2021-11-12,Brighton and Hove,United Kingdom,40375,9487302
-93,2021-11-11,Brighton and Hove,United Kingdom,42408,9448402
-94,2021-11-10,Brighton and Hove,United Kingdom,39329,9406001
-95,2021-11-09,Brighton and Hove,United Kingdom,33117,9366676
-96,2021-11-08,Brighton and Hove,United Kingdom,32322,9333891
-97,2021-11-07,Brighton and Hove,United Kingdom,30305,9301909
-98,2021-11-06,Brighton and Hove,United Kingdom,30693,9272066
-99,2021-11-05,Brighton and Hove,United Kingdom,34029,9241916
-100,2021-11-04,Brighton and Hove,United Kingdom,37269,9208219
-101,2021-11-03,Brighton and Hove,United Kingdom,41299,9171660
-102,2021-11-02,Brighton and Hove,United Kingdom,33865,9130857
-103,2021-11-01,Brighton and Hove,United Kingdom,40077,9097311
-104,2021-10-31,Brighton and Hove,United Kingdom,38009,9057629
-105,2021-10-30,Brighton and Hove,United Kingdom,41278,9019962
-106,2021-10-29,Brighton and Hove,United Kingdom,43467,8979236
-107,2021-10-28,Brighton and Hove,United Kingdom,39842,8936155
-108,2021-10-27,Brighton and Hove,United Kingdom,43941,8897149
-109,2021-10-26,Brighton and Hove,United Kingdom,40954,8853227
-110,2021-10-25,Brighton and Hove,United Kingdom,36567,8809774
-111,2021-10-24,Brighton and Hove,United Kingdom,39962,8773674
-112,2021-10-23,Brighton and Hove,United Kingdom,44985,8734934
-113,2021-10-22,Brighton and Hove,United Kingdom,49298,8689949
-114,2021-10-21,Brighton and Hove,United Kingdom,52009,8641221
-115,2021-10-20,Brighton and Hove,United Kingdom,49139,8589737
-116,2021-10-19,Brighton and Hove,United Kingdom,43738,8541192
-117,2021-10-18,Brighton and Hove,United Kingdom,49156,8497868
-118,2021-10-17,Brighton and Hove,United Kingdom,45140,8449165
-119,2021-10-16,Brighton and Hove,United Kingdom,43423,8404469
-120,2021-10-15,Brighton and Hove,United Kingdom,44932,8361651
-121,2021-10-14,Brighton and Hove,United Kingdom,45066,8317439
-122,2021-10-13,Brighton and Hove,United Kingdom,42776,8272883
-123,2021-10-12,Brighton and Hove,United Kingdom,38520,8231437
-124,2021-10-11,Brighton and Hove,United Kingdom,40224,8193769
-125,2021-10-10,Brighton and Hove,United Kingdom,34574,8154306
-126,2021-10-09,Brighton and Hove,United Kingdom,34950,8120713
-127,2021-10-08,Brighton and Hove,United Kingdom,41765,8087005
-128,2021-10-07,Brighton and Hove,United Kingdom,40701,8046390
-129,2021-10-06,Brighton and Hove,United Kingdom,39851,8006660
-130,2021-10-05,Brighton and Hove,United Kingdom,33869,7967985
-131,2021-10-04,Brighton and Hove,United Kingdom,35077,7934936
-132,2021-10-03,Brighton and Hove,United Kingdom,30439,7900680
-133,2021-10-02,Brighton and Hove,United Kingdom,30301,7871014
-134,2021-10-01,Brighton and Hove,United Kingdom,35577,7841625
-135,2021-09-30,Brighton and Hove,United Kingdom,36480,7807036
-136,2021-09-29,Brighton and Hove,United Kingdom,36722,7771294
-137,2021-09-28,Brighton and Hove,United Kingdom,34526,7736235
-138,2021-09-27,Brighton and Hove,United Kingdom,37960,7701715
-139,2021-09-26,Brighton and Hove,United Kingdom,32417,7664230
-140,2021-09-25,Brighton and Hove,United Kingdom,32468,7632353
-141,2021-09-24,Brighton and Hove,United Kingdom,35623,7601487
-142,2021-09-23,Brighton and Hove,United Kingdom,36710,7565867
-143,2021-09-22,Brighton and Hove,United Kingdom,34460,7530103
-144,2021-09-21,Brighton and Hove,United Kingdom,31564,7496543
-145,2021-09-20,Brighton and Hove,United Kingdom,36100,7465448
-146,2021-09-19,Brighton and Hove,United Kingdom,29612,7429746
-147,2021-09-18,Brighton and Hove,United Kingdom,30144,7400739
-148,2021-09-17,Brighton and Hove,United Kingdom,32651,7371301
-149,2021-09-16,Brighton and Hove,United Kingdom,26911,7339009
-150,2021-09-15,Brighton and Hove,United Kingdom,30597,7312683
-151,2021-09-14,Brighton and Hove,United Kingdom,26628,7282810
-152,2021-09-13,Brighton and Hove,United Kingdom,30825,7256559
-153,2021-09-12,Brighton and Hove,United Kingdom,29173,7226276
-154,2021-09-11,Brighton and Hove,United Kingdom,29547,7197662
-155,2021-09-10,Brighton and Hove,United Kingdom,37622,7168806
-156,2021-09-09,Brighton and Hove,United Kingdom,38013,7132072
-157,2021-09-08,Brighton and Hove,United Kingdom,38975,7094592
-158,2021-09-07,Brighton and Hove,United Kingdom,37489,7056106
-159,2021-09-06,Brighton and Hove,United Kingdom,41192,7018927
-160,2021-09-05,Brighton and Hove,United Kingdom,37011,6978126
-161,2021-09-04,Brighton and Hove,United Kingdom,37578,6941611
-162,2021-09-03,Brighton and Hove,United Kingdom,42076,6904969
-163,2021-09-02,Brighton and Hove,United Kingdom,38154,6862904
-164,2021-09-01,Brighton and Hove,United Kingdom,35693,6825074
-165,2021-08-31,Brighton and Hove,United Kingdom,32181,6789581
-166,2021-08-30,Brighton and Hove,United Kingdom,26476,6757650
-167,2021-08-29,Brighton and Hove,United Kingdom,33196,6731423
-168,2021-08-28,Brighton and Hove,United Kingdom,32406,6698486
-169,2021-08-27,Brighton and Hove,United Kingdom,38046,6666399
-170,2021-08-26,Brighton and Hove,United Kingdom,38281,6628709
-171,2021-08-25,Brighton and Hove,United Kingdom,35847,6590747
-172,2021-08-24,Brighton and Hove,United Kingdom,30838,6555200
-173,2021-08-23,Brighton and Hove,United Kingdom,31914,6524581
-174,2021-08-22,Brighton and Hove,United Kingdom,32253,6492906
-175,2021-08-21,Brighton and Hove,United Kingdom,32058,6460930
-176,2021-08-20,Brighton and Hove,United Kingdom,37314,6429147
-177,2021-08-19,Brighton and Hove,United Kingdom,36572,6392160
-178,2021-08-18,Brighton and Hove,United Kingdom,33904,6355887
-179,2021-08-17,Brighton and Hove,United Kingdom,26852,6322241
-180,2021-08-16,Brighton and Hove,United Kingdom,28438,6295613
-181,2021-08-15,Brighton and Hove,United Kingdom,26750,6267437
-182,2021-08-14,Brighton and Hove,United Kingdom,29520,6241011
-183,2021-08-13,Brighton and Hove,United Kingdom,32700,6211868
-184,2021-08-12,Brighton and Hove,United Kingdom,33074,6179506
-185,2021-08-11,Brighton and Hove,United Kingdom,29612,6146800
-186,2021-08-10,Brighton and Hove,United Kingdom,23510,6117540
-187,2021-08-09,Brighton and Hove,United Kingdom,25161,6094243
-188,2021-08-08,Brighton and Hove,United Kingdom,27429,6069362
-189,2021-08-07,Brighton and Hove,United Kingdom,28612,6042252
-190,2021-08-06,Brighton and Hove,United Kingdom,31808,6014023
-191,2021-08-05,Brighton and Hove,United Kingdom,30215,5982581
-192,2021-08-04,Brighton and Hove,United Kingdom,29312,5952756
-193,2021-08-03,Brighton and Hove,United Kingdom,21691,5923820
-194,2021-08-02,Brighton and Hove,United Kingdom,21952,5902354
-195,2021-08-01,Brighton and Hove,United Kingdom,24470,5880667
-196,2021-07-31,Brighton and Hove,United Kingdom,26144,5856528
-197,2021-07-30,Brighton and Hove,United Kingdom,29622,5830774
-198,2021-07-29,Brighton and Hove,United Kingdom,31117,5801561
-199,2021-07-28,Brighton and Hove,United Kingdom,27734,5770928
-200,2021-07-27,Brighton and Hove,United Kingdom,23511,5745526
-201,2021-07-26,Brighton and Hove,United Kingdom,24950,5722298
-202,2021-07-25,Brighton and Hove,United Kingdom,29173,5697912
-203,2021-07-24,Brighton and Hove,United Kingdom,31795,5669260
-204,2021-07-23,Brighton and Hove,United Kingdom,36389,5637975
-205,2021-07-22,Brighton and Hove,United Kingdom,39906,5602321
-206,2021-07-21,Brighton and Hove,United Kingdom,44104,5563006
-207,2021-07-20,Brighton and Hove,United Kingdom,46558,5519602
-208,2021-07-19,Brighton and Hove,United Kingdom,39950,5473477
-209,2021-07-18,Brighton and Hove,United Kingdom,48161,5433939
-210,2021-07-17,Brighton and Hove,United Kingdom,54674,5386340
-211,2021-07-16,Brighton and Hove,United Kingdom,51870,5332371
-212,2021-07-15,Brighton and Hove,United Kingdom,48553,5281098
-213,2021-07-14,Brighton and Hove,United Kingdom,42302,5233207
-214,2021-07-13,Brighton and Hove,United Kingdom,36660,5191459
-215,2021-07-12,Brighton and Hove,United Kingdom,34471,5155243
-216,2021-07-11,Brighton and Hove,United Kingdom,31772,5121245
-217,2021-07-10,Brighton and Hove,United Kingdom,32367,5089893
-218,2021-07-09,Brighton and Hove,United Kingdom,35707,5058093
-219,2021-07-08,Brighton and Hove,United Kingdom,32551,5022893
-220,2021-07-07,Brighton and Hove,United Kingdom,32548,4990916
-221,2021-07-06,Brighton and Hove,United Kingdom,28773,4958868
-222,2021-07-05,Brighton and Hove,United Kingdom,27334,4930534
-223,2021-07-04,Brighton and Hove,United Kingdom,24248,4903434
-224,2021-07-03,Brighton and Hove,United Kingdom,24885,4879616
-225,2021-07-02,Brighton and Hove,United Kingdom,27125,4855169
-226,2021-07-01,Brighton and Hove,United Kingdom,27989,4828463
-227,2021-06-30,Brighton and Hove,United Kingdom,26068,4800907
-228,2021-06-29,Brighton and Hove,United Kingdom,20479,4775301
-229,2021-06-28,Brighton and Hove,United Kingdom,22868,4755078
-230,2021-06-27,Brighton and Hove,United Kingdom,14876,4732434
-231,2021-06-26,Brighton and Hove,United Kingdom,18270,4717811
-232,2021-06-25,Brighton and Hove,United Kingdom,15810,4699868
-233,2021-06-24,Brighton and Hove,United Kingdom,16703,4684572
-234,2021-06-23,Brighton and Hove,United Kingdom,16135,4667870
-235,2021-06-22,Brighton and Hove,United Kingdom,11625,4651988
-236,2021-06-21,Brighton and Hove,United Kingdom,10633,4640507
-237,2021-06-20,Brighton and Hove,United Kingdom,9284,4630040
-238,2021-06-19,Brighton and Hove,United Kingdom,10321,4620968
-239,2021-06-18,Brighton and Hove,United Kingdom,10476,4610893
-240,2021-06-17,Brighton and Hove,United Kingdom,11007,4600623
-241,2021-06-16,Brighton and Hove,United Kingdom,9055,4589814
-242,2021-06-15,Brighton and Hove,United Kingdom,7673,4581006
-243,2021-06-14,Brighton and Hove,United Kingdom,7742,4573419
-244,2021-06-13,Brighton and Hove,United Kingdom,7490,4565813
-245,2021-06-12,Brighton and Hove,United Kingdom,7738,4558494
-246,2021-06-11,Brighton and Hove,United Kingdom,8125,4550944
-247,2021-06-10,Brighton and Hove,United Kingdom,7393,4542986
-248,2021-06-09,Brighton and Hove,United Kingdom,7540,4535754
-249,2021-06-08,Brighton and Hove,United Kingdom,6048,4528442
-250,2021-06-07,Brighton and Hove,United Kingdom,5683,4522476
-251,2021-06-06,Brighton and Hove,United Kingdom,5341,4516892
-252,2021-06-05,Brighton and Hove,United Kingdom,5765,4511669
-253,2021-06-04,Brighton and Hove,United Kingdom,6238,4506018
-254,2021-06-03,Brighton and Hove,United Kingdom,5274,4499878
-255,2021-06-02,Brighton and Hove,United Kingdom,4330,4494699
-256,2021-06-01,Brighton and Hove,United Kingdom,3165,4490438
-257,2021-05-31,Brighton and Hove,United Kingdom,3383,4487339
-258,2021-05-30,Brighton and Hove,United Kingdom,3240,4484056
-259,2021-05-29,Brighton and Hove,United Kingdom,3398,4480945
-260,2021-05-28,Brighton and Hove,United Kingdom,4182,4477705
-261,2021-05-27,Brighton and Hove,United Kingdom,3542,4473677
-262,2021-05-26,Brighton and Hove,United Kingdom,3180,4470297
-263,2021-05-25,Brighton and Hove,United Kingdom,2493,4467310
-264,2021-05-24,Brighton and Hove,United Kingdom,2439,4464900
-265,2021-05-23,Brighton and Hove,United Kingdom,2235,4462538
-266,2021-05-22,Brighton and Hove,United Kingdom,2694,4460446
-267,2021-05-21,Brighton and Hove,United Kingdom,2829,4457923
-268,2021-05-20,Brighton and Hove,United Kingdom,2874,4455221
-269,2021-05-19,Brighton and Hove,United Kingdom,2696,4452527
-270,2021-05-18,Brighton and Hove,United Kingdom,2412,4450392
-271,2021-05-17,Brighton and Hove,United Kingdom,1979,4452756
-272,2021-05-16,Brighton and Hove,United Kingdom,1926,4450777
-273,2021-05-15,Brighton and Hove,United Kingdom,2027,4448851
-274,2021-05-14,Brighton and Hove,United Kingdom,2193,4446824
-275,2021-05-13,Brighton and Hove,United Kingdom,2657,4444631
-276,2021-05-12,Brighton and Hove,United Kingdom,2284,4441975
-277,2021-05-11,Brighton and Hove,United Kingdom,2474,4439691
-278,2021-05-10,Brighton and Hove,United Kingdom,2357,4437217
-279,2021-05-09,Brighton and Hove,United Kingdom,1770,4434860
-280,2021-05-08,Brighton and Hove,United Kingdom,2047,4433090
-281,2021-05-07,Brighton and Hove,United Kingdom,2490,4431043
-282,2021-05-06,Brighton and Hove,United Kingdom,2613,4428553
-283,2021-05-05,Brighton and Hove,United Kingdom,2144,4425940
-284,2021-05-04,Brighton and Hove,United Kingdom,1946,4423796
-285,2021-05-03,Brighton and Hove,United Kingdom,1649,4421850
-286,2021-05-02,Brighton and Hove,United Kingdom,1671,4420201
-287,2021-05-01,Brighton and Hove,United Kingdom,1907,4418530
-288,2021-04-30,Brighton and Hove,United Kingdom,2381,4416623
-289,2021-04-29,Brighton and Hove,United Kingdom,2445,4414242
-290,2021-04-28,Brighton and Hove,United Kingdom,2166,4411797
-291,2021-04-27,Brighton and Hove,United Kingdom,2685,4409631
-292,2021-04-26,Brighton and Hove,United Kingdom,2064,4406946
-293,2021-04-25,Brighton and Hove,United Kingdom,1712,4404882
-294,2021-04-24,Brighton and Hove,United Kingdom,2061,4403170
-295,2021-04-23,Brighton and Hove,United Kingdom,2678,4401109
-296,2021-04-22,Brighton and Hove,United Kingdom,2729,4398431
-297,2021-04-21,Brighton and Hove,United Kingdom,2396,4395703
-298,2021-04-20,Brighton and Hove,United Kingdom,2524,4393307
-299,2021-04-19,Brighton and Hove,United Kingdom,2963,4390783
-300,2021-04-18,Brighton and Hove,United Kingdom,1882,4387820
-301,2021-04-17,Brighton and Hove,United Kingdom,2206,4385938
-302,2021-04-16,Brighton and Hove,United Kingdom,2596,4383732
-303,2021-04-15,Brighton and Hove,United Kingdom,2672,4380976
-304,2021-04-14,Brighton and Hove,United Kingdom,2491,4378305
-305,2021-04-13,Brighton and Hove,United Kingdom,2472,4375814
-306,2021-04-12,Brighton and Hove,United Kingdom,3568,4373343
-307,2021-04-11,Brighton and Hove,United Kingdom,1730,4369775
-308,2021-04-10,Brighton and Hove,United Kingdom,2589,4368045
-309,2021-04-09,Brighton and Hove,United Kingdom,3150,4365461
-310,2021-04-08,Brighton and Hove,United Kingdom,3030,4370321
-311,2021-04-07,Brighton and Hove,United Kingdom,2763,4367291
-312,2021-04-06,Brighton and Hove,United Kingdom,2379,4364529
-313,2021-04-05,Brighton and Hove,United Kingdom,2762,4362150
-314,2021-04-04,Brighton and Hove,United Kingdom,2297,4359388
-315,2021-04-03,Brighton and Hove,United Kingdom,3423,4357091
-316,2021-04-02,Brighton and Hove,United Kingdom,3402,4353668
-317,2021-04-01,Brighton and Hove,United Kingdom,4479,4350266
-318,2021-03-31,Brighton and Hove,United Kingdom,4052,4345788
-319,2021-03-30,Brighton and Hove,United Kingdom,4040,4341736
-320,2021-03-29,Brighton and Hove,United Kingdom,4654,4337696
-321,2021-03-28,Brighton and Hove,United Kingdom,3862,4333042
-322,2021-03-27,Brighton and Hove,United Kingdom,4715,4329180
-323,2021-03-26,Brighton and Hove,United Kingdom,6187,4325315
-324,2021-03-25,Brighton and Hove,United Kingdom,6397,4319128
-325,2021-03-24,Brighton and Hove,United Kingdom,5605,4312908
-326,2021-03-23,Brighton and Hove,United Kingdom,5379,4307304
-327,2021-03-22,Brighton and Hove,United Kingdom,5342,4301925
-328,2021-03-21,Brighton and Hove,United Kingdom,5312,4296583
-329,2021-03-20,Brighton and Hove,United Kingdom,5587,4291271
-330,2021-03-19,Brighton and Hove,United Kingdom,4802,4285684
-331,2021-03-18,Brighton and Hove,United Kingdom,6303,4280882
-332,2021-03-17,Brighton and Hove,United Kingdom,5758,4274579
-333,2021-03-16,Brighton and Hove,United Kingdom,5294,4268821
-334,2021-03-15,Brighton and Hove,United Kingdom,5089,4263527
-335,2021-03-14,Brighton and Hove,United Kingdom,4618,4258438
-336,2021-03-13,Brighton and Hove,United Kingdom,5534,4253820
-337,2021-03-12,Brighton and Hove,United Kingdom,6609,4248286
-338,2021-03-11,Brighton and Hove,United Kingdom,6753,4241677
-339,2021-03-10,Brighton and Hove,United Kingdom,5926,4234924
-340,2021-03-09,Brighton and Hove,United Kingdom,5766,4228998
-341,2021-03-08,Brighton and Hove,United Kingdom,4712,4223232
-342,2021-03-07,Brighton and Hove,United Kingdom,5177,4218520
-343,2021-03-06,Brighton and Hove,United Kingdom,6040,4213343
-344,2021-03-05,Brighton and Hove,United Kingdom,5947,4207304
-345,2021-03-04,Brighton and Hove,United Kingdom,6573,4201358
-346,2021-03-03,Brighton and Hove,United Kingdom,6385,4194785
-347,2021-03-02,Brighton and Hove,United Kingdom,6391,4188400
-348,2021-03-01,Brighton and Hove,United Kingdom,5455,4182009
-349,2021-02-28,Brighton and Hove,United Kingdom,6035,4176554
-350,2021-02-27,Brighton and Hove,United Kingdom,7434,4170519
-351,2021-02-26,Brighton and Hove,United Kingdom,8523,4163085
-352,2021-02-25,Brighton and Hove,United Kingdom,9985,4154562
-353,2021-02-24,Brighton and Hove,United Kingdom,9938,4144577
-354,2021-02-23,Brighton and Hove,United Kingdom,8489,4134639
-355,2021-02-22,Brighton and Hove,United Kingdom,10641,4126150
-356,2021-02-21,Brighton and Hove,United Kingdom,9834,4115509
-357,2021-02-20,Brighton and Hove,United Kingdom,10406,4105675
-358,2021-02-19,Brighton and Hove,United Kingdom,12027,4095269
-359,2021-02-18,Brighton and Hove,United Kingdom,12057,4083242
-360,2021-02-17,Brighton and Hove,United Kingdom,12718,4071185
-361,2021-02-16,Brighton and Hove,United Kingdom,10625,4058468
-362,2021-02-15,Brighton and Hove,United Kingdom,9765,4047843
-363,2021-02-14,Brighton and Hove,United Kingdom,10972,4038078
-364,2021-02-13,Brighton and Hove,United Kingdom,13308,4027106
-365,2021-02-12,Brighton and Hove,United Kingdom,15144,4013799
-366,2021-02-11,Brighton and Hove,United Kingdom,13494,3998655
-367,2021-02-10,Brighton and Hove,United Kingdom,13013,3985161
-368,2021-02-09,Brighton and Hove,United Kingdom,12364,3972148
-369,2021-02-08,Brighton and Hove,United Kingdom,14104,3959784
-370,2021-02-07,Brighton and Hove,United Kingdom,15845,3945680
-371,2021-02-06,Brighton and Hove,United Kingdom,18262,3929835
-372,2021-02-05,Brighton and Hove,United Kingdom,19114,3911573
-373,2021-02-04,Brighton and Hove,United Kingdom,20634,3892459
-374,2021-02-03,Brighton and Hove,United Kingdom,19202,3871825
-375,2021-02-02,Brighton and Hove,United Kingdom,16840,3852623
-376,2021-02-01,Brighton and Hove,United Kingdom,18607,3835783
-377,2021-01-31,Brighton and Hove,United Kingdom,21088,3817176
-378,2021-01-30,Brighton and Hove,United Kingdom,23275,3796088
-379,2021-01-29,Brighton and Hove,United Kingdom,29079,3772813
-380,2021-01-28,Brighton and Hove,United Kingdom,28680,3743734
-381,2021-01-27,Brighton and Hove,United Kingdom,25308,3715054
-382,2021-01-26,Brighton and Hove,United Kingdom,20089,3689746
-383,2021-01-25,Brighton and Hove,United Kingdom,22195,3669658
-384,2021-01-24,Brighton and Hove,United Kingdom,30004,3647463
-385,2021-01-23,Brighton and Hove,United Kingdom,33552,3617459
-386,2021-01-22,Brighton and Hove,United Kingdom,40261,3583907
-387,2021-01-21,Brighton and Hove,United Kingdom,37892,3543646
-388,2021-01-20,Brighton and Hove,United Kingdom,38905,3505754
-389,2021-01-19,Brighton and Hove,United Kingdom,33355,3466849
-390,2021-01-18,Brighton and Hove,United Kingdom,37535,3433494
-391,2021-01-17,Brighton and Hove,United Kingdom,38598,3395959
-392,2021-01-16,Brighton and Hove,United Kingdom,41346,3357361
-393,2021-01-15,Brighton and Hove,United Kingdom,55761,3316019
-394,2021-01-14,Brighton and Hove,United Kingdom,48682,3260258
-395,2021-01-13,Brighton and Hove,United Kingdom,47525,3211576
-396,2021-01-12,Brighton and Hove,United Kingdom,45533,3164051
-397,2021-01-11,Brighton and Hove,United Kingdom,46169,3118518
-398,2021-01-10,Brighton and Hove,United Kingdom,54940,3072349
-399,2021-01-09,Brighton and Hove,United Kingdom,59937,3017409
-400,2021-01-08,Brighton and Hove,United Kingdom,68053,2957472
-401,2021-01-07,Brighton and Hove,United Kingdom,52618,2889419
-402,2021-01-06,Brighton and Hove,United Kingdom,62322,2836801
-403,2021-01-05,Brighton and Hove,United Kingdom,60916,2774479
-404,2021-01-04,Brighton and Hove,United Kingdom,58784,2713563
-405,2021-01-03,Brighton and Hove,United Kingdom,54990,2654779
-406,2021-01-02,Brighton and Hove,United Kingdom,57725,2599789
-407,2021-01-01,Brighton and Hove,United Kingdom,53285,2542065
-408,2020-12-31,Brighton and Hove,United Kingdom,55892,2488780
-409,2020-12-30,Brighton and Hove,United Kingdom,50023,2432888
-410,2020-12-29,Brighton and Hove,United Kingdom,53135,2382865
-411,2020-12-28,Brighton and Hove,United Kingdom,41385,2329730
-412,2020-12-27,Brighton and Hove,United Kingdom,30501,2288345
-413,2020-12-26,Brighton and Hove,United Kingdom,35691,2257844
-414,2020-12-25,Brighton and Hove,United Kingdom,32725,2222153
-415,2020-12-24,Brighton and Hove,United Kingdom,39877,2189428
-416,2020-12-23,Brighton and Hove,United Kingdom,39237,2149551
-417,2020-12-22,Brighton and Hove,United Kingdom,36804,2110314
-418,2020-12-21,Brighton and Hove,United Kingdom,33364,2073511
-419,2020-12-20,Brighton and Hove,United Kingdom,35928,2040147
-420,2020-12-19,Brighton and Hove,United Kingdom,27052,2004219
-421,2020-12-18,Brighton and Hove,United Kingdom,28507,1977167
-422,2020-12-17,Brighton and Hove,United Kingdom,35383,1948660
-423,2020-12-16,Brighton and Hove,United Kingdom,25161,1913277
-424,2020-12-15,Brighton and Hove,United Kingdom,18450,1888116
-425,2020-12-14,Brighton and Hove,United Kingdom,20263,1869666
-426,2020-12-13,Brighton and Hove,United Kingdom,18447,1849403
-427,2020-12-12,Brighton and Hove,United Kingdom,21502,1830956
-428,2020-12-11,Brighton and Hove,United Kingdom,21672,1809455
-429,2020-12-10,Brighton and Hove,United Kingdom,20964,1787783
-430,2020-12-09,Brighton and Hove,United Kingdom,16578,1766819
-431,2020-12-08,Brighton and Hove,United Kingdom,12282,1750241
-432,2020-12-07,Brighton and Hove,United Kingdom,14718,1737960
-433,2020-12-06,Brighton and Hove,United Kingdom,17272,1723242
-434,2020-12-05,Brighton and Hove,United Kingdom,15539,1705971
-435,2020-12-04,Brighton and Hove,United Kingdom,16298,1690432
-436,2020-12-03,Brighton and Hove,United Kingdom,14879,1674134
-437,2020-12-02,Brighton and Hove,United Kingdom,16170,1659256
-438,2020-12-01,Brighton and Hove,United Kingdom,13430,1643086
-439,2020-11-30,Brighton and Hove,United Kingdom,12330,1629657
-440,2020-11-29,Brighton and Hove,United Kingdom,12155,1617327
-441,2020-11-28,Brighton and Hove,United Kingdom,15871,1605172
-442,2020-11-27,Brighton and Hove,United Kingdom,16022,1589301
-443,2020-11-26,Brighton and Hove,United Kingdom,17555,1574562
-444,2020-11-25,Brighton and Hove,United Kingdom,18213,1557007
-445,2020-11-24,Brighton and Hove,United Kingdom,11299,1538794
-446,2020-11-23,Brighton and Hove,United Kingdom,15450,1527495
-447,2020-11-22,Brighton and Hove,United Kingdom,18662,1512045
-448,2020-11-21,Brighton and Hove,United Kingdom,19875,1493383
-449,2020-11-20,Brighton and Hove,United Kingdom,20252,1473508
-450,2020-11-19,Brighton and Hove,United Kingdom,22915,1453256
-451,2020-11-18,Brighton and Hove,United Kingdom,19609,1430341
-452,2020-11-17,Brighton and Hove,United Kingdom,20051,1410732
-453,2020-11-16,Brighton and Hove,United Kingdom,21363,1390681
-454,2020-11-15,Brighton and Hove,United Kingdom,24962,1369318
-455,2020-11-14,Brighton and Hove,United Kingdom,26860,1344356
-456,2020-11-13,Brighton and Hove,United Kingdom,27301,1317496
-457,2020-11-12,Brighton and Hove,United Kingdom,33470,1290195
-458,2020-11-11,Brighton and Hove,United Kingdom,22950,1256725
-459,2020-11-10,Brighton and Hove,United Kingdom,20412,1233775
-460,2020-11-09,Brighton and Hove,United Kingdom,21350,1213363
-461,2020-11-08,Brighton and Hove,United Kingdom,20572,1192013
-462,2020-11-07,Brighton and Hove,United Kingdom,24957,1171441
-463,2020-11-06,Brighton and Hove,United Kingdom,23287,1146484
-464,2020-11-05,Brighton and Hove,United Kingdom,24141,1123197
-465,2020-11-04,Brighton and Hove,United Kingdom,25177,1099059
-466,2020-11-03,Brighton and Hove,United Kingdom,20018,1073882
-467,2020-11-02,Brighton and Hove,United Kingdom,18950,1053864
-468,2020-11-01,Brighton and Hove,United Kingdom,23254,1034914
-469,2020-10-31,Brighton and Hove,United Kingdom,21915,1011660
-470,2020-10-30,Brighton and Hove,United Kingdom,24405,989745
-471,2020-10-29,Brighton and Hove,United Kingdom,23065,965340
-472,2020-10-28,Brighton and Hove,United Kingdom,24701,942275
-473,2020-10-27,Brighton and Hove,United Kingdom,22885,917575
-474,2020-10-26,Brighton and Hove,United Kingdom,20890,894690
-475,2020-10-25,Brighton and Hove,United Kingdom,19790,873800
-476,2020-10-24,Brighton and Hove,United Kingdom,23012,854010
-477,2020-10-23,Brighton and Hove,United Kingdom,20530,830998
-478,2020-10-22,Brighton and Hove,United Kingdom,21242,810467
-479,2020-10-21,Brighton and Hove,United Kingdom,26688,789229
-480,2020-10-20,Brighton and Hove,United Kingdom,21331,762542
-481,2020-10-19,Brighton and Hove,United Kingdom,18804,741212
-482,2020-10-18,Brighton and Hove,United Kingdom,16982,722409
-483,2020-10-17,Brighton and Hove,United Kingdom,16171,705428
-484,2020-10-16,Brighton and Hove,United Kingdom,15650,689257
-485,2020-10-15,Brighton and Hove,United Kingdom,18980,673622
-486,2020-10-14,Brighton and Hove,United Kingdom,19724,654644
-487,2020-10-13,Brighton and Hove,United Kingdom,17234,634920
-488,2020-10-12,Brighton and Hove,United Kingdom,13972,617688
-489,2020-10-11,Brighton and Hove,United Kingdom,12872,603716
-490,2020-10-10,Brighton and Hove,United Kingdom,15166,590844
-491,2020-10-09,Brighton and Hove,United Kingdom,13864,575679
-492,2020-10-08,Brighton and Hove,United Kingdom,17540,561815
-493,2020-10-07,Brighton and Hove,United Kingdom,14162,544275
-494,2020-10-06,Brighton and Hove,United Kingdom,14542,530113
-495,2020-10-05,Brighton and Hove,United Kingdom,12594,515571
-496,2020-10-04,Brighton and Hove,United Kingdom,22961,502978
-497,2020-10-03,Brighton and Hove,United Kingdom,12872,480017
-498,2020-10-02,Brighton and Hove,United Kingdom,6968,467146
-499,2020-10-01,Brighton and Hove,United Kingdom,6914,460178
-500,2020-09-30,Brighton and Hove,United Kingdom,7108,453264
-501,2020-09-29,Brighton and Hove,United Kingdom,7143,446156
-502,2020-09-28,Brighton and Hove,United Kingdom,4044,439013
-503,2020-09-27,Brighton and Hove,United Kingdom,5693,434969
-504,2020-09-26,Brighton and Hove,United Kingdom,6042,429277
-505,2020-09-25,Brighton and Hove,United Kingdom,6874,423236
-506,2020-09-24,Brighton and Hove,United Kingdom,6634,416363
-507,2020-09-23,Brighton and Hove,United Kingdom,6178,409729
-508,2020-09-22,Brighton and Hove,United Kingdom,4926,403551
-509,2020-09-21,Brighton and Hove,United Kingdom,4368,398625
-510,2020-09-20,Brighton and Hove,United Kingdom,3899,394257
-511,2020-09-19,Brighton and Hove,United Kingdom,4422,390358
-512,2020-09-18,Brighton and Hove,United Kingdom,4322,385936
-513,2020-09-17,Brighton and Hove,United Kingdom,3395,381614
-514,2020-09-16,Brighton and Hove,United Kingdom,3991,378219
-515,2020-09-15,Brighton and Hove,United Kingdom,3105,374228
-516,2020-09-14,Brighton and Hove,United Kingdom,2621,371125
-517,2020-09-13,Brighton and Hove,United Kingdom,3330,368504
-518,2020-09-12,Brighton and Hove,United Kingdom,3497,365174
-519,2020-09-11,Brighton and Hove,United Kingdom,3539,361677
-520,2020-09-10,Brighton and Hove,United Kingdom,2919,358138
-521,2020-09-09,Brighton and Hove,United Kingdom,2659,355219
-522,2020-09-08,Brighton and Hove,United Kingdom,2460,352560
-523,2020-09-07,Brighton and Hove,United Kingdom,2948,350100
-524,2020-09-06,Brighton and Hove,United Kingdom,2988,347152
-525,2020-09-05,Brighton and Hove,United Kingdom,1813,344164
-526,2020-09-04,Brighton and Hove,United Kingdom,1940,342351
-527,2020-09-03,Brighton and Hove,United Kingdom,1735,340411
-528,2020-09-02,Brighton and Hove,United Kingdom,1508,338676
-529,2020-09-01,Brighton and Hove,United Kingdom,1295,337168
-530,2020-08-31,Brighton and Hove,United Kingdom,1406,335873
-531,2020-08-30,Brighton and Hove,United Kingdom,1715,334467
-532,2020-08-29,Brighton and Hove,United Kingdom,1108,332752
-533,2020-08-28,Brighton and Hove,United Kingdom,1276,331644
-534,2020-08-27,Brighton and Hove,United Kingdom,1522,330368
-535,2020-08-26,Brighton and Hove,United Kingdom,1048,328846
-536,2020-08-25,Brighton and Hove,United Kingdom,1184,327798
-537,2020-08-24,Brighton and Hove,United Kingdom,853,326614
-538,2020-08-23,Brighton and Hove,United Kingdom,1160,325761
-539,2020-08-22,Brighton and Hove,United Kingdom,1288,324601
-540,2020-08-21,Brighton and Hove,United Kingdom,1033,323313
-541,2020-08-20,Brighton and Hove,United Kingdom,1182,322280
-542,2020-08-19,Brighton and Hove,United Kingdom,812,321098
-543,2020-08-18,Brighton and Hove,United Kingdom,1089,320286
-544,2020-08-17,Brighton and Hove,United Kingdom,713,319197
-545,2020-08-16,Brighton and Hove,United Kingdom,1040,318484
-546,2020-08-15,Brighton and Hove,United Kingdom,1077,317444
-547,2020-08-14,Brighton and Hove,United Kingdom,1441,316367
-548,2020-08-13,Brighton and Hove,United Kingdom,1129,314927
-549,2020-08-12,Brighton and Hove,United Kingdom,1009,313798
-550,2020-08-11,Brighton and Hove,United Kingdom,1148,312789
-551,2020-08-10,Brighton and Hove,United Kingdom,740,311641
-552,2020-08-09,Brighton and Hove,United Kingdom,1062,310825
-553,2020-08-08,Brighton and Hove,United Kingdom,758,309763
-554,2020-08-07,Brighton and Hove,United Kingdom,871,309005
-555,2020-08-06,Brighton and Hove,United Kingdom,950,308134
-556,2020-08-05,Brighton and Hove,United Kingdom,892,307184
-557,2020-08-04,Brighton and Hove,United Kingdom,670,306293
-558,2020-08-03,Brighton and Hove,United Kingdom,898,305623
-559,2020-08-02,Brighton and Hove,United Kingdom,744,304685
-560,2020-08-01,Brighton and Hove,United Kingdom,761,303942
-561,2020-07-31,Brighton and Hove,United Kingdom,880,303181
-562,2020-07-30,Brighton and Hove,United Kingdom,846,302301
-563,2020-07-29,Brighton and Hove,United Kingdom,763,301455
-564,2020-07-28,Brighton and Hove,United Kingdom,581,300692
-565,2020-07-27,Brighton and Hove,United Kingdom,685,300111
-566,2020-07-26,Brighton and Hove,United Kingdom,745,299426
-567,2020-07-25,Brighton and Hove,United Kingdom,767,298681
-568,2020-07-24,Brighton and Hove,United Kingdom,768,297914
-569,2020-07-23,Brighton and Hove,United Kingdom,769,297146
-570,2020-07-22,Brighton and Hove,United Kingdom,560,296377
-571,2020-07-21,Brighton and Hove,United Kingdom,445,295817
-572,2020-07-20,Brighton and Hove,United Kingdom,557,295372
-573,2020-07-19,Brighton and Hove,United Kingdom,726,294792
-574,2020-07-18,Brighton and Hove,United Kingdom,827,294066
-575,2020-07-17,Brighton and Hove,United Kingdom,687,293239
-576,2020-07-16,Brighton and Hove,United Kingdom,642,292552
-577,2020-07-15,Brighton and Hove,United Kingdom,538,291911
-578,2020-07-14,Brighton and Hove,United Kingdom,398,291373
-579,2020-07-13,Brighton and Hove,United Kingdom,530,290133
-580,2020-07-12,Brighton and Hove,United Kingdom,650,289603
-581,2020-07-11,Brighton and Hove,United Kingdom,820,288953
-582,2020-07-10,Brighton and Hove,United Kingdom,512,288133
-583,2020-07-09,Brighton and Hove,United Kingdom,642,287621
-584,2020-07-08,Brighton and Hove,United Kingdom,630,286979
-585,2020-07-07,Brighton and Hove,United Kingdom,581,286349
-586,2020-07-06,Brighton and Hove,United Kingdom,343,285768
-587,2020-07-05,Brighton and Hove,United Kingdom,516,285416
-588,2020-07-04,Brighton and Hove,United Kingdom,624,284900
-589,2020-07-03,Brighton and Hove,United Kingdom,544,284276
-590,2020-07-02,Brighton and Hove,United Kingdom,576,283757
-591,2020-07-01,Brighton and Hove,United Kingdom,829,313483
-592,2020-06-30,Brighton and Hove,United Kingdom,689,312654
-593,2020-06-29,Brighton and Hove,United Kingdom,815,311965
-594,2020-06-28,Brighton and Hove,United Kingdom,901,311151
-595,2020-06-27,Brighton and Hove,United Kingdom,890,310250
-596,2020-06-26,Brighton and Hove,United Kingdom,1006,309360
-597,2020-06-25,Brighton and Hove,United Kingdom,1118,307980
-598,2020-06-24,Brighton and Hove,United Kingdom,653,306862
-599,2020-06-23,Brighton and Hove,United Kingdom,874,306210
-600,2020-06-22,Brighton and Hove,United Kingdom,958,305289
-601,2020-06-21,Brighton and Hove,United Kingdom,1221,304331
-602,2020-06-20,Brighton and Hove,United Kingdom,1295,303110
-603,2020-06-19,Brighton and Hove,United Kingdom,1346,301815
-604,2020-06-18,Brighton and Hove,United Kingdom,1218,300469
-605,2020-06-17,Brighton and Hove,United Kingdom,1115,299251
-606,2020-06-16,Brighton and Hove,United Kingdom,1279,298136
-607,2020-06-15,Brighton and Hove,United Kingdom,1056,296857
-608,2020-06-14,Brighton and Hove,United Kingdom,1514,295889
-609,2020-06-13,Brighton and Hove,United Kingdom,1425,294375
-610,2020-06-12,Brighton and Hove,United Kingdom,1541,292950
-611,2020-06-11,Brighton and Hove,United Kingdom,1266,291409
-612,2020-06-10,Brighton and Hove,United Kingdom,1003,290143
-613,2020-06-09,Brighton and Hove,United Kingdom,1387,289140
-614,2020-06-08,Brighton and Hove,United Kingdom,1205,287399
-615,2020-06-07,Brighton and Hove,United Kingdom,1326,286194
-616,2020-06-06,Brighton and Hove,United Kingdom,1557,284868
-617,2020-06-05,Brighton and Hove,United Kingdom,1650,283311
-618,2020-06-04,Brighton and Hove,United Kingdom,1805,281661
-619,2020-06-03,Brighton and Hove,United Kingdom,1871,279856
-620,2020-06-02,Brighton and Hove,United Kingdom,1613,277985
-621,2020-06-01,Brighton and Hove,United Kingdom,1570,276332
-622,2020-05-31,Brighton and Hove,United Kingdom,1936,274762
-623,2020-05-30,Brighton and Hove,United Kingdom,2445,272826
-624,2020-05-29,Brighton and Hove,United Kingdom,2095,271222
-625,2020-05-28,Brighton and Hove,United Kingdom,1887,269127
-626,2020-05-27,Brighton and Hove,United Kingdom,2013,267240
-627,2020-05-26,Brighton and Hove,United Kingdom,2004,265227
-628,2020-05-25,Brighton and Hove,United Kingdom,1625,261184
-629,2020-05-24,Brighton and Hove,United Kingdom,2409,259559
-630,2020-05-23,Brighton and Hove,United Kingdom,2959,257154
-631,2020-05-22,Brighton and Hove,United Kingdom,3287,254195
-632,2020-05-21,Brighton and Hove,United Kingdom,2615,250908
-633,2020-05-20,Brighton and Hove,United Kingdom,2472,248293
-634,2020-05-19,Brighton and Hove,United Kingdom,2412,248818
-635,2020-05-18,Brighton and Hove,United Kingdom,2684,246406
-636,2020-05-17,Brighton and Hove,United Kingdom,3562,243723
-637,2020-05-16,Brighton and Hove,United Kingdom,3451,240161
-638,2020-05-15,Brighton and Hove,United Kingdom,3560,236711
-639,2020-05-14,Brighton and Hove,United Kingdom,3446,233151
-640,2020-05-13,Brighton and Hove,United Kingdom,3242,229705
-641,2020-05-12,Brighton and Hove,United Kingdom,3403,226463
-642,2020-05-11,Brighton and Hove,United Kingdom,3877,223060
-643,2020-05-10,Brighton and Hove,United Kingdom,3923,219183
-644,2020-05-09,Brighton and Hove,United Kingdom,3896,215260
-645,2020-05-08,Brighton and Hove,United Kingdom,4649,211364
-646,2020-05-07,Brighton and Hove,United Kingdom,5614,206715
-647,2020-05-06,Brighton and Hove,United Kingdom,6111,201101
-648,2020-05-05,Brighton and Hove,United Kingdom,4406,194990
-649,2020-05-04,Brighton and Hove,United Kingdom,3985,190584
-650,2020-05-03,Brighton and Hove,United Kingdom,4339,186599
-651,2020-05-02,Brighton and Hove,United Kingdom,4806,182260
-652,2020-05-01,Brighton and Hove,United Kingdom,6201,177454
-653,2020-04-30,Brighton and Hove,United Kingdom,6032,171253
-654,2020-04-29,Brighton and Hove,United Kingdom,4076,165221
-655,2020-04-28,Brighton and Hove,United Kingdom,3996,161145
-656,2020-04-27,Brighton and Hove,United Kingdom,4310,157149
-657,2020-04-26,Brighton and Hove,United Kingdom,4463,152840
-658,2020-04-25,Brighton and Hove,United Kingdom,4913,148377
-659,2020-04-24,Brighton and Hove,United Kingdom,5386,143464
-660,2020-04-23,Brighton and Hove,United Kingdom,4583,138078
-661,2020-04-22,Brighton and Hove,United Kingdom,4451,133495
-662,2020-04-21,Brighton and Hove,United Kingdom,4301,129044
-663,2020-04-20,Brighton and Hove,United Kingdom,4676,124743
-664,2020-04-19,Brighton and Hove,United Kingdom,5850,120067
-665,2020-04-18,Brighton and Hove,United Kingdom,5526,114217
-666,2020-04-17,Brighton and Hove,United Kingdom,5599,108692
-667,2020-04-16,Brighton and Hove,United Kingdom,4618,103093
-668,2020-04-15,Brighton and Hove,United Kingdom,4605,98476
-669,2020-04-14,Brighton and Hove,United Kingdom,5252,93873
-670,2020-04-13,Brighton and Hove,United Kingdom,4342,88621
-671,2020-04-12,Brighton and Hove,United Kingdom,5288,84279
-672,2020-04-11,Brighton and Hove,United Kingdom,5234,78991
-673,2020-04-10,Brighton and Hove,United Kingdom,5706,73758
-674,2020-04-09,Brighton and Hove,United Kingdom,4675,68052
-675,2020-04-08,Brighton and Hove,United Kingdom,5865,63377
-676,2020-04-07,Brighton and Hove,United Kingdom,3888,57512
-677,2020-04-06,Brighton and Hove,United Kingdom,4143,53624
-678,2020-04-05,Brighton and Hove,United Kingdom,6199,49481
-679,2020-04-04,Brighton and Hove,United Kingdom,4000,43282
-680,2020-04-03,Brighton and Hove,United Kingdom,4672,39282
-681,2020-04-02,Brighton and Hove,United Kingdom,4522,34610
-682,2020-04-01,Brighton and Hove,United Kingdom,4567,30088
-683,2020-03-31,Brighton and Hove,United Kingdom,3250,25521
-684,2020-03-30,Brighton and Hove,United Kingdom,2665,22271
-685,2020-03-29,Brighton and Hove,United Kingdom,2502,19606
-686,2020-03-28,Brighton and Hove,United Kingdom,2556,17104
-687,2020-03-27,Brighton and Hove,United Kingdom,2890,14548
-688,2020-03-26,Brighton and Hove,United Kingdom,2129,11658
-689,2020-03-25,Brighton and Hove,United Kingdom,1452,9529
-690,2020-03-24,Brighton and Hove,United Kingdom,1427,8077
-691,2020-03-23,Brighton and Hove,United Kingdom,967,6650
-692,2020-03-22,Brighton and Hove,United Kingdom,665,5683
-693,2020-03-21,Brighton and Hove,United Kingdom,1035,5018
-694,2020-03-20,Brighton and Hove,United Kingdom,714,3983
-695,2020-03-19,Brighton and Hove,United Kingdom,643,3269
-696,2020-03-18,Brighton and Hove,United Kingdom,676,2626
-697,2020-03-17,Brighton and Hove,United Kingdom,407,1950
-698,2020-03-16,Brighton and Hove,United Kingdom,152,1543
-699,2020-03-15,Brighton and Hove,United Kingdom,330,1391
-700,2020-03-14,Brighton and Hove,United Kingdom,264,1061
-701,2020-03-13,Brighton and Hove,United Kingdom,207,797
-702,2020-03-12,Brighton and Hove,United Kingdom,134,590
-703,2020-03-11,Brighton and Hove,United Kingdom,83,456
-704,2020-03-10,Brighton and Hove,United Kingdom,52,373
-705,2020-03-09,Brighton and Hove,United Kingdom,50,321
-706,2020-03-08,Brighton and Hove,United Kingdom,65,271
-707,2020-03-07,Brighton and Hove,United Kingdom,46,206
-708,2020-03-06,Brighton and Hove,United Kingdom,46,160
-709,2020-03-05,Brighton and Hove,United Kingdom,29,114
-710,2020-03-04,Brighton and Hove,United Kingdom,34,85
-711,2020-03-03,Brighton and Hove,United Kingdom,11,51
-712,2020-03-02,Brighton and Hove,United Kingdom,5,40
-713,2020-03-01,Brighton and Hove,United Kingdom,12,35
-714,2020-02-29,Brighton and Hove,United Kingdom,4,23
-715,2020-02-28,Brighton and Hove,United Kingdom,6,19
-716,2020-02-27,Brighton and Hove,United Kingdom,0,13
-717,2020-02-26,Brighton and Hove,United Kingdom,0,13
-718,2020-02-25,Brighton and Hove,United Kingdom,0,13
-719,2020-02-24,Brighton and Hove,United Kingdom,4,13
-720,2020-02-23,Brighton and Hove,United Kingdom,0,9
-721,2020-02-22,Brighton and Hove,United Kingdom,0,9
-722,2020-02-21,Brighton and Hove,United Kingdom,0,9
-723,2020-02-20,Brighton and Hove,United Kingdom,0,9
-724,2020-02-19,Brighton and Hove,United Kingdom,0,9
-725,2020-02-18,Brighton and Hove,United Kingdom,0,9
-726,2020-02-17,Brighton and Hove,United Kingdom,0,9
-727,2020-02-16,Brighton and Hove,United Kingdom,0,9
-728,2020-02-15,Brighton and Hove,United Kingdom,0,9
-729,2020-02-14,Brighton and Hove,United Kingdom,0,9
-730,2020-02-13,Brighton and Hove,United Kingdom,1,9
-731,2020-02-12,Brighton and Hove,United Kingdom,0,8
-732,2020-02-11,Brighton and Hove,United Kingdom,0,8
-733,2020-02-10,Brighton and Hove,United Kingdom,4,8
-734,2020-02-09,Brighton and Hove,United Kingdom,1,4
-735,2020-02-08,Brighton and Hove,United Kingdom,0,3
-736,2020-02-07,Brighton and Hove,United Kingdom,0,3
-737,2020-02-06,Brighton and Hove,United Kingdom,1,3
-738,2020-02-05,Brighton and Hove,United Kingdom,0,2
-739,2020-02-04,Brighton and Hove,United Kingdom,0,2
-740,2020-02-03,Brighton and Hove,United Kingdom,0,2
-741,2020-02-02,Brighton and Hove,United Kingdom,0,2
-742,2020-02-01,Brighton and Hove,United Kingdom,0,2
-743,2020-01-31,Brighton and Hove,United Kingdom,2,2
+,Date,CityName,DailyCasesBySpecimenDate,DailyCasesChangeBySpecimenDate,CummulativeCasesBySpecimenDate,DailyCasesByPublishDate
+0,2022-03-02,Brighton and Hove,,,,266.0
+1,2022-03-01,Brighton and Hove,149.0,149.0,81691.0,186.0
+2,2022-02-28,Brighton and Hove,236.0,109.0,81542.0,452.0
+3,2022-02-27,Brighton and Hove,129.0,5.0,81306.0,0.0
+4,2022-02-26,Brighton and Hove,116.0,1.0,81177.0,0.0
+5,2022-02-25,Brighton and Hove,183.0,1.0,81061.0,160.0
+6,2022-02-24,Brighton and Hove,171.0,0.0,80878.0,214.0
+7,2022-02-23,Brighton and Hove,177.0,0.0,80707.0,251.0
+8,2022-02-22,Brighton and Hove,208.0,0.0,80530.0,223.0
+9,2022-02-21,Brighton and Hove,267.0,0.0,80322.0,233.0
+10,2022-02-20,Brighton and Hove,224.0,0.0,80055.0,161.0
+11,2022-02-19,Brighton and Hove,225.0,0.0,79831.0,223.0
+12,2022-02-18,Brighton and Hove,159.0,0.0,79606.0,316.0
+13,2022-02-17,Brighton and Hove,297.0,0.0,79447.0,297.0
+14,2022-02-16,Brighton and Hove,301.0,0.0,79150.0,423.0
+15,2022-02-15,Brighton and Hove,321.0,0.0,78849.0,224.0
+16,2022-02-14,Brighton and Hove,363.0,0.0,78528.0,209.0
+17,2022-02-13,Brighton and Hove,191.0,0.0,78165.0,262.0
+18,2022-02-12,Brighton and Hove,226.0,0.0,77974.0,303.0
+19,2022-02-11,Brighton and Hove,297.0,0.0,77748.0,322.0
+20,2022-02-10,Brighton and Hove,311.0,0.0,77451.0,459.0
+21,2022-02-09,Brighton and Hove,368.0,0.0,77140.0,478.0
+22,2022-02-08,Brighton and Hove,476.0,0.0,76772.0,396.0
+23,2022-02-07,Brighton and Hove,501.0,0.0,76296.0,337.0
+24,2022-02-06,Brighton and Hove,316.0,0.0,75795.0,366.0
+25,2022-02-05,Brighton and Hove,328.0,1.0,75479.0,414.0
+26,2022-02-04,Brighton and Hove,378.0,,75151.0,512.0
+27,2022-02-03,Brighton and Hove,487.0,,74773.0,681.0
+28,2022-02-02,Brighton and Hove,526.0,,74286.0,491.0
+29,2022-02-01,Brighton and Hove,566.0,,73760.0,589.0
+30,2022-01-31,Brighton and Hove,571.0,,73194.0,3810.0
+31,2022-01-30,Brighton and Hove,467.0,,72623.0,379.0
+32,2022-01-29,Brighton and Hove,403.0,,72156.0,419.0
+33,2022-01-28,Brighton and Hove,441.0,,71753.0,489.0
+34,2022-01-27,Brighton and Hove,521.0,,71312.0,528.0
+35,2022-01-26,Brighton and Hove,567.0,,70791.0,502.0
+36,2022-01-25,Brighton and Hove,539.0,,70224.0,489.0
+37,2022-01-24,Brighton and Hove,660.0,,69685.0,380.0
+38,2022-01-23,Brighton and Hove,460.0,,69025.0,379.0
+39,2022-01-22,Brighton and Hove,382.0,,68565.0,402.0
+40,2022-01-21,Brighton and Hove,418.0,,68183.0,458.0
+41,2022-01-20,Brighton and Hove,476.0,,67765.0,446.0
+42,2022-01-19,Brighton and Hove,477.0,,67289.0,493.0
+43,2022-01-18,Brighton and Hove,499.0,,66812.0,337.0
+44,2022-01-17,Brighton and Hove,499.0,,66313.0,304.0
+45,2022-01-16,Brighton and Hove,332.0,,65814.0,319.0
+46,2022-01-15,Brighton and Hove,292.0,,65482.0,334.0
+47,2022-01-14,Brighton and Hove,360.0,,65190.0,399.0
+48,2022-01-13,Brighton and Hove,345.0,,64830.0,412.0
+49,2022-01-12,Brighton and Hove,408.0,,64485.0,582.0
+50,2022-01-11,Brighton and Hove,473.0,,64077.0,329.0
+51,2022-01-10,Brighton and Hove,555.0,,63604.0,319.0
+52,2022-01-09,Brighton and Hove,320.0,,63049.0,538.0
+53,2022-01-08,Brighton and Hove,371.0,,62729.0,649.0
+54,2022-01-07,Brighton and Hove,438.0,,62358.0,956.0
+55,2022-01-06,Brighton and Hove,593.0,,61920.0,606.0
+56,2022-01-05,Brighton and Hove,793.0,,61327.0,589.0
+57,2022-01-04,Brighton and Hove,1222.0,,60534.0,577.0
+58,2022-01-03,Brighton and Hove,816.0,,59312.0,427.0
+59,2022-01-02,Brighton and Hove,553.0,,58496.0,592.0
+60,2022-01-01,Brighton and Hove,330.0,,57943.0,740.0
+61,2021-12-31,Brighton and Hove,626.0,,57613.0,1186.0
+62,2021-12-30,Brighton and Hove,797.0,,56987.0,567.0
+63,2021-12-29,Brighton and Hove,1242.0,,56190.0,580.0
+64,2021-12-28,Brighton and Hove,775.0,,54948.0,384.0
+65,2021-12-27,Brighton and Hove,749.0,,54173.0,391.0
+66,2021-12-26,Brighton and Hove,413.0,,53424.0,898.0
+67,2021-12-25,Brighton and Hove,327.0,,53011.0,703.0
+68,2021-12-24,Brighton and Hove,650.0,,52684.0,926.0
+69,2021-12-23,Brighton and Hove,808.0,,52034.0,615.0
+70,2021-12-22,Brighton and Hove,939.0,,51226.0,598.0
+71,2021-12-21,Brighton and Hove,890.0,,50287.0,475.0
+72,2021-12-20,Brighton and Hove,824.0,,49397.0,507.0
+73,2021-12-19,Brighton and Hove,515.0,,48573.0,527.0
+74,2021-12-18,Brighton and Hove,495.0,,48058.0,425.0
+75,2021-12-17,Brighton and Hove,557.0,,47563.0,594.0
+76,2021-12-16,Brighton and Hove,541.0,,47006.0,478.0
+77,2021-12-15,Brighton and Hove,643.0,,46465.0,420.0
+78,2021-12-14,Brighton and Hove,558.0,,45822.0,214.0
+79,2021-12-13,Brighton and Hove,442.0,,45264.0,291.0
+80,2021-12-12,Brighton and Hove,248.0,,44822.0,238.0
+81,2021-12-11,Brighton and Hove,232.0,,44574.0,306.0
+82,2021-12-10,Brighton and Hove,292.0,,44342.0,357.0
+83,2021-12-09,Brighton and Hove,313.0,,44050.0,242.0
+84,2021-12-08,Brighton and Hove,341.0,,43737.0,243.0
+85,2021-12-07,Brighton and Hove,320.0,,43396.0,261.0
+86,2021-12-06,Brighton and Hove,273.0,,43076.0,212.0
+87,2021-12-05,Brighton and Hove,203.0,,42803.0,295.0
+88,2021-12-04,Brighton and Hove,202.0,,42600.0,243.0
+89,2021-12-03,Brighton and Hove,282.0,,42398.0,303.0
+90,2021-12-02,Brighton and Hove,325.0,,42116.0,291.0
+91,2021-12-01,Brighton and Hove,309.0,,41791.0,298.0
+92,2021-11-30,Brighton and Hove,292.0,,41482.0,250.0
+93,2021-11-29,Brighton and Hove,340.0,,41190.0,161.0
+94,2021-11-28,Brighton and Hove,205.0,,40850.0,217.0
+95,2021-11-27,Brighton and Hove,173.0,,40645.0,234.0
+96,2021-11-26,Brighton and Hove,194.0,,40472.0,315.0
+97,2021-11-25,Brighton and Hove,235.0,,40278.0,182.0
+98,2021-11-24,Brighton and Hove,233.0,,40043.0,214.0
+99,2021-11-23,Brighton and Hove,264.0,,39810.0,216.0
+100,2021-11-22,Brighton and Hove,276.0,,39546.0,141.0
+101,2021-11-21,Brighton and Hove,222.0,,39270.0,263.0
+102,2021-11-20,Brighton and Hove,158.0,,39048.0,173.0
+103,2021-11-19,Brighton and Hove,224.0,,38890.0,304.0
+104,2021-11-18,Brighton and Hove,214.0,,38666.0,196.0
+105,2021-11-17,Brighton and Hove,197.0,,38452.0,99.0
+106,2021-11-16,Brighton and Hove,186.0,,38255.0,128.0
+107,2021-11-15,Brighton and Hove,220.0,,38069.0,207.0
+108,2021-11-14,Brighton and Hove,167.0,,37849.0,138.0
+109,2021-11-13,Brighton and Hove,156.0,,37682.0,181.0
+110,2021-11-12,Brighton and Hove,164.0,,37526.0,164.0
+111,2021-11-11,Brighton and Hove,201.0,,37362.0,209.0
+112,2021-11-10,Brighton and Hove,178.0,,37161.0,131.0
+113,2021-11-09,Brighton and Hove,168.0,,36983.0,113.0
+114,2021-11-08,Brighton and Hove,168.0,,36815.0,134.0
+115,2021-11-07,Brighton and Hove,116.0,,36647.0,108.0
+116,2021-11-06,Brighton and Hove,102.0,,36531.0,93.0
+117,2021-11-05,Brighton and Hove,112.0,,36429.0,103.0
+118,2021-11-04,Brighton and Hove,124.0,,36317.0,201.0
+119,2021-11-03,Brighton and Hove,113.0,,36193.0,153.0
+120,2021-11-02,Brighton and Hove,152.0,,36080.0,91.0
+121,2021-11-01,Brighton and Hove,181.0,,35928.0,132.0
+122,2021-10-31,Brighton and Hove,104.0,,35747.0,170.0
+123,2021-10-30,Brighton and Hove,135.0,,35643.0,163.0
+124,2021-10-29,Brighton and Hove,181.0,,35508.0,212.0
+125,2021-10-28,Brighton and Hove,169.0,,35327.0,257.0
+126,2021-10-27,Brighton and Hove,175.0,,35158.0,105.0
+127,2021-10-26,Brighton and Hove,187.0,,34983.0,151.0
+128,2021-10-25,Brighton and Hove,209.0,,34796.0,176.0
+129,2021-10-24,Brighton and Hove,147.0,,34587.0,173.0
+130,2021-10-23,Brighton and Hove,130.0,,34440.0,171.0
+131,2021-10-22,Brighton and Hove,179.0,,34310.0,189.0
+132,2021-10-21,Brighton and Hove,196.0,,34131.0,252.0
+133,2021-10-20,Brighton and Hove,198.0,,33935.0,139.0
+134,2021-10-19,Brighton and Hove,204.0,,33737.0,137.0
+135,2021-10-18,Brighton and Hove,212.0,,33533.0,157.0
+136,2021-10-17,Brighton and Hove,130.0,,33321.0,188.0
+137,2021-10-16,Brighton and Hove,133.0,,33191.0,120.0
+138,2021-10-15,Brighton and Hove,158.0,,33058.0,121.0
+139,2021-10-14,Brighton and Hove,154.0,,32900.0,152.0
+140,2021-10-13,Brighton and Hove,124.0,,32746.0,132.0
+141,2021-10-12,Brighton and Hove,131.0,,32622.0,100.0
+142,2021-10-11,Brighton and Hove,165.0,,32491.0,95.0
+143,2021-10-10,Brighton and Hove,119.0,,32326.0,129.0
+144,2021-10-09,Brighton and Hove,93.0,,32207.0,116.0
+145,2021-10-08,Brighton and Hove,139.0,,32114.0,94.0
+146,2021-10-07,Brighton and Hove,96.0,,31975.0,101.0
+147,2021-10-06,Brighton and Hove,93.0,,31879.0,109.0
+148,2021-10-05,Brighton and Hove,110.0,,31786.0,92.0
+149,2021-10-04,Brighton and Hove,120.0,,31676.0,109.0
+150,2021-10-03,Brighton and Hove,93.0,,31556.0,100.0
+151,2021-10-02,Brighton and Hove,95.0,,31463.0,84.0
+152,2021-10-01,Brighton and Hove,78.0,,31368.0,56.0
+153,2021-09-30,Brighton and Hove,76.0,,31290.0,135.0
+154,2021-09-29,Brighton and Hove,93.0,,31214.0,86.0
+155,2021-09-28,Brighton and Hove,103.0,,31121.0,119.0
+156,2021-09-27,Brighton and Hove,137.0,,31018.0,81.0
+157,2021-09-26,Brighton and Hove,108.0,,30881.0,63.0
+158,2021-09-25,Brighton and Hove,83.0,,30773.0,78.0
+159,2021-09-24,Brighton and Hove,84.0,,30690.0,121.0
+160,2021-09-23,Brighton and Hove,68.0,,30606.0,146.0
+161,2021-09-22,Brighton and Hove,123.0,,30538.0,78.0
+162,2021-09-21,Brighton and Hove,142.0,,30415.0,90.0
+163,2021-09-20,Brighton and Hove,108.0,,30273.0,110.0
+164,2021-09-19,Brighton and Hove,94.0,,30165.0,66.0
+165,2021-09-18,Brighton and Hove,85.0,,30071.0,81.0
+166,2021-09-17,Brighton and Hove,68.0,,29986.0,57.0
+167,2021-09-16,Brighton and Hove,64.0,,29918.0,120.0
+168,2021-09-15,Brighton and Hove,70.0,,29854.0,52.0
+169,2021-09-14,Brighton and Hove,81.0,,29784.0,55.0
+170,2021-09-13,Brighton and Hove,79.0,,29703.0,68.0
+171,2021-09-12,Brighton and Hove,69.0,,29624.0,95.0
+172,2021-09-11,Brighton and Hove,61.0,,29555.0,71.0
+173,2021-09-10,Brighton and Hove,67.0,,29494.0,88.0
+174,2021-09-09,Brighton and Hove,93.0,,29427.0,155.0
+175,2021-09-08,Brighton and Hove,77.0,,29334.0,80.0
+176,2021-09-07,Brighton and Hove,124.0,,29257.0,119.0
+177,2021-09-06,Brighton and Hove,150.0,,29133.0,163.0
+178,2021-09-05,Brighton and Hove,112.0,,28983.0,144.0
+179,2021-09-04,Brighton and Hove,120.0,,28871.0,135.0
+180,2021-09-03,Brighton and Hove,129.0,,28751.0,94.0
+181,2021-09-02,Brighton and Hove,146.0,,28622.0,198.0
+182,2021-09-01,Brighton and Hove,149.0,,28476.0,89.0
+183,2021-08-31,Brighton and Hove,182.0,,28327.0,78.0
+184,2021-08-30,Brighton and Hove,112.0,,28145.0,87.0
+185,2021-08-29,Brighton and Hove,76.0,,28033.0,108.0
+186,2021-08-28,Brighton and Hove,107.0,,27957.0,145.0
+187,2021-08-27,Brighton and Hove,106.0,,27850.0,94.0
+188,2021-08-26,Brighton and Hove,115.0,,27744.0,234.0
+189,2021-08-25,Brighton and Hove,129.0,,27629.0,109.0
+190,2021-08-24,Brighton and Hove,173.0,,27500.0,126.0
+191,2021-08-23,Brighton and Hove,172.0,,27327.0,128.0
+192,2021-08-22,Brighton and Hove,125.0,,27155.0,195.0
+193,2021-08-21,Brighton and Hove,126.0,,27030.0,161.0
+194,2021-08-20,Brighton and Hove,176.0,,26904.0,176.0
+195,2021-08-19,Brighton and Hove,168.0,,26728.0,196.0
+196,2021-08-18,Brighton and Hove,216.0,,26560.0,228.0
+197,2021-08-17,Brighton and Hove,234.0,,26344.0,128.0
+198,2021-08-16,Brighton and Hove,223.0,,26110.0,171.0
+199,2021-08-15,Brighton and Hove,127.0,,25887.0,178.0
+200,2021-08-14,Brighton and Hove,163.0,,25760.0,198.0
+201,2021-08-13,Brighton and Hove,153.0,,25597.0,259.0
+202,2021-08-12,Brighton and Hove,232.0,,25444.0,225.0
+203,2021-08-11,Brighton and Hove,243.0,,25212.0,144.0
+204,2021-08-10,Brighton and Hove,180.0,,24969.0,145.0
+205,2021-08-09,Brighton and Hove,206.0,,24789.0,151.0
+206,2021-08-08,Brighton and Hove,150.0,,24583.0,168.0
+207,2021-08-07,Brighton and Hove,155.0,,24433.0,198.0
+208,2021-08-06,Brighton and Hove,164.0,,24278.0,235.0
+209,2021-08-05,Brighton and Hove,216.0,,24114.0,232.0
+210,2021-08-04,Brighton and Hove,225.0,,23898.0,222.0
+211,2021-08-03,Brighton and Hove,252.0,,23673.0,148.0
+212,2021-08-02,Brighton and Hove,230.0,,23421.0,143.0
+213,2021-08-01,Brighton and Hove,165.0,,23191.0,189.0
+214,2021-07-31,Brighton and Hove,168.0,,23026.0,233.0
+215,2021-07-30,Brighton and Hove,194.0,,22858.0,177.0
+216,2021-07-29,Brighton and Hove,220.0,,22664.0,194.0
+217,2021-07-28,Brighton and Hove,201.0,,22444.0,177.0
+218,2021-07-27,Brighton and Hove,193.0,,22243.0,96.0
+219,2021-07-26,Brighton and Hove,169.0,,22050.0,98.0
+220,2021-07-25,Brighton and Hove,87.0,,21881.0,117.0
+221,2021-07-24,Brighton and Hove,102.0,,21794.0,145.0
+222,2021-07-23,Brighton and Hove,111.0,,21692.0,196.0
+223,2021-07-22,Brighton and Hove,158.0,,21581.0,227.0
+224,2021-07-21,Brighton and Hove,151.0,,21423.0,167.0
+225,2021-07-20,Brighton and Hove,205.0,,21272.0,192.0
+226,2021-07-19,Brighton and Hove,225.0,,21067.0,183.0
+227,2021-07-18,Brighton and Hove,158.0,,20842.0,206.0
+228,2021-07-17,Brighton and Hove,182.0,,20684.0,293.0
+229,2021-07-16,Brighton and Hove,283.0,,20502.0,287.0
+230,2021-07-15,Brighton and Hove,305.0,,20219.0,293.0
+231,2021-07-14,Brighton and Hove,323.0,,19914.0,234.0
+232,2021-07-13,Brighton and Hove,221.0,,19591.0,183.0
+233,2021-07-12,Brighton and Hove,229.0,,19370.0,212.0
+234,2021-07-11,Brighton and Hove,147.0,,19141.0,197.0
+235,2021-07-10,Brighton and Hove,140.0,,18994.0,162.0
+236,2021-07-09,Brighton and Hove,149.0,,18854.0,129.0
+237,2021-07-08,Brighton and Hove,224.0,,18705.0,129.0
+238,2021-07-07,Brighton and Hove,181.0,,18481.0,173.0
+239,2021-07-06,Brighton and Hove,215.0,,18300.0,165.0
+240,2021-07-05,Brighton and Hove,224.0,,18085.0,175.0
+241,2021-07-04,Brighton and Hove,153.0,,17861.0,179.0
+242,2021-07-03,Brighton and Hove,180.0,,17708.0,157.0
+243,2021-07-02,Brighton and Hove,203.0,,17528.0,171.0
+244,2021-07-01,Brighton and Hove,179.0,,17325.0,205.0
+245,2021-06-30,Brighton and Hove,192.0,,17146.0,208.0
+246,2021-06-29,Brighton and Hove,202.0,,16954.0,153.0
+247,2021-06-28,Brighton and Hove,208.0,,16752.0,156.0
+248,2021-06-27,Brighton and Hove,131.0,,16544.0,81.0
+249,2021-06-26,Brighton and Hove,128.0,,16413.0,102.0
+250,2021-06-25,Brighton and Hove,107.0,,16285.0,76.0
+251,2021-06-24,Brighton and Hove,117.0,,16178.0,70.0
+252,2021-06-23,Brighton and Hove,89.0,,16061.0,71.0
+253,2021-06-22,Brighton and Hove,85.0,,15972.0,54.0
+254,2021-06-21,Brighton and Hove,68.0,,15887.0,71.0
+255,2021-06-20,Brighton and Hove,50.0,,15819.0,46.0
+256,2021-06-19,Brighton and Hove,47.0,,15769.0,44.0
+257,2021-06-18,Brighton and Hove,69.0,,15722.0,59.0
+258,2021-06-17,Brighton and Hove,50.0,,15653.0,56.0
+259,2021-06-16,Brighton and Hove,50.0,,15603.0,55.0
+260,2021-06-15,Brighton and Hove,55.0,,15553.0,32.0
+261,2021-06-14,Brighton and Hove,60.0,,15498.0,36.0
+262,2021-06-13,Brighton and Hove,32.0,,15438.0,51.0
+263,2021-06-12,Brighton and Hove,33.0,,15406.0,48.0
+264,2021-06-11,Brighton and Hove,50.0,,15373.0,32.0
+265,2021-06-10,Brighton and Hove,57.0,,15323.0,28.0
+266,2021-06-09,Brighton and Hove,37.0,,15266.0,23.0
+267,2021-06-08,Brighton and Hove,28.0,,15229.0,10.0
+268,2021-06-07,Brighton and Hove,19.0,,15201.0,23.0
+269,2021-06-06,Brighton and Hove,17.0,,15182.0,19.0
+270,2021-06-05,Brighton and Hove,13.0,,15165.0,9.0
+271,2021-06-04,Brighton and Hove,20.0,,15152.0,22.0
+272,2021-06-03,Brighton and Hove,7.0,,15132.0,8.0
+273,2021-06-02,Brighton and Hove,24.0,,15125.0,12.0
+274,2021-06-01,Brighton and Hove,10.0,,15101.0,8.0
+275,2021-05-31,Brighton and Hove,13.0,,15091.0,6.0
+276,2021-05-30,Brighton and Hove,4.0,,15078.0,9.0
+277,2021-05-29,Brighton and Hove,9.0,,15074.0,8.0
+278,2021-05-28,Brighton and Hove,9.0,,15065.0,11.0
+279,2021-05-27,Brighton and Hove,8.0,,15056.0,15.0
+280,2021-05-26,Brighton and Hove,17.0,,15048.0,4.0
+281,2021-05-25,Brighton and Hove,11.0,,15031.0,3.0
+282,2021-05-24,Brighton and Hove,2.0,,15020.0,7.0
+283,2021-05-23,Brighton and Hove,8.0,,15018.0,2.0
+284,2021-05-22,Brighton and Hove,4.0,,15010.0,3.0
+285,2021-05-21,Brighton and Hove,3.0,,15006.0,8.0
+286,2021-05-20,Brighton and Hove,7.0,,15003.0,6.0
+287,2021-05-19,Brighton and Hove,7.0,,14996.0,6.0
+288,2021-05-18,Brighton and Hove,4.0,,14989.0,0.0
+289,2021-05-17,Brighton and Hove,6.0,,14985.0,7.0
+290,2021-05-16,Brighton and Hove,3.0,,14979.0,6.0
+291,2021-05-15,Brighton and Hove,6.0,,14976.0,6.0
+292,2021-05-14,Brighton and Hove,10.0,,14970.0,8.0
+293,2021-05-13,Brighton and Hove,5.0,,14960.0,11.0
+294,2021-05-12,Brighton and Hove,10.0,,14955.0,8.0
+295,2021-05-11,Brighton and Hove,13.0,,14945.0,9.0
+296,2021-05-10,Brighton and Hove,9.0,,14932.0,9.0
+297,2021-05-09,Brighton and Hove,3.0,,14923.0,6.0
+298,2021-05-08,Brighton and Hove,6.0,,14920.0,10.0
+299,2021-05-07,Brighton and Hove,7.0,,14914.0,8.0
+300,2021-05-06,Brighton and Hove,7.0,,14907.0,8.0
+301,2021-05-05,Brighton and Hove,11.0,,14900.0,5.0
+302,2021-05-04,Brighton and Hove,7.0,,14889.0,5.0
+303,2021-05-03,Brighton and Hove,3.0,,14882.0,3.0
+304,2021-05-02,Brighton and Hove,4.0,,14879.0,0.0
+305,2021-05-01,Brighton and Hove,3.0,,14875.0,5.0
+306,2021-04-30,Brighton and Hove,3.0,,14872.0,7.0
+307,2021-04-29,Brighton and Hove,4.0,,14869.0,5.0
+308,2021-04-28,Brighton and Hove,10.0,,14865.0,3.0
+309,2021-04-27,Brighton and Hove,3.0,,14855.0,10.0
+310,2021-04-26,Brighton and Hove,10.0,,14852.0,10.0
+311,2021-04-25,Brighton and Hove,8.0,,14842.0,5.0
+312,2021-04-24,Brighton and Hove,6.0,,14834.0,5.0
+313,2021-04-23,Brighton and Hove,7.0,,14828.0,8.0
+314,2021-04-22,Brighton and Hove,6.0,,14821.0,9.0
+315,2021-04-21,Brighton and Hove,11.0,,14815.0,5.0
+316,2021-04-20,Brighton and Hove,2.0,,14804.0,9.0
+317,2021-04-19,Brighton and Hove,8.0,,14802.0,8.0
+318,2021-04-18,Brighton and Hove,8.0,,14794.0,1.0
+319,2021-04-17,Brighton and Hove,0.0,,14786.0,9.0
+320,2021-04-16,Brighton and Hove,5.0,,14786.0,7.0
+321,2021-04-15,Brighton and Hove,11.0,,14781.0,12.0
+322,2021-04-14,Brighton and Hove,9.0,,14770.0,3.0
+323,2021-04-13,Brighton and Hove,4.0,,14761.0,2.0
+324,2021-04-12,Brighton and Hove,5.0,,14757.0,3.0
+325,2021-04-11,Brighton and Hove,1.0,,14752.0,6.0
+326,2021-04-10,Brighton and Hove,9.0,,14751.0,7.0
+327,2021-04-09,Brighton and Hove,1.0,,14742.0,0.0
+328,2021-04-08,Brighton and Hove,12.0,,14741.0,13.0
+329,2021-04-07,Brighton and Hove,9.0,,14729.0,5.0
+330,2021-04-06,Brighton and Hove,11.0,,14720.0,4.0
+331,2021-04-05,Brighton and Hove,2.0,,14709.0,2.0
+332,2021-04-04,Brighton and Hove,4.0,,14707.0,7.0
+333,2021-04-03,Brighton and Hove,4.0,,14703.0,8.0
+334,2021-04-02,Brighton and Hove,7.0,,14699.0,6.0
+335,2021-04-01,Brighton and Hove,3.0,,14692.0,10.0
+336,2021-03-31,Brighton and Hove,6.0,,14689.0,9.0
+337,2021-03-30,Brighton and Hove,10.0,,14683.0,4.0
+338,2021-03-29,Brighton and Hove,11.0,,14673.0,7.0
+339,2021-03-28,Brighton and Hove,9.0,,14662.0,7.0
+340,2021-03-27,Brighton and Hove,7.0,,14653.0,15.0
+341,2021-03-26,Brighton and Hove,8.0,,14646.0,13.0
+342,2021-03-25,Brighton and Hove,17.0,,14638.0,11.0
+343,2021-03-24,Brighton and Hove,15.0,,14621.0,13.0
+344,2021-03-23,Brighton and Hove,10.0,,14606.0,19.0
+345,2021-03-22,Brighton and Hove,14.0,,14596.0,14.0
+346,2021-03-21,Brighton and Hove,18.0,,14582.0,22.0
+347,2021-03-20,Brighton and Hove,9.0,,14564.0,15.0
+348,2021-03-19,Brighton and Hove,19.0,,14555.0,19.0
+349,2021-03-18,Brighton and Hove,25.0,,14536.0,12.0
+350,2021-03-17,Brighton and Hove,13.0,,14511.0,19.0
+351,2021-03-16,Brighton and Hove,12.0,,14498.0,12.0
+352,2021-03-15,Brighton and Hove,15.0,,14486.0,19.0
+353,2021-03-14,Brighton and Hove,13.0,,14471.0,8.0
+354,2021-03-13,Brighton and Hove,14.0,,14458.0,15.0
+355,2021-03-12,Brighton and Hove,11.0,,14444.0,6.0
+356,2021-03-11,Brighton and Hove,17.0,,14433.0,12.0
+357,2021-03-10,Brighton and Hove,10.0,,14416.0,15.0
+358,2021-03-09,Brighton and Hove,13.0,,14406.0,14.0
+359,2021-03-08,Brighton and Hove,16.0,,14393.0,5.0
+360,2021-03-07,Brighton and Hove,6.0,,14377.0,13.0
+361,2021-03-06,Brighton and Hove,11.0,,14371.0,20.0
+362,2021-03-05,Brighton and Hove,5.0,,14360.0,9.0
+363,2021-03-04,Brighton and Hove,18.0,,14355.0,18.0
+364,2021-03-03,Brighton and Hove,16.0,,14337.0,12.0
+365,2021-03-02,Brighton and Hove,15.0,,14321.0,9.0
+366,2021-03-01,Brighton and Hove,16.0,,14306.0,17.0
+367,2021-02-28,Brighton and Hove,11.0,,14290.0,10.0
+368,2021-02-27,Brighton and Hove,17.0,,14279.0,22.0
+369,2021-02-26,Brighton and Hove,9.0,,14262.0,21.0
+370,2021-02-25,Brighton and Hove,20.0,,14253.0,19.0
+371,2021-02-24,Brighton and Hove,18.0,,14233.0,18.0
+372,2021-02-23,Brighton and Hove,21.0,,14215.0,26.0
+373,2021-02-22,Brighton and Hove,25.0,,14194.0,18.0
+374,2021-02-21,Brighton and Hove,21.0,,14169.0,22.0
+375,2021-02-20,Brighton and Hove,23.0,,14148.0,23.0
+376,2021-02-19,Brighton and Hove,21.0,,14125.0,18.0
+377,2021-02-18,Brighton and Hove,21.0,,14104.0,28.0
+378,2021-02-17,Brighton and Hove,23.0,,14083.0,29.0
+379,2021-02-16,Brighton and Hove,27.0,,14060.0,20.0
+380,2021-02-15,Brighton and Hove,29.0,,14033.0,20.0
+381,2021-02-14,Brighton and Hove,16.0,,14004.0,20.0
+382,2021-02-13,Brighton and Hove,15.0,,13988.0,40.0
+383,2021-02-12,Brighton and Hove,32.0,,13973.0,36.0
+384,2021-02-11,Brighton and Hove,38.0,,13941.0,24.0
+385,2021-02-10,Brighton and Hove,24.0,,13903.0,35.0
+386,2021-02-09,Brighton and Hove,31.0,,13879.0,22.0
+387,2021-02-08,Brighton and Hove,43.0,,13848.0,27.0
+388,2021-02-07,Brighton and Hove,18.0,,13805.0,39.0
+389,2021-02-06,Brighton and Hove,18.0,,13787.0,60.0
+390,2021-02-05,Brighton and Hove,52.0,,13769.0,48.0
+391,2021-02-04,Brighton and Hove,57.0,,13717.0,63.0
+392,2021-02-03,Brighton and Hove,42.0,,13660.0,54.0
+393,2021-02-02,Brighton and Hove,62.0,,13618.0,48.0
+394,2021-02-01,Brighton and Hove,57.0,,13556.0,45.0
+395,2021-01-31,Brighton and Hove,34.0,,13499.0,68.0
+396,2021-01-30,Brighton and Hove,48.0,,13465.0,64.0
+397,2021-01-29,Brighton and Hove,85.0,,13417.0,105.0
+398,2021-01-28,Brighton and Hove,68.0,,13332.0,121.0
+399,2021-01-27,Brighton and Hove,86.0,,13264.0,76.0
+400,2021-01-26,Brighton and Hove,79.0,,13178.0,56.0
+401,2021-01-25,Brighton and Hove,128.0,,13099.0,82.0
+402,2021-01-24,Brighton and Hove,62.0,,12971.0,117.0
+403,2021-01-23,Brighton and Hove,80.0,,12909.0,118.0
+404,2021-01-22,Brighton and Hove,109.0,,12829.0,210.0
+405,2021-01-21,Brighton and Hove,102.0,,12720.0,171.0
+406,2021-01-20,Brighton and Hove,131.0,,12618.0,99.0
+407,2021-01-19,Brighton and Hove,172.0,,12487.0,123.0
+408,2021-01-18,Brighton and Hove,195.0,,12315.0,130.0
+409,2021-01-17,Brighton and Hove,94.0,,12120.0,155.0
+410,2021-01-16,Brighton and Hove,102.0,,12026.0,195.0
+411,2021-01-15,Brighton and Hove,171.0,,11924.0,336.0
+412,2021-01-14,Brighton and Hove,236.0,,11753.0,202.0
+413,2021-01-13,Brighton and Hove,220.0,,11517.0,209.0
+414,2021-01-12,Brighton and Hove,236.0,,11297.0,219.0
+415,2021-01-11,Brighton and Hove,271.0,,11061.0,137.0
+416,2021-01-10,Brighton and Hove,177.0,,10790.0,420.0
+417,2021-01-09,Brighton and Hove,178.0,,10613.0,387.0
+418,2021-01-08,Brighton and Hove,252.0,,10435.0,338.0
+419,2021-01-07,Brighton and Hove,300.0,,10183.0,318.0
+420,2021-01-06,Brighton and Hove,319.0,,9883.0,365.0
+421,2021-01-05,Brighton and Hove,365.0,,9564.0,290.0
+422,2021-01-04,Brighton and Hove,539.0,,9199.0,437.0
+423,2021-01-03,Brighton and Hove,232.0,,8660.0,279.0
+424,2021-01-02,Brighton and Hove,304.0,,8428.0,120.0
+425,2021-01-01,Brighton and Hove,162.0,,8124.0,390.0
+426,2020-12-31,Brighton and Hove,341.0,,7962.0,250.0
+427,2020-12-30,Brighton and Hove,384.0,,7621.0,221.0
+428,2020-12-29,Brighton and Hove,426.0,,7237.0,205.0
+429,2020-12-28,Brighton and Hove,227.0,,6811.0,133.0
+430,2020-12-27,Brighton and Hove,217.0,,6584.0,140.0
+431,2020-12-26,Brighton and Hove,187.0,,6367.0,213.0
+432,2020-12-25,Brighton and Hove,84.0,,6180.0,137.0
+433,2020-12-24,Brighton and Hove,150.0,,6096.0,100.0
+434,2020-12-23,Brighton and Hove,169.0,,5946.0,133.0
+435,2020-12-22,Brighton and Hove,193.0,,5777.0,97.0
+436,2020-12-21,Brighton and Hove,162.0,,5584.0,82.0
+437,2020-12-20,Brighton and Hove,111.0,,5422.0,128.0
+438,2020-12-19,Brighton and Hove,67.0,,5311.0,118.0
+439,2020-12-18,Brighton and Hove,94.0,,5244.0,92.0
+440,2020-12-17,Brighton and Hove,134.0,,5150.0,93.0
+441,2020-12-16,Brighton and Hove,121.0,,5016.0,81.0
+442,2020-12-15,Brighton and Hove,95.0,,4895.0,46.0
+443,2020-12-14,Brighton and Hove,98.0,,4800.0,29.0
+444,2020-12-13,Brighton and Hove,72.0,,4702.0,61.0
+445,2020-12-12,Brighton and Hove,32.0,,4630.0,36.0
+446,2020-12-11,Brighton and Hove,65.0,,4598.0,60.0
+447,2020-12-10,Brighton and Hove,45.0,,4533.0,53.0
+448,2020-12-09,Brighton and Hove,60.0,,4488.0,28.0
+449,2020-12-08,Brighton and Hove,46.0,,4428.0,22.0
+450,2020-12-07,Brighton and Hove,32.0,,4382.0,13.0
+451,2020-12-06,Brighton and Hove,22.0,,4350.0,20.0
+452,2020-12-05,Brighton and Hove,21.0,,4328.0,23.0
+453,2020-12-04,Brighton and Hove,17.0,,4307.0,39.0
+454,2020-12-03,Brighton and Hove,26.0,,4290.0,27.0
+455,2020-12-02,Brighton and Hove,38.0,,4264.0,32.0
+456,2020-12-01,Brighton and Hove,39.0,,4226.0,25.0
+457,2020-11-30,Brighton and Hove,29.0,,4187.0,14.0
+458,2020-11-29,Brighton and Hove,15.0,,4158.0,24.0
+459,2020-11-28,Brighton and Hove,16.0,,4143.0,24.0
+460,2020-11-27,Brighton and Hove,33.0,,4127.0,11.0
+461,2020-11-26,Brighton and Hove,18.0,,4094.0,40.0
+462,2020-11-25,Brighton and Hove,30.0,,4076.0,29.0
+463,2020-11-24,Brighton and Hove,26.0,,4046.0,15.0
+464,2020-11-23,Brighton and Hove,33.0,,4020.0,27.0
+465,2020-11-22,Brighton and Hove,25.0,,3987.0,41.0
+466,2020-11-21,Brighton and Hove,15.0,,3962.0,38.0
+467,2020-11-20,Brighton and Hove,26.0,,3947.0,17.0
+468,2020-11-19,Brighton and Hove,21.0,,3921.0,42.0
+469,2020-11-18,Brighton and Hove,39.0,,3900.0,46.0
+470,2020-11-17,Brighton and Hove,33.0,,3861.0,36.0
+471,2020-11-16,Brighton and Hove,72.0,,3828.0,230.0
+472,2020-11-15,Brighton and Hove,22.0,,3756.0,66.0
+473,2020-11-14,Brighton and Hove,46.0,,3734.0,50.0
+474,2020-11-13,Brighton and Hove,64.0,,3688.0,107.0
+475,2020-11-12,Brighton and Hove,59.0,,3624.0,98.0
+476,2020-11-11,Brighton and Hove,88.0,,3565.0,57.0
+477,2020-11-10,Brighton and Hove,78.0,,3477.0,50.0
+478,2020-11-09,Brighton and Hove,101.0,,3399.0,72.0
+479,2020-11-08,Brighton and Hove,74.0,,3298.0,68.0
+480,2020-11-07,Brighton and Hove,70.0,,3224.0,74.0
+481,2020-11-06,Brighton and Hove,57.0,,3154.0,93.0
+482,2020-11-05,Brighton and Hove,53.0,,3097.0,35.0
+483,2020-11-04,Brighton and Hove,58.0,,3044.0,39.0
+484,2020-11-03,Brighton and Hove,79.0,,2986.0,33.0
+485,2020-11-02,Brighton and Hove,71.0,,2907.0,45.0
+486,2020-11-01,Brighton and Hove,31.0,,2836.0,50.0
+487,2020-10-31,Brighton and Hove,38.0,,2805.0,32.0
+488,2020-10-30,Brighton and Hove,37.0,,2767.0,108.0
+489,2020-10-29,Brighton and Hove,72.0,,2730.0,54.0
+490,2020-10-28,Brighton and Hove,63.0,,2658.0,87.0
+491,2020-10-27,Brighton and Hove,77.0,,2595.0,66.0
+492,2020-10-26,Brighton and Hove,97.0,,2518.0,60.0
+493,2020-10-25,Brighton and Hove,55.0,,2421.0,67.0
+494,2020-10-24,Brighton and Hove,61.0,,2366.0,84.0
+495,2020-10-23,Brighton and Hove,80.0,,2305.0,68.0
+496,2020-10-22,Brighton and Hove,81.0,,2225.0,44.0
+497,2020-10-21,Brighton and Hove,97.0,,2144.0,81.0
+498,2020-10-20,Brighton and Hove,99.0,,2047.0,41.0
+499,2020-10-19,Brighton and Hove,83.0,,1948.0,50.0
+500,2020-10-18,Brighton and Hove,51.0,,1865.0,31.0
+501,2020-10-17,Brighton and Hove,39.0,,1814.0,21.0
+502,2020-10-16,Brighton and Hove,49.0,,1775.0,48.0
+503,2020-10-15,Brighton and Hove,30.0,,1726.0,28.0
+504,2020-10-14,Brighton and Hove,57.0,,1696.0,68.0
+505,2020-10-13,Brighton and Hove,60.0,,1639.0,35.0
+506,2020-10-12,Brighton and Hove,46.0,,1579.0,15.0
+507,2020-10-11,Brighton and Hove,23.0,,1533.0,17.0
+508,2020-10-10,Brighton and Hove,38.0,,1510.0,31.0
+509,2020-10-09,Brighton and Hove,58.0,,1472.0,30.0
+510,2020-10-08,Brighton and Hove,47.0,,1414.0,45.0
+511,2020-10-07,Brighton and Hove,35.0,,1367.0,60.0
+512,2020-10-06,Brighton and Hove,38.0,,1332.0,14.0
+513,2020-10-05,Brighton and Hove,32.0,,1294.0,28.0
+514,2020-10-04,Brighton and Hove,37.0,,1262.0,41.0
+515,2020-10-03,Brighton and Hove,54.0,,1225.0,21.0
+516,2020-10-02,Brighton and Hove,31.0,,1171.0,10.0
+517,2020-10-01,Brighton and Hove,21.0,,1140.0,16.0
+518,2020-09-30,Brighton and Hove,27.0,,1119.0,15.0
+519,2020-09-29,Brighton and Hove,17.0,,1092.0,8.0
+520,2020-09-28,Brighton and Hove,10.0,,1075.0,4.0
+521,2020-09-27,Brighton and Hove,10.0,,1065.0,9.0
+522,2020-09-26,Brighton and Hove,4.0,,1055.0,6.0
+523,2020-09-25,Brighton and Hove,6.0,,1051.0,6.0
+524,2020-09-24,Brighton and Hove,5.0,,1045.0,9.0
+525,2020-09-23,Brighton and Hove,6.0,,1040.0,2.0
+526,2020-09-22,Brighton and Hove,5.0,,1034.0,4.0
+527,2020-09-21,Brighton and Hove,1.0,,1029.0,2.0
+528,2020-09-20,Brighton and Hove,2.0,,1028.0,1.0
+529,2020-09-19,Brighton and Hove,1.0,,1026.0,7.0
+530,2020-09-18,Brighton and Hove,4.0,,1025.0,9.0
+531,2020-09-17,Brighton and Hove,1.0,,1021.0,7.0
+532,2020-09-16,Brighton and Hove,7.0,,1020.0,14.0
+533,2020-09-15,Brighton and Hove,4.0,,1013.0,11.0
+534,2020-09-14,Brighton and Hove,7.0,,1009.0,6.0
+535,2020-09-13,Brighton and Hove,3.0,,1002.0,4.0
+536,2020-09-12,Brighton and Hove,13.0,,999.0,20.0
+537,2020-09-11,Brighton and Hove,9.0,,986.0,8.0
+538,2020-09-10,Brighton and Hove,23.0,,977.0,5.0
+539,2020-09-09,Brighton and Hove,4.0,,954.0,6.0
+540,2020-09-08,Brighton and Hove,9.0,,950.0,12.0
+541,2020-09-07,Brighton and Hove,10.0,,941.0,7.0
+542,2020-09-06,Brighton and Hove,6.0,,931.0,3.0
+543,2020-09-05,Brighton and Hove,8.0,,925.0,5.0
+544,2020-09-04,Brighton and Hove,5.0,,917.0,1.0
+545,2020-09-03,Brighton and Hove,9.0,,912.0,1.0
+546,2020-09-02,Brighton and Hove,3.0,,903.0,6.0
+547,2020-09-01,Brighton and Hove,4.0,,900.0,7.0
+548,2020-08-31,Brighton and Hove,2.0,,896.0,7.0
+549,2020-08-30,Brighton and Hove,5.0,,894.0,4.0
+550,2020-08-29,Brighton and Hove,2.0,,889.0,3.0
+551,2020-08-28,Brighton and Hove,9.0,,887.0,3.0
+552,2020-08-27,Brighton and Hove,6.0,,878.0,0.0
+553,2020-08-26,Brighton and Hove,4.0,,872.0,2.0
+554,2020-08-25,Brighton and Hove,2.0,,868.0,8.0
+555,2020-08-24,Brighton and Hove,1.0,,866.0,3.0
+556,2020-08-23,Brighton and Hove,6.0,,865.0,3.0
+557,2020-08-22,Brighton and Hove,4.0,,859.0,2.0
+558,2020-08-21,Brighton and Hove,4.0,,855.0,1.0
+559,2020-08-20,Brighton and Hove,4.0,,851.0,3.0
+560,2020-08-19,Brighton and Hove,0.0,,847.0,2.0
+561,2020-08-18,Brighton and Hove,2.0,,847.0,1.0
+562,2020-08-17,Brighton and Hove,3.0,,845.0,1.0
+563,2020-08-16,Brighton and Hove,0.0,,842.0,4.0
+564,2020-08-15,Brighton and Hove,2.0,,842.0,2.0
+565,2020-08-14,Brighton and Hove,4.0,,840.0,2.0
+566,2020-08-13,Brighton and Hove,2.0,,836.0,0.0
+567,2020-08-12,Brighton and Hove,2.0,,834.0,0.0
+568,2020-08-11,Brighton and Hove,2.0,,832.0,2.0
+569,2020-08-10,Brighton and Hove,1.0,,830.0,0.0
+570,2020-08-09,Brighton and Hove,0.0,,829.0,2.0
+571,2020-08-08,Brighton and Hove,0.0,,829.0,2.0
+572,2020-08-07,Brighton and Hove,2.0,,829.0,3.0
+573,2020-08-06,Brighton and Hove,2.0,,827.0,0.0
+574,2020-08-05,Brighton and Hove,2.0,,825.0,1.0
+575,2020-08-04,Brighton and Hove,3.0,,823.0,1.0
+576,2020-08-03,Brighton and Hove,0.0,,820.0,1.0
+577,2020-08-02,Brighton and Hove,2.0,,820.0,0.0
+578,2020-08-01,Brighton and Hove,0.0,,818.0,2.0
+579,2020-07-31,Brighton and Hove,0.0,,818.0,1.0
+580,2020-07-30,Brighton and Hove,0.0,,818.0,1.0
+581,2020-07-29,Brighton and Hove,3.0,,818.0,3.0
+582,2020-07-28,Brighton and Hove,3.0,,815.0,2.0
+583,2020-07-27,Brighton and Hove,1.0,,812.0,8.0
+584,2020-07-26,Brighton and Hove,1.0,,811.0,3.0
+585,2020-07-25,Brighton and Hove,3.0,,810.0,1.0
+586,2020-07-24,Brighton and Hove,5.0,,807.0,2.0
+587,2020-07-23,Brighton and Hove,3.0,,802.0,5.0
+588,2020-07-22,Brighton and Hove,4.0,,799.0,0.0
+589,2020-07-21,Brighton and Hove,3.0,,795.0,0.0
+590,2020-07-20,Brighton and Hove,1.0,,792.0,1.0
+591,2020-07-19,Brighton and Hove,1.0,,791.0,0.0
+592,2020-07-18,Brighton and Hove,1.0,,790.0,1.0
+593,2020-07-17,Brighton and Hove,2.0,,789.0,2.0
+594,2020-07-16,Brighton and Hove,2.0,,787.0,3.0
+595,2020-07-15,Brighton and Hove,1.0,,785.0,1.0
+596,2020-07-14,Brighton and Hove,2.0,,784.0,2.0
+597,2020-07-13,Brighton and Hove,2.0,,782.0,1.0
+598,2020-07-12,Brighton and Hove,1.0,,780.0,2.0
+599,2020-07-11,Brighton and Hove,0.0,,779.0,3.0
+600,2020-07-10,Brighton and Hove,4.0,,779.0,0.0
+601,2020-07-09,Brighton and Hove,2.0,,775.0,0.0
+602,2020-07-08,Brighton and Hove,1.0,,773.0,2.0
+603,2020-07-07,Brighton and Hove,0.0,,772.0,0.0
+604,2020-07-06,Brighton and Hove,0.0,,772.0,2.0
+605,2020-07-05,Brighton and Hove,0.0,,772.0,1.0
+606,2020-07-04,Brighton and Hove,0.0,,772.0,0.0
+607,2020-07-03,Brighton and Hove,0.0,,772.0,1.0
+608,2020-07-02,Brighton and Hove,1.0,,772.0,1.0
+609,2020-07-01,Brighton and Hove,4.0,,771.0,273.0
+610,2020-06-30,Brighton and Hove,1.0,,767.0,1.0
+611,2020-06-29,Brighton and Hove,1.0,,766.0,0.0
+612,2020-06-28,Brighton and Hove,1.0,,765.0,0.0
+613,2020-06-27,Brighton and Hove,1.0,,764.0,0.0
+614,2020-06-26,Brighton and Hove,1.0,,763.0,0.0
+615,2020-06-25,Brighton and Hove,1.0,,762.0,1.0
+616,2020-06-24,Brighton and Hove,1.0,,761.0,1.0
+617,2020-06-23,Brighton and Hove,2.0,,760.0,0.0
+618,2020-06-22,Brighton and Hove,1.0,,758.0,1.0
+619,2020-06-21,Brighton and Hove,4.0,,757.0,1.0
+620,2020-06-20,Brighton and Hove,3.0,,753.0,1.0
+621,2020-06-19,Brighton and Hove,4.0,,750.0,0.0
+622,2020-06-18,Brighton and Hove,1.0,,746.0,2.0
+623,2020-06-17,Brighton and Hove,0.0,,745.0,0.0
+624,2020-06-16,Brighton and Hove,2.0,,745.0,3.0
+625,2020-06-15,Brighton and Hove,0.0,,743.0,1.0
+626,2020-06-14,Brighton and Hove,3.0,,743.0,1.0
+627,2020-06-13,Brighton and Hove,2.0,,740.0,2.0
+628,2020-06-12,Brighton and Hove,4.0,,738.0,2.0
+629,2020-06-11,Brighton and Hove,7.0,,734.0,1.0
+630,2020-06-10,Brighton and Hove,3.0,,727.0,1.0
+631,2020-06-09,Brighton and Hove,4.0,,724.0,3.0
+632,2020-06-08,Brighton and Hove,3.0,,720.0,0.0
+633,2020-06-07,Brighton and Hove,3.0,,717.0,4.0
+634,2020-06-06,Brighton and Hove,5.0,,714.0,6.0
+635,2020-06-05,Brighton and Hove,6.0,,709.0,1.0
+636,2020-06-04,Brighton and Hove,6.0,,703.0,8.0
+637,2020-06-03,Brighton and Hove,11.0,,697.0,5.0
+638,2020-06-02,Brighton and Hove,9.0,,686.0,3.0
+639,2020-06-01,Brighton and Hove,9.0,,677.0,1.0
+640,2020-05-31,Brighton and Hove,6.0,,668.0,0.0
+641,2020-05-30,Brighton and Hove,11.0,,662.0,6.0
+642,2020-05-29,Brighton and Hove,4.0,,651.0,0.0
+643,2020-05-28,Brighton and Hove,6.0,,647.0,5.0
+644,2020-05-27,Brighton and Hove,12.0,,641.0,8.0
+645,2020-05-26,Brighton and Hove,13.0,,629.0,0.0
+646,2020-05-25,Brighton and Hove,5.0,,616.0,1.0
+647,2020-05-24,Brighton and Hove,5.0,,611.0,3.0
+648,2020-05-23,Brighton and Hove,3.0,,606.0,4.0
+649,2020-05-22,Brighton and Hove,5.0,,603.0,3.0
+650,2020-05-21,Brighton and Hove,5.0,,598.0,1.0
+651,2020-05-20,Brighton and Hove,4.0,,593.0,0.0
+652,2020-05-19,Brighton and Hove,6.0,,589.0,1.0
+653,2020-05-18,Brighton and Hove,2.0,,583.0,1.0
+654,2020-05-17,Brighton and Hove,4.0,,581.0,2.0
+655,2020-05-16,Brighton and Hove,2.0,,577.0,0.0
+656,2020-05-15,Brighton and Hove,7.0,,575.0,1.0
+657,2020-05-14,Brighton and Hove,4.0,,568.0,1.0
+658,2020-05-13,Brighton and Hove,6.0,,564.0,4.0
+659,2020-05-12,Brighton and Hove,5.0,,558.0,0.0
+660,2020-05-11,Brighton and Hove,7.0,,553.0,1.0
+661,2020-05-10,Brighton and Hove,4.0,,546.0,0.0
+662,2020-05-09,Brighton and Hove,2.0,,542.0,0.0
+663,2020-05-08,Brighton and Hove,7.0,,540.0,3.0
+664,2020-05-07,Brighton and Hove,4.0,,533.0,6.0
+665,2020-05-06,Brighton and Hove,8.0,,529.0,4.0
+666,2020-05-05,Brighton and Hove,10.0,,521.0,2.0
+667,2020-05-04,Brighton and Hove,6.0,,511.0,3.0
+668,2020-05-03,Brighton and Hove,12.0,,505.0,5.0
+669,2020-05-02,Brighton and Hove,4.0,,493.0,3.0
+670,2020-05-01,Brighton and Hove,9.0,,489.0,18.0
+671,2020-04-30,Brighton and Hove,7.0,,480.0,1.0
+672,2020-04-29,Brighton and Hove,19.0,,473.0,8.0
+673,2020-04-28,Brighton and Hove,18.0,,454.0,1.0
+674,2020-04-27,Brighton and Hove,5.0,,436.0,2.0
+675,2020-04-26,Brighton and Hove,12.0,,431.0,4.0
+676,2020-04-25,Brighton and Hove,12.0,,419.0,2.0
+677,2020-04-24,Brighton and Hove,7.0,,407.0,3.0
+678,2020-04-23,Brighton and Hove,12.0,,400.0,12.0
+679,2020-04-22,Brighton and Hove,17.0,,388.0,3.0
+680,2020-04-21,Brighton and Hove,11.0,,371.0,
+681,2020-04-20,Brighton and Hove,9.0,,360.0,
+682,2020-04-19,Brighton and Hove,11.0,,351.0,
+683,2020-04-18,Brighton and Hove,15.0,,340.0,
+684,2020-04-17,Brighton and Hove,15.0,,325.0,
+685,2020-04-16,Brighton and Hove,13.0,,310.0,
+686,2020-04-15,Brighton and Hove,18.0,,297.0,
+687,2020-04-14,Brighton and Hove,17.0,,279.0,
+688,2020-04-13,Brighton and Hove,11.0,,262.0,
+689,2020-04-12,Brighton and Hove,12.0,,251.0,
+690,2020-04-11,Brighton and Hove,8.0,,239.0,
+691,2020-04-10,Brighton and Hove,13.0,,231.0,
+692,2020-04-09,Brighton and Hove,6.0,,218.0,
+693,2020-04-08,Brighton and Hove,20.0,,212.0,
+694,2020-04-07,Brighton and Hove,16.0,,192.0,
+695,2020-04-06,Brighton and Hove,10.0,,176.0,
+696,2020-04-05,Brighton and Hove,11.0,,166.0,
+697,2020-04-04,Brighton and Hove,13.0,,155.0,
+698,2020-04-03,Brighton and Hove,11.0,,142.0,
+699,2020-04-02,Brighton and Hove,13.0,,131.0,
+700,2020-04-01,Brighton and Hove,19.0,,118.0,
+701,2020-03-31,Brighton and Hove,6.0,,99.0,
+702,2020-03-30,Brighton and Hove,6.0,,93.0,
+703,2020-03-29,Brighton and Hove,9.0,,87.0,
+704,2020-03-28,Brighton and Hove,8.0,,78.0,
+705,2020-03-27,Brighton and Hove,12.0,,70.0,
+706,2020-03-26,Brighton and Hove,9.0,,58.0,
+707,2020-03-25,Brighton and Hove,6.0,,49.0,
+708,2020-03-24,Brighton and Hove,7.0,,43.0,
+709,2020-03-23,Brighton and Hove,4.0,,36.0,
+710,2020-03-22,Brighton and Hove,3.0,,32.0,
+711,2020-03-21,Brighton and Hove,4.0,,29.0,
+712,2020-03-20,Brighton and Hove,3.0,,25.0,
+713,2020-03-19,Brighton and Hove,2.0,,22.0,
+714,2020-03-18,Brighton and Hove,4.0,,20.0,
+715,2020-03-17,Brighton and Hove,0.0,,16.0,
+716,2020-03-16,Brighton and Hove,2.0,,16.0,
+717,2020-03-15,Brighton and Hove,2.0,,14.0,
+718,2020-03-14,Brighton and Hove,0.0,,12.0,
+719,2020-03-13,Brighton and Hove,2.0,,12.0,
+720,2020-03-12,Brighton and Hove,0.0,,10.0,
+721,2020-03-11,Brighton and Hove,0.0,,10.0,
+722,2020-03-10,Brighton and Hove,2.0,,10.0,
+723,2020-03-09,Brighton and Hove,0.0,,8.0,
+724,2020-03-08,Brighton and Hove,0.0,,8.0,
+725,2020-03-07,Brighton and Hove,1.0,,8.0,
+726,2020-03-06,Brighton and Hove,0.0,,7.0,
+727,2020-03-05,Brighton and Hove,0.0,,7.0,
+728,2020-03-04,Brighton and Hove,1.0,,7.0,
+729,2020-03-03,Brighton and Hove,0.0,,6.0,
+730,2020-03-02,Brighton and Hove,0.0,,6.0,
+731,2020-03-01,Brighton and Hove,0.0,,6.0,
+732,2020-02-29,Brighton and Hove,0.0,,6.0,
+733,2020-02-28,Brighton and Hove,0.0,,6.0,
+734,2020-02-27,Brighton and Hove,0.0,,6.0,
+735,2020-02-26,Brighton and Hove,0.0,,6.0,
+736,2020-02-25,Brighton and Hove,0.0,,6.0,
+737,2020-02-24,Brighton and Hove,0.0,,6.0,
+738,2020-02-23,Brighton and Hove,1.0,,6.0,
+739,2020-02-22,Brighton and Hove,0.0,,5.0,
+740,2020-02-21,Brighton and Hove,0.0,,5.0,
+741,2020-02-20,Brighton and Hove,0.0,,5.0,
+742,2020-02-19,Brighton and Hove,0.0,,5.0,
+743,2020-02-18,Brighton and Hove,0.0,,5.0,
+744,2020-02-17,Brighton and Hove,0.0,,5.0,
+745,2020-02-16,Brighton and Hove,0.0,,5.0,
+746,2020-02-15,Brighton and Hove,0.0,,5.0,
+747,2020-02-14,Brighton and Hove,0.0,,5.0,
+748,2020-02-13,Brighton and Hove,0.0,,5.0,
+749,2020-02-12,Brighton and Hove,0.0,,5.0,
+750,2020-02-11,Brighton and Hove,0.0,,5.0,
+751,2020-02-10,Brighton and Hove,0.0,,5.0,
+752,2020-02-09,Brighton and Hove,1.0,,5.0,
+753,2020-02-08,Brighton and Hove,3.0,,4.0,
+754,2020-02-07,Brighton and Hove,0.0,,1.0,
+755,2020-02-06,Brighton and Hove,0.0,,1.0,
+756,2020-02-05,Brighton and Hove,1.0,,1.0,

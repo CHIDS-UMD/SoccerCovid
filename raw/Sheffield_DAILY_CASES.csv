@@ -1,745 +1,733 @@
-,Date,CityName,AreaName,DailyCases,CummulativeCases
-0,2022-02-12,Sheffield,United Kingdom,46025,18266015
-1,2022-02-11,Sheffield,United Kingdom,58899,18220515
-2,2022-02-10,Sheffield,United Kingdom,66638,18162199
-3,2022-02-09,Sheffield,United Kingdom,68214,18000119
-4,2022-02-08,Sheffield,United Kingdom,66183,17932803
-5,2022-02-07,Sheffield,United Kingdom,57623,17866632
-6,2022-02-06,Sheffield,United Kingdom,57337,17809459
-7,2022-02-05,Sheffield,United Kingdom,63493,17752892
-8,2022-02-04,Sheffield,United Kingdom,84053,17689885
-9,2022-02-03,Sheffield,United Kingdom,88171,17607832
-10,2022-02-02,Sheffield,United Kingdom,92594,17519708
-11,2022-02-01,Sheffield,United Kingdom,112458,17428345
-12,2022-01-31,Sheffield,United Kingdom,92368,17315893
-13,2022-01-30,Sheffield,United Kingdom,69007,16478467
-14,2022-01-29,Sheffield,United Kingdom,76069,16409459
-15,2022-01-28,Sheffield,United Kingdom,89176,16333980
-16,2022-01-27,Sheffield,United Kingdom,96871,16245474
-17,2022-01-26,Sheffield,United Kingdom,102292,16149319
-18,2022-01-25,Sheffield,United Kingdom,94326,16047716
-19,2022-01-24,Sheffield,United Kingdom,88447,15953685
-20,2022-01-23,Sheffield,United Kingdom,78317,15866316
-21,2022-01-22,Sheffield,United Kingdom,80263,15787937
-22,2022-01-21,Sheffield,United Kingdom,95787,15709059
-23,2022-01-20,Sheffield,United Kingdom,107364,15613283
-24,2022-01-19,Sheffield,United Kingdom,108069,15506750
-25,2022-01-18,Sheffield,United Kingdom,94432,15399300
-26,2022-01-17,Sheffield,United Kingdom,84429,15305410
-27,2022-01-16,Sheffield,United Kingdom,75041,15221366
-28,2022-01-15,Sheffield,United Kingdom,81713,15147099
-29,2022-01-14,Sheffield,United Kingdom,99652,15066395
-30,2022-01-13,Sheffield,United Kingdom,109133,14967817
-31,2022-01-12,Sheffield,United Kingdom,129587,14862138
-32,2022-01-11,Sheffield,United Kingdom,120821,14732594
-33,2022-01-10,Sheffield,United Kingdom,142224,14617314
-34,2022-01-09,Sheffield,United Kingdom,141472,14475192
-35,2022-01-08,Sheffield,United Kingdom,146390,14333794
-36,2022-01-07,Sheffield,United Kingdom,178250,14193228
-37,2022-01-06,Sheffield,United Kingdom,179756,14015065
-38,2022-01-05,Sheffield,United Kingdom,194747,13835334
-39,2022-01-04,Sheffield,United Kingdom,218724,13641520
-40,2022-01-03,Sheffield,United Kingdom,157758,13422815
-41,2022-01-02,Sheffield,United Kingdom,151663,13266431
-42,2022-01-01,Sheffield,United Kingdom,179637,13117469
-43,2021-12-31,Sheffield,United Kingdom,189846,12937886
-44,2021-12-30,Sheffield,United Kingdom,189213,12748050
-45,2021-12-29,Sheffield,United Kingdom,183037,12559926
-46,2021-12-28,Sheffield,United Kingdom,138831,12377822
-47,2021-12-27,Sheffield,United Kingdom,109077,12239797
-48,2021-12-26,Sheffield,United Kingdom,119923,12132098
-49,2021-12-25,Sheffield,United Kingdom,121880,12013153
-50,2021-12-24,Sheffield,United Kingdom,122186,11891292
-51,2021-12-23,Sheffield,United Kingdom,119789,11769921
-52,2021-12-22,Sheffield,United Kingdom,109655,11647473
-53,2021-12-21,Sheffield,United Kingdom,90629,11542143
-54,2021-12-20,Sheffield,United Kingdom,91743,11453121
-55,2021-12-19,Sheffield,United Kingdom,82886,11361387
-56,2021-12-18,Sheffield,United Kingdom,90418,11279428
-57,2021-12-17,Sheffield,United Kingdom,93045,11190354
-58,2021-12-16,Sheffield,United Kingdom,88376,11097851
-59,2021-12-15,Sheffield,United Kingdom,78610,11010286
-60,2021-12-14,Sheffield,United Kingdom,59610,10932545
-61,2021-12-13,Sheffield,United Kingdom,54661,10873468
-62,2021-12-12,Sheffield,United Kingdom,48854,10819515
-63,2021-12-11,Sheffield,United Kingdom,54073,10771444
-64,2021-12-10,Sheffield,United Kingdom,58194,10719165
-65,2021-12-09,Sheffield,United Kingdom,50867,10660981
-66,2021-12-08,Sheffield,United Kingdom,51342,10610958
-67,2021-12-07,Sheffield,United Kingdom,45691,10560341
-68,2021-12-06,Sheffield,United Kingdom,51459,10515239
-69,2021-12-05,Sheffield,United Kingdom,43992,10464389
-70,2021-12-04,Sheffield,United Kingdom,42848,10421104
-71,2021-12-03,Sheffield,United Kingdom,50584,10379647
-72,2021-12-02,Sheffield,United Kingdom,53945,10329074
-73,2021-12-01,Sheffield,United Kingdom,48374,10276007
-74,2021-11-30,Sheffield,United Kingdom,39716,10228772
-75,2021-11-29,Sheffield,United Kingdom,42583,10189059
-76,2021-11-28,Sheffield,United Kingdom,37681,10146915
-77,2021-11-27,Sheffield,United Kingdom,39567,10110408
-78,2021-11-26,Sheffield,United Kingdom,50091,10070841
-79,2021-11-25,Sheffield,United Kingdom,47240,10021497
-80,2021-11-24,Sheffield,United Kingdom,43676,9974843
-81,2021-11-23,Sheffield,United Kingdom,42484,9932408
-82,2021-11-22,Sheffield,United Kingdom,44917,9889926
-83,2021-11-21,Sheffield,United Kingdom,40004,9845492
-84,2021-11-20,Sheffield,United Kingdom,40941,9806034
-85,2021-11-19,Sheffield,United Kingdom,44242,9766153
-86,2021-11-18,Sheffield,United Kingdom,46807,9721916
-87,2021-11-17,Sheffield,United Kingdom,38263,9675058
-88,2021-11-16,Sheffield,United Kingdom,37243,9637190
-89,2021-11-15,Sheffield,United Kingdom,39705,9600369
-90,2021-11-14,Sheffield,United Kingdom,36517,9561099
-91,2021-11-13,Sheffield,United Kingdom,38351,9524971
-92,2021-11-12,Sheffield,United Kingdom,40375,9487302
-93,2021-11-11,Sheffield,United Kingdom,42408,9448402
-94,2021-11-10,Sheffield,United Kingdom,39329,9406001
-95,2021-11-09,Sheffield,United Kingdom,33117,9366676
-96,2021-11-08,Sheffield,United Kingdom,32322,9333891
-97,2021-11-07,Sheffield,United Kingdom,30305,9301909
-98,2021-11-06,Sheffield,United Kingdom,30693,9272066
-99,2021-11-05,Sheffield,United Kingdom,34029,9241916
-100,2021-11-04,Sheffield,United Kingdom,37269,9208219
-101,2021-11-03,Sheffield,United Kingdom,41299,9171660
-102,2021-11-02,Sheffield,United Kingdom,33865,9130857
-103,2021-11-01,Sheffield,United Kingdom,40077,9097311
-104,2021-10-31,Sheffield,United Kingdom,38009,9057629
-105,2021-10-30,Sheffield,United Kingdom,41278,9019962
-106,2021-10-29,Sheffield,United Kingdom,43467,8979236
-107,2021-10-28,Sheffield,United Kingdom,39842,8936155
-108,2021-10-27,Sheffield,United Kingdom,43941,8897149
-109,2021-10-26,Sheffield,United Kingdom,40954,8853227
-110,2021-10-25,Sheffield,United Kingdom,36567,8809774
-111,2021-10-24,Sheffield,United Kingdom,39962,8773674
-112,2021-10-23,Sheffield,United Kingdom,44985,8734934
-113,2021-10-22,Sheffield,United Kingdom,49298,8689949
-114,2021-10-21,Sheffield,United Kingdom,52009,8641221
-115,2021-10-20,Sheffield,United Kingdom,49139,8589737
-116,2021-10-19,Sheffield,United Kingdom,43738,8541192
-117,2021-10-18,Sheffield,United Kingdom,49156,8497868
-118,2021-10-17,Sheffield,United Kingdom,45140,8449165
-119,2021-10-16,Sheffield,United Kingdom,43423,8404469
-120,2021-10-15,Sheffield,United Kingdom,44932,8361651
-121,2021-10-14,Sheffield,United Kingdom,45066,8317439
-122,2021-10-13,Sheffield,United Kingdom,42776,8272883
-123,2021-10-12,Sheffield,United Kingdom,38520,8231437
-124,2021-10-11,Sheffield,United Kingdom,40224,8193769
-125,2021-10-10,Sheffield,United Kingdom,34574,8154306
-126,2021-10-09,Sheffield,United Kingdom,34950,8120713
-127,2021-10-08,Sheffield,United Kingdom,41765,8087005
-128,2021-10-07,Sheffield,United Kingdom,40701,8046390
-129,2021-10-06,Sheffield,United Kingdom,39851,8006660
-130,2021-10-05,Sheffield,United Kingdom,33869,7967985
-131,2021-10-04,Sheffield,United Kingdom,35077,7934936
-132,2021-10-03,Sheffield,United Kingdom,30439,7900680
-133,2021-10-02,Sheffield,United Kingdom,30301,7871014
-134,2021-10-01,Sheffield,United Kingdom,35577,7841625
-135,2021-09-30,Sheffield,United Kingdom,36480,7807036
-136,2021-09-29,Sheffield,United Kingdom,36722,7771294
-137,2021-09-28,Sheffield,United Kingdom,34526,7736235
-138,2021-09-27,Sheffield,United Kingdom,37960,7701715
-139,2021-09-26,Sheffield,United Kingdom,32417,7664230
-140,2021-09-25,Sheffield,United Kingdom,32468,7632353
-141,2021-09-24,Sheffield,United Kingdom,35623,7601487
-142,2021-09-23,Sheffield,United Kingdom,36710,7565867
-143,2021-09-22,Sheffield,United Kingdom,34460,7530103
-144,2021-09-21,Sheffield,United Kingdom,31564,7496543
-145,2021-09-20,Sheffield,United Kingdom,36100,7465448
-146,2021-09-19,Sheffield,United Kingdom,29612,7429746
-147,2021-09-18,Sheffield,United Kingdom,30144,7400739
-148,2021-09-17,Sheffield,United Kingdom,32651,7371301
-149,2021-09-16,Sheffield,United Kingdom,26911,7339009
-150,2021-09-15,Sheffield,United Kingdom,30597,7312683
-151,2021-09-14,Sheffield,United Kingdom,26628,7282810
-152,2021-09-13,Sheffield,United Kingdom,30825,7256559
-153,2021-09-12,Sheffield,United Kingdom,29173,7226276
-154,2021-09-11,Sheffield,United Kingdom,29547,7197662
-155,2021-09-10,Sheffield,United Kingdom,37622,7168806
-156,2021-09-09,Sheffield,United Kingdom,38013,7132072
-157,2021-09-08,Sheffield,United Kingdom,38975,7094592
-158,2021-09-07,Sheffield,United Kingdom,37489,7056106
-159,2021-09-06,Sheffield,United Kingdom,41192,7018927
-160,2021-09-05,Sheffield,United Kingdom,37011,6978126
-161,2021-09-04,Sheffield,United Kingdom,37578,6941611
-162,2021-09-03,Sheffield,United Kingdom,42076,6904969
-163,2021-09-02,Sheffield,United Kingdom,38154,6862904
-164,2021-09-01,Sheffield,United Kingdom,35693,6825074
-165,2021-08-31,Sheffield,United Kingdom,32181,6789581
-166,2021-08-30,Sheffield,United Kingdom,26476,6757650
-167,2021-08-29,Sheffield,United Kingdom,33196,6731423
-168,2021-08-28,Sheffield,United Kingdom,32406,6698486
-169,2021-08-27,Sheffield,United Kingdom,38046,6666399
-170,2021-08-26,Sheffield,United Kingdom,38281,6628709
-171,2021-08-25,Sheffield,United Kingdom,35847,6590747
-172,2021-08-24,Sheffield,United Kingdom,30838,6555200
-173,2021-08-23,Sheffield,United Kingdom,31914,6524581
-174,2021-08-22,Sheffield,United Kingdom,32253,6492906
-175,2021-08-21,Sheffield,United Kingdom,32058,6460930
-176,2021-08-20,Sheffield,United Kingdom,37314,6429147
-177,2021-08-19,Sheffield,United Kingdom,36572,6392160
-178,2021-08-18,Sheffield,United Kingdom,33904,6355887
-179,2021-08-17,Sheffield,United Kingdom,26852,6322241
-180,2021-08-16,Sheffield,United Kingdom,28438,6295613
-181,2021-08-15,Sheffield,United Kingdom,26750,6267437
-182,2021-08-14,Sheffield,United Kingdom,29520,6241011
-183,2021-08-13,Sheffield,United Kingdom,32700,6211868
-184,2021-08-12,Sheffield,United Kingdom,33074,6179506
-185,2021-08-11,Sheffield,United Kingdom,29612,6146800
-186,2021-08-10,Sheffield,United Kingdom,23510,6117540
-187,2021-08-09,Sheffield,United Kingdom,25161,6094243
-188,2021-08-08,Sheffield,United Kingdom,27429,6069362
-189,2021-08-07,Sheffield,United Kingdom,28612,6042252
-190,2021-08-06,Sheffield,United Kingdom,31808,6014023
-191,2021-08-05,Sheffield,United Kingdom,30215,5982581
-192,2021-08-04,Sheffield,United Kingdom,29312,5952756
-193,2021-08-03,Sheffield,United Kingdom,21691,5923820
-194,2021-08-02,Sheffield,United Kingdom,21952,5902354
-195,2021-08-01,Sheffield,United Kingdom,24470,5880667
-196,2021-07-31,Sheffield,United Kingdom,26144,5856528
-197,2021-07-30,Sheffield,United Kingdom,29622,5830774
-198,2021-07-29,Sheffield,United Kingdom,31117,5801561
-199,2021-07-28,Sheffield,United Kingdom,27734,5770928
-200,2021-07-27,Sheffield,United Kingdom,23511,5745526
-201,2021-07-26,Sheffield,United Kingdom,24950,5722298
-202,2021-07-25,Sheffield,United Kingdom,29173,5697912
-203,2021-07-24,Sheffield,United Kingdom,31795,5669260
-204,2021-07-23,Sheffield,United Kingdom,36389,5637975
-205,2021-07-22,Sheffield,United Kingdom,39906,5602321
-206,2021-07-21,Sheffield,United Kingdom,44104,5563006
-207,2021-07-20,Sheffield,United Kingdom,46558,5519602
-208,2021-07-19,Sheffield,United Kingdom,39950,5473477
-209,2021-07-18,Sheffield,United Kingdom,48161,5433939
-210,2021-07-17,Sheffield,United Kingdom,54674,5386340
-211,2021-07-16,Sheffield,United Kingdom,51870,5332371
-212,2021-07-15,Sheffield,United Kingdom,48553,5281098
-213,2021-07-14,Sheffield,United Kingdom,42302,5233207
-214,2021-07-13,Sheffield,United Kingdom,36660,5191459
-215,2021-07-12,Sheffield,United Kingdom,34471,5155243
-216,2021-07-11,Sheffield,United Kingdom,31772,5121245
-217,2021-07-10,Sheffield,United Kingdom,32367,5089893
-218,2021-07-09,Sheffield,United Kingdom,35707,5058093
-219,2021-07-08,Sheffield,United Kingdom,32551,5022893
-220,2021-07-07,Sheffield,United Kingdom,32548,4990916
-221,2021-07-06,Sheffield,United Kingdom,28773,4958868
-222,2021-07-05,Sheffield,United Kingdom,27334,4930534
-223,2021-07-04,Sheffield,United Kingdom,24248,4903434
-224,2021-07-03,Sheffield,United Kingdom,24885,4879616
-225,2021-07-02,Sheffield,United Kingdom,27125,4855169
-226,2021-07-01,Sheffield,United Kingdom,27989,4828463
-227,2021-06-30,Sheffield,United Kingdom,26068,4800907
-228,2021-06-29,Sheffield,United Kingdom,20479,4775301
-229,2021-06-28,Sheffield,United Kingdom,22868,4755078
-230,2021-06-27,Sheffield,United Kingdom,14876,4732434
-231,2021-06-26,Sheffield,United Kingdom,18270,4717811
-232,2021-06-25,Sheffield,United Kingdom,15810,4699868
-233,2021-06-24,Sheffield,United Kingdom,16703,4684572
-234,2021-06-23,Sheffield,United Kingdom,16135,4667870
-235,2021-06-22,Sheffield,United Kingdom,11625,4651988
-236,2021-06-21,Sheffield,United Kingdom,10633,4640507
-237,2021-06-20,Sheffield,United Kingdom,9284,4630040
-238,2021-06-19,Sheffield,United Kingdom,10321,4620968
-239,2021-06-18,Sheffield,United Kingdom,10476,4610893
-240,2021-06-17,Sheffield,United Kingdom,11007,4600623
-241,2021-06-16,Sheffield,United Kingdom,9055,4589814
-242,2021-06-15,Sheffield,United Kingdom,7673,4581006
-243,2021-06-14,Sheffield,United Kingdom,7742,4573419
-244,2021-06-13,Sheffield,United Kingdom,7490,4565813
-245,2021-06-12,Sheffield,United Kingdom,7738,4558494
-246,2021-06-11,Sheffield,United Kingdom,8125,4550944
-247,2021-06-10,Sheffield,United Kingdom,7393,4542986
-248,2021-06-09,Sheffield,United Kingdom,7540,4535754
-249,2021-06-08,Sheffield,United Kingdom,6048,4528442
-250,2021-06-07,Sheffield,United Kingdom,5683,4522476
-251,2021-06-06,Sheffield,United Kingdom,5341,4516892
-252,2021-06-05,Sheffield,United Kingdom,5765,4511669
-253,2021-06-04,Sheffield,United Kingdom,6238,4506018
-254,2021-06-03,Sheffield,United Kingdom,5274,4499878
-255,2021-06-02,Sheffield,United Kingdom,4330,4494699
-256,2021-06-01,Sheffield,United Kingdom,3165,4490438
-257,2021-05-31,Sheffield,United Kingdom,3383,4487339
-258,2021-05-30,Sheffield,United Kingdom,3240,4484056
-259,2021-05-29,Sheffield,United Kingdom,3398,4480945
-260,2021-05-28,Sheffield,United Kingdom,4182,4477705
-261,2021-05-27,Sheffield,United Kingdom,3542,4473677
-262,2021-05-26,Sheffield,United Kingdom,3180,4470297
-263,2021-05-25,Sheffield,United Kingdom,2493,4467310
-264,2021-05-24,Sheffield,United Kingdom,2439,4464900
-265,2021-05-23,Sheffield,United Kingdom,2235,4462538
-266,2021-05-22,Sheffield,United Kingdom,2694,4460446
-267,2021-05-21,Sheffield,United Kingdom,2829,4457923
-268,2021-05-20,Sheffield,United Kingdom,2874,4455221
-269,2021-05-19,Sheffield,United Kingdom,2696,4452527
-270,2021-05-18,Sheffield,United Kingdom,2412,4450392
-271,2021-05-17,Sheffield,United Kingdom,1979,4452756
-272,2021-05-16,Sheffield,United Kingdom,1926,4450777
-273,2021-05-15,Sheffield,United Kingdom,2027,4448851
-274,2021-05-14,Sheffield,United Kingdom,2193,4446824
-275,2021-05-13,Sheffield,United Kingdom,2657,4444631
-276,2021-05-12,Sheffield,United Kingdom,2284,4441975
-277,2021-05-11,Sheffield,United Kingdom,2474,4439691
-278,2021-05-10,Sheffield,United Kingdom,2357,4437217
-279,2021-05-09,Sheffield,United Kingdom,1770,4434860
-280,2021-05-08,Sheffield,United Kingdom,2047,4433090
-281,2021-05-07,Sheffield,United Kingdom,2490,4431043
-282,2021-05-06,Sheffield,United Kingdom,2613,4428553
-283,2021-05-05,Sheffield,United Kingdom,2144,4425940
-284,2021-05-04,Sheffield,United Kingdom,1946,4423796
-285,2021-05-03,Sheffield,United Kingdom,1649,4421850
-286,2021-05-02,Sheffield,United Kingdom,1671,4420201
-287,2021-05-01,Sheffield,United Kingdom,1907,4418530
-288,2021-04-30,Sheffield,United Kingdom,2381,4416623
-289,2021-04-29,Sheffield,United Kingdom,2445,4414242
-290,2021-04-28,Sheffield,United Kingdom,2166,4411797
-291,2021-04-27,Sheffield,United Kingdom,2685,4409631
-292,2021-04-26,Sheffield,United Kingdom,2064,4406946
-293,2021-04-25,Sheffield,United Kingdom,1712,4404882
-294,2021-04-24,Sheffield,United Kingdom,2061,4403170
-295,2021-04-23,Sheffield,United Kingdom,2678,4401109
-296,2021-04-22,Sheffield,United Kingdom,2729,4398431
-297,2021-04-21,Sheffield,United Kingdom,2396,4395703
-298,2021-04-20,Sheffield,United Kingdom,2524,4393307
-299,2021-04-19,Sheffield,United Kingdom,2963,4390783
-300,2021-04-18,Sheffield,United Kingdom,1882,4387820
-301,2021-04-17,Sheffield,United Kingdom,2206,4385938
-302,2021-04-16,Sheffield,United Kingdom,2596,4383732
-303,2021-04-15,Sheffield,United Kingdom,2672,4380976
-304,2021-04-14,Sheffield,United Kingdom,2491,4378305
-305,2021-04-13,Sheffield,United Kingdom,2472,4375814
-306,2021-04-12,Sheffield,United Kingdom,3568,4373343
-307,2021-04-11,Sheffield,United Kingdom,1730,4369775
-308,2021-04-10,Sheffield,United Kingdom,2589,4368045
-309,2021-04-09,Sheffield,United Kingdom,3150,4365461
-310,2021-04-08,Sheffield,United Kingdom,3030,4370321
-311,2021-04-07,Sheffield,United Kingdom,2763,4367291
-312,2021-04-06,Sheffield,United Kingdom,2379,4364529
-313,2021-04-05,Sheffield,United Kingdom,2762,4362150
-314,2021-04-04,Sheffield,United Kingdom,2297,4359388
-315,2021-04-03,Sheffield,United Kingdom,3423,4357091
-316,2021-04-02,Sheffield,United Kingdom,3402,4353668
-317,2021-04-01,Sheffield,United Kingdom,4479,4350266
-318,2021-03-31,Sheffield,United Kingdom,4052,4345788
-319,2021-03-30,Sheffield,United Kingdom,4040,4341736
-320,2021-03-29,Sheffield,United Kingdom,4654,4337696
-321,2021-03-28,Sheffield,United Kingdom,3862,4333042
-322,2021-03-27,Sheffield,United Kingdom,4715,4329180
-323,2021-03-26,Sheffield,United Kingdom,6187,4325315
-324,2021-03-25,Sheffield,United Kingdom,6397,4319128
-325,2021-03-24,Sheffield,United Kingdom,5605,4312908
-326,2021-03-23,Sheffield,United Kingdom,5379,4307304
-327,2021-03-22,Sheffield,United Kingdom,5342,4301925
-328,2021-03-21,Sheffield,United Kingdom,5312,4296583
-329,2021-03-20,Sheffield,United Kingdom,5587,4291271
-330,2021-03-19,Sheffield,United Kingdom,4802,4285684
-331,2021-03-18,Sheffield,United Kingdom,6303,4280882
-332,2021-03-17,Sheffield,United Kingdom,5758,4274579
-333,2021-03-16,Sheffield,United Kingdom,5294,4268821
-334,2021-03-15,Sheffield,United Kingdom,5089,4263527
-335,2021-03-14,Sheffield,United Kingdom,4618,4258438
-336,2021-03-13,Sheffield,United Kingdom,5534,4253820
-337,2021-03-12,Sheffield,United Kingdom,6609,4248286
-338,2021-03-11,Sheffield,United Kingdom,6753,4241677
-339,2021-03-10,Sheffield,United Kingdom,5926,4234924
-340,2021-03-09,Sheffield,United Kingdom,5766,4228998
-341,2021-03-08,Sheffield,United Kingdom,4712,4223232
-342,2021-03-07,Sheffield,United Kingdom,5177,4218520
-343,2021-03-06,Sheffield,United Kingdom,6040,4213343
-344,2021-03-05,Sheffield,United Kingdom,5947,4207304
-345,2021-03-04,Sheffield,United Kingdom,6573,4201358
-346,2021-03-03,Sheffield,United Kingdom,6385,4194785
-347,2021-03-02,Sheffield,United Kingdom,6391,4188400
-348,2021-03-01,Sheffield,United Kingdom,5455,4182009
-349,2021-02-28,Sheffield,United Kingdom,6035,4176554
-350,2021-02-27,Sheffield,United Kingdom,7434,4170519
-351,2021-02-26,Sheffield,United Kingdom,8523,4163085
-352,2021-02-25,Sheffield,United Kingdom,9985,4154562
-353,2021-02-24,Sheffield,United Kingdom,9938,4144577
-354,2021-02-23,Sheffield,United Kingdom,8489,4134639
-355,2021-02-22,Sheffield,United Kingdom,10641,4126150
-356,2021-02-21,Sheffield,United Kingdom,9834,4115509
-357,2021-02-20,Sheffield,United Kingdom,10406,4105675
-358,2021-02-19,Sheffield,United Kingdom,12027,4095269
-359,2021-02-18,Sheffield,United Kingdom,12057,4083242
-360,2021-02-17,Sheffield,United Kingdom,12718,4071185
-361,2021-02-16,Sheffield,United Kingdom,10625,4058468
-362,2021-02-15,Sheffield,United Kingdom,9765,4047843
-363,2021-02-14,Sheffield,United Kingdom,10972,4038078
-364,2021-02-13,Sheffield,United Kingdom,13308,4027106
-365,2021-02-12,Sheffield,United Kingdom,15144,4013799
-366,2021-02-11,Sheffield,United Kingdom,13494,3998655
-367,2021-02-10,Sheffield,United Kingdom,13013,3985161
-368,2021-02-09,Sheffield,United Kingdom,12364,3972148
-369,2021-02-08,Sheffield,United Kingdom,14104,3959784
-370,2021-02-07,Sheffield,United Kingdom,15845,3945680
-371,2021-02-06,Sheffield,United Kingdom,18262,3929835
-372,2021-02-05,Sheffield,United Kingdom,19114,3911573
-373,2021-02-04,Sheffield,United Kingdom,20634,3892459
-374,2021-02-03,Sheffield,United Kingdom,19202,3871825
-375,2021-02-02,Sheffield,United Kingdom,16840,3852623
-376,2021-02-01,Sheffield,United Kingdom,18607,3835783
-377,2021-01-31,Sheffield,United Kingdom,21088,3817176
-378,2021-01-30,Sheffield,United Kingdom,23275,3796088
-379,2021-01-29,Sheffield,United Kingdom,29079,3772813
-380,2021-01-28,Sheffield,United Kingdom,28680,3743734
-381,2021-01-27,Sheffield,United Kingdom,25308,3715054
-382,2021-01-26,Sheffield,United Kingdom,20089,3689746
-383,2021-01-25,Sheffield,United Kingdom,22195,3669658
-384,2021-01-24,Sheffield,United Kingdom,30004,3647463
-385,2021-01-23,Sheffield,United Kingdom,33552,3617459
-386,2021-01-22,Sheffield,United Kingdom,40261,3583907
-387,2021-01-21,Sheffield,United Kingdom,37892,3543646
-388,2021-01-20,Sheffield,United Kingdom,38905,3505754
-389,2021-01-19,Sheffield,United Kingdom,33355,3466849
-390,2021-01-18,Sheffield,United Kingdom,37535,3433494
-391,2021-01-17,Sheffield,United Kingdom,38598,3395959
-392,2021-01-16,Sheffield,United Kingdom,41346,3357361
-393,2021-01-15,Sheffield,United Kingdom,55761,3316019
-394,2021-01-14,Sheffield,United Kingdom,48682,3260258
-395,2021-01-13,Sheffield,United Kingdom,47525,3211576
-396,2021-01-12,Sheffield,United Kingdom,45533,3164051
-397,2021-01-11,Sheffield,United Kingdom,46169,3118518
-398,2021-01-10,Sheffield,United Kingdom,54940,3072349
-399,2021-01-09,Sheffield,United Kingdom,59937,3017409
-400,2021-01-08,Sheffield,United Kingdom,68053,2957472
-401,2021-01-07,Sheffield,United Kingdom,52618,2889419
-402,2021-01-06,Sheffield,United Kingdom,62322,2836801
-403,2021-01-05,Sheffield,United Kingdom,60916,2774479
-404,2021-01-04,Sheffield,United Kingdom,58784,2713563
-405,2021-01-03,Sheffield,United Kingdom,54990,2654779
-406,2021-01-02,Sheffield,United Kingdom,57725,2599789
-407,2021-01-01,Sheffield,United Kingdom,53285,2542065
-408,2020-12-31,Sheffield,United Kingdom,55892,2488780
-409,2020-12-30,Sheffield,United Kingdom,50023,2432888
-410,2020-12-29,Sheffield,United Kingdom,53135,2382865
-411,2020-12-28,Sheffield,United Kingdom,41385,2329730
-412,2020-12-27,Sheffield,United Kingdom,30501,2288345
-413,2020-12-26,Sheffield,United Kingdom,35691,2257844
-414,2020-12-25,Sheffield,United Kingdom,32725,2222153
-415,2020-12-24,Sheffield,United Kingdom,39877,2189428
-416,2020-12-23,Sheffield,United Kingdom,39237,2149551
-417,2020-12-22,Sheffield,United Kingdom,36804,2110314
-418,2020-12-21,Sheffield,United Kingdom,33364,2073511
-419,2020-12-20,Sheffield,United Kingdom,35928,2040147
-420,2020-12-19,Sheffield,United Kingdom,27052,2004219
-421,2020-12-18,Sheffield,United Kingdom,28507,1977167
-422,2020-12-17,Sheffield,United Kingdom,35383,1948660
-423,2020-12-16,Sheffield,United Kingdom,25161,1913277
-424,2020-12-15,Sheffield,United Kingdom,18450,1888116
-425,2020-12-14,Sheffield,United Kingdom,20263,1869666
-426,2020-12-13,Sheffield,United Kingdom,18447,1849403
-427,2020-12-12,Sheffield,United Kingdom,21502,1830956
-428,2020-12-11,Sheffield,United Kingdom,21672,1809455
-429,2020-12-10,Sheffield,United Kingdom,20964,1787783
-430,2020-12-09,Sheffield,United Kingdom,16578,1766819
-431,2020-12-08,Sheffield,United Kingdom,12282,1750241
-432,2020-12-07,Sheffield,United Kingdom,14718,1737960
-433,2020-12-06,Sheffield,United Kingdom,17272,1723242
-434,2020-12-05,Sheffield,United Kingdom,15539,1705971
-435,2020-12-04,Sheffield,United Kingdom,16298,1690432
-436,2020-12-03,Sheffield,United Kingdom,14879,1674134
-437,2020-12-02,Sheffield,United Kingdom,16170,1659256
-438,2020-12-01,Sheffield,United Kingdom,13430,1643086
-439,2020-11-30,Sheffield,United Kingdom,12330,1629657
-440,2020-11-29,Sheffield,United Kingdom,12155,1617327
-441,2020-11-28,Sheffield,United Kingdom,15871,1605172
-442,2020-11-27,Sheffield,United Kingdom,16022,1589301
-443,2020-11-26,Sheffield,United Kingdom,17555,1574562
-444,2020-11-25,Sheffield,United Kingdom,18213,1557007
-445,2020-11-24,Sheffield,United Kingdom,11299,1538794
-446,2020-11-23,Sheffield,United Kingdom,15450,1527495
-447,2020-11-22,Sheffield,United Kingdom,18662,1512045
-448,2020-11-21,Sheffield,United Kingdom,19875,1493383
-449,2020-11-20,Sheffield,United Kingdom,20252,1473508
-450,2020-11-19,Sheffield,United Kingdom,22915,1453256
-451,2020-11-18,Sheffield,United Kingdom,19609,1430341
-452,2020-11-17,Sheffield,United Kingdom,20051,1410732
-453,2020-11-16,Sheffield,United Kingdom,21363,1390681
-454,2020-11-15,Sheffield,United Kingdom,24962,1369318
-455,2020-11-14,Sheffield,United Kingdom,26860,1344356
-456,2020-11-13,Sheffield,United Kingdom,27301,1317496
-457,2020-11-12,Sheffield,United Kingdom,33470,1290195
-458,2020-11-11,Sheffield,United Kingdom,22950,1256725
-459,2020-11-10,Sheffield,United Kingdom,20412,1233775
-460,2020-11-09,Sheffield,United Kingdom,21350,1213363
-461,2020-11-08,Sheffield,United Kingdom,20572,1192013
-462,2020-11-07,Sheffield,United Kingdom,24957,1171441
-463,2020-11-06,Sheffield,United Kingdom,23287,1146484
-464,2020-11-05,Sheffield,United Kingdom,24141,1123197
-465,2020-11-04,Sheffield,United Kingdom,25177,1099059
-466,2020-11-03,Sheffield,United Kingdom,20018,1073882
-467,2020-11-02,Sheffield,United Kingdom,18950,1053864
-468,2020-11-01,Sheffield,United Kingdom,23254,1034914
-469,2020-10-31,Sheffield,United Kingdom,21915,1011660
-470,2020-10-30,Sheffield,United Kingdom,24405,989745
-471,2020-10-29,Sheffield,United Kingdom,23065,965340
-472,2020-10-28,Sheffield,United Kingdom,24701,942275
-473,2020-10-27,Sheffield,United Kingdom,22885,917575
-474,2020-10-26,Sheffield,United Kingdom,20890,894690
-475,2020-10-25,Sheffield,United Kingdom,19790,873800
-476,2020-10-24,Sheffield,United Kingdom,23012,854010
-477,2020-10-23,Sheffield,United Kingdom,20530,830998
-478,2020-10-22,Sheffield,United Kingdom,21242,810467
-479,2020-10-21,Sheffield,United Kingdom,26688,789229
-480,2020-10-20,Sheffield,United Kingdom,21331,762542
-481,2020-10-19,Sheffield,United Kingdom,18804,741212
-482,2020-10-18,Sheffield,United Kingdom,16982,722409
-483,2020-10-17,Sheffield,United Kingdom,16171,705428
-484,2020-10-16,Sheffield,United Kingdom,15650,689257
-485,2020-10-15,Sheffield,United Kingdom,18980,673622
-486,2020-10-14,Sheffield,United Kingdom,19724,654644
-487,2020-10-13,Sheffield,United Kingdom,17234,634920
-488,2020-10-12,Sheffield,United Kingdom,13972,617688
-489,2020-10-11,Sheffield,United Kingdom,12872,603716
-490,2020-10-10,Sheffield,United Kingdom,15166,590844
-491,2020-10-09,Sheffield,United Kingdom,13864,575679
-492,2020-10-08,Sheffield,United Kingdom,17540,561815
-493,2020-10-07,Sheffield,United Kingdom,14162,544275
-494,2020-10-06,Sheffield,United Kingdom,14542,530113
-495,2020-10-05,Sheffield,United Kingdom,12594,515571
-496,2020-10-04,Sheffield,United Kingdom,22961,502978
-497,2020-10-03,Sheffield,United Kingdom,12872,480017
-498,2020-10-02,Sheffield,United Kingdom,6968,467146
-499,2020-10-01,Sheffield,United Kingdom,6914,460178
-500,2020-09-30,Sheffield,United Kingdom,7108,453264
-501,2020-09-29,Sheffield,United Kingdom,7143,446156
-502,2020-09-28,Sheffield,United Kingdom,4044,439013
-503,2020-09-27,Sheffield,United Kingdom,5693,434969
-504,2020-09-26,Sheffield,United Kingdom,6042,429277
-505,2020-09-25,Sheffield,United Kingdom,6874,423236
-506,2020-09-24,Sheffield,United Kingdom,6634,416363
-507,2020-09-23,Sheffield,United Kingdom,6178,409729
-508,2020-09-22,Sheffield,United Kingdom,4926,403551
-509,2020-09-21,Sheffield,United Kingdom,4368,398625
-510,2020-09-20,Sheffield,United Kingdom,3899,394257
-511,2020-09-19,Sheffield,United Kingdom,4422,390358
-512,2020-09-18,Sheffield,United Kingdom,4322,385936
-513,2020-09-17,Sheffield,United Kingdom,3395,381614
-514,2020-09-16,Sheffield,United Kingdom,3991,378219
-515,2020-09-15,Sheffield,United Kingdom,3105,374228
-516,2020-09-14,Sheffield,United Kingdom,2621,371125
-517,2020-09-13,Sheffield,United Kingdom,3330,368504
-518,2020-09-12,Sheffield,United Kingdom,3497,365174
-519,2020-09-11,Sheffield,United Kingdom,3539,361677
-520,2020-09-10,Sheffield,United Kingdom,2919,358138
-521,2020-09-09,Sheffield,United Kingdom,2659,355219
-522,2020-09-08,Sheffield,United Kingdom,2460,352560
-523,2020-09-07,Sheffield,United Kingdom,2948,350100
-524,2020-09-06,Sheffield,United Kingdom,2988,347152
-525,2020-09-05,Sheffield,United Kingdom,1813,344164
-526,2020-09-04,Sheffield,United Kingdom,1940,342351
-527,2020-09-03,Sheffield,United Kingdom,1735,340411
-528,2020-09-02,Sheffield,United Kingdom,1508,338676
-529,2020-09-01,Sheffield,United Kingdom,1295,337168
-530,2020-08-31,Sheffield,United Kingdom,1406,335873
-531,2020-08-30,Sheffield,United Kingdom,1715,334467
-532,2020-08-29,Sheffield,United Kingdom,1108,332752
-533,2020-08-28,Sheffield,United Kingdom,1276,331644
-534,2020-08-27,Sheffield,United Kingdom,1522,330368
-535,2020-08-26,Sheffield,United Kingdom,1048,328846
-536,2020-08-25,Sheffield,United Kingdom,1184,327798
-537,2020-08-24,Sheffield,United Kingdom,853,326614
-538,2020-08-23,Sheffield,United Kingdom,1160,325761
-539,2020-08-22,Sheffield,United Kingdom,1288,324601
-540,2020-08-21,Sheffield,United Kingdom,1033,323313
-541,2020-08-20,Sheffield,United Kingdom,1182,322280
-542,2020-08-19,Sheffield,United Kingdom,812,321098
-543,2020-08-18,Sheffield,United Kingdom,1089,320286
-544,2020-08-17,Sheffield,United Kingdom,713,319197
-545,2020-08-16,Sheffield,United Kingdom,1040,318484
-546,2020-08-15,Sheffield,United Kingdom,1077,317444
-547,2020-08-14,Sheffield,United Kingdom,1441,316367
-548,2020-08-13,Sheffield,United Kingdom,1129,314927
-549,2020-08-12,Sheffield,United Kingdom,1009,313798
-550,2020-08-11,Sheffield,United Kingdom,1148,312789
-551,2020-08-10,Sheffield,United Kingdom,740,311641
-552,2020-08-09,Sheffield,United Kingdom,1062,310825
-553,2020-08-08,Sheffield,United Kingdom,758,309763
-554,2020-08-07,Sheffield,United Kingdom,871,309005
-555,2020-08-06,Sheffield,United Kingdom,950,308134
-556,2020-08-05,Sheffield,United Kingdom,892,307184
-557,2020-08-04,Sheffield,United Kingdom,670,306293
-558,2020-08-03,Sheffield,United Kingdom,898,305623
-559,2020-08-02,Sheffield,United Kingdom,744,304685
-560,2020-08-01,Sheffield,United Kingdom,761,303942
-561,2020-07-31,Sheffield,United Kingdom,880,303181
-562,2020-07-30,Sheffield,United Kingdom,846,302301
-563,2020-07-29,Sheffield,United Kingdom,763,301455
-564,2020-07-28,Sheffield,United Kingdom,581,300692
-565,2020-07-27,Sheffield,United Kingdom,685,300111
-566,2020-07-26,Sheffield,United Kingdom,745,299426
-567,2020-07-25,Sheffield,United Kingdom,767,298681
-568,2020-07-24,Sheffield,United Kingdom,768,297914
-569,2020-07-23,Sheffield,United Kingdom,769,297146
-570,2020-07-22,Sheffield,United Kingdom,560,296377
-571,2020-07-21,Sheffield,United Kingdom,445,295817
-572,2020-07-20,Sheffield,United Kingdom,557,295372
-573,2020-07-19,Sheffield,United Kingdom,726,294792
-574,2020-07-18,Sheffield,United Kingdom,827,294066
-575,2020-07-17,Sheffield,United Kingdom,687,293239
-576,2020-07-16,Sheffield,United Kingdom,642,292552
-577,2020-07-15,Sheffield,United Kingdom,538,291911
-578,2020-07-14,Sheffield,United Kingdom,398,291373
-579,2020-07-13,Sheffield,United Kingdom,530,290133
-580,2020-07-12,Sheffield,United Kingdom,650,289603
-581,2020-07-11,Sheffield,United Kingdom,820,288953
-582,2020-07-10,Sheffield,United Kingdom,512,288133
-583,2020-07-09,Sheffield,United Kingdom,642,287621
-584,2020-07-08,Sheffield,United Kingdom,630,286979
-585,2020-07-07,Sheffield,United Kingdom,581,286349
-586,2020-07-06,Sheffield,United Kingdom,343,285768
-587,2020-07-05,Sheffield,United Kingdom,516,285416
-588,2020-07-04,Sheffield,United Kingdom,624,284900
-589,2020-07-03,Sheffield,United Kingdom,544,284276
-590,2020-07-02,Sheffield,United Kingdom,576,283757
-591,2020-07-01,Sheffield,United Kingdom,829,313483
-592,2020-06-30,Sheffield,United Kingdom,689,312654
-593,2020-06-29,Sheffield,United Kingdom,815,311965
-594,2020-06-28,Sheffield,United Kingdom,901,311151
-595,2020-06-27,Sheffield,United Kingdom,890,310250
-596,2020-06-26,Sheffield,United Kingdom,1006,309360
-597,2020-06-25,Sheffield,United Kingdom,1118,307980
-598,2020-06-24,Sheffield,United Kingdom,653,306862
-599,2020-06-23,Sheffield,United Kingdom,874,306210
-600,2020-06-22,Sheffield,United Kingdom,958,305289
-601,2020-06-21,Sheffield,United Kingdom,1221,304331
-602,2020-06-20,Sheffield,United Kingdom,1295,303110
-603,2020-06-19,Sheffield,United Kingdom,1346,301815
-604,2020-06-18,Sheffield,United Kingdom,1218,300469
-605,2020-06-17,Sheffield,United Kingdom,1115,299251
-606,2020-06-16,Sheffield,United Kingdom,1279,298136
-607,2020-06-15,Sheffield,United Kingdom,1056,296857
-608,2020-06-14,Sheffield,United Kingdom,1514,295889
-609,2020-06-13,Sheffield,United Kingdom,1425,294375
-610,2020-06-12,Sheffield,United Kingdom,1541,292950
-611,2020-06-11,Sheffield,United Kingdom,1266,291409
-612,2020-06-10,Sheffield,United Kingdom,1003,290143
-613,2020-06-09,Sheffield,United Kingdom,1387,289140
-614,2020-06-08,Sheffield,United Kingdom,1205,287399
-615,2020-06-07,Sheffield,United Kingdom,1326,286194
-616,2020-06-06,Sheffield,United Kingdom,1557,284868
-617,2020-06-05,Sheffield,United Kingdom,1650,283311
-618,2020-06-04,Sheffield,United Kingdom,1805,281661
-619,2020-06-03,Sheffield,United Kingdom,1871,279856
-620,2020-06-02,Sheffield,United Kingdom,1613,277985
-621,2020-06-01,Sheffield,United Kingdom,1570,276332
-622,2020-05-31,Sheffield,United Kingdom,1936,274762
-623,2020-05-30,Sheffield,United Kingdom,2445,272826
-624,2020-05-29,Sheffield,United Kingdom,2095,271222
-625,2020-05-28,Sheffield,United Kingdom,1887,269127
-626,2020-05-27,Sheffield,United Kingdom,2013,267240
-627,2020-05-26,Sheffield,United Kingdom,2004,265227
-628,2020-05-25,Sheffield,United Kingdom,1625,261184
-629,2020-05-24,Sheffield,United Kingdom,2409,259559
-630,2020-05-23,Sheffield,United Kingdom,2959,257154
-631,2020-05-22,Sheffield,United Kingdom,3287,254195
-632,2020-05-21,Sheffield,United Kingdom,2615,250908
-633,2020-05-20,Sheffield,United Kingdom,2472,248293
-634,2020-05-19,Sheffield,United Kingdom,2412,248818
-635,2020-05-18,Sheffield,United Kingdom,2684,246406
-636,2020-05-17,Sheffield,United Kingdom,3562,243723
-637,2020-05-16,Sheffield,United Kingdom,3451,240161
-638,2020-05-15,Sheffield,United Kingdom,3560,236711
-639,2020-05-14,Sheffield,United Kingdom,3446,233151
-640,2020-05-13,Sheffield,United Kingdom,3242,229705
-641,2020-05-12,Sheffield,United Kingdom,3403,226463
-642,2020-05-11,Sheffield,United Kingdom,3877,223060
-643,2020-05-10,Sheffield,United Kingdom,3923,219183
-644,2020-05-09,Sheffield,United Kingdom,3896,215260
-645,2020-05-08,Sheffield,United Kingdom,4649,211364
-646,2020-05-07,Sheffield,United Kingdom,5614,206715
-647,2020-05-06,Sheffield,United Kingdom,6111,201101
-648,2020-05-05,Sheffield,United Kingdom,4406,194990
-649,2020-05-04,Sheffield,United Kingdom,3985,190584
-650,2020-05-03,Sheffield,United Kingdom,4339,186599
-651,2020-05-02,Sheffield,United Kingdom,4806,182260
-652,2020-05-01,Sheffield,United Kingdom,6201,177454
-653,2020-04-30,Sheffield,United Kingdom,6032,171253
-654,2020-04-29,Sheffield,United Kingdom,4076,165221
-655,2020-04-28,Sheffield,United Kingdom,3996,161145
-656,2020-04-27,Sheffield,United Kingdom,4310,157149
-657,2020-04-26,Sheffield,United Kingdom,4463,152840
-658,2020-04-25,Sheffield,United Kingdom,4913,148377
-659,2020-04-24,Sheffield,United Kingdom,5386,143464
-660,2020-04-23,Sheffield,United Kingdom,4583,138078
-661,2020-04-22,Sheffield,United Kingdom,4451,133495
-662,2020-04-21,Sheffield,United Kingdom,4301,129044
-663,2020-04-20,Sheffield,United Kingdom,4676,124743
-664,2020-04-19,Sheffield,United Kingdom,5850,120067
-665,2020-04-18,Sheffield,United Kingdom,5526,114217
-666,2020-04-17,Sheffield,United Kingdom,5599,108692
-667,2020-04-16,Sheffield,United Kingdom,4618,103093
-668,2020-04-15,Sheffield,United Kingdom,4605,98476
-669,2020-04-14,Sheffield,United Kingdom,5252,93873
-670,2020-04-13,Sheffield,United Kingdom,4342,88621
-671,2020-04-12,Sheffield,United Kingdom,5288,84279
-672,2020-04-11,Sheffield,United Kingdom,5234,78991
-673,2020-04-10,Sheffield,United Kingdom,5706,73758
-674,2020-04-09,Sheffield,United Kingdom,4675,68052
-675,2020-04-08,Sheffield,United Kingdom,5865,63377
-676,2020-04-07,Sheffield,United Kingdom,3888,57512
-677,2020-04-06,Sheffield,United Kingdom,4143,53624
-678,2020-04-05,Sheffield,United Kingdom,6199,49481
-679,2020-04-04,Sheffield,United Kingdom,4000,43282
-680,2020-04-03,Sheffield,United Kingdom,4672,39282
-681,2020-04-02,Sheffield,United Kingdom,4522,34610
-682,2020-04-01,Sheffield,United Kingdom,4567,30088
-683,2020-03-31,Sheffield,United Kingdom,3250,25521
-684,2020-03-30,Sheffield,United Kingdom,2665,22271
-685,2020-03-29,Sheffield,United Kingdom,2502,19606
-686,2020-03-28,Sheffield,United Kingdom,2556,17104
-687,2020-03-27,Sheffield,United Kingdom,2890,14548
-688,2020-03-26,Sheffield,United Kingdom,2129,11658
-689,2020-03-25,Sheffield,United Kingdom,1452,9529
-690,2020-03-24,Sheffield,United Kingdom,1427,8077
-691,2020-03-23,Sheffield,United Kingdom,967,6650
-692,2020-03-22,Sheffield,United Kingdom,665,5683
-693,2020-03-21,Sheffield,United Kingdom,1035,5018
-694,2020-03-20,Sheffield,United Kingdom,714,3983
-695,2020-03-19,Sheffield,United Kingdom,643,3269
-696,2020-03-18,Sheffield,United Kingdom,676,2626
-697,2020-03-17,Sheffield,United Kingdom,407,1950
-698,2020-03-16,Sheffield,United Kingdom,152,1543
-699,2020-03-15,Sheffield,United Kingdom,330,1391
-700,2020-03-14,Sheffield,United Kingdom,264,1061
-701,2020-03-13,Sheffield,United Kingdom,207,797
-702,2020-03-12,Sheffield,United Kingdom,134,590
-703,2020-03-11,Sheffield,United Kingdom,83,456
-704,2020-03-10,Sheffield,United Kingdom,52,373
-705,2020-03-09,Sheffield,United Kingdom,50,321
-706,2020-03-08,Sheffield,United Kingdom,65,271
-707,2020-03-07,Sheffield,United Kingdom,46,206
-708,2020-03-06,Sheffield,United Kingdom,46,160
-709,2020-03-05,Sheffield,United Kingdom,29,114
-710,2020-03-04,Sheffield,United Kingdom,34,85
-711,2020-03-03,Sheffield,United Kingdom,11,51
-712,2020-03-02,Sheffield,United Kingdom,5,40
-713,2020-03-01,Sheffield,United Kingdom,12,35
-714,2020-02-29,Sheffield,United Kingdom,4,23
-715,2020-02-28,Sheffield,United Kingdom,6,19
-716,2020-02-27,Sheffield,United Kingdom,0,13
-717,2020-02-26,Sheffield,United Kingdom,0,13
-718,2020-02-25,Sheffield,United Kingdom,0,13
-719,2020-02-24,Sheffield,United Kingdom,4,13
-720,2020-02-23,Sheffield,United Kingdom,0,9
-721,2020-02-22,Sheffield,United Kingdom,0,9
-722,2020-02-21,Sheffield,United Kingdom,0,9
-723,2020-02-20,Sheffield,United Kingdom,0,9
-724,2020-02-19,Sheffield,United Kingdom,0,9
-725,2020-02-18,Sheffield,United Kingdom,0,9
-726,2020-02-17,Sheffield,United Kingdom,0,9
-727,2020-02-16,Sheffield,United Kingdom,0,9
-728,2020-02-15,Sheffield,United Kingdom,0,9
-729,2020-02-14,Sheffield,United Kingdom,0,9
-730,2020-02-13,Sheffield,United Kingdom,1,9
-731,2020-02-12,Sheffield,United Kingdom,0,8
-732,2020-02-11,Sheffield,United Kingdom,0,8
-733,2020-02-10,Sheffield,United Kingdom,4,8
-734,2020-02-09,Sheffield,United Kingdom,1,4
-735,2020-02-08,Sheffield,United Kingdom,0,3
-736,2020-02-07,Sheffield,United Kingdom,0,3
-737,2020-02-06,Sheffield,United Kingdom,1,3
-738,2020-02-05,Sheffield,United Kingdom,0,2
-739,2020-02-04,Sheffield,United Kingdom,0,2
-740,2020-02-03,Sheffield,United Kingdom,0,2
-741,2020-02-02,Sheffield,United Kingdom,0,2
-742,2020-02-01,Sheffield,United Kingdom,0,2
-743,2020-01-31,Sheffield,United Kingdom,2,2
+,Date,CityName,DailyCasesBySpecimenDate,DailyCasesChangeBySpecimenDate,CummulativeCasesBySpecimenDate,DailyCasesByPublishDate
+0,2022-03-02,Sheffield,,,,221.0
+1,2022-03-01,Sheffield,117.0,117.0,165748.0,185.0
+2,2022-02-28,Sheffield,171.0,66.0,165631.0,419.0
+3,2022-02-27,Sheffield,160.0,5.0,165460.0,0.0
+4,2022-02-26,Sheffield,105.0,1.0,165300.0,0.0
+5,2022-02-25,Sheffield,130.0,2.0,165195.0,167.0
+6,2022-02-24,Sheffield,146.0,1.0,165065.0,211.0
+7,2022-02-23,Sheffield,189.0,0.0,164919.0,212.0
+8,2022-02-22,Sheffield,208.0,0.0,164730.0,210.0
+9,2022-02-21,Sheffield,244.0,0.0,164522.0,203.0
+10,2022-02-20,Sheffield,190.0,0.0,164278.0,238.0
+11,2022-02-19,Sheffield,188.0,0.0,164088.0,267.0
+12,2022-02-18,Sheffield,238.0,0.0,163900.0,305.0
+13,2022-02-17,Sheffield,303.0,0.0,163662.0,289.0
+14,2022-02-16,Sheffield,293.0,0.0,163359.0,296.0
+15,2022-02-15,Sheffield,316.0,0.0,163066.0,250.0
+16,2022-02-14,Sheffield,284.0,0.0,162750.0,242.0
+17,2022-02-13,Sheffield,247.0,0.0,162466.0,240.0
+18,2022-02-12,Sheffield,213.0,0.0,162219.0,303.0
+19,2022-02-11,Sheffield,275.0,0.0,162006.0,421.0
+20,2022-02-10,Sheffield,369.0,0.0,161731.0,427.0
+21,2022-02-09,Sheffield,413.0,0.0,161362.0,451.0
+22,2022-02-08,Sheffield,450.0,0.0,160949.0,414.0
+23,2022-02-07,Sheffield,455.0,0.0,160499.0,330.0
+24,2022-02-06,Sheffield,370.0,0.0,160044.0,435.0
+25,2022-02-05,Sheffield,316.0,0.0,159674.0,488.0
+26,2022-02-04,Sheffield,441.0,0.0,159358.0,576.0
+27,2022-02-03,Sheffield,533.0,0.0,158917.0,615.0
+28,2022-02-02,Sheffield,629.0,0.0,158384.0,660.0
+29,2022-02-01,Sheffield,608.0,0.0,157755.0,807.0
+30,2022-01-31,Sheffield,744.0,0.0,157147.0,9807.0
+31,2022-01-30,Sheffield,584.0,0.0,156403.0,518.0
+32,2022-01-29,Sheffield,529.0,0.0,155819.0,607.0
+33,2022-01-28,Sheffield,610.0,0.0,155290.0,728.0
+34,2022-01-27,Sheffield,796.0,0.0,154680.0,810.0
+35,2022-01-26,Sheffield,896.0,0.0,153884.0,837.0
+36,2022-01-25,Sheffield,893.0,0.0,152988.0,797.0
+37,2022-01-24,Sheffield,1070.0,0.0,152095.0,715.0
+38,2022-01-23,Sheffield,901.0,0.0,151025.0,680.0
+39,2022-01-22,Sheffield,696.0,0.0,150124.0,790.0
+40,2022-01-21,Sheffield,829.0,0.0,149428.0,890.0
+41,2022-01-20,Sheffield,924.0,0.0,148599.0,1115.0
+42,2022-01-19,Sheffield,1087.0,0.0,147675.0,952.0
+43,2022-01-18,Sheffield,1138.0,0.0,146588.0,888.0
+44,2022-01-17,Sheffield,1250.0,0.0,145450.0,771.0
+45,2022-01-16,Sheffield,917.0,0.0,144200.0,713.0
+46,2022-01-15,Sheffield,728.0,0.0,143283.0,855.0
+47,2022-01-14,Sheffield,823.0,0.0,142555.0,1189.0
+48,2022-01-13,Sheffield,1012.0,0.0,141732.0,965.0
+49,2022-01-12,Sheffield,1072.0,0.0,140720.0,1363.0
+50,2022-01-11,Sheffield,1190.0,0.0,139648.0,1594.0
+51,2022-01-10,Sheffield,1416.0,0.0,138458.0,1733.0
+52,2022-01-09,Sheffield,1020.0,0.0,137042.0,995.0
+53,2022-01-08,Sheffield,924.0,0.0,136022.0,1217.0
+54,2022-01-07,Sheffield,1212.0,0.0,135098.0,1745.0
+55,2022-01-06,Sheffield,1770.0,0.0,133886.0,1691.0
+56,2022-01-05,Sheffield,2229.0,0.0,132116.0,1689.0
+57,2022-01-04,Sheffield,2594.0,0.0,129887.0,1521.0
+58,2022-01-03,Sheffield,2264.0,0.0,127293.0,1548.0
+59,2022-01-02,Sheffield,1768.0,0.0,125029.0,978.0
+60,2022-01-01,Sheffield,1216.0,0.0,123261.0,1598.0
+61,2021-12-31,Sheffield,1781.0,0.0,122045.0,2351.0
+62,2021-12-30,Sheffield,2284.0,0.0,120264.0,1659.0
+63,2021-12-29,Sheffield,2392.0,0.0,117980.0,1746.0
+64,2021-12-28,Sheffield,1980.0,0.0,115588.0,1080.0
+65,2021-12-27,Sheffield,1804.0,0.0,113608.0,1089.0
+66,2021-12-26,Sheffield,1104.0,0.0,111804.0,760.0
+67,2021-12-25,Sheffield,549.0,0.0,110700.0,1260.0
+68,2021-12-24,Sheffield,1186.0,0.0,110151.0,900.0
+69,2021-12-23,Sheffield,1288.0,0.0,108965.0,875.0
+70,2021-12-22,Sheffield,1288.0,0.0,107677.0,557.0
+71,2021-12-21,Sheffield,1133.0,0.0,106389.0,608.0
+72,2021-12-20,Sheffield,945.0,0.0,105256.0,645.0
+73,2021-12-19,Sheffield,672.0,0.0,104311.0,500.0
+74,2021-12-18,Sheffield,674.0,0.0,103639.0,596.0
+75,2021-12-17,Sheffield,680.0,0.0,102965.0,618.0
+76,2021-12-16,Sheffield,775.0,0.0,102285.0,575.0
+77,2021-12-15,Sheffield,837.0,0.0,101510.0,489.0
+78,2021-12-14,Sheffield,716.0,0.0,100673.0,293.0
+79,2021-12-13,Sheffield,518.0,0.0,99957.0,247.0
+80,2021-12-12,Sheffield,269.0,0.0,99439.0,223.0
+81,2021-12-11,Sheffield,258.0,0.0,99170.0,249.0
+82,2021-12-10,Sheffield,255.0,0.0,98912.0,272.0
+83,2021-12-09,Sheffield,266.0,0.0,98657.0,292.0
+84,2021-12-08,Sheffield,294.0,0.0,98391.0,260.0
+85,2021-12-07,Sheffield,279.0,0.0,98097.0,239.0
+86,2021-12-06,Sheffield,342.0,0.0,97818.0,355.0
+87,2021-12-05,Sheffield,220.0,0.0,97476.0,389.0
+88,2021-12-04,Sheffield,202.0,0.0,97256.0,139.0
+89,2021-12-03,Sheffield,218.0,0.0,97054.0,213.0
+90,2021-12-02,Sheffield,291.0,0.0,96836.0,229.0
+91,2021-12-01,Sheffield,317.0,0.0,96545.0,226.0
+92,2021-11-30,Sheffield,310.0,0.0,96228.0,198.0
+93,2021-11-29,Sheffield,275.0,0.0,95918.0,193.0
+94,2021-11-28,Sheffield,209.0,0.0,95643.0,218.0
+95,2021-11-27,Sheffield,138.0,0.0,95434.0,246.0
+96,2021-11-26,Sheffield,233.0,0.0,95296.0,272.0
+97,2021-11-25,Sheffield,239.0,0.0,95063.0,361.0
+98,2021-11-24,Sheffield,274.0,0.0,94824.0,152.0
+99,2021-11-23,Sheffield,274.0,0.0,94550.0,271.0
+100,2021-11-22,Sheffield,303.0,0.0,94276.0,221.0
+101,2021-11-21,Sheffield,217.0,0.0,93973.0,206.0
+102,2021-11-20,Sheffield,197.0,0.0,93756.0,320.0
+103,2021-11-19,Sheffield,230.0,0.0,93559.0,234.0
+104,2021-11-18,Sheffield,292.0,0.0,93329.0,300.0
+105,2021-11-17,Sheffield,285.0,0.0,93037.0,278.0
+106,2021-11-16,Sheffield,321.0,0.0,92752.0,274.0
+107,2021-11-15,Sheffield,324.0,0.0,92431.0,249.0
+108,2021-11-14,Sheffield,261.0,0.0,92107.0,196.0
+109,2021-11-13,Sheffield,196.0,0.0,91846.0,275.0
+110,2021-11-12,Sheffield,276.0,0.0,91650.0,279.0
+111,2021-11-11,Sheffield,253.0,0.0,91374.0,289.0
+112,2021-11-10,Sheffield,298.0,0.0,91121.0,275.0
+113,2021-11-09,Sheffield,272.0,0.0,90823.0,221.0
+114,2021-11-08,Sheffield,288.0,0.0,90551.0,219.0
+115,2021-11-07,Sheffield,224.0,0.0,90263.0,214.0
+116,2021-11-06,Sheffield,200.0,0.0,90039.0,250.0
+117,2021-11-05,Sheffield,219.0,0.0,89839.0,282.0
+118,2021-11-04,Sheffield,267.0,0.0,89620.0,291.0
+119,2021-11-03,Sheffield,289.0,0.0,89353.0,303.0
+120,2021-11-02,Sheffield,290.0,0.0,89064.0,241.0
+121,2021-11-01,Sheffield,315.0,0.0,88774.0,295.0
+122,2021-10-31,Sheffield,264.0,0.0,88459.0,303.0
+123,2021-10-30,Sheffield,257.0,0.0,88195.0,332.0
+124,2021-10-29,Sheffield,341.0,0.0,87938.0,447.0
+125,2021-10-28,Sheffield,341.0,0.0,87597.0,271.0
+126,2021-10-27,Sheffield,409.0,0.0,87256.0,342.0
+127,2021-10-26,Sheffield,339.0,0.0,86847.0,292.0
+128,2021-10-25,Sheffield,359.0,0.0,86508.0,313.0
+129,2021-10-24,Sheffield,290.0,0.0,86149.0,268.0
+130,2021-10-23,Sheffield,260.0,0.0,85859.0,309.0
+131,2021-10-22,Sheffield,316.0,0.0,85599.0,400.0
+132,2021-10-21,Sheffield,308.0,0.0,85283.0,361.0
+133,2021-10-20,Sheffield,379.0,0.0,84975.0,415.0
+134,2021-10-19,Sheffield,407.0,0.0,84596.0,317.0
+135,2021-10-18,Sheffield,444.0,0.0,84189.0,360.0
+136,2021-10-17,Sheffield,324.0,0.0,83745.0,336.0
+137,2021-10-16,Sheffield,289.0,0.0,83421.0,326.0
+138,2021-10-15,Sheffield,346.0,0.0,83132.0,338.0
+139,2021-10-14,Sheffield,357.0,0.0,82786.0,417.0
+140,2021-10-13,Sheffield,383.0,0.0,82429.0,401.0
+141,2021-10-12,Sheffield,389.0,0.0,82046.0,301.0
+142,2021-10-11,Sheffield,457.0,0.0,81657.0,320.0
+143,2021-10-10,Sheffield,300.0,0.0,81200.0,260.0
+144,2021-10-09,Sheffield,281.0,0.0,80900.0,308.0
+145,2021-10-08,Sheffield,279.0,0.0,80619.0,306.0
+146,2021-10-07,Sheffield,321.0,0.0,80340.0,319.0
+147,2021-10-06,Sheffield,320.0,0.0,80019.0,383.0
+148,2021-10-05,Sheffield,355.0,0.0,79699.0,253.0
+149,2021-10-04,Sheffield,368.0,0.0,79344.0,232.0
+150,2021-10-03,Sheffield,251.0,0.0,78976.0,213.0
+151,2021-10-02,Sheffield,219.0,0.0,78725.0,262.0
+152,2021-10-01,Sheffield,233.0,0.0,78506.0,330.0
+153,2021-09-30,Sheffield,242.0,0.0,78273.0,333.0
+154,2021-09-29,Sheffield,317.0,0.0,78031.0,270.0
+155,2021-09-28,Sheffield,319.0,0.0,77714.0,282.0
+156,2021-09-27,Sheffield,335.0,0.0,77395.0,270.0
+157,2021-09-26,Sheffield,254.0,0.0,77060.0,252.0
+158,2021-09-25,Sheffield,248.0,0.0,76806.0,262.0
+159,2021-09-24,Sheffield,251.0,0.0,76558.0,301.0
+160,2021-09-23,Sheffield,289.0,0.0,76307.0,313.0
+161,2021-09-22,Sheffield,329.0,0.0,76018.0,289.0
+162,2021-09-21,Sheffield,303.0,0.0,75689.0,223.0
+163,2021-09-20,Sheffield,297.0,0.0,75386.0,257.0
+164,2021-09-19,Sheffield,244.0,0.0,75089.0,240.0
+165,2021-09-18,Sheffield,218.0,0.0,74845.0,244.0
+166,2021-09-17,Sheffield,233.0,0.0,74627.0,252.0
+167,2021-09-16,Sheffield,248.0,0.0,74394.0,205.0
+168,2021-09-15,Sheffield,247.0,0.0,74146.0,235.0
+169,2021-09-14,Sheffield,212.0,0.0,73899.0,249.0
+170,2021-09-13,Sheffield,290.0,0.0,73687.0,220.0
+171,2021-09-12,Sheffield,205.0,0.0,73397.0,241.0
+172,2021-09-11,Sheffield,187.0,0.0,73192.0,259.0
+173,2021-09-10,Sheffield,253.0,0.0,73005.0,258.0
+174,2021-09-09,Sheffield,274.0,0.0,72752.0,288.0
+175,2021-09-08,Sheffield,283.0,0.0,72478.0,322.0
+176,2021-09-07,Sheffield,312.0,0.0,72195.0,246.0
+177,2021-09-06,Sheffield,358.0,0.0,71883.0,350.0
+178,2021-09-05,Sheffield,215.0,0.0,71525.0,205.0
+179,2021-09-04,Sheffield,260.0,0.0,71310.0,265.0
+180,2021-09-03,Sheffield,313.0,0.0,71050.0,322.0
+181,2021-09-02,Sheffield,284.0,0.0,70737.0,340.0
+182,2021-09-01,Sheffield,329.0,0.0,70453.0,288.0
+183,2021-08-31,Sheffield,342.0,0.0,70124.0,246.0
+184,2021-08-30,Sheffield,294.0,0.0,69782.0,239.0
+185,2021-08-29,Sheffield,264.0,0.0,69488.0,258.0
+186,2021-08-28,Sheffield,239.0,0.0,69224.0,236.0
+187,2021-08-27,Sheffield,255.0,0.0,68985.0,268.0
+188,2021-08-26,Sheffield,268.0,0.0,68730.0,328.0
+189,2021-08-25,Sheffield,258.0,0.0,68462.0,322.0
+190,2021-08-24,Sheffield,315.0,0.0,68204.0,194.0
+191,2021-08-23,Sheffield,342.0,0.0,67889.0,270.0
+192,2021-08-22,Sheffield,200.0,0.0,67547.0,258.0
+193,2021-08-21,Sheffield,260.0,0.0,67347.0,261.0
+194,2021-08-20,Sheffield,250.0,0.0,67087.0,271.0
+195,2021-08-19,Sheffield,264.0,0.0,66837.0,264.0
+196,2021-08-18,Sheffield,297.0,0.0,66573.0,285.0
+197,2021-08-17,Sheffield,292.0,0.0,66276.0,242.0
+198,2021-08-16,Sheffield,297.0,0.0,65984.0,286.0
+199,2021-08-15,Sheffield,247.0,0.0,65687.0,305.0
+200,2021-08-14,Sheffield,251.0,0.0,65440.0,305.0
+201,2021-08-13,Sheffield,282.0,0.0,65189.0,324.0
+202,2021-08-12,Sheffield,349.0,0.0,64907.0,312.0
+203,2021-08-11,Sheffield,353.0,0.0,64558.0,359.0
+204,2021-08-10,Sheffield,351.0,0.0,64205.0,307.0
+205,2021-08-09,Sheffield,376.0,0.0,63854.0,306.0
+206,2021-08-08,Sheffield,285.0,0.0,63478.0,392.0
+207,2021-08-07,Sheffield,302.0,0.0,63193.0,388.0
+208,2021-08-06,Sheffield,357.0,0.0,62891.0,415.0
+209,2021-08-05,Sheffield,408.0,0.0,62534.0,432.0
+210,2021-08-04,Sheffield,463.0,0.0,62126.0,420.0
+211,2021-08-03,Sheffield,435.0,0.0,61663.0,298.0
+212,2021-08-02,Sheffield,437.0,0.0,61228.0,424.0
+213,2021-08-01,Sheffield,331.0,0.0,60791.0,411.0
+214,2021-07-31,Sheffield,389.0,0.0,60460.0,456.0
+215,2021-07-30,Sheffield,419.0,0.0,60071.0,432.0
+216,2021-07-29,Sheffield,507.0,0.0,59652.0,427.0
+217,2021-07-28,Sheffield,480.0,0.0,59145.0,437.0
+218,2021-07-27,Sheffield,481.0,0.0,58665.0,265.0
+219,2021-07-26,Sheffield,391.0,0.0,58184.0,276.0
+220,2021-07-25,Sheffield,263.0,0.0,57793.0,334.0
+221,2021-07-24,Sheffield,285.0,0.0,57530.0,436.0
+222,2021-07-23,Sheffield,311.0,0.0,57245.0,378.0
+223,2021-07-22,Sheffield,346.0,0.0,56934.0,439.0
+224,2021-07-21,Sheffield,401.0,0.0,56588.0,453.0
+225,2021-07-20,Sheffield,400.0,0.0,56187.0,389.0
+226,2021-07-19,Sheffield,462.0,0.0,55787.0,350.0
+227,2021-07-18,Sheffield,372.0,0.0,55325.0,510.0
+228,2021-07-17,Sheffield,397.0,0.0,54953.0,599.0
+229,2021-07-16,Sheffield,600.0,0.0,54556.0,542.0
+230,2021-07-15,Sheffield,671.0,0.0,53956.0,562.0
+231,2021-07-14,Sheffield,587.0,0.0,53285.0,422.0
+232,2021-07-13,Sheffield,540.0,0.0,52698.0,358.0
+233,2021-07-12,Sheffield,440.0,0.0,52158.0,310.0
+234,2021-07-11,Sheffield,315.0,0.0,51718.0,311.0
+235,2021-07-10,Sheffield,290.0,0.0,51403.0,316.0
+236,2021-07-09,Sheffield,322.0,0.0,51113.0,301.0
+237,2021-07-08,Sheffield,304.0,0.0,50791.0,334.0
+238,2021-07-07,Sheffield,368.0,0.0,50487.0,304.0
+239,2021-07-06,Sheffield,344.0,0.0,50119.0,251.0
+240,2021-07-05,Sheffield,327.0,0.0,49775.0,262.0
+241,2021-07-04,Sheffield,249.0,0.0,49448.0,187.0
+242,2021-07-03,Sheffield,218.0,0.0,49199.0,264.0
+243,2021-07-02,Sheffield,251.0,0.0,48981.0,249.0
+244,2021-07-01,Sheffield,266.0,0.0,48730.0,230.0
+245,2021-06-30,Sheffield,262.0,0.0,48464.0,211.0
+246,2021-06-29,Sheffield,271.0,0.0,48202.0,185.0
+247,2021-06-28,Sheffield,234.0,0.0,47931.0,187.0
+248,2021-06-27,Sheffield,173.0,0.0,47697.0,139.0
+249,2021-06-26,Sheffield,155.0,0.0,47524.0,158.0
+250,2021-06-25,Sheffield,164.0,0.0,47369.0,141.0
+251,2021-06-24,Sheffield,181.0,0.0,47205.0,117.0
+252,2021-06-23,Sheffield,153.0,0.0,47024.0,109.0
+253,2021-06-22,Sheffield,122.0,0.0,46871.0,76.0
+254,2021-06-21,Sheffield,98.0,0.0,46749.0,70.0
+255,2021-06-20,Sheffield,73.0,0.0,46651.0,61.0
+256,2021-06-19,Sheffield,58.0,0.0,46578.0,64.0
+257,2021-06-18,Sheffield,77.0,0.0,46520.0,68.0
+258,2021-06-17,Sheffield,73.0,0.0,46443.0,68.0
+259,2021-06-16,Sheffield,72.0,0.0,46370.0,53.0
+260,2021-06-15,Sheffield,61.0,0.0,46298.0,47.0
+261,2021-06-14,Sheffield,65.0,0.0,46237.0,38.0
+262,2021-06-13,Sheffield,39.0,0.0,46172.0,40.0
+263,2021-06-12,Sheffield,32.0,0.0,46133.0,45.0
+264,2021-06-11,Sheffield,43.0,0.0,46101.0,33.0
+265,2021-06-10,Sheffield,43.0,0.0,46058.0,27.0
+266,2021-06-09,Sheffield,36.0,0.0,46015.0,39.0
+267,2021-06-08,Sheffield,30.0,0.0,45979.0,38.0
+268,2021-06-07,Sheffield,44.0,0.0,45949.0,26.0
+269,2021-06-06,Sheffield,32.0,0.0,45905.0,36.0
+270,2021-06-05,Sheffield,15.0,0.0,45873.0,23.0
+271,2021-06-04,Sheffield,35.0,0.0,45858.0,21.0
+272,2021-06-03,Sheffield,29.0,0.0,45823.0,19.0
+273,2021-06-02,Sheffield,22.0,0.0,45794.0,21.0
+274,2021-06-01,Sheffield,28.0,0.0,45772.0,14.0
+275,2021-05-31,Sheffield,19.0,0.0,45744.0,15.0
+276,2021-05-30,Sheffield,17.0,0.0,45725.0,27.0
+277,2021-05-29,Sheffield,14.0,0.0,45708.0,11.0
+278,2021-05-28,Sheffield,26.0,0.0,45694.0,25.0
+279,2021-05-27,Sheffield,23.0,0.0,45668.0,20.0
+280,2021-05-26,Sheffield,21.0,0.0,45645.0,31.0
+281,2021-05-25,Sheffield,27.0,0.0,45624.0,22.0
+282,2021-05-24,Sheffield,23.0,0.0,45597.0,34.0
+283,2021-05-23,Sheffield,36.0,0.0,45574.0,29.0
+284,2021-05-22,Sheffield,33.0,0.0,45538.0,26.0
+285,2021-05-21,Sheffield,26.0,0.0,45505.0,34.0
+286,2021-05-20,Sheffield,22.0,0.0,45479.0,24.0
+287,2021-05-19,Sheffield,28.0,0.0,45457.0,16.0
+288,2021-05-18,Sheffield,35.0,0.0,45429.0,0.0
+289,2021-05-17,Sheffield,27.0,0.0,45394.0,34.0
+290,2021-05-16,Sheffield,31.0,0.0,45367.0,20.0
+291,2021-05-15,Sheffield,18.0,0.0,45336.0,38.0
+292,2021-05-14,Sheffield,21.0,0.0,45318.0,46.0
+293,2021-05-13,Sheffield,35.0,0.0,45297.0,42.0
+294,2021-05-12,Sheffield,44.0,0.0,45262.0,42.0
+295,2021-05-11,Sheffield,42.0,0.0,45218.0,38.0
+296,2021-05-10,Sheffield,61.0,0.0,45176.0,44.0
+297,2021-05-09,Sheffield,33.0,0.0,45115.0,44.0
+298,2021-05-08,Sheffield,38.0,0.0,45082.0,32.0
+299,2021-05-07,Sheffield,43.0,0.0,45044.0,47.0
+300,2021-05-06,Sheffield,33.0,0.0,45001.0,56.0
+301,2021-05-05,Sheffield,56.0,0.0,44968.0,28.0
+302,2021-05-04,Sheffield,40.0,0.0,44912.0,35.0
+303,2021-05-03,Sheffield,35.0,0.0,44872.0,34.0
+304,2021-05-02,Sheffield,32.0,0.0,44837.0,33.0
+305,2021-05-01,Sheffield,29.0,0.0,44805.0,54.0
+306,2021-04-30,Sheffield,45.0,0.0,44776.0,54.0
+307,2021-04-29,Sheffield,48.0,0.0,44731.0,36.0
+308,2021-04-28,Sheffield,51.0,0.0,44683.0,31.0
+309,2021-04-27,Sheffield,43.0,0.0,44632.0,38.0
+310,2021-04-26,Sheffield,40.0,0.0,44589.0,25.0
+311,2021-04-25,Sheffield,29.0,0.0,44549.0,38.0
+312,2021-04-24,Sheffield,28.0,0.0,44520.0,29.0
+313,2021-04-23,Sheffield,31.0,0.0,44492.0,42.0
+314,2021-04-22,Sheffield,37.0,0.0,44461.0,45.0
+315,2021-04-21,Sheffield,44.0,0.0,44424.0,39.0
+316,2021-04-20,Sheffield,35.0,0.0,44380.0,28.0
+317,2021-04-19,Sheffield,47.0,0.0,44345.0,61.0
+318,2021-04-18,Sheffield,44.0,0.0,44298.0,37.0
+319,2021-04-17,Sheffield,25.0,0.0,44254.0,29.0
+320,2021-04-16,Sheffield,53.0,0.0,44229.0,46.0
+321,2021-04-15,Sheffield,44.0,0.0,44176.0,44.0
+322,2021-04-14,Sheffield,30.0,0.0,44132.0,45.0
+323,2021-04-13,Sheffield,44.0,0.0,44102.0,45.0
+324,2021-04-12,Sheffield,49.0,0.0,44058.0,50.0
+325,2021-04-11,Sheffield,46.0,0.0,44009.0,54.0
+326,2021-04-10,Sheffield,45.0,0.0,43963.0,50.0
+327,2021-04-09,Sheffield,50.0,0.0,43918.0,10.0
+328,2021-04-08,Sheffield,58.0,0.0,43868.0,64.0
+329,2021-04-07,Sheffield,70.0,0.0,43810.0,50.0
+330,2021-04-06,Sheffield,78.0,0.0,43740.0,46.0
+331,2021-04-05,Sheffield,58.0,0.0,43662.0,68.0
+332,2021-04-04,Sheffield,50.0,0.0,43604.0,46.0
+333,2021-04-03,Sheffield,65.0,0.0,43554.0,82.0
+334,2021-04-02,Sheffield,62.0,0.0,43489.0,78.0
+335,2021-04-01,Sheffield,82.0,0.0,43427.0,99.0
+336,2021-03-31,Sheffield,84.0,0.0,43345.0,60.0
+337,2021-03-30,Sheffield,79.0,0.0,43261.0,87.0
+338,2021-03-29,Sheffield,70.0,0.0,43182.0,116.0
+339,2021-03-28,Sheffield,117.0,0.0,43112.0,74.0
+340,2021-03-27,Sheffield,87.0,0.0,42995.0,90.0
+341,2021-03-26,Sheffield,82.0,0.0,42908.0,113.0
+342,2021-03-25,Sheffield,117.0,0.0,42826.0,123.0
+343,2021-03-24,Sheffield,101.0,0.0,42709.0,106.0
+344,2021-03-23,Sheffield,127.0,0.0,42608.0,100.0
+345,2021-03-22,Sheffield,129.0,0.0,42481.0,125.0
+346,2021-03-21,Sheffield,110.0,0.0,42352.0,94.0
+347,2021-03-20,Sheffield,101.0,0.0,42242.0,107.0
+348,2021-03-19,Sheffield,103.0,0.0,42141.0,87.0
+349,2021-03-18,Sheffield,98.0,0.0,42038.0,115.0
+350,2021-03-17,Sheffield,125.0,0.0,41940.0,105.0
+351,2021-03-16,Sheffield,98.0,0.0,41815.0,86.0
+352,2021-03-15,Sheffield,121.0,0.0,41717.0,73.0
+353,2021-03-14,Sheffield,71.0,0.0,41596.0,106.0
+354,2021-03-13,Sheffield,56.0,0.0,41525.0,96.0
+355,2021-03-12,Sheffield,105.0,0.0,41469.0,85.0
+356,2021-03-11,Sheffield,99.0,0.0,41364.0,89.0
+357,2021-03-10,Sheffield,92.0,0.0,41265.0,76.0
+358,2021-03-09,Sheffield,82.0,0.0,41173.0,65.0
+359,2021-03-08,Sheffield,91.0,0.0,41091.0,66.0
+360,2021-03-07,Sheffield,56.0,0.0,41000.0,45.0
+361,2021-03-06,Sheffield,61.0,0.0,40944.0,69.0
+362,2021-03-05,Sheffield,63.0,0.0,40883.0,85.0
+363,2021-03-04,Sheffield,67.0,0.0,40820.0,79.0
+364,2021-03-03,Sheffield,95.0,0.0,40753.0,76.0
+365,2021-03-02,Sheffield,76.0,0.0,40658.0,64.0
+366,2021-03-01,Sheffield,76.0,0.0,40582.0,62.0
+367,2021-02-28,Sheffield,53.0,0.0,40506.0,77.0
+368,2021-02-27,Sheffield,52.0,0.0,40453.0,82.0
+369,2021-02-26,Sheffield,89.0,0.0,40401.0,109.0
+370,2021-02-25,Sheffield,88.0,0.0,40312.0,93.0
+371,2021-02-24,Sheffield,116.0,0.0,40224.0,113.0
+372,2021-02-23,Sheffield,85.0,0.0,40108.0,115.0
+373,2021-02-22,Sheffield,121.0,0.0,40023.0,149.0
+374,2021-02-21,Sheffield,124.0,0.0,39902.0,87.0
+375,2021-02-20,Sheffield,93.0,0.0,39778.0,125.0
+376,2021-02-19,Sheffield,136.0,0.0,39685.0,104.0
+377,2021-02-18,Sheffield,130.0,0.0,39549.0,103.0
+378,2021-02-17,Sheffield,113.0,0.0,39419.0,134.0
+379,2021-02-16,Sheffield,112.0,0.0,39306.0,80.0
+380,2021-02-15,Sheffield,123.0,0.0,39194.0,80.0
+381,2021-02-14,Sheffield,96.0,0.0,39071.0,132.0
+382,2021-02-13,Sheffield,92.0,0.0,38975.0,86.0
+383,2021-02-12,Sheffield,117.0,0.0,38883.0,92.0
+384,2021-02-11,Sheffield,80.0,0.0,38766.0,114.0
+385,2021-02-10,Sheffield,107.0,0.0,38686.0,140.0
+386,2021-02-09,Sheffield,118.0,0.0,38579.0,94.0
+387,2021-02-08,Sheffield,111.0,0.0,38461.0,115.0
+388,2021-02-07,Sheffield,111.0,0.0,38350.0,142.0
+389,2021-02-06,Sheffield,127.0,0.0,38239.0,172.0
+390,2021-02-05,Sheffield,148.0,0.0,38112.0,164.0
+391,2021-02-04,Sheffield,155.0,0.0,37964.0,133.0
+392,2021-02-03,Sheffield,189.0,0.0,37809.0,170.0
+393,2021-02-02,Sheffield,115.0,0.0,37620.0,121.0
+394,2021-02-01,Sheffield,192.0,0.0,37505.0,160.0
+395,2021-01-31,Sheffield,130.0,0.0,37313.0,154.0
+396,2021-01-30,Sheffield,146.0,0.0,37183.0,219.0
+397,2021-01-29,Sheffield,167.0,0.0,37037.0,226.0
+398,2021-01-28,Sheffield,191.0,0.0,36870.0,211.0
+399,2021-01-27,Sheffield,221.0,0.0,36679.0,201.0
+400,2021-01-26,Sheffield,213.0,0.0,36458.0,279.0
+401,2021-01-25,Sheffield,233.0,0.0,36245.0,148.0
+402,2021-01-24,Sheffield,163.0,0.0,36012.0,135.0
+403,2021-01-23,Sheffield,188.0,0.0,35849.0,196.0
+404,2021-01-22,Sheffield,173.0,0.0,35661.0,215.0
+405,2021-01-21,Sheffield,189.0,0.0,35488.0,198.0
+406,2021-01-20,Sheffield,227.0,0.0,35299.0,269.0
+407,2021-01-19,Sheffield,240.0,0.0,35072.0,229.0
+408,2021-01-18,Sheffield,274.0,0.0,34832.0,199.0
+409,2021-01-17,Sheffield,200.0,0.0,34558.0,134.0
+410,2021-01-16,Sheffield,200.0,0.0,34358.0,143.0
+411,2021-01-15,Sheffield,196.0,0.0,34158.0,194.0
+412,2021-01-14,Sheffield,118.0,0.0,33962.0,206.0
+413,2021-01-13,Sheffield,237.0,0.0,33844.0,265.0
+414,2021-01-12,Sheffield,227.0,0.0,33607.0,210.0
+415,2021-01-11,Sheffield,271.0,0.0,33380.0,185.0
+416,2021-01-10,Sheffield,185.0,0.0,33109.0,271.0
+417,2021-01-09,Sheffield,200.0,0.0,32924.0,231.0
+418,2021-01-08,Sheffield,234.0,0.0,32724.0,276.0
+419,2021-01-07,Sheffield,271.0,0.0,32490.0,308.0
+420,2021-01-06,Sheffield,270.0,0.0,32219.0,329.0
+421,2021-01-05,Sheffield,279.0,0.0,31949.0,277.0
+422,2021-01-04,Sheffield,316.0,0.0,31670.0,216.0
+423,2021-01-03,Sheffield,267.0,0.0,31354.0,211.0
+424,2021-01-02,Sheffield,286.0,0.0,31087.0,258.0
+425,2021-01-01,Sheffield,149.0,0.0,30801.0,213.0
+426,2020-12-31,Sheffield,181.0,0.0,30652.0,176.0
+427,2020-12-30,Sheffield,251.0,0.0,30471.0,168.0
+428,2020-12-29,Sheffield,301.0,0.0,30220.0,148.0
+429,2020-12-28,Sheffield,200.0,0.0,29919.0,215.0
+430,2020-12-27,Sheffield,198.0,0.0,29719.0,178.0
+431,2020-12-26,Sheffield,169.0,0.0,29521.0,98.0
+432,2020-12-25,Sheffield,77.0,0.0,29352.0,112.0
+433,2020-12-24,Sheffield,134.0,0.0,29275.0,193.0
+434,2020-12-23,Sheffield,134.0,0.0,29141.0,193.0
+435,2020-12-22,Sheffield,149.0,0.0,29007.0,134.0
+436,2020-12-21,Sheffield,188.0,0.0,28858.0,112.0
+437,2020-12-20,Sheffield,186.0,0.0,28670.0,141.0
+438,2020-12-19,Sheffield,115.0,0.0,28484.0,120.0
+439,2020-12-18,Sheffield,145.0,0.0,28369.0,118.0
+440,2020-12-17,Sheffield,114.0,0.0,28224.0,128.0
+441,2020-12-16,Sheffield,140.0,0.0,28110.0,124.0
+442,2020-12-15,Sheffield,154.0,0.0,27970.0,122.0
+443,2020-12-14,Sheffield,152.0,0.0,27816.0,115.0
+444,2020-12-13,Sheffield,106.0,0.0,27664.0,130.0
+445,2020-12-12,Sheffield,126.0,0.0,27558.0,117.0
+446,2020-12-11,Sheffield,135.0,0.0,27432.0,120.0
+447,2020-12-10,Sheffield,138.0,0.0,27297.0,150.0
+448,2020-12-09,Sheffield,129.0,0.0,27159.0,114.0
+449,2020-12-08,Sheffield,135.0,0.0,27030.0,104.0
+450,2020-12-07,Sheffield,148.0,0.0,26895.0,71.0
+451,2020-12-06,Sheffield,101.0,0.0,26747.0,118.0
+452,2020-12-05,Sheffield,81.0,0.0,26646.0,136.0
+453,2020-12-04,Sheffield,97.0,0.0,26565.0,127.0
+454,2020-12-03,Sheffield,102.0,0.0,26468.0,123.0
+455,2020-12-02,Sheffield,129.0,0.0,26366.0,120.0
+456,2020-12-01,Sheffield,145.0,0.0,26237.0,113.0
+457,2020-11-30,Sheffield,146.0,0.0,26092.0,91.0
+458,2020-11-29,Sheffield,99.0,0.0,25946.0,159.0
+459,2020-11-28,Sheffield,108.0,0.0,25847.0,166.0
+460,2020-11-27,Sheffield,161.0,0.0,25739.0,154.0
+461,2020-11-26,Sheffield,133.0,0.0,25578.0,152.0
+462,2020-11-25,Sheffield,160.0,0.0,25445.0,182.0
+463,2020-11-24,Sheffield,164.0,0.0,25285.0,146.0
+464,2020-11-23,Sheffield,198.0,0.0,25121.0,139.0
+465,2020-11-22,Sheffield,152.0,0.0,24923.0,133.0
+466,2020-11-21,Sheffield,124.0,0.0,24771.0,210.0
+467,2020-11-20,Sheffield,163.0,0.0,24647.0,215.0
+468,2020-11-19,Sheffield,188.0,0.0,24484.0,268.0
+469,2020-11-18,Sheffield,217.0,0.0,24296.0,245.0
+470,2020-11-17,Sheffield,263.0,-1.0,24079.0,213.0
+471,2020-11-16,Sheffield,270.0,0.0,23816.0,692.0
+472,2020-11-15,Sheffield,185.0,0.0,23546.0,249.0
+473,2020-11-14,Sheffield,205.0,0.0,23361.0,224.0
+474,2020-11-13,Sheffield,233.0,0.0,23156.0,276.0
+475,2020-11-12,Sheffield,208.0,0.0,22923.0,337.0
+476,2020-11-11,Sheffield,263.0,0.0,22715.0,292.0
+477,2020-11-10,Sheffield,261.0,0.0,22452.0,229.0
+478,2020-11-09,Sheffield,346.0,0.0,22191.0,223.0
+479,2020-11-08,Sheffield,258.0,0.0,21845.0,290.0
+480,2020-11-07,Sheffield,237.0,0.0,21587.0,331.0
+481,2020-11-06,Sheffield,274.0,0.0,21350.0,353.0
+482,2020-11-05,Sheffield,332.0,0.0,21076.0,350.0
+483,2020-11-04,Sheffield,313.0,0.0,20744.0,299.0
+484,2020-11-03,Sheffield,343.0,0.0,20431.0,287.0
+485,2020-11-02,Sheffield,356.0,0.0,20088.0,293.0
+486,2020-11-01,Sheffield,278.0,0.0,19732.0,441.0
+487,2020-10-31,Sheffield,261.0,0.0,19454.0,348.0
+488,2020-10-30,Sheffield,418.0,0.0,19193.0,333.0
+489,2020-10-29,Sheffield,365.0,0.0,18775.0,373.0
+490,2020-10-28,Sheffield,337.0,0.0,18410.0,444.0
+491,2020-10-27,Sheffield,397.0,0.0,18073.0,415.0
+492,2020-10-26,Sheffield,433.0,0.0,17676.0,372.0
+493,2020-10-25,Sheffield,269.0,0.0,17243.0,239.0
+494,2020-10-24,Sheffield,303.0,0.0,16974.0,443.0
+495,2020-10-23,Sheffield,339.0,0.0,16671.0,391.0
+496,2020-10-22,Sheffield,370.0,0.0,16332.0,436.0
+497,2020-10-21,Sheffield,442.0,0.0,15962.0,551.0
+498,2020-10-20,Sheffield,485.0,0.0,15520.0,382.0
+499,2020-10-19,Sheffield,495.0,0.0,15035.0,394.0
+500,2020-10-18,Sheffield,321.0,0.0,14540.0,362.0
+501,2020-10-17,Sheffield,349.0,0.0,14219.0,362.0
+502,2020-10-16,Sheffield,351.0,0.0,13870.0,242.0
+503,2020-10-15,Sheffield,356.0,2.0,13519.0,387.0
+504,2020-10-14,Sheffield,425.0,10.0,13163.0,460.0
+505,2020-10-13,Sheffield,412.0,14.0,12738.0,339.0
+506,2020-10-12,Sheffield,483.0,3.0,12326.0,323.0
+507,2020-10-11,Sheffield,282.0,0.0,11843.0,345.0
+508,2020-10-10,Sheffield,349.0,0.0,11561.0,461.0
+509,2020-10-09,Sheffield,286.0,1.0,11212.0,247.0
+510,2020-10-08,Sheffield,412.0,,10926.0,443.0
+511,2020-10-07,Sheffield,619.0,,10514.0,342.0
+512,2020-10-06,Sheffield,462.0,,9895.0,449.0
+513,2020-10-05,Sheffield,501.0,,9433.0,415.0
+514,2020-10-04,Sheffield,393.0,,8932.0,639.0
+515,2020-10-03,Sheffield,317.0,,8539.0,276.0
+516,2020-10-02,Sheffield,519.0,,8222.0,148.0
+517,2020-10-01,Sheffield,471.0,,7703.0,125.0
+518,2020-09-30,Sheffield,383.0,,7232.0,159.0
+519,2020-09-29,Sheffield,219.0,,6849.0,109.0
+520,2020-09-28,Sheffield,254.0,,6630.0,54.0
+521,2020-09-27,Sheffield,148.0,,6376.0,85.0
+522,2020-09-26,Sheffield,124.0,,6228.0,75.0
+523,2020-09-25,Sheffield,119.0,,6104.0,90.0
+524,2020-09-24,Sheffield,101.0,,5985.0,105.0
+525,2020-09-23,Sheffield,101.0,,5884.0,60.0
+526,2020-09-22,Sheffield,73.0,,5783.0,54.0
+527,2020-09-21,Sheffield,77.0,,5710.0,51.0
+528,2020-09-20,Sheffield,88.0,,5633.0,50.0
+529,2020-09-19,Sheffield,49.0,,5545.0,48.0
+530,2020-09-18,Sheffield,62.0,,5496.0,44.0
+531,2020-09-17,Sheffield,56.0,,5434.0,36.0
+532,2020-09-16,Sheffield,63.0,,5378.0,55.0
+533,2020-09-15,Sheffield,37.0,,5315.0,51.0
+534,2020-09-14,Sheffield,20.0,,5278.0,20.0
+535,2020-09-13,Sheffield,38.0,,5258.0,38.0
+536,2020-09-12,Sheffield,38.0,,5220.0,64.0
+537,2020-09-11,Sheffield,45.0,,5182.0,59.0
+538,2020-09-10,Sheffield,36.0,,5137.0,33.0
+539,2020-09-09,Sheffield,44.0,,5101.0,31.0
+540,2020-09-08,Sheffield,59.0,,5057.0,26.0
+541,2020-09-07,Sheffield,68.0,,4998.0,49.0
+542,2020-09-06,Sheffield,35.0,,4930.0,36.0
+543,2020-09-05,Sheffield,38.0,,4895.0,16.0
+544,2020-09-04,Sheffield,45.0,,4857.0,15.0
+545,2020-09-03,Sheffield,31.0,,4812.0,35.0
+546,2020-09-02,Sheffield,28.0,,4781.0,28.0
+547,2020-09-01,Sheffield,19.0,,4753.0,9.0
+548,2020-08-31,Sheffield,23.0,,4734.0,27.0
+549,2020-08-30,Sheffield,19.0,,4711.0,11.0
+550,2020-08-29,Sheffield,38.0,,4692.0,18.0
+551,2020-08-28,Sheffield,17.0,,4654.0,10.0
+552,2020-08-27,Sheffield,23.0,,4637.0,14.0
+553,2020-08-26,Sheffield,11.0,,4614.0,8.0
+554,2020-08-25,Sheffield,10.0,,4603.0,11.0
+555,2020-08-24,Sheffield,9.0,,4593.0,5.0
+556,2020-08-23,Sheffield,6.0,,4584.0,9.0
+557,2020-08-22,Sheffield,13.0,,4578.0,12.0
+558,2020-08-21,Sheffield,7.0,,4565.0,5.0
+559,2020-08-20,Sheffield,13.0,,4558.0,11.0
+560,2020-08-19,Sheffield,9.0,,4545.0,14.0
+561,2020-08-18,Sheffield,5.0,,4536.0,13.0
+562,2020-08-17,Sheffield,20.0,,4531.0,8.0
+563,2020-08-16,Sheffield,2.0,,4511.0,10.0
+564,2020-08-15,Sheffield,14.0,,4509.0,15.0
+565,2020-08-14,Sheffield,12.0,,4495.0,38.0
+566,2020-08-13,Sheffield,16.0,,4483.0,0.0
+567,2020-08-12,Sheffield,8.0,,4467.0,27.0
+568,2020-08-11,Sheffield,23.0,,4459.0,25.0
+569,2020-08-10,Sheffield,28.0,,4436.0,21.0
+570,2020-08-09,Sheffield,18.0,,4408.0,14.0
+571,2020-08-08,Sheffield,17.0,,4390.0,5.0
+572,2020-08-07,Sheffield,18.0,,4373.0,9.0
+573,2020-08-06,Sheffield,20.0,,4355.0,6.0
+574,2020-08-05,Sheffield,9.0,,4335.0,8.0
+575,2020-08-04,Sheffield,10.0,,4326.0,7.0
+576,2020-08-03,Sheffield,9.0,,4316.0,12.0
+577,2020-08-02,Sheffield,3.0,,4307.0,15.0
+578,2020-08-01,Sheffield,3.0,,4304.0,13.0
+579,2020-07-31,Sheffield,7.0,,4301.0,16.0
+580,2020-07-30,Sheffield,20.0,,4294.0,16.0
+581,2020-07-29,Sheffield,11.0,,4274.0,18.0
+582,2020-07-28,Sheffield,19.0,,4263.0,4.0
+583,2020-07-27,Sheffield,19.0,,4244.0,19.0
+584,2020-07-26,Sheffield,7.0,,4225.0,19.0
+585,2020-07-25,Sheffield,11.0,,4218.0,20.0
+586,2020-07-24,Sheffield,19.0,,4207.0,22.0
+587,2020-07-23,Sheffield,19.0,,4188.0,14.0
+588,2020-07-22,Sheffield,20.0,,4169.0,5.0
+589,2020-07-21,Sheffield,10.0,,4149.0,7.0
+590,2020-07-20,Sheffield,15.0,,4139.0,6.0
+591,2020-07-19,Sheffield,20.0,,4124.0,17.0
+592,2020-07-18,Sheffield,10.0,,4104.0,14.0
+593,2020-07-17,Sheffield,14.0,,4094.0,9.0
+594,2020-07-16,Sheffield,9.0,,4080.0,12.0
+595,2020-07-15,Sheffield,12.0,,4071.0,7.0
+596,2020-07-14,Sheffield,15.0,,4059.0,10.0
+597,2020-07-13,Sheffield,7.0,,4044.0,5.0
+598,2020-07-12,Sheffield,10.0,,4037.0,26.0
+599,2020-07-11,Sheffield,5.0,,4027.0,11.0
+600,2020-07-10,Sheffield,9.0,,4022.0,11.0
+601,2020-07-09,Sheffield,20.0,,4013.0,12.0
+602,2020-07-08,Sheffield,18.0,,3993.0,11.0
+603,2020-07-07,Sheffield,13.0,,3975.0,4.0
+604,2020-07-06,Sheffield,8.0,,3962.0,6.0
+605,2020-07-05,Sheffield,10.0,,3954.0,7.0
+606,2020-07-04,Sheffield,6.0,,3944.0,14.0
+607,2020-07-03,Sheffield,7.0,,3938.0,15.0
+608,2020-07-02,Sheffield,12.0,,3931.0,19.0
+609,2020-07-01,Sheffield,17.0,,3919.0,1209.0
+610,2020-06-30,Sheffield,28.0,,3902.0,2.0
+611,2020-06-29,Sheffield,21.0,,3874.0,3.0
+612,2020-06-28,Sheffield,12.0,,3853.0,4.0
+613,2020-06-27,Sheffield,32.0,,3841.0,7.0
+614,2020-06-26,Sheffield,26.0,,3809.0,4.0
+615,2020-06-25,Sheffield,21.0,,3783.0,2.0
+616,2020-06-24,Sheffield,27.0,,3762.0,4.0
+617,2020-06-23,Sheffield,16.0,,3735.0,5.0
+618,2020-06-22,Sheffield,16.0,,3719.0,2.0
+619,2020-06-21,Sheffield,14.0,,3703.0,5.0
+620,2020-06-20,Sheffield,14.0,,3689.0,2.0
+621,2020-06-19,Sheffield,14.0,,3675.0,9.0
+622,2020-06-18,Sheffield,22.0,,3661.0,3.0
+623,2020-06-17,Sheffield,17.0,,3639.0,12.0
+624,2020-06-16,Sheffield,25.0,,3622.0,6.0
+625,2020-06-15,Sheffield,18.0,,3597.0,6.0
+626,2020-06-14,Sheffield,27.0,,3579.0,8.0
+627,2020-06-13,Sheffield,30.0,,3552.0,4.0
+628,2020-06-12,Sheffield,20.0,,3522.0,14.0
+629,2020-06-11,Sheffield,27.0,,3502.0,2.0
+630,2020-06-10,Sheffield,24.0,,3475.0,5.0
+631,2020-06-09,Sheffield,21.0,,3451.0,9.0
+632,2020-06-08,Sheffield,25.0,,3430.0,1.0
+633,2020-06-07,Sheffield,22.0,,3405.0,0.0
+634,2020-06-06,Sheffield,18.0,,3383.0,2.0
+635,2020-06-05,Sheffield,11.0,,3365.0,16.0
+636,2020-06-04,Sheffield,25.0,,3354.0,0.0
+637,2020-06-03,Sheffield,21.0,,3329.0,10.0
+638,2020-06-02,Sheffield,33.0,,3308.0,0.0
+639,2020-06-01,Sheffield,15.0,,3275.0,2.0
+640,2020-05-31,Sheffield,20.0,,3260.0,4.0
+641,2020-05-30,Sheffield,17.0,,3240.0,4.0
+642,2020-05-29,Sheffield,13.0,,3223.0,4.0
+643,2020-05-28,Sheffield,29.0,,3210.0,5.0
+644,2020-05-27,Sheffield,22.0,,3181.0,4.0
+645,2020-05-26,Sheffield,40.0,,3159.0,0.0
+646,2020-05-25,Sheffield,19.0,,3119.0,6.0
+647,2020-05-24,Sheffield,26.0,,3100.0,0.0
+648,2020-05-23,Sheffield,18.0,,3074.0,10.0
+649,2020-05-22,Sheffield,19.0,,3056.0,6.0
+650,2020-05-21,Sheffield,23.0,,3037.0,5.0
+651,2020-05-20,Sheffield,33.0,,3014.0,7.0
+652,2020-05-19,Sheffield,23.0,,2981.0,9.0
+653,2020-05-18,Sheffield,9.0,,2958.0,5.0
+654,2020-05-17,Sheffield,11.0,,2949.0,11.0
+655,2020-05-16,Sheffield,24.0,,2938.0,18.0
+656,2020-05-15,Sheffield,28.0,,2914.0,7.0
+657,2020-05-14,Sheffield,25.0,,2886.0,17.0
+658,2020-05-13,Sheffield,29.0,,2861.0,15.0
+659,2020-05-12,Sheffield,33.0,,2832.0,28.0
+660,2020-05-11,Sheffield,30.0,,2799.0,22.0
+661,2020-05-10,Sheffield,22.0,,2769.0,13.0
+662,2020-05-09,Sheffield,25.0,,2747.0,14.0
+663,2020-05-08,Sheffield,32.0,,2722.0,21.0
+664,2020-05-07,Sheffield,30.0,,2690.0,56.0
+665,2020-05-06,Sheffield,42.0,,2660.0,2.0
+666,2020-05-05,Sheffield,40.0,,2618.0,28.0
+667,2020-05-04,Sheffield,26.0,,2578.0,29.0
+668,2020-05-03,Sheffield,51.0,,2552.0,21.0
+669,2020-05-02,Sheffield,49.0,,2501.0,38.0
+670,2020-05-01,Sheffield,42.0,,2452.0,39.0
+671,2020-04-30,Sheffield,60.0,,2410.0,54.0
+672,2020-04-29,Sheffield,66.0,,2350.0,30.0
+673,2020-04-28,Sheffield,47.0,,2284.0,57.0
+674,2020-04-27,Sheffield,66.0,,2237.0,24.0
+675,2020-04-26,Sheffield,47.0,,2171.0,27.0
+676,2020-04-25,Sheffield,71.0,,2124.0,45.0
+677,2020-04-24,Sheffield,59.0,,2053.0,105.0
+678,2020-04-23,Sheffield,28.0,,1994.0,5.0
+679,2020-04-22,Sheffield,68.0,,1966.0,62.0
+680,2020-04-21,Sheffield,44.0,,1898.0,
+681,2020-04-20,Sheffield,63.0,,1854.0,
+682,2020-04-19,Sheffield,56.0,,1791.0,
+683,2020-04-18,Sheffield,66.0,,1735.0,
+684,2020-04-17,Sheffield,40.0,,1669.0,
+685,2020-04-16,Sheffield,49.0,,1629.0,
+686,2020-04-15,Sheffield,77.0,,1580.0,
+687,2020-04-14,Sheffield,50.0,,1503.0,
+688,2020-04-13,Sheffield,69.0,,1453.0,
+689,2020-04-12,Sheffield,38.0,,1384.0,
+690,2020-04-11,Sheffield,52.0,,1346.0,
+691,2020-04-10,Sheffield,57.0,,1294.0,
+692,2020-04-09,Sheffield,52.0,,1237.0,
+693,2020-04-08,Sheffield,49.0,,1185.0,
+694,2020-04-07,Sheffield,51.0,,1136.0,
+695,2020-04-06,Sheffield,64.0,,1085.0,
+696,2020-04-05,Sheffield,65.0,,1021.0,
+697,2020-04-04,Sheffield,40.0,,956.0,
+698,2020-04-03,Sheffield,34.0,,916.0,
+699,2020-04-02,Sheffield,51.0,,882.0,
+700,2020-04-01,Sheffield,70.0,,831.0,
+701,2020-03-31,Sheffield,110.0,,761.0,
+702,2020-03-30,Sheffield,75.0,,651.0,
+703,2020-03-29,Sheffield,61.0,,576.0,
+704,2020-03-28,Sheffield,65.0,,515.0,
+705,2020-03-27,Sheffield,28.0,,450.0,
+706,2020-03-26,Sheffield,45.0,,422.0,
+707,2020-03-25,Sheffield,48.0,,377.0,
+708,2020-03-24,Sheffield,58.0,,329.0,
+709,2020-03-23,Sheffield,60.0,,271.0,
+710,2020-03-22,Sheffield,44.0,,211.0,
+711,2020-03-21,Sheffield,37.0,,167.0,
+712,2020-03-20,Sheffield,25.0,,130.0,
+713,2020-03-19,Sheffield,26.0,,105.0,
+714,2020-03-18,Sheffield,18.0,,79.0,
+715,2020-03-17,Sheffield,12.0,,61.0,
+716,2020-03-16,Sheffield,14.0,,49.0,
+717,2020-03-15,Sheffield,5.0,,35.0,
+718,2020-03-14,Sheffield,6.0,,30.0,
+719,2020-03-13,Sheffield,4.0,,24.0,
+720,2020-03-12,Sheffield,2.0,,20.0,
+721,2020-03-11,Sheffield,0.0,,18.0,
+722,2020-03-10,Sheffield,6.0,,18.0,
+723,2020-03-09,Sheffield,1.0,,12.0,
+724,2020-03-08,Sheffield,3.0,,11.0,
+725,2020-03-07,Sheffield,3.0,,8.0,
+726,2020-03-06,Sheffield,0.0,,5.0,
+727,2020-03-05,Sheffield,1.0,,5.0,
+728,2020-03-04,Sheffield,1.0,,4.0,
+729,2020-03-03,Sheffield,2.0,,3.0,
+730,2020-03-02,Sheffield,0.0,,1.0,
+731,2020-03-01,Sheffield,1.0,,1.0,
