@@ -1,0 +1,22 @@
+,date,time,teamA,teamB,teamA_score,teamB_score,winner_Team,winner_score,venue_location,venue,venue_city,venue_state,venue_country,winner_location
+0,20/11/2020,23:30,New England Revolution,Impact de Montréal,2.0,1.0,New England Revolution,2.0,"Gillette Stadium, Foxborough, MA (USA)",Gillette Stadium, Foxborough, MA ,USA,Gillette Stadium
+1,21/11/2020,02:00,Nashville SC,Inter Miami CF,3.0,0.0,Nashville SC,3.0,"Nissan Stadium, Nashville, TN (USA)",Nissan Stadium, Nashville, TN ,USA,Fairgrounds Stadium
+2,1. Round,1. Round,1. Round,1. Round,,,,,,,,,,
+3,21/11/2020,17:00,Orlando City,New York City FC,6.0,5.0,Orlando City,6.0,"Exploria Stadium, Orlando, FL (USA)",Exploria Stadium, Orlando, FL ,USA,Exploria Stadium
+4,21/11/2020,20:00,Columbus Crew,New York RB,3.0,2.0,Columbus Crew,3.0,"MAPFRE Stadium, Columbus, OH (USA)",MAPFRE Stadium, Columbus, OH ,USA,Lower.com Field
+5,22/11/2020,21:00,Sporting Kansas City,San Jose Earthquakes,3.0,0.0,Sporting Kansas City,3.0,"Children's Mercy Park, Kansas City, KS (USA)",Children's Mercy Park, Kansas City, KS ,USA,Children's Mercy Park
+6,23/11/2020,00:30,Minnesota United FC,Colorado Rapids,3.0,0.0,Minnesota United FC,3.0,"Allianz Field, Saint Paul, MN (USA)",Allianz Field, Saint Paul, MN ,USA,Allianz Field
+7,23/11/2020,03:00,Portland Timbers,FC Dallas,7.0,8.0,FC Dallas,8.0,"Providence Park, Portland, OR (USA)",Providence Park, Portland, OR ,USA,Toyota Stadium
+8,24/11/2020,23:00,Toronto FC,Nashville SC,0.0,1.0,Nashville SC,1.0,"Rentschler Field, East Hartford, CT (USA)",Rentschler Field, East Hartford, CT ,USA,Fairgrounds Stadium
+9,25/11/2020,01:00,Philadelphia Union,New England Revolution,0.0,2.0,New England Revolution,2.0,"Subaru Park, Chester, PA (USA)",Subaru Park, Chester, PA ,USA,Gillette Stadium
+10,25/11/2020,03:30,Seattle Sounders,Los Angeles FC,3.0,1.0,Seattle Sounders,3.0,"Lumen Field, Seattle, WA (USA)",Lumen Field, Seattle, WA ,USA,Lumen Field
+11,Conference Semifinals,Conference Semifinals,Conference Semifinals,Conference Semifinals,,,,,,,,,,
+12,29/11/2020,20:00,Orlando City,New England Revolution,1.0,3.0,New England Revolution,3.0,"Exploria Stadium, Orlando, FL (USA)",Exploria Stadium, Orlando, FL ,USA,Gillette Stadium
+13,30/11/2020,01:00,Columbus Crew,Nashville SC,2.0,0.0,Columbus Crew,2.0,"MAPFRE Stadium, Columbus, OH (USA)",MAPFRE Stadium, Columbus, OH ,USA,Lower.com Field
+14,02/12/2020,02:30,Seattle Sounders,FC Dallas,1.0,0.0,Seattle Sounders,1.0,"Lumen Field, Seattle, WA (USA)",Lumen Field, Seattle, WA ,USA,Lumen Field
+15,04/12/2020,01:30,Sporting Kansas City,Minnesota United FC,0.0,3.0,Minnesota United FC,3.0,"Children's Mercy Park, Kansas City, KS (USA)",Children's Mercy Park, Kansas City, KS ,USA,Allianz Field
+16,Conference Finals,Conference Finals,Conference Finals,Conference Finals,,,,,,,,,,
+17,06/12/2020,20:00,Columbus Crew,New England Revolution,1.0,0.0,Columbus Crew,1.0,"MAPFRE Stadium, Columbus, OH (USA)",MAPFRE Stadium, Columbus, OH ,USA,Lower.com Field
+18,08/12/2020,02:30,Seattle Sounders,Minnesota United FC,3.0,2.0,Seattle Sounders,3.0,"Lumen Field, Seattle, WA (USA)",Lumen Field, Seattle, WA ,USA,Lumen Field
+19,Final,Final,Final,Final,,,,,,,,,,
+20,13/12/2020,01:30,Columbus Crew,Seattle Sounders,3.0,0.0,Columbus Crew,3.0,"MAPFRE Stadium, Columbus, OH (USA)",MAPFRE Stadium, Columbus, OH ,USA,Lower.com Field

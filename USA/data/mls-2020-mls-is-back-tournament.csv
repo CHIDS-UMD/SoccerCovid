@@ -1,0 +1,42 @@
+,date,time,teamA,teamB,teamA_score,teamB_score,winner_Team,winner_score,venue_location,venue,venue_city,venue_state,venue_country,winner_location
+0,09/07/2020,01:00,Orlando City,Inter Miami CF,2.0,1.0,Orlando City,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Exploria Stadium
+1,09/07/2020,14:00,New York City FC,Philadelphia Union,0.0,1.0,Philadelphia Union,1.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Subaru Park
+2,15/07/2020,01:00,Orlando City,New York City FC,3.0,1.0,Orlando City,3.0,Oscar Pareja,Oscar Pareja,,,,Exploria Stadium
+3,15/07/2020,03:30,Philadelphia Union,Inter Miami CF,2.0,1.0,Philadelphia Union,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Subaru Park
+4,20/07/2020,14:00,Inter Miami CF,New York City FC,0.0,1.0,New York City FC,1.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Yankee Stadium
+5,21/07/2020,01:00,Philadelphia Union,Orlando City,1.0,1.0,,,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,
+6,Group B,Group B,Group B,Group B,,,,,,,,,,
+7,11/07/2020,02:00,Seattle Sounders,San Jose Earthquakes,0.0,0.0,,,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,
+8,14/07/2020,14:00,Chicago Fire,Seattle Sounders,2.0,1.0,Chicago Fire,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Soldier Field
+9,16/07/2020,02:00,Vancouver Whitecaps,San Jose Earthquakes,3.0,4.0,San Jose Earthquakes,4.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Earthquakes Stadium
+10,20/07/2020,01:00,Chicago Fire,San Jose Earthquakes,0.0,2.0,San Jose Earthquakes,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Earthquakes Stadium
+11,20/07/2020,03:30,Seattle Sounders,Vancouver Whitecaps,3.0,0.0,Seattle Sounders,3.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Lumen Field
+12,23/07/2020,14:00,Chicago Fire,Vancouver Whitecaps,0.0,2.0,Vancouver Whitecaps,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,BC Place
+13,Group C,Group C,Group C,Group C,,,,,,,,,,
+14,10/07/2020,01:00,Impact de Montréal,New England Revolution,0.0,1.0,New England Revolution,1.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Gillette Stadium
+15,13/07/2020,14:00,Toronto FC,D.C. United,2.0,2.0,,,Greg Vanney,Greg Vanney,,,,
+16,17/07/2020,01:00,Impact de Montréal,Toronto FC,3.0,4.0,Toronto FC,4.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,BMO Field
+17,18/07/2020,01:00,D.C. United,New England Revolution,1.0,1.0,,,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,
+18,21/07/2020,14:00,Toronto FC,New England Revolution,0.0,0.0,,,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,
+19,22/07/2020,03:30,Impact de Montréal,D.C. United,1.0,0.0,Impact de Montréal,1.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Stade Saputo
+20,Group D,Group D,Group D,Group D,,,,,,,,,,
+21,13/07/2020,01:00,Sporting Kansas City,Minnesota United FC,1.0,2.0,Minnesota United FC,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Allianz Field
+22,13/07/2020,03:30,Real Salt Lake,Colorado Rapids,2.0,0.0,Real Salt Lake,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Rio Tinto Stadium
+23,18/07/2020,01:00,Sporting Kansas City,Colorado Rapids,3.0,2.0,Sporting Kansas City,3.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Children's Mercy Park
+24,18/07/2020,03:30,Real Salt Lake,Minnesota United FC,0.0,0.0,,,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,
+25,22/07/2020,14:00,Real Salt Lake,Sporting Kansas City,0.0,2.0,Sporting Kansas City,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Children's Mercy Park
+26,23/07/2020,03:30,Colorado Rapids,Minnesota United FC,2.0,2.0,,,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,
+27,Group E,Group E,Group E,Group E,,,,,,,,,,
+28,12/07/2020,01:45,Atlanta United FC,New York RB,0.0,1.0,New York RB,1.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Red Bull Arena
+29,12/07/2020,04:20,FC Cincinnati,Columbus Crew,0.0,4.0,Columbus Crew,4.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Lower.com Field
+30,16/07/2020,14:00,Atlanta United FC,FC Cincinnati,0.0,1.0,FC Cincinnati,1.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,TQL Stadium
+31,17/07/2020,03:30,Columbus Crew,New York RB,2.0,0.0,Columbus Crew,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Lower.com Field
+32,22/07/2020,01:00,Atlanta United FC,Columbus Crew,0.0,1.0,Columbus Crew,1.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Lower.com Field
+33,23/07/2020,01:00,FC Cincinnati,New York RB,2.0,0.0,FC Cincinnati,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,TQL Stadium
+34,Group F,Group F,Group F,Group F,,,,,,,,,,
+35,14/07/2020,01:00,Los Angeles FC,Houston Dynamo,3.0,3.0,,,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,
+36,14/07/2020,03:30,Los Angeles Galaxy,Portland Timbers,1.0,2.0,Portland Timbers,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Providence Park
+37,19/07/2020,01:00,Portland Timbers,Houston Dynamo,2.0,1.0,Portland Timbers,2.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Providence Park
+38,19/07/2020,03:30,Los Angeles FC,Los Angeles Galaxy,6.0,2.0,Los Angeles FC,6.0,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,Banc of California Stadium
+39,24/07/2020,01:00,Los Angeles Galaxy,Houston Dynamo,1.0,1.0,,,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,
+40,24/07/2020,03:30,Los Angeles FC,Portland Timbers,2.0,2.0,,,"ESPN Wide World of Sports Complex, Bay Lake, FL (USA)",ESPN Wide World of Sports Complex, Bay Lake, FL ,USA,
